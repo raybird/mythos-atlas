@@ -17,8 +17,9 @@
 | [mayan](mayan/index.md) | 馬雅神話 (Mayan Mythology) (mayan) |
 | [mesopotamian](mesopotamian/index.md) | 美索不達米亞神話 (Mesopotamian Mythology) (mesopotamian) |
 | [norse](norse/index.md) | 北歐神話 (Norse Mythology) (norse) |
+| [persian](persian/index.md) | 波斯神話 (Persian (Zoroastrian) Mythology) (persian) |
 | [polynesian](polynesian/index.md) | 波利尼西亞神話 (Polynesian Mythology) (polynesian) |
 | [slavic](slavic/index.md) | 斯拉夫神話 (Slavic Mythology) (slavic) |
 
 
-*總計 15 個文化體系*
+*總計 16 個文化體系*
