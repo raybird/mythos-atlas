@@ -14,6 +14,7 @@
 | [incan](incan/index.md) | 印加神話 (Incan Mythology) (incan) |
 | [indigenous-americas](indigenous-americas/index.md) | 美洲原住民神話 (Indigenous American Mythologies) (indigenous-americas) |
 | [japanese](japanese/index.md) | 日本神話 (Japanese Mythology) (japanese) |
+| [korean](korean/index.md) | 韓國神話 (Korean Mythology) (korean) |
 | [mayan](mayan/index.md) | 馬雅神話 (Mayan Mythology) (mayan) |
 | [mesopotamian](mesopotamian/index.md) | 美索不達米亞神話 (Mesopotamian Mythology) (mesopotamian) |
 | [norse](norse/index.md) | 北歐神話 (Norse Mythology) (norse) |
@@ -22,4 +23,4 @@
 | [slavic](slavic/index.md) | 斯拉夫神話 (Slavic Mythology) (slavic) |
 
 
-*總計 16 個文化體系*
+*總計 17 個文化體系*
