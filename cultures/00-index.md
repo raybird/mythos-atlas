@@ -22,6 +22,7 @@
 | [persian](persian/index.md) | 波斯神話 (Persian (Zoroastrian) Mythology) (persian) |
 | [polynesian](polynesian/index.md) | 波利尼西亞神話 (Polynesian Mythology) (polynesian) |
 | [slavic](slavic/index.md) | 斯拉夫神話 (Slavic Mythology) (slavic) |
+| [tibetan](tibetan/index.md) | 西藏神話 (Tibetan Mythology) (tibetan) |
 
 
-*總計 18 個文化體系*
+*總計 19 個文化體系*
