@@ -10,6 +10,7 @@
 | [egyptian](egyptian/index.md) | 埃及神話 (Egyptian Mythology) (egyptian) |
 | [greek](greek/index.md) | 希臘神話 (Greek Mythology) (greek) |
 | [hindu](hindu/index.md) | 印度神話 (Hindu Mythology) (hindu) |
+| [indigenous-americas](indigenous-americas/index.md) | 美洲原住民神話 (Indigenous American Mythologies) (indigenous-americas) |
 | [japanese](japanese/index.md) | 日本神話 (Japanese Mythology) (japanese) |
 | [mayan](mayan/index.md) | 馬雅神話 (Mayan Mythology) (mayan) |
 | [mesopotamian](mesopotamian/index.md) | 美索不達米亞神話 (Mesopotamian Mythology) (mesopotamian) |
@@ -17,4 +18,4 @@
 | [polynesian](polynesian/index.md) | 波利尼西亞神話 (Polynesian Mythology) (polynesian) |
 
 
-*總計 11 個文化體系*
+*總計 12 個文化體系*
