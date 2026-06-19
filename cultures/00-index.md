@@ -20,10 +20,11 @@
 | [mesopotamian](mesopotamian/index.md) | 美索不達米亞神話 (Mesopotamian Mythology) (mesopotamian) |
 | [norse](norse/index.md) | 北歐神話 (Norse Mythology) (norse) |
 | [persian](persian/index.md) | 波斯神話 (Persian (Zoroastrian) Mythology) (persian) |
+| [phoenician](phoenician/index.md) | 腓尼基神話 (Phoenician/Canaanite Mythology) (phoenician) |
 | [polynesian](polynesian/index.md) | 波利尼西亞神話 (Polynesian Mythology) (polynesian) |
 | [slavic](slavic/index.md) | 斯拉夫神話 (Slavic Mythology) (slavic) |
 | [sumerian](sumerian/index.md) | 蘇美神話 (Sumerian Mythology) (sumerian) |
 | [tibetan](tibetan/index.md) | 西藏神話 (Tibetan Mythology) (tibetan) |
 
 
-*總計 20 個文化體系*
+*總計 21 個文化體系*
