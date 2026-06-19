@@ -8,8 +8,9 @@
 | [egyptian](egyptian/index.md) | 埃及神話 (Egyptian Mythology) (egyptian) |
 | [greek](greek/index.md) | 希臘神話 (Greek Mythology) (greek) |
 | [hindu](hindu/index.md) | 印度神話 (Hindu Mythology) (hindu) |
+| [mayan](mayan/index.md) | 馬雅神話 (Mayan Mythology) (mayan) |
 | [mesopotamian](mesopotamian/index.md) | 美索不達米亞神話 (Mesopotamian Mythology) (mesopotamian) |
 | [norse](norse/index.md) | 北歐神話 (Norse Mythology) (norse) |
 
 
-*總計 6 個文化體系*
+*總計 7 個文化體系*
