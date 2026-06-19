@@ -143,6 +143,41 @@ def git_commit(filepath, msg):
         print(f"Git error: {e.stderr.decode()}", file=sys.stderr)
 
 
+def git_push():
+    """Push all committed changes to remote origin."""
+    try:
+        result = subprocess.run(
+            ["git", "-C", REPO, "push", "origin"],
+            check=True, capture_output=True, timeout=120,
+        )
+        print(f"✓ Pushed to origin")
+    except subprocess.CalledProcessError as e:
+        print(f"Push error: {e.stderr.decode()}", file=sys.stderr)
+    except subprocess.TimeoutExpired:
+        print(f"Push timed out after 120s", file=sys.stderr)
+
+
+def cleanup_temp_files():
+    """Remove __pycache__, .pyc, and truncate old log files."""
+    for dirpath, dirnames, filenames in os.walk(REPO):
+        if "__pycache__" in dirnames:
+            pycache = os.path.join(dirpath, "__pycache__")
+            subprocess.run(["rm", "-rf", pycache], capture_output=True)
+        for fn in filenames:
+            if fn.endswith(".pyc"):
+                fpath = os.path.join(dirpath, fn)
+                os.remove(fpath)
+    # Truncate log: keep only last 100 lines
+    log_path = os.path.join(REPO, "populate.log")
+    if os.path.isfile(log_path):
+        with open(log_path, "r+", encoding="utf-8") as f:
+            lines = f.readlines()
+            if len(lines) > 100:
+                f.seek(0)
+                f.writelines(lines[-100:])
+                f.truncate()
+
+
 def main():
     catalog = load_catalog()
 
@@ -168,6 +203,8 @@ def main():
         # Commit
         git_commit(fpath, f"mythos: add {cat['name']} ({cat['name_en']})")
         git_commit(INDEX_CULTURES, f"mythos: update cultures index")
+        git_push()
+        cleanup_temp_files()
         print(f"✓ Generated: cultures/{cid}/index.md — {cat['name']}")
         return  # One item per run
 
@@ -187,10 +224,14 @@ def main():
 
         git_commit(fpath, f"mythos: add theme {th['name']}")
         git_commit(INDEX_THEMES, f"mythos: update themes index")
+        git_push()
+        cleanup_temp_files()
         print(f"✓ Generated: themes/{tid}.md — {th['name']}")
         return  # One item per run
 
     # If all cultures and themes are done, log completion
+    git_push()
+    cleanup_temp_files()
     print("🏁 All entries generated. Nothing more to do.")
 
 
