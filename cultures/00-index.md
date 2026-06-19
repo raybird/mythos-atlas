@@ -9,6 +9,7 @@
 | [celtic](celtic/index.md) | 凱爾特神話 (Celtic Mythology) (celtic) |
 | [chinese](chinese/index.md) | 中國上古神話 (Chinese Mythology) (chinese) |
 | [egyptian](egyptian/index.md) | 埃及神話 (Egyptian Mythology) (egyptian) |
+| [finno-ugric](finno-ugric/index.md) | 芬蘭-烏戈爾神話 (Finno-Ugric Mythology) (finno-ugric) |
 | [greek](greek/index.md) | 希臘神話 (Greek Mythology) (greek) |
 | [hindu](hindu/index.md) | 印度神話 (Hindu Mythology) (hindu) |
 | [incan](incan/index.md) | 印加神話 (Incan Mythology) (incan) |
@@ -23,4 +24,4 @@
 | [slavic](slavic/index.md) | 斯拉夫神話 (Slavic Mythology) (slavic) |
 
 
-*總計 17 個文化體系*
+*總計 18 個文化體系*
