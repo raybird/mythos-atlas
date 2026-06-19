@@ -4,6 +4,7 @@
 
 | 目錄 | 文化 |
 |------|------|
+| [aboriginal](aboriginal/index.md) | 澳洲原住民神話 (Aboriginal Australian Mythology) (aboriginal) |
 | [chinese](chinese/index.md) | 中國上古神話 (Chinese Mythology) (chinese) |
 | [egyptian](egyptian/index.md) | 埃及神話 (Egyptian Mythology) (egyptian) |
 | [greek](greek/index.md) | 希臘神話 (Greek Mythology) (greek) |
@@ -15,4 +16,4 @@
 | [polynesian](polynesian/index.md) | 波利尼西亞神話 (Polynesian Mythology) (polynesian) |
 
 
-*總計 9 個文化體系*
+*總計 10 個文化體系*
