@@ -12,6 +12,7 @@
 | [finno-ugric](finno-ugric/index.md) | 芬蘭-烏戈爾神話 (Finno-Ugric Mythology) (finno-ugric) |
 | [greek](greek/index.md) | 希臘神話 (Greek Mythology) (greek) |
 | [hindu](hindu/index.md) | 印度神話 (Hindu Mythology) (hindu) |
+| [hittite](hittite/index.md) | 赫梯神話 (Hittite/Hurrian Mythology) (hittite) |
 | [incan](incan/index.md) | 印加神話 (Incan Mythology) (incan) |
 | [indigenous-americas](indigenous-americas/index.md) | 美洲原住民神話 (Indigenous American Mythologies) (indigenous-americas) |
 | [japanese](japanese/index.md) | 日本神話 (Japanese Mythology) (japanese) |
@@ -27,4 +28,4 @@
 | [tibetan](tibetan/index.md) | 西藏神話 (Tibetan Mythology) (tibetan) |
 
 
-*總計 21 個文化體系*
+*總計 22 個文化體系*
