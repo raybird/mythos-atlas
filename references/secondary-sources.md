@@ -42,6 +42,15 @@
 | 波羅的 | Nijolė Laurinkienė《Perkūnas研究》、Norbertas Vėlius |
 | 巴斯克 | José Miguel de Barandiarán《巴斯克神話》(Mitología Vasca) |
 | 約魯巴 | William Bascom《Ifá占卜》 |
+| 羅馬 | Mary Beard《SPQR》、Georg Wissowa《Religion und Kultus der Römer》 |
+| 斯基泰 | Renate Rolle《The World of the Scythians》、帕茲里克考古 |
+| 米諾斯 | Nanno Marinatos《Minoan Religion》、Arthur Evans《The Palace of Minos》 |
+| 馬普切 | Tom Dillehay《The Araucanians》、Milan Stuchlik《Mapuche》 |
+| 薩米 | Louise Bäckman《Sami Religion》、Juha Pentikäinen《Northern Religions》 |
+| 西伯利亞 | Eliade《Shamanism》、Vasilevich《Tungus Shamanism》 |
+| 西亞 | Patricia Crone《Meccan Trade and the Rise of Islam》、Michael Cook《Muhammad》 |
+| 努比亞 | László Török《The Kingdom of Kush》、Derek Welsby《The Kingdom of Kush》 |
+| 圖皮-瓜拉尼 | Alfred Métraux《The Tupi-Guarani》、Curt Nimuendajú《The Apinayé》 |
 
 ## 跨學科研究
 

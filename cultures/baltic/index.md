@@ -49,4 +49,4 @@ Dievas/Dievs(天父/造物主)、Perkūnas/Perkons(雷神)、Saulė(太陽女神
 - Jūratė與Kastytis(琥珀傳說)
 
 ---
-*Generated on 2026-06-20 08:04 UTC*
+*Generated on 2026-06-20 from _catalog.json*

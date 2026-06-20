@@ -47,4 +47,4 @@ Bathala(至高神/造物)、Malakas(強壯之父)、Maganda(美麗之母)、Idiy
 - Sarimanok神鳥傳說
 
 ---
-*Generated on 2026-06-20 08:04 UTC*
+*Generated on 2026-06-20 from _catalog.json*

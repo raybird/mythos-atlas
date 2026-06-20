@@ -49,4 +49,4 @@ Xwycau(獨一神/造物)、Uastyrdzhi(聖喬治/戰/旅者)、Washtin(戰神/Fat
 - 蛇戰傳說
 
 ---
-*Generated on 2026-06-20 08:04 UTC*
+*Generated on 2026-06-20 from _catalog.json*

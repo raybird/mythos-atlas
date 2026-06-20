@@ -45,4 +45,4 @@ Great Spirit(大神)、蜘蛛祖母(智慧)、雷鳥(力量)、Coyote(騙子/文
 - 雙子英雄
 
 ---
-*Generated on 2026-06-19 10:21 UTC*
+*Generated on 2026-06-20 from _catalog.json*

@@ -44,4 +44,4 @@ Dagda(善神)、Lugh(光之神)、Morrigan(戰爭女神)、Brigid(詩歌/醫療)
 - 聖杯尋找
 
 ---
-*Generated on 2026-06-19 11:11 UTC*
+*Generated on 2026-06-20 from _catalog.json*

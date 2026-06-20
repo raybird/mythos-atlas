@@ -1492,6 +1492,557 @@
         "Căluşari魔法戰舞"
       ],
       "order": 34
+    },
+    {
+      "id": "roman",
+      "name": "羅馬神話",
+      "name_en": "Roman Mythology",
+      "region": "地中海—義大利半島",
+      "era": "羅馬王政—共和—帝國時期(公元前753—公元476)",
+      "sources": [
+        "奧維德《變形記》",
+        "維吉爾《埃涅阿斯紀》",
+        "李維《羅馬史》",
+        "西賽羅《論神性》",
+        "普魯塔克《平行列傳》",
+        "老普林尼《自然史》"
+      ],
+      "motifs": [
+        "建國神話(羅慕路斯與雷穆斯)",
+        "特洛伊逃亡(埃涅阿斯)",
+        "希臘神話羅馬化(Interpretatio Romana)",
+        "王政七王傳奇",
+        "神人合一(皇帝的封神)",
+        "家神(La/Penates)崇拜",
+        "維斯塔聖火",
+        "預兆與占卜(Auspicia)",
+        "節日曆法(Fasti)"
+      ],
+      "parallels": [
+        [
+          "朱庇特(Jupiter)眾神之王",
+          "希臘Zeus/印度因陀羅"
+        ],
+        [
+          "羅慕路斯與雷穆斯(狼哺)",
+          "建國神話/摩西/居魯士"
+        ],
+        [
+          "埃涅阿斯冥界之旅",
+          "希臘奧德賽/蘇美伊南娜"
+        ],
+        [
+          "維斯塔聖火",
+          "希臘Hestia/印度Agni"
+        ]
+      ],
+      "creation": "羅馬創世神話主要來自希臘化影響與奧維德的《變形記》——最初爲混沌(Chaos)，後分離爲天地萬物。本土義大利傳統中，Janus(門神)爲最初的存在——他創造時間與秩序，手持鑰匙掌管一切開端。Saturn(薩圖恩)在拉丁姆建立黃金時代——人類在Saturn統治下沒有私產、戰爭與奴隸。Jupiter(朱庇特)後來取代Saturn成爲眾神之王。普羅米修斯以泥土造人的希臘版本亦被羅馬完全吸收。",
+      "flood": "羅馬洪水傳說主要來自希臘杜卡利翁(Deucalion)故事的拉丁化版本——Jupiter以洪水懲罰青銅人類的邪惡，杜卡利翁與皮拉(Pyrrha)乘舟漂浮九天後登陸帕納塞斯山，擲石爲新人類。此外，羅馬建國前的拉丁姆地區保留真實洪水記憶——阿爾班山(Alban Hills)的火山湖形成與羅馬城所在地的台伯河週期性洪水。維吉爾《埃涅阿斯紀》中預言「大水將淹沒城市」的場景可理解爲對自然災害的神話化。",
+      "pantheon": "Jupiter(眾神之王/天/雷電)、Juno(天后/婚姻/王權)、Minerva(智慧/戰爭/工藝)、Mars(戰神/農業/建國先祖)、Venus(愛/美/埃涅阿斯之母)、Apollo(預言/醫藥/音樂)、Diana(月/狩獵)、Mercury(信使/貿易/旅者)、Neptune(海/馬)、Vulcan(火/鍛冶)、Vesta(灶/家/聖火)、Ceres(農業/豐收)、Bacchus(酒/狂喜)、Pluto(冥界/財富)、Saturn(黃金時代/播種)、Janus(門/開始/結束)、Quirinus(神化後的Romulus)、Lares(家神)、Penates(儲藏室神)、Genius(個人守護靈)",
+      "stories": [
+        "埃涅阿斯從特洛伊逃往義大利",
+        "羅慕路斯與雷穆斯被狼哺乳",
+        "羅慕路斯建城與殺弟",
+        "薩賓婦女搶婚",
+        "賀雷修斯獨守橋樑",
+        "辛辛那圖斯的犁與獨裁官",
+        "漢尼拔威脅與羅馬的堅韌",
+        "凱撒跨越盧比孔河",
+        "奧古斯都的和平祭壇"
+      ],
+      "order": 35
+    },
+    {
+      "id": "pre-islamic-arabian",
+      "name": "前伊斯蘭阿拉伯神話",
+      "name_en": "Pre-Islamic Arabian Mythology",
+      "region": "阿拉伯半島",
+      "era": "賈希利亞(蒙昧)時期—公元7世紀前",
+      "sources": [
+        "《黃金草原》(Masudi)",
+        "《書集》(Ibn al-Kalbi)",
+        "《詩集》(Mu'allaqat)",
+        "納巴泰銘文",
+        "南阿拉伯碑文"
+      ],
+      "motifs": [
+        "三女神(Al-Lat/Al-Uzza/Manat)",
+        "Hubal麥加主神",
+        "黑石崇拜",
+        "精靈(Jinn)信仰",
+        "沙漠精靈與詩靈",
+        "犧牲與禁地(Haram)",
+        "聖月與朝覲",
+        "南阿拉伯月神崇拜"
+      ],
+      "parallels": [
+        [
+          "三女神崇拜",
+          "印度Tridevi/希臘Moirai"
+        ],
+        [
+          "精靈Jinn",
+          "羅馬Lares/希臘Daimon"
+        ],
+        [
+          "月神Al-makah",
+          "蘇美Nanna/Sin"
+        ]
+      ],
+      "creation": "前伊斯蘭阿拉伯沒有單一創世神話體系——各地部落信奉不同神祇。Allah在伊斯蘭前已爲至高造物主(但非唯一神)。創世概念主要受到美索不達米亞與猶太教影響。南阿拉伯(沙巴/卡塔班)的創世傳說中，大地由月神Ilmaqah從原水中升起。部分部落傳說人類從石頭或樹木中生出。",
+      "flood": "阿拉伯半島流傳類似諾亞方舟的洪水傳說——其中一個版本稱先知Nuh(阿拉伯語對應聖經挪亞)傳道數百年，族人拒信，真主以洪水懲罰。伊斯蘭化前已有本地洪水記憶殘留於也門、納季德等地的口傳中。部分南阿拉伯碑文提及「上古大水」摧毀古城。",
+      "pantheon": "Allah(至高造物主)、Al-Lat(月/生育女神)、Al-Uzza(力量/戰/生育)、Manat(命運/死亡)、Hubal(麥加主神/占卜)、Wadd(月神/愛)、Amur(男神)、Dhat-Badan(綠洲/雨神)、Nasr(鷹神)、Suwa'(星辰)、Yaghuth(救濟神)、Ya'uq(戰神)、Ta'lab(月神/南阿拉伯)、Ilmaqah(月神/沙巴王國)、Athtar(金星/灌溉)、Sayin(戰神/哈德拉毛)",
+      "stories": [
+        "Al-Lat的月神廟與塔伊夫聖地",
+        "Hubal與麥加黑石",
+        "Al-Uzza在納赫拉的祭祀",
+        "Manat決定人類命運",
+        "Jinn的誘惑與詩人的靈感",
+        "也門水壩崩潰傳說(Marib大壩)",
+        "Ad族與Thamud族的毀滅",
+        "Zarqaa al-Yamama女先知"
+      ],
+      "order": 36
+    },
+    {
+      "id": "maori",
+      "name": "毛利神話",
+      "name_en": "Māori Mythology",
+      "region": "紐西蘭—玻里尼西亞三角",
+      "era": "玻里尼西亞大遷徙—歐洲殖民前",
+      "sources": [
+        "口傳傳統(Whakapapa系譜)",
+        "《毛利神話與傳說》(George Grey)",
+        "《波利尼西亞神話》(RD Craig)",
+        "Elsdon Best民族誌"
+      ],
+      "motifs": [
+        "天父地母分離(Rangi-nui/Papa-tūā-nuku)",
+        "Tāne分離天地",
+        "Māui半神傳奇",
+        "Te Ika-a-Māui(北島爲魚)",
+        "Tāwhirimātea風暴神的復仇",
+        "Hine-nui-te-pō死亡女神",
+        "Whakaata毛利版畫藝術"
+      ],
+      "parallels": [
+        [
+          "Rangi-nui與Papa-tūā-nuku天地分離",
+          "埃及Nut/Geb/希臘Ouranos/Gaia"
+        ],
+        [
+          "Māui釣起北島",
+          "波利尼西亞其他Māui傳說"
+        ],
+        [
+          "Tāne造人(Tiki)",
+          "女媧/普羅米修斯造人"
+        ],
+        [
+          "Hine-nui-te-pō冥界",
+          "希臘Hades/北歐Hel"
+        ]
+      ],
+      "creation": "最初只有Rangi-nui(天父)與Papa-tūā-nuku(地母)緊密交合，黑暗中孕育眾神。Tāne-mahuta(森林神)以雙腳頂開天地——Rangi升爲遙遠天空，Papa成爲大地。Tāne以紅泥造第一女子Hine-ahu-one(土中少女)，後Hine嫁Tāne生人類。Māui以魚鉤從海底釣起巨大的魚——即今北島(Te Ika-a-Māui)。Tāwhirimātea(風暴神)因反對天地分離而掀風暴摧毀森林——象徵自然力量的永恆抗爭。",
+      "flood": "毛利神話的洪水分爲兩大傳統：(1)Māui試圖爲人類獲得永恆——他穿越死亡女神Hine-nui-te-pō的陰道，被其中的黑曜石刀割斷，人類因此無法永生。(2)部分Iwi(部落)保存上古大洪水的口傳記憶——洪水來自Tāwhirimātea的憤怒或海洋上升。Tāne以飛鳥偵查洪水消退對應聖經挪亞的鴿子。庫克群島版本記載洪水後人類從Tupu(大地)中重新誕生。",
+      "pantheon": "Rangi-nui(天父)、Papa-tūā-nuku(地母)、Tāne-mahuta(森林/鳥/造人)、Tāwhirimātea(風暴/風)、Tangaroa(海洋/魚)、Tū-matauenga(戰/人)、Rongo-mā-Tāne(和平/農耕)、Haumia-tiketike(野蕨/狩獵)、Whiro(黑暗/邪惡)、Hine-nui-te-pō(死亡女神)、Hine-ahu-one(第一女人)、Māui(文化英雄/半神)、Rehua(星辰/醫療)、Uenuku(彩虹/戰)",
+      "stories": [
+        "Tāne取回三籃知識",
+        "Māui釣起北島",
+        "Māui偷火",
+        "Māui阻攔太陽",
+        "Māui與死亡女神",
+        "Tāwhirimātea的風暴復仇",
+        "Hinemoa與Tūtānekai的愛情",
+        "Matawhero與Tinirau的鯨魚傳說"
+      ],
+      "order": 37
+    },
+    {
+      "id": "scythian",
+      "name": "斯基泰神話",
+      "name_en": "Scythian Mythology",
+      "region": "歐亞草原—黑海北岸至阿爾泰",
+      "era": "公元前8-3世紀",
+      "sources": [
+        "希羅多德《歷史》卷四",
+        "阿爾泰/帕茲里克墓葬考古",
+        "斯基泰金器藝術",
+        "比較印歐神話學"
+      ],
+      "motifs": [
+        "Tabiti火女神",
+        "Papaios天父",
+        "Api地母",
+        "金器天降傳說",
+        "蛇足女神(蛇妖)",
+        "戰神Ares(斯基泰版)",
+        "人祭與頭骨杯",
+        "動物風格藝術",
+        "薩滿式入定"
+      ],
+      "parallels": [
+        [
+          "Tabiti火女神",
+          "印度Agni/羅馬Vesta"
+        ],
+        [
+          "Papaios/Api天地父母",
+          "希臘Zeus/Gaia/印度Dyaus/Prithvi"
+        ],
+        [
+          "金器天降",
+          "印歐王權象徵"
+        ]
+      ],
+      "creation": "希羅多德記載斯基泰創世神話——最初無邊大地一片荒蕪。Tabiti(火女神)爲萬物之源，Papaios(天父)與Api(地母)結合生眾神與人類。蛇足女神生三子——幼子Targitaus成爲斯基泰人始祖。Targitaus的後代分爲三支，各以其王族金器(犁/軛/斧/杯)象徵權力。金器從天而降，僅幼子能靠近(王權天授原型)。帕茲里克墓葬的冰凍木乃伊保存了完整的動物風格刺青與馬匹殉葬禮儀。",
+      "flood": "希羅多德沒有直接記錄斯基泰人的洪水神話，但草原民族普遍保存「上古洪水」記憶。烏拉爾—阿爾泰地區的共通洪水傳說——惡魔或巨蛇偷取飲水，英雄屠蛇恢復水源。黑海氾濫理論(公元前5600年地中海淹沒黑海盆地)在斯基泰人祖先時代很可能已有口傳記憶。",
+      "pantheon": "Tabiti(火/家/王權，萬物之始)、Papaios(天父)、Api(地母/水)、Goitosyros(阿波羅對應/弓箭)、Argimpasa(阿芙蘿黛蒂對應/愛/生育)、Ares(戰神/以鐵劍象徵)、Thagimasadas(海/馬)、蛇足女神(Echidna式怪物/始祖母)、Targitaus(始祖英雄/國王)、Lipoxais/Arpoxais/Colaxais(三兄弟/三大王族先祖)",
+      "stories": [
+        "金器天降與三兄弟",
+        "Tabiti的永恆聖火",
+        "蛇足女神與Heracles",
+        "斯基泰人起源雙版本",
+        "Anacharsis的悲劇",
+        "Scyles的狄奧尼索斯崇拜衝突",
+        "帕茲里克冰凍公主",
+        "Ares聖劍的祭祀儀式"
+      ],
+      "order": 38
+    },
+    {
+      "id": "minoan",
+      "name": "米諾斯神話",
+      "name_en": "Minoan (Cretan) Mythology",
+      "region": "愛琴海—克里特島",
+      "era": "米諾斯文明(公元前2600-1100)",
+      "sources": [
+        "克里特考古(克諾索斯/費斯托斯/馬利亞)",
+        "線性文字A(未破譯)",
+        "米諾斯壁畫與印章",
+        "希臘神話保留的米諾斯殘片"
+      ],
+      "motifs": [
+        "米諾陶迷宮",
+        "公牛崇拜與跳牛儀式",
+        "蛇女神/女祭司",
+        "雙斧(Labrys)聖器",
+        "大地之母崇拜",
+        "海權/海洋崇拜",
+        "樹木聖所",
+        "祭品與豐收儀式"
+      ],
+      "parallels": [
+        [
+          "米諾陶迷宮",
+          "埃及迷宮/赫梯Ullikummi"
+        ],
+        [
+          "公牛神聖化",
+          "埃及Apis/印度Nandi"
+        ],
+        [
+          "Labrys雙斧象徵",
+          "印歐王權象徵/中國鉞"
+        ],
+        [
+          "Potnia Theron",
+          "希臘Artemis/埃及Sekhmet"
+        ]
+      ],
+      "creation": "米諾斯宗教以自然崇拜爲核心——未保留獨立創世神話文本。線性文字A(未破譯)與壁畫揭示：大地之母(Potnia)爲最高存在，蛇/鳥/公牛圍繞其週。世界從地母的繁衍力中自然生出——沒有鬥爭或分離的創世，而是生命從大地循環出現。迷宮(Labyrinth)象徵宇宙的複雜秩序。雙斧(Labrys)既是武器也是聖器——可能象徵陰陽二元或天地合一。",
+      "flood": "米諾斯文明可能爲柏拉圖亞特蘭提斯傳說的歷史基礎——公元前1600年左右的Thera/聖托里尼火山超級爆發引發毀滅性海嘯，終結米諾斯海上霸權。海嘯浪高達30-50米，衝擊克里特北部海岸。米諾斯遺址中多處發現海相沉積物，支援大規模海嘯假說。",
+      "pantheon": "Potnia(大地母神/動物女主人)、蛇女神/女祭司(地母化身)、Labrys女神(雙斧/權威)、公牛神(男性豐收/力量)、Potnia Theron(野生動物女主人)、庇護神(各城邦)、環臂女神(祈禱姿態神像)、樹神(植物崇拜)、海洋神(以三叉戟象徵)、少年神(每年死亡復活的植物神)",
+      "stories": [
+        "米諾斯王與米諾陶迷宮",
+        "代達羅斯與伊卡洛斯飛翔",
+        "Thera火山爆發與亞特蘭提斯傳說",
+        "歐羅巴與公牛(宙斯化身)",
+        "Pasiphaë與公牛",
+        "Theseus斬米諾陶",
+        "Glaukos的死而復活",
+        "Katreus的王權詛咒",
+        "跳牛儀式",
+        "米諾斯海軍與海洋霸權神話"
+      ],
+      "order": 39
+    },
+    {
+      "id": "nubian",
+      "name": "努比亞/庫什神話",
+      "name_en": "Nubian/Kushite Mythology",
+      "region": "東北非—尼羅河上游/蘇丹",
+      "era": "庫什王國(公元前800-公元350)",
+      "sources": [
+        "埃及文獻(努比亞記載)",
+        "麥羅埃銘文(未完全破譯)",
+        "納帕塔阿蒙神廟",
+        "Kerma考古遺址",
+        "民族誌比較"
+      ],
+      "motifs": [
+        "阿蒙神崇拜(本土化)",
+        "Apedemak獅神",
+        "金字塔(納帕塔/麥羅埃)",
+        "Sevium/創世原水",
+        "王室神權合一",
+        "獅/蛇/鱷魚神聖動物",
+        "鐵器與冶金神話"
+      ],
+      "parallels": [
+        [
+          "Apedemak獅神",
+          "埃及Sekhmet"
+        ],
+        [
+          "努比亞阿蒙神",
+          "埃及Amun/希臘Zeus"
+        ],
+        [
+          "Sevium創世原水",
+          "埃及Nun"
+        ]
+      ],
+      "creation": "努比亞創世神話深受埃及影響但具獨特性——Sevium爲原初之水，世界從水中升起如同納帕塔聖丘。創世神Amun在努比亞版本中爲黑色面孔(象徵努比亞身份)——他以言創造萬物。麥羅埃萬神殿的最高神Apedemak(獅首人身戰神)同時爲創造神與毀滅神。部分傳說：世界由巨蛇或巨龜從原水中背負而起。",
+      "flood": "努比亞/庫什神話中的洪水受埃及影響——Hapy(尼羅河洪神)每年氾濫帶來肥沃淤泥，被視爲神對王國的祝福。上古洪水傳說與尼羅河源頭的形成相關：神以洪水懲罰人類不敬祖先，僅有努比亞王室家族在納帕塔聖山上倖存。",
+      "pantheon": "Amun(創造/王權/納帕塔主神)、Apedemak(獅頭戰神/創造/毀滅/麥羅埃主神)、Isis(伊西斯)、Osiris(歐西里斯/冥界)、Horus(荷魯斯/王權)、Sebiumeker(創世/生殖)、Dedun(香料/財富/冥界)、Makedeke(豐收)、Arensnuphis(戰/獅)、Mandulis(太陽少年神)、Anhur(戰/狩獵)、Mut(母神)、Khonsu(月神/治療)",
+      "stories": [
+        "Apedemak爲庫什王國奪勝",
+        "努比亞法老Piye征服埃及",
+        "Taharqa與亞述帝國的對抗",
+        "Candace女王與亞歷山大大帝傳說",
+        "麥羅埃金字塔的建造神話",
+        "Isis在Philae的朝聖",
+        "Apedemak獅神的節日",
+        "Kerma王國的繁榮與衰落"
+      ],
+      "order": 40
+    },
+    {
+      "id": "mapuche",
+      "name": "馬普切神話",
+      "name_en": "Mapuche (Araucanian) Mythology",
+      "region": "南美洲—智利/阿根廷",
+      "era": "前哥倫布時期—現代",
+      "sources": [
+        "口傳傳統",
+        "Alonso de Ovalle記錄",
+        "20世紀馬普切人類學研究",
+        "Pascual Coña自傳"
+      ],
+      "motifs": [
+        "Ngenechén/Ngünechen創世神",
+        "Pillán善靈/先祖靈魂",
+        "Wekufu惡靈/混沌力量",
+        "Machi薩滿(女巫醫)",
+        "Trentren/Kaikai蛇大戰",
+        "Admapu宇宙法則",
+        "Ancán靈魂轉世",
+        "Guillatún祈禱儀式"
+      ],
+      "parallels": [
+        [
+          "Trentren vs Kaikai山蛇戰海蛇",
+          "Chaoskampf/秩序與混沌之戰"
+        ],
+        [
+          "Ngenechén創造世界",
+          "Viracocha跨文化造物主"
+        ],
+        [
+          "Pillán善靈",
+          "羅馬Lares/中國祖先崇拜"
+        ]
+      ],
+      "creation": "Ngenechén(Ngünechen,造物主)從一片虛無中創造世界——首先創造天與地，再創造Pillán(善靈)管理自然力量。人類由Ngenechén以特定樹木(肉桂樹)的枝條創造——人體如樹枝般挺拔，靈魂來自天上的星辰。最初人類生活在黃金時代——人類忘記感恩，Ngenechén以Kai-Kai Filú(海蛇)掀起洪水懲罰——Trentren Filú(山蛇)挺身對抗，保護人類。",
+      "flood": "馬普切洪水神話的核心爲Trentren Filú(山之神蛇)與Kai-Kai Filú(海之神蛇)的永恆對抗。Kai-Kai以洪水淹沒大地，Trentren將山脈升高使人類逃生。僅少數遵循Admapu(宇宙法則)的人類乘木筏或攀上最高山峯倖存。洪水退後倖存者以肉桂枝重建文明。此神話可能保留末次冰期後海平面上升的記憶。",
+      "pantheon": "Ngenechén/Ngünechen(造物主/宇宙統一體)、Pillán(善靈總稱/火山/山/天)、Wekufu(惡靈/混沌/疾病)、Antü/Püllán(太陽神/火)、Küyen(月神)、Wangülen(星辰/祖先靈魂)、Trentren Filú(山蛇/大地保護)、Kai-Kai Filú(海蛇/洪水/混沌)、Machi(人類薩滿)、Ngen(自然元素守護靈)、Menoko(泉水靈地)、Alwe(死者靈魂)/Ancán(轉世靈)",
+      "stories": [
+        "Trentren與Kai-Kai的大戰",
+        "Lautaro智取西班牙人",
+        "Caleuche鬼船傳說",
+        "Trauco森林矮人",
+        "Pincoya海的仙女",
+        "El Cuero湖中怪獸",
+        "Machi療癒儀式",
+        "Admapu法則的起源"
+      ],
+      "order": 41
+    },
+    {
+      "id": "sami",
+      "name": "薩米神話",
+      "name_en": "Sámi Mythology",
+      "region": "北歐—芬諾斯堪的亞",
+      "era": "史前—基督教化前",
+      "sources": [
+        "拉普蘭傳教士日記",
+        "薩滿鼓圖案",
+        "Lars Levi Læstadius記錄",
+        "口傳Joik(吟唱)",
+        "比較烏拉爾語系神話"
+      ],
+      "motifs": [
+        "Väralden Olmai世界人/造物主",
+        "Ipmil/Radien天神",
+        "薩滿(Noaidi)儀式",
+        "薩滿鼓宇宙圖",
+        "Bieggagallis風神",
+        "Sieidi石/聖地祭祀",
+        "熊神崇拜",
+        "Sáivu靈魂世界",
+        "Máttaráhkká大地祖母",
+        "北極光靈魂舞蹈"
+      ],
+      "parallels": [
+        [
+          "Radien天神/世界人",
+          "芬蘭Ukko/北歐Odin"
+        ],
+        [
+          "薩滿Noaidi入冥界",
+          "西伯利亞薩滿/北美Shaman"
+        ],
+        [
+          "熊神崇拜與熊祭",
+          "愛努Iyomante/西伯利亞熊崇拜"
+        ],
+        [
+          "Sáivu死後樂園",
+          "北歐Valhalla/希臘Elysium"
+        ]
+      ],
+      "creation": "薩米創世神話中最高的存在爲Väralden Olmai(世界人)或Radien(天神)——世界從一片寂靜的北極荒原中誕生。一隻雌性潛水鳥從原水中銜起泥土——類似Earth-Diver神話的北極版本。Radien以泥土塑造大地與人類。Máttaráhkká(大地祖母)生下三個女兒——Sáráhkká(生育/火)、Juoksáhkká(弓箭/男孩命運)、Uksáhkká(門/女孩保護)。大地由一隻巨大的北極熊或麋鹿支撐——其身體震動造成地震。",
+      "flood": "薩米洪水傳說與北極冰蓋融化相關——末次冰期後斯堪的納維亞冰蓋消融，海平面急劇上升淹沒大片陸地。部分傳說記載遠古洪水時期人類與馴鹿躲在高山避難。基督教化後融合了聖經諾亞方舟情節——保留了本土元素如馴鹿代替烏鴉偵查陸地。",
+      "pantheon": "Radien/Radien-áddjá(天神/造物主)、Radien-áhkku(天母)、Rana-Nieida(春/綠/生育)、Väralden Olmai(世界人/造物)、Máttaráhkká(大地祖母/始祖)、Sáráhkká(火/生育/女性守護)、Juoksáhkká(弓箭/男孩命運)、Uksáhkká(門/女孩保護)、Bieggagallis(風神/季節)、Leaibolmmái(血液/傷口/治療)、Sieidi(石靈/豐收)、Noaidi(人類薩滿)、Boaššu(北極光)",
+      "stories": [
+        "Máttaráhkká三女神誕生",
+        "Noaidi薩滿入冥界之旅",
+        "熊祭儀式與熊的誕生神話",
+        "北極光的由來(靈魂之舞)",
+        "Sáivu樂園的狩獵",
+        "Sieidi神石的供奉儀式",
+        "馴鹿的起源神話",
+        "Joik的誕生(音樂與魔法)"
+      ],
+      "order": 42
+    },
+    {
+      "id": "siberian",
+      "name": "西伯利亞神話",
+      "name_en": "Siberian (Tungus/Chukchi/Yakut) Mythology",
+      "region": "西伯利亞—通古斯/雅庫特/楚科奇",
+      "era": "史前—現代",
+      "sources": [
+        "Vladimir Jochelson民族誌",
+        "Maria Czaplicka記錄",
+        "薩滿口傳(Uliger)",
+        "北亞比較神話學",
+        "奧隆霍史詩(Yakut)"
+      ],
+      "motifs": [
+        "薩滿宇宙三界樹",
+        "大地潛水者Earth-Diver創世",
+        "渡鴉/烏鴉文化英雄",
+        "北極光神話",
+        "動物始祖/化人",
+        "Buga(通古斯)/Yryn-ajy(Yakut)造物主",
+        "Kalau(楚科奇)/Erlik(布裏亞特)惡靈",
+        "N'urgun Bootur雅庫特英雄"
+      ],
+      "parallels": [
+        [
+          "大地潛水者",
+          "北美原住民/北亞/芬蘭共通"
+        ],
+        [
+          "宇宙樹/世界軸",
+          "Yggdrasil/建木/薩滿樹"
+        ],
+        [
+          "渡鴉造人/盜光",
+          "北美原住民Raven/北歐Odin的渡鴉"
+        ],
+        [
+          "薩滿入冥界",
+          "希臘Orpheus/日本伊邪那岐"
+        ]
+      ],
+      "creation": "西伯利亞最普遍的創世神話爲大地潛水者型——最初只有無邊海洋，造物主(通古斯Buga/雅庫特Yryn-ajy)命某動物潛入海底取泥。動物三次下潛終取回少量泥土——造物主將其鋪於水面形成大地。世界由一棵宇宙樹支撐(通古斯：世界樺樹；雅庫特：Aal Luuk Mas神樹)——樹根入冥界、樹幹達人世、樹冠通天堂。第一代人從樺樹中生出或由造物主以泥土塑造。",
+      "flood": "西伯利亞普遍流傳「上古洪水」記憶——地球被大水覆蓋後，大地潛水者重新潛入水中取泥重建世界。雅庫特傳說中洪水因違反薩滿禁忌引起——Ajy(善靈)以洪水懲罰不義，僅薩滿預警部分倖存者。部分楚科奇傳說世界曾遭遇三次毀滅——洪水、森林大火與暴風雪。",
+      "pantheon": "Buga(通古斯至高神)、Yryn-Ajy(雅庫特善造物主)、Ajy(善靈群)、Abasy(雅庫特惡靈群)、Erlik(布裏亞特/蒙古冥界之王)、N'urgun Bootur(雅庫特文化英雄)、Kalau(楚科奇惡靈)、Kere-tkun(楚科奇造物主)、Raven(渡鴉文化英雄)、Bayanai(通古斯狩獵神)、Umai(通古斯生育女神)、Tulujn(通古斯雷神)、Shaman/Noaidi(薩滿/靈媒)",
+      "stories": [
+        "大地潛水者(三度下潛取泥)",
+        "渡鴉盜光/造人",
+        "N'urgun Bootur戰Abasy惡魔",
+        "薩滿入冥界取回病人靈魂",
+        "熊神話(熊嫁人/熊始祖)",
+        "第一棵樺樹中誕生人類",
+        "狐狸欺騙巨靈",
+        "北極光爲死者之舞",
+        "Kalau以火毀滅第三世界"
+      ],
+      "order": 43
+    },
+    {
+      "id": "tupi-guarani",
+      "name": "圖皮-瓜拉尼神話",
+      "name_en": "Tupi-Guarani Mythology",
+      "region": "南美洲—巴西/巴拉圭/玻利維亞",
+      "era": "前哥倫布時期—現代",
+      "sources": [
+        "José de Anchieta傳教士記錄",
+        "Alfred Métraux民族誌",
+        "瓜拉尼口傳《Ayvu Rapyta》",
+        "Curt Nimuendajú研究"
+      ],
+      "motifs": [
+        "Nhanderuvuçú創世神",
+        "洪水後第二次創造",
+        "太陽/月神兄弟",
+        "Mair文化英雄/火種盜取",
+        "Jaci月神/愛情",
+        "Tupã雷神/創造之音",
+        "Anhangá森林守護靈",
+        "Curupira森林惡魔(反轉腳)",
+        "Saci-Pererê獨腳精靈",
+        "Boitatá火蛇",
+        "光輝之土Yvy Marãe'ỹ"
+      ],
+      "parallels": [
+        [
+          "Nhanderuvuçú以言創世",
+          "聖經/埃及Ptah"
+        ],
+        [
+          "洪水後人類重生",
+          "諾亞/杜卡利翁/摩奴"
+        ],
+        [
+          "Mair偷火/教人農耕",
+          "普羅米修斯/伏羲"
+        ],
+        [
+          "太陽月神兄弟",
+          "埃及Horus/Set/瑪雅英雄雙子"
+        ]
+      ],
+      "creation": "Nhanderuvuçú(我們的偉大先祖)在一片無邊黑暗與水中獨自存在。他以智慧創造宇宙——先以言創造光與暗、天與地、晝與夜。第一批人類由Nhanderuvuçú以黏土與植物汁液塑造——他們最初知道完美的語言(瓜拉尼語)並與神直接交流。但因人類犯錯，Nhanderuvuçú以洪水毀滅世界並退居遠方。第二代人從洪水後倖存的人類中重新繁衍。Mair(或Sumé)從天神處盜取火種、教人耕種與編織。",
+      "flood": "圖皮-瓜拉尼洪水神話極爲豐富——兄弟太陽與月觀看人類腐敗行爲後決定以洪水淨化。僅一善良的薩滿Maira-Monã預先知曉，他建造獨木舟避難並攜帶所有動物種子。洪水由Tupã(雷神)降下——暴雨覆蓋大地數月，陸地上所有生靈滅亡。洪水退後薩滿以棕櫚枝重新創造人類與動物。",
+      "pantheon": "Nhanderuvuçú/Nhanderu(創世神/先祖)、Tupã(雷神/創造之音)、Jaci(月神/愛/生育)、Guaraci(太陽神)、Mair/Sumé(文化英雄)、Anhangá(森林守護靈)、Curupira(森林惡魔)、Saci-Pererê(獨腳精靈)、Boitatá(火蛇)、Yara/Iara(水仙女)、Pajé(薩滿)、Tupojara(閃電主人)、Rudá(愛情神)、Karai(火/神話先祖)",
+      "stories": [
+        "Nhanderuvuçú以言創世",
+        "太陽與月亮兄弟(善惡對立)",
+        "Mair從秃鷲處盜火",
+        "洪水後第二世界重建",
+        "Curupira的陷阱(保護森林)",
+        "Saci-Pererê的頑皮行爲",
+        "Boitatá火蛇屠殺貪婪者",
+        "Yara水仙女誘惑漁夫",
+        "Pajé薩滿上升天堂取靈藥",
+        "光輝之土Yvy Marãe'ỹ的尋找"
+      ],
+      "order": 44
     }
   ],
   "themes": [
@@ -1843,6 +2394,130 @@
       ],
       "key_observations": "星辰神話連結天文觀測與宇宙觀：(1)星座為神話人物/動物(希臘Andromeda/Cassiopeia、中國星宿體系)(2)星宿影響命運(美索不達米亞占星、印度Nakshatra)(3)祖先化為星辰(波利尼西亞航海星圖、澳洲Songlines星之路)(4)北極星/北斗七星為永恆秩序象徵(中國北辰/北斗、埃及Imperishable Stars、北歐世界樹軸心)。銀河跨文化被視作神路(希臘、埃及、波利尼西亞、中國天河)。Songlines(澳洲原住民)中以星辰與地貌交織為史詩級導航系統。",
       "order": 119
+    },
+    {
+      "id": "earth-diver",
+      "name": "大地潛水者：創世神話的跨文化類型",
+      "name_en": "Earth-Diver: A Global Creation Myth Type",
+      "cultures_covered": [
+        "Siberian",
+        "Ainu",
+        "Mongolian",
+        "Finno-Ugric",
+        "Baltic",
+        "Indigenous Americas",
+        "Sami",
+        "Tupi-Guarani",
+        "Aboriginal",
+        "Hindu"
+      ],
+      "key_observations": "大地潛水者(Earth-Diver)爲全球最廣泛分佈的創世母題之一——遍佈北亞、北歐、北美、南美與波羅的海地區。核心結構：(1)創世之初只有無邊汪洋(2)造物主命某動物潛入海底取泥(3)動物反覆下潛(通常是3次)(4)成功取出少量泥土(5)造物主將泥土鋪於水面形成大地。此神話類型的分佈與最後一次冰盛期後北半球擴散的人群相關——可能爲舊石器時代晚期(15000-8000 BCE)的古老遺產。",
+      "order": 120
+    },
+    {
+      "id": "chaoskampf",
+      "name": "混沌之戰：秩序對抗混亂的宇宙鬥爭",
+      "name_en": "Chaoskampf: The Cosmic Battle of Order vs Chaos",
+      "cultures_covered": [
+        "Mesopotamian",
+        "Hittite",
+        "Greek",
+        "Norse",
+        "Vedic/Hindu",
+        "Chinese",
+        "Slavic",
+        "Phoenician",
+        "Mayan",
+        "Vietnamese",
+        "Egyptian",
+        "Mapuche"
+      ],
+      "key_observations": "Chaoskampf(德語「混沌鬥爭」)是印歐語系與西亞最根本的神話主題——英雄/雷神斬殺代表混沌的海洋/蛇形/龍形怪物以建立宇宙秩序。典型敘事：(1)混沌力量(提亞瑪特/Yam/耶夢加得/弗栗多)威脅世界(2)年輕的戰神(馬爾杜克/巴力/索爾/因陀羅)挺身而出(3)史詩戰鬥(4)怪物被擊敗(5)以其屍體創造或維持世界。此主題可能是人類對自然災害(洪水/風暴/火山)的宇宙化表述。",
+      "order": 121
+    },
+    {
+      "id": "cosmic-sacrifice",
+      "name": "宇宙獻祭：原始巨人死亡創造世界",
+      "name_en": "Cosmic Sacrifice: Creation from a Primordial Being",
+      "cultures_covered": [
+        "Chinese",
+        "Norse",
+        "Vedic/Hindu",
+        "Mesopotamian",
+        "Persian",
+        "Greek",
+        "Mayan",
+        "Aztec",
+        "Japanese",
+        "Sumerian"
+      ],
+      "key_observations": "宇宙獻祭主題的核心：一個原始存在(巨人/巨獸/神)被殺死/獻祭，其身體各部分化爲宇宙萬物。主要類型：(1)巨人型(Ymir→北歐/盤古→中國/Purusha→印度/Gayomart→波斯)(2)海怪型(提亞瑪特→美索不達米亞)(3)女神型(天空之女→易洛魁)(4)神自願型(Odin自懸)。共通要素：殺戮爲創造的必要條件——秩序來自混沌的強制轉化。",
+      "order": 122
+    },
+    {
+      "id": "sacred-kingship",
+      "name": "聖王：神聖王權與天命的跨文化比較",
+      "name_en": "Sacred Kingship: Divine Rule Across Cultures",
+      "cultures_covered": [
+        "Egyptian",
+        "Chinese",
+        "Mesopotamian",
+        "Japanese",
+        "Incan",
+        "Roman",
+        "Baltic",
+        "Hindu",
+        "Korean",
+        "Mayan",
+        "Persian",
+        "Nubian"
+      ],
+      "key_observations": "聖王概念在世界各大文明中獨立出現但結構驚人相似：(1)王爲神或神之子(埃及法老=荷魯斯/日本天皇=天照後裔/中國天子=天命)(2)王的健康直接關聯土地豐收(3)王權通過神聖婚姻儀式強化(4)王的犧牲關乎宇宙秩序(5)建國神話是王權合法性的根源。聖王概念在文明出現(約公元前3000年)時同步形成。",
+      "order": 123
+    },
+    {
+      "id": "culture-hero",
+      "name": "文化英雄：盜火、農耕與文明奠基者",
+      "name_en": "Culture Hero: Fire Theft, Agriculture & Civilizing Gifts",
+      "cultures_covered": [
+        "Greek",
+        "Chinese",
+        "Polynesian",
+        "Mayan",
+        "Japanese",
+        "Native American",
+        "Siberian",
+        "Tupi-Guarani",
+        "African",
+        "Basque",
+        "Aboriginal",
+        "Yoruba",
+        "Sami",
+        "Inuit"
+      ],
+      "key_observations": "文化英雄是世界神話中普遍存在的原型角色——他從神/怪物/遠方盜取或獲得文明必需品並贈予人類。核心贈與類型：(1)火(普羅米修斯/Māui/Mair/渡鴉)(2)農業(伏羲/Basajaun)(3)工具與技術(4)儀式與宗教(5)語言與律法。文化英雄既可是正義的也可是欺騙性的——其共同點爲跨越邊界、挑戰秩序以帶來進步。",
+      "order": 124
+    },
+    {
+      "id": "psychopomp",
+      "name": "靈魂引導者：跨文化的死亡中介",
+      "name_en": "Psychopomp: Guides of the Soul Across Cultures",
+      "cultures_covered": [
+        "Greek",
+        "Egyptian",
+        "Norse",
+        "Chinese",
+        "Hindu",
+        "Roman",
+        "Sumerian",
+        "Mesopotamian",
+        "Celtic",
+        "Etruscan",
+        "Mayan",
+        "Baltic"
+      ],
+      "key_observations": "Psychopomp(靈魂引導者)爲宗教學中描述引導死者靈魂到達冥界/來世的存在。跨文化共通特徵：(1)神聖的渡者(Hermes/Charon→希臘、Anubis→埃及、Valkyries→北歐、牛頭馬面→中國)(2)動物嚮導(狗/胡狼/貓頭鷹/烏鴉)(3)橋/河流的守護者(Chinvat橋→波斯、Styx→希臘)。靈魂引導者的存在反映人類對死亡作爲「旅程」的普遍隱喻。",
+      "order": 125
     }
   ]
 }

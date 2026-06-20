@@ -17,7 +17,10 @@
 ## 工作流程
 
 ```bash
-# 修改 _catalog.json 後，批次生成所有條目：
+# 修改 _catalog.json 後，重新生成所有條目：
+python3 regenerate_all.py
+
+# 或僅增量新增 _catalog.json 中尚未生成檔案的條目：
 python3 expand_catalog.py
 
 # 或使用原始逐步模式（每小時一條）：
@@ -26,7 +29,7 @@ python3 expand_catalog.py
 
 ## 文化資料庫現狀
 
-截至 2026-06-20，已收錄 34 個文化體系、20 個跨文化主題。
+截至 2026-06-20，已收錄 44 個文化體系、26 個跨文化主題。
 
 ## 新增文化條目標準
 

@@ -42,4 +42,4 @@ Tāne(森林)、Tangaroa(海洋)、Tū(戰神)、Rongo(和平)、Māui(文化英
 - 半神英雄傳奇
 
 ---
-*Generated on 2026-06-19 10:02 UTC*
+*Generated on 2026-06-20 from _catalog.json*

@@ -51,4 +51,4 @@ Olodumare(至高神)、Obatala(造人/純潔)、Oduduwa(先祖)、Shango(雷/火
 - Ogun打開通往人間的路
 
 ---
-*Generated on 2026-06-20 08:04 UTC*
+*Generated on 2026-06-20 from _catalog.json*

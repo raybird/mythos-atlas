@@ -20,6 +20,14 @@
 | 斯拉夫 | Rod | 創世神 |
 | 約魯巴 | Olodumare/Olorun | 至高神 |
 | 因紐特 | Silap Inua | 宇宙靈/生命之息 |
+| 羅馬 | Jupiter | 眾神之王/天 |
+| 前伊斯蘭阿拉伯 | Allah / Hubal | 至高造物主/麥加主神 |
+| 毛利 | Rangi-nui / Io | 天父/至高神 |
+| 西伯利亞 | Buga / Yryn-ajy | 造物主 |
+| 馬普切 | Ngenechén | 造物主/宇宙統一體 |
+| 薩米 | Radien / Väralden Olmai | 天神/世界人 |
+| 努比亞 | Amun / Apedemak | 創造神/獅神 |
+| 圖皮-瓜拉尼 | Nhanderuvuçú | 創世神/偉大先祖 |
 
 ## 大洪水
 
@@ -35,6 +43,12 @@
 | 瑪雅 | 無名倖存者 | 四次太陽紀終結 |
 | 印加 | 無名二人 | Viracocha懲罰 |
 | 波斯 | Yima | Vara地下堡壘 |
+| 羅馬 | Deucalion & Pyrrha | 希臘化版本 |
+| 前伊斯蘭阿拉伯 | Nuh(挪亞) | 洪水懲罰 |
+| 毛利 | Tāwhirimātea | 風暴洪水 |
+| 馬普切 | Kai-Kai Filú | 海蛇洪水 |
+| 圖皮-瓜拉尼 | Tupã | 雷神降洪水 |
+| 薩米 | Bieggagallis | 暴風雪洪水 |
 
 ## 雷神
 
@@ -52,6 +66,10 @@
 | 芬蘭 | Ukko | 雷火 |
 | 瑪雅 | Chaac | 雷斧/K'awiil |
 | 亞美尼亞 | Vahagn | 雷火/取草 |
+| 羅馬 | Jupiter | 雷霆 |
+| 馬普切 | Pillán | 火山雷電 |
+| 圖皮-瓜拉尼 | Tupã | 雷/創造之音 |
+| 西伯利亞 | Tulujn(通古斯) | 雷神 |
 
 ## 冥界之旅
 
@@ -68,3 +86,8 @@
 | 印加 | Uku Pacha | 靈魂回歸 |
 | 波利尼西亞 | Po | 先祖靈魂 |
 | 印度 | Yamaloka | Yama(閻魔審判) |
+| 羅馬 | Orcus | 冥界之神 |
+| 毛利 | Hine-nui-te-pō | 死亡女神 |
+| 薩米 | Sáivu / Jabmiáibmo | 死者靈魂世界 |
+| 西伯利亞 | 冥界(Buni/下界) | 薩滿入冥界 |
+| 圖皮-瓜拉尼 | Yvy Marãe'ỹ | 光輝之土/無惡之地 |

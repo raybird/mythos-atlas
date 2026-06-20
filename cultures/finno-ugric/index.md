@@ -41,4 +41,4 @@ Ukko(天/雷)、Ilmatar(空氣/水之母)、Väinämöinen(吟唱智者)、Lemmi
 - Kullervo復仇
 
 ---
-*Generated on 2026-06-19 15:10 UTC*
+*Generated on 2026-06-20 from _catalog.json*

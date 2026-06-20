@@ -40,4 +40,4 @@ Viracocha(創世神)、Inti(太陽)、Mama Quilla(月)、Pachamama(大地之母)
 - Mama Huaco建立庫斯科
 
 ---
-*Generated on 2026-06-19 11:11 UTC*
+*Generated on 2026-06-20 from _catalog.json*

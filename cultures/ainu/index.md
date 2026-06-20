@@ -46,4 +46,4 @@ Kotan-kar-kamuy(創世神)、Kamuy-huci(火竈女神)、Kim-un-kamuy(熊/山神)
 - 貓頭鷹與人類的約定
 
 ---
-*Generated on 2026-06-20 08:04 UTC*
+*Generated on 2026-06-20 from _catalog.json*

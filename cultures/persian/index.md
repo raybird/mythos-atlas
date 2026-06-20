@@ -42,4 +42,4 @@ Ahura Mazda(智慧主)、Mithra(密特拉/契約與光)、Anahita(水/豐收)、
 - Alexander焚書傳奇
 
 ---
-*Generated on 2026-06-19 13:10 UTC*
+*Generated on 2026-06-20 from _catalog.json*

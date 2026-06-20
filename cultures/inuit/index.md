@@ -47,4 +47,4 @@ Sedna(海洋之母/海獸提供者)、Aningan(月神)、Malina(太陽女神)、S
 - Amarok巨狼傳說
 
 ---
-*Generated on 2026-06-20 08:04 UTC*
+*Generated on 2026-06-20 from _catalog.json*
