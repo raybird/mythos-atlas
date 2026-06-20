@@ -13,7 +13,8 @@
 | [magnetic-pole-shift](magnetic-pole-shift.md) | 天傾地陷：地磁極移的神話線索 |
 | [mountain-of-gods](mountain-of-gods.md) | 眾神之山：宇宙軸 |
 | [primordial-giants](primordial-giants.md) | 原始巨人型創世 |
+| [solar-deities](solar-deities.md) | 太陽崇拜與太陽神 |
 | [world-tree](world-tree.md) | 世界樹與宇宙樹 |
 
 
-*總計 10 個主題*
+*總計 11 個主題*
