@@ -3,14 +3,16 @@
   "theme_index": 0,
   "enrich_log": [],
   "analysis_log": [
-    "rainbow-myths",
     "origin-of-death",
-    "female-deities",
     "cosmic-egg",
-    "underworld-journey",
-    "sacred-mountains",
     "animal-symbolism",
-    "twin-myths"
+    "sun-myths",
+    "sacred-mountains",
+    "female-deities",
+    "rainbow-myths",
+    "twin-myths",
+    "underworld-journey",
+    "shamanism-in-myth"
   ],
-  "runs": 13
+  "runs": 14
 }
