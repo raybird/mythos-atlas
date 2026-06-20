@@ -8,8 +8,9 @@
 | [dragons-and-serpents](dragons-and-serpents.md) | 龍與巨蛇：跨文化水神 |
 | [great-flood](great-flood.md) | 大洪水傳說比較研究 |
 | [language-confusion](language-confusion.md) | 語言變亂：巴別塔與同類神話 |
+| [lost-continents](lost-continents.md) | 失落的陸塊：亞特蘭提斯與神話地 |
 | [mountain-of-gods](mountain-of-gods.md) | 眾神之山：宇宙軸 |
 | [world-tree](world-tree.md) | 世界樹與宇宙樹 |
 
 
-*總計 6 個主題*
+*總計 7 個主題*
