@@ -3,16 +3,18 @@
   "theme_index": 0,
   "enrich_log": [],
   "analysis_log": [
-    "origin-of-death",
-    "cosmic-egg",
-    "animal-symbolism",
+    "shamanism-in-myth",
     "sun-myths",
-    "sacred-mountains",
-    "female-deities",
+    "cosmic-egg",
     "rainbow-myths",
+    "female-deities",
+    "origin-of-death",
+    "sacrificial-creation",
     "twin-myths",
+    "earth-diver-comparative",
+    "sacred-mountains",
     "underworld-journey",
-    "shamanism-in-myth"
+    "animal-symbolism"
   ],
-  "runs": 14
+  "runs": 15
 }
