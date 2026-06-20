@@ -9,9 +9,10 @@
 | [great-flood](great-flood.md) | 大洪水傳說比較研究 |
 | [language-confusion](language-confusion.md) | 語言變亂：巴別塔與同類神話 |
 | [lost-continents](lost-continents.md) | 失落的陸塊：亞特蘭提斯與神話地 |
+| [magnetic-pole-shift](magnetic-pole-shift.md) | 天傾地陷：地磁極移的神話線索 |
 | [mountain-of-gods](mountain-of-gods.md) | 眾神之山：宇宙軸 |
 | [primordial-giants](primordial-giants.md) | 原始巨人型創世 |
 | [world-tree](world-tree.md) | 世界樹與宇宙樹 |
 
 
-*總計 8 個主題*
+*總計 9 個主題*
