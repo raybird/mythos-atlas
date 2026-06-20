@@ -4,6 +4,7 @@
 
 | 檔案 | 主題 |
 |------|------|
+| [afterlife-journey](afterlife-journey.md) | 冥界之旅與死後世界 |
 | [dragons-and-serpents](dragons-and-serpents.md) | 龍與巨蛇：跨文化水神 |
 | [great-flood](great-flood.md) | 大洪水傳說比較研究 |
 | [language-confusion](language-confusion.md) | 語言變亂：巴別塔與同類神話 |
@@ -11,4 +12,4 @@
 | [world-tree](world-tree.md) | 世界樹與宇宙樹 |
 
 
-*總計 5 個主題*
+*總計 6 個主題*
