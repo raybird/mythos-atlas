@@ -1,17 +1,17 @@
 #!/usr/bin/env python3
 """
-Mythos Atlas — 自動充實與探索腳本
-不再受限於固定框架：除了生成新條目，還會隨機探索、深化既有條目、
-產出跨文化分析與參考文獻，讓傳說資料庫持續成長。
+⚠️  DEPRECATED — 此腳本僅產生模板空殼內容。
 
-Usage:
-  python3 populate.py                          # 預設：探索模式（隨機挑選動作）
-  python3 populate.py --mode new               # 僅生成新條目
-  python3 populate.py --mode enrich            # 僅深化既有條目
-  python3 populate.py --mode analyze           # 僅產生分析文章
-  python3 populate.py --mode ref               # 僅產生參考文獻
-  python3 populate.py --batch 3                # 一次處理 3 項
-  python3 populate.py --random                 # 隨機選取而非依序
+請改用大語言模型（LLM）直接撰寫真實內容，填充 gods/、stories/、
+analyses/ 中的頁面。詳見 AGENTS.md。
+
+本腳本保留以供下列有限用途：
+  --mode ref   更新 references/ 中的跨文化參照矩陣
+  --mode new   產生 _catalog.json 中的新條目空白骨架（需後續手動填充）
+
+Usage (limited use only):
+  python3 populate.py --mode ref               # 更新參考文獻
+  python3 populate.py --mode new --batch 1      # 產生空白骨架
 """
 
 import json
