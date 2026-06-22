@@ -31,6 +31,7 @@
 - [Indo European Myth Connections](indo-european-myth-connections.md)
 - [Language Confusion Myths](language-confusion-myths.md)
 - [Lost Continents Comparative](lost-continents-comparative.md)
+- [Miraculous Birth Virgin Conception](miraculous-birth-virgin-conception.md)
 - [Moon Myths](moon-myths.md)
 - [Oracle Prophecy Divination Myths](oracle-prophecy-divination-myths.md)
 - [Origin Of Death](origin-of-death.md)
