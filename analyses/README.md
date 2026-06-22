@@ -49,6 +49,7 @@
 - [Sacrificial Creation](sacrificial-creation.md)
 - [Sea Deities Ocean Myths](sea-deities-ocean-myths.md)
 - [Shamanism In Myth](shamanism-in-myth.md)
+- [Spider and Weaving Myths](spider-weaving-myths.md)
 - [Smith Forge Gods Comparative](smith-forge-gods-comparative.md)
 - [Sun Myths](sun-myths.md)
 - [Threshold Crossroads Gods](threshold-crossroads-gods.md)
