@@ -1,0 +1,9 @@
+# 波斯神話 — 跨文化比較
+
+| 檔案 | 名稱 |
+|------|------|
+| [ahura-mazda-supreme-deities](ahura-mazda-supreme-deities.md) | ahura-mazda-supreme-deities |
+| [mithra-across-cultures](mithra-across-cultures.md) | mithra-across-cultures |
+
+---
+*Auto-generated on 2026-06-22 06:34 UTC*

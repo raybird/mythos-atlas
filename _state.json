@@ -4,17 +4,18 @@
   "enrich_log": [],
   "analysis_log": [
     "shamanism-in-myth",
-    "sun-myths",
-    "cosmic-egg",
-    "rainbow-myths",
-    "female-deities",
-    "origin-of-death",
-    "sacrificial-creation",
     "twin-myths",
-    "earth-diver-comparative",
     "sacred-mountains",
     "underworld-journey",
-    "animal-symbolism"
+    "female-deities",
+    "sacrificial-creation",
+    "sun-myths",
+    "animal-symbolism",
+    "sacred-mushroom-entheogen",
+    "earth-diver-comparative",
+    "cosmic-egg",
+    "rainbow-myths",
+    "origin-of-death"
   ],
-  "runs": 20
+  "runs": 22
 }

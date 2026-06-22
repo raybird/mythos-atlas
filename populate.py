@@ -65,6 +65,160 @@ def has_story_subpages(cid):
     return os.path.isdir(stories_dir) and len(os.listdir(stories_dir)) > 0
 
 
+# ── README generation ──────────────────────────────────────────────────────────
+
+def generate_sub_readme(dir_path, title, files, now):
+    lines = [
+        f"# {title}\n\n",
+        f"| 檔案 | 名稱 |\n",
+        f"|------|------|\n",
+    ]
+    for fname in sorted(files):
+        name = fname.replace(".md", "")
+        lines.append(f"| [{name}]({fname}) | {name} |\n")
+    lines.append(f"\n---\n*Auto-generated on {now}*\n")
+    with open(os.path.join(dir_path, "README.md"), "w", encoding="utf-8") as f:
+        f.writelines(lines)
+
+def update_main_readme(catalog, state):
+    readme_path = os.path.join(REPO, "README.md")
+    if not os.path.isfile(readme_path):
+        return
+    with open(readme_path, encoding="utf-8") as f:
+        content = f.read()
+
+    culture_count = len(catalog["cultures"])
+    theme_count = len(catalog["themes"])
+    existing_cultures = sum(1 for c in catalog["cultures"] if culture_exists(c["id"]))
+    existing_themes = sum(1 for t in catalog["themes"] if theme_exists(t["id"]))
+    analysis_count = len([f for f in os.listdir(ANALYSES_DIR) if f.endswith(".md")]) if os.path.isdir(ANALYSES_DIR) else 0
+    now = datetime.now().strftime('%Y-%m-%d %H:%M UTC')
+
+    stats_section = (
+        f"\n## 📊 當前狀態\n\n"
+        f"> 自動更新於 {now}\n\n"
+        f"| 類別 | 進度 |\n"
+        f"|------|------|\n"
+        f"| 文化體系 | {existing_cultures}/{culture_count} |\n"
+        f"| 跨文化主題 | {existing_themes}/{theme_count} |\n"
+        f"| 分析文章 | {analysis_count} |\n"
+        f"| 總執行次數 | {state['runs']} |\n\n"
+    )
+
+    marker_start = "<!-- STATS_START -->"
+    marker_end = "<!-- STATS_END -->"
+    if marker_start in content and marker_end in content:
+        pre = content[:content.find(marker_start) + len(marker_start)]
+        post = content[content.find(marker_end):]
+        content = pre + "\n" + stats_section + post
+    else:
+        content += "\n" + marker_start + "\n" + stats_section + marker_end + "\n"
+
+    with open(readme_path, "w", encoding="utf-8") as f:
+        f.write(content)
+
+def update_directory_readmes(catalog):
+    now = datetime.now().strftime('%Y-%m-%d %H:%M UTC')
+
+    # cultures/README.md
+    os.makedirs(CULTURES_DIR, exist_ok=True)
+    lines = [
+        "# 文化目錄\n\n",
+        "> 此目錄包含所有已收錄的神話文化體系，依文明或區域分門別類。\n\n",
+        "| 目錄 | 文化名稱 | 區域 |\n",
+        "|------|---------|------|\n",
+    ]
+    for cat in sorted(catalog["cultures"], key=lambda x: x.get("order", 999)):
+        cid = cat["id"]
+        if culture_exists(cid):
+            lines.append(f"| [{cid}]({cid}/index.md) | {cat['name']} ({cat['name_en']}) | {cat['region']} |\n")
+    lines.append(f"\n---\n*Auto-generated on {now}*\n")
+    with open(os.path.join(CULTURES_DIR, "README.md"), "w", encoding="utf-8") as f:
+        f.writelines(lines)
+
+    # themes/README.md
+    os.makedirs(THEMES_DIR, exist_ok=True)
+    lines = [
+        "# 主題目錄\n\n",
+        "> 跨文化神話主題分析，追蹤同一母題在不同文明中的表現形式與深層結構。\n\n",
+        "| 檔案 | 主題名稱 |\n",
+        "|------|---------|\n",
+    ]
+    for t in sorted(catalog["themes"], key=lambda x: x.get("order", 999)):
+        tid = t["id"]
+        if theme_exists(tid):
+            lines.append(f"| [{tid}]({tid}.md) | {t['name']} ({t['name_en']}) |\n")
+    lines.append(f"\n---\n*Auto-generated on {now}*\n")
+    with open(os.path.join(THEMES_DIR, "README.md"), "w", encoding="utf-8") as f:
+        f.writelines(lines)
+
+    # analyses/README.md
+    os.makedirs(ANALYSES_DIR, exist_ok=True)
+    lines = ["# 分析文章目錄\n\n", "> 跨文化比較神話學分析文章，探討各文明之間的深層連結。\n\n"]
+    for fname in sorted(os.listdir(ANALYSES_DIR)):
+        if fname.endswith(".md") and fname != "README.md":
+            title = fname.replace(".md", "").replace("-", " ").title()
+            lines.append(f"- [{title}]({fname})\n")
+    lines.append(f"\n---\n*Auto-generated on {now}*\n")
+    with open(os.path.join(ANALYSES_DIR, "README.md"), "w", encoding="utf-8") as f:
+        f.writelines(lines)
+
+    # references/README.md
+    os.makedirs(REFERENCES_DIR, exist_ok=True)
+    ref_files = [f for f in os.listdir(REFERENCES_DIR) if f.endswith(".md") and f != "README.md"]
+    lines = [
+        "# 參考文獻目錄\n\n",
+        "> 原始文獻索引、母題索引與跨文化參照矩陣，供深入研究使用。\n\n",
+    ]
+    for fname in sorted(ref_files):
+        name = fname.replace(".md", "")
+        lines.append(f"- [{name}]({fname})\n")
+    lines.append(f"\n---\n*Auto-generated on {now}*\n")
+    with open(os.path.join(REFERENCES_DIR, "README.md"), "w", encoding="utf-8") as f:
+        f.writelines(lines)
+
+    # Per-culture README.md
+    for cat in catalog["cultures"]:
+        cid = cat["id"]
+        cdir = os.path.join(CULTURES_DIR, cid)
+        if not os.path.isdir(cdir):
+            continue
+
+        lines = [
+            f"# {cat['name']} ({cat['name_en']})\n\n",
+            f"- **區域：** {cat['region']}\n",
+            f"- **時期：** {cat['era']}\n\n",
+            f"## 目錄\n\n",
+            f"- [文化總覽](index.md) — 該文化的完整神話介紹\n",
+        ]
+
+        gods_dir = os.path.join(cdir, "gods")
+        stories_dir = os.path.join(cdir, "stories")
+        comp_dir = os.path.join(cdir, "comparisons")
+
+        if os.path.isdir(gods_dir):
+            gods = sorted(f for f in os.listdir(gods_dir) if f.endswith(".md") and f != "README.md")
+            if gods:
+                lines.append(f"- [神祇列表](gods/) — {len(gods)} 位神祇\n")
+                generate_sub_readme(gods_dir, f"{cat['name']} — 神祇", gods, now)
+
+        if os.path.isdir(stories_dir):
+            stories = sorted(f for f in os.listdir(stories_dir) if f.endswith(".md") and f != "README.md")
+            if stories:
+                lines.append(f"- [故事列表](stories/) — {len(stories)} 則故事\n")
+                generate_sub_readme(stories_dir, f"{cat['name']} — 故事", stories, now)
+
+        if os.path.isdir(comp_dir):
+            comps = sorted(f for f in os.listdir(comp_dir) if f.endswith(".md") and f != "README.md")
+            if comps:
+                lines.append(f"- [跨文化比較](comparisons/) — {len(comps)} 篇比較\n")
+                generate_sub_readme(comp_dir, f"{cat['name']} — 跨文化比較", comps, now)
+
+        lines.append(f"\n---\n*Auto-generated on {now}*\n")
+        with open(os.path.join(cdir, "README.md"), "w", encoding="utf-8") as f:
+            f.writelines(lines)
+
+
 # ── Mode 1: Generate NEW entries ─────────────────────────────────────────────
 
 def generate_culture_index(cat):
@@ -375,78 +529,46 @@ def do_enrich(catalog, state, batch=1, random_mode=False):
 # ── Mode 3: ANALYZE — generate comparative analyses ─────────────────────────
 
 ANALYSIS_TEMPLATES = [
-    {
-        "slug": "female-deities",
-        "title": "女神崇拜比較研究",
-        "title_en": "Comparative Study of Goddess Worship",
-        "description": "跨文化中女神形象的比較——從大地母神到戰爭女神，從智慧女神到愛神。"
-    },
-    {
-        "slug": "underworld-journey",
-        "title": "冥界之旅：死亡與重生",
-        "title_en": "The Underworld Journey: Death and Rebirth",
-        "description": "英雄/神祇進入冥界並返回的主題，從伊南娜到奧菲斯，從伊邪那岐到耶穌。"
-    },
-    {
-        "slug": "animal-symbolism",
-        "title": "神話動物象徵體系",
-        "title_en": "Mythological Animal Symbolism",
-        "description": "龍、鳳凰、蛇、狼、熊、烏鴉等動物在不同神話體系中的象徵意義比較。"
-    },
-    {
-        "slug": "sacred-mountains",
-        "title": "聖山：天地之間的橋樑",
-        "title_en": "Sacred Mountains: Axis Mundi Across Cultures",
-        "description": "崑崙、須彌、奧林帕斯、西奈、富士——聖山作為宇宙軸心的跨文化比較。"
-    },
-    {
-        "slug": "origin-of-death",
-        "title": "死亡的起源：神話中的解釋",
-        "title_en": "The Origin of Death: Mythological Explanations",
-        "description": "為什麼人會死？——從月神訊息傳達失誤到香蕉樹神話，跨文化如何解釋死亡的起源。"
-    },
-    {
-        "slug": "rainbow-myths",
-        "title": "彩虹神話與象徵",
-        "title_en": "Rainbow Myths and Symbolism",
-        "description": "彩虹作為橋樑、蛇、神之弓的跨文化比較。"
-    },
-    {
-        "slug": "cosmic-egg",
-        "title": "宇宙卵：創世原型的全球比較",
-        "title_en": "The Cosmic Egg: A Global Creation Archetype",
-        "description": "從印度金卵到中國盤古卵，從芬蘭世界蛋到波利尼西亞宇宙蛋——卵生創世的跨文化比較。"
-    },
-    {
-        "slug": "sacrificial-creation",
-        "title": "犧牲創世：巨人化生萬物",
-        "title_en": "Sacrificial Creation: The Dismembered Giant",
-        "description": "盤古、Ymir、Purusha、Gayomart——巨人被殺後身體化為宇宙各部分的跨文化比較。"
-    },
-    {
-        "slug": "sun-myths",
-        "title": "太陽神話與太陽崇拜",
-        "title_en": "Sun Myths and Solar Worship",
-        "description": "從Ra的阿頓船到Inti的金子，從阿波羅的馬車到天照大神——太陽崇拜的跨文化比較。"
-    },
-    {
-        "slug": "twin-myths",
-        "title": "神話中的雙生子",
-        "title_en": "Twins in World Mythology",
-        "description": "創世雙子、英雄雙子、善惡雙子——雙生子神話的跨文化類型學。"
-    },
-    {
-        "slug": "earth-diver-comparative",
-        "title": "大地潛水者創世神話",
-        "title_en": "The Earth-Diver Creation Myth",
-        "description": "動物潛入原始海洋取泥造地的廣泛分布——從北亞到北美，從東歐到南亞。"
-    },
-    {
-        "slug": "shamanism-in-myth",
-        "title": "神話中的薩滿元素",
-        "title_en": "Shamanic Elements in World Mythology",
-        "description": "薩滿式靈魂旅程、宇宙樹、動物助手等元素在神話中的體現與比較。"
-    },
+    # ── Existing 12 templates (preserved) ──
+    {"slug": "female-deities", "title": "女神崇拜比較研究", "title_en": "Comparative Study of Goddess Worship", "description": "跨文化中女神形象的比較——從大地母神到戰爭女神，從智慧女神到愛神。"},
+    {"slug": "underworld-journey", "title": "冥界之旅：死亡與重生", "title_en": "The Underworld Journey: Death and Rebirth", "description": "英雄/神祇進入冥界並返回的主題，從伊南娜到奧菲斯，從伊邪那岐到耶穌。"},
+    {"slug": "animal-symbolism", "title": "神話動物象徵體系", "title_en": "Mythological Animal Symbolism", "description": "龍、鳳凰、蛇、狼、熊、烏鴉等動物在不同神話體系中的象徵意義比較。"},
+    {"slug": "sacred-mountains", "title": "聖山：天地之間的橋樑", "title_en": "Sacred Mountains: Axis Mundi Across Cultures", "description": "崑崙、須彌、奧林帕斯、西奈、富士——聖山作為宇宙軸心的跨文化比較。"},
+    {"slug": "origin-of-death", "title": "死亡的起源：神話中的解釋", "title_en": "The Origin of Death: Mythological Explanations", "description": "為什麼人會死？——從月神訊息傳達失誤到香蕉樹神話，跨文化如何解釋死亡的起源。"},
+    {"slug": "rainbow-myths", "title": "彩虹神話與象徵", "title_en": "Rainbow Myths and Symbolism", "description": "彩虹作為橋樑、蛇、神之弓的跨文化比較。"},
+    {"slug": "cosmic-egg", "title": "宇宙卵：創世原型的全球比較", "title_en": "The Cosmic Egg: A Global Creation Archetype", "description": "從印度金卵到中國盤古卵，從芬蘭世界蛋到波利尼西亞宇宙蛋——卵生創世的跨文化比較。"},
+    {"slug": "sacrificial-creation", "title": "犧牲創世：巨人化生萬物", "title_en": "Sacrificial Creation: The Dismembered Giant", "description": "盤古、Ymir、Purusha、Gayomart——巨人被殺後身體化為宇宙各部分的跨文化比較。"},
+    {"slug": "sun-myths", "title": "太陽神話與太陽崇拜", "title_en": "Sun Myths and Solar Worship", "description": "從Ra的阿頓船到Inti的金子，從阿波羅的馬車到天照大神——太陽崇拜的跨文化比較。"},
+    {"slug": "twin-myths", "title": "神話中的雙生子", "title_en": "Twins in World Mythology", "description": "創世雙子、英雄雙子、善惡雙子——雙生子神話的跨文化類型學。"},
+    {"slug": "earth-diver-comparative", "title": "大地潛水者創世神話", "title_en": "The Earth-Diver Creation Myth", "description": "動物潛入原始海洋取泥造地的廣泛分布——從北亞到北美，從東歐到南亞。"},
+    {"slug": "shamanism-in-myth", "title": "神話中的薩滿元素", "title_en": "Shamanic Elements in World Mythology", "description": "薩滿式靈魂旅程、宇宙樹、動物助手等元素在神話中的體現與比較。"},
+
+    # ── New templates (25 articles — geomythology, flood, pole-shift, lost worlds) ──
+    {"slug": "shanhaijing-mythological-geography", "title": "《山海經》神話地理的跨文化平行", "title_en": "Shanhaijing Mythological Geography: Cross-Cultural Parallels", "description": "崑崙、四方神、海外異域——《山海經》中的神話空間觀與其他文明（印度須彌山、希臘奧林帕斯、北歐九界）的地理宇宙論比較。"},
+    {"slug": "babel-post-flood-civilization", "title": "巴別塔與洪水後文明分散", "title_en": "Babel and Post-Diluvian Civilization Dispersal", "description": "洪水後人類分散（挪亞三子、巴別塔、伏羲女媧、大禹九鼎）的神話類型學——語言變亂是否記憶了史前遷徙事件。"},
+    {"slug": "geomythology-catastrophe-coding", "title": "地質神話學：自然災害如何編碼為神話", "title_en": "Geomythology: How Natural Catastrophes Become Myth", "description": "從共工觸山（地軸傾斜）到Thera火山（亞特蘭提斯），從冰壩潰決（大洪水）到隕石撞擊——神話如何保存地質災害的跨代記憶。"},
+    {"slug": "atlantis-santorini-connection", "title": "亞特蘭提斯的地質核心：錫拉火山與米諾斯文明", "title_en": "Atlantis and the Thera Eruption: Geological Core of a Myth", "description": "柏拉圖亞特蘭提斯敘事與錫拉火山爆發（~1600 BCE）摧毀米諾斯文明的比對——從地質證據到神話轉化的完整鏈條。"},
+    {"slug": "polar-wander-myths", "title": "地極漂移的神話痕跡", "title_en": "Polar Wander and Its Mythological Traces", "description": "天傾西北、地陷東南——從中國共工到希臘法厄同，從北歐世界傾斜到埃及天地分離：神話中保存的地極移動記憶。"},
+    {"slug": "pleistocene-megafauna-memory", "title": "更新世巨型動物在神話中的殘留記憶", "title_en": "Pleistocene Megafauna in Mythological Memory", "description": "猛獁象、大地懶、劍齒虎——各地神話中的巨獸描寫是否保留更新世滅絕動物的口傳記憶？從澳洲夢世紀到西伯利亞長毛象傳說。"},
+    {"slug": "precession-equinox-myths", "title": "歲差運動的神話編碼", "title_en": "Precession of the Equinoxes Encoded in Myth", "description": "世界年齡的週期（黃金、白銀、青銅、黑鐵時代）與歲差運動的對應——從希臘赫西俄德到印度Yuga、馬雅長曆法。"},
+    {"slug": "axis-mundi-comparative", "title": "宇宙軸心（Axis Mundi）的跨文化比較", "title_en": "The Axis Mundi Across Cultures", "description": "世界樹（Yggdrasil/建木）、聖山（崑崙/須彌/奧林帕斯）、世界支柱——宇宙軸心神話的三種基本形式的全球分布與深層結構。"},
+    {"slug": "golden-age-degeneration", "title": "黃金時代與人類退化神話", "title_en": "The Golden Age and Human Degeneration Myths", "description": "從赫西俄德五時代到印度四Yuga，從中國上古聖王到波斯的Gayomart——人類從完美走向墮落的跨文化敘事及其社會功能。"},
+    {"slug": "smiting-god-divine-punishment", "title": "擊打之神：神罰類型的跨文化比較", "title_en": "The Smiting God: Divine Punishment Across Cultures", "description": "雷擊（Tinia/Zeus/Indra）、洪水（Ea/Yahweh）、瘟疫（阿波羅/Resheph）、火焰（Sodom/Shango）——神罰的跨文化類型學。"},
+    {"slug": "deluge-survivor-technology", "title": "洪水倖存者與文明技術傳承", "title_en": "Deluge Survivors and the Transmission of Technology", "description": "從美索不達米亞Atrahasis的造船技術到挪亞的方舟、大禹的治水工程——洪水敘事中保存的古代技術知識。"},
+    {"slug": "stars-as-ancestors", "title": "星辰祖先與天界起源神話", "title_en": "Star Ancestors: Celestial Origins in World Mythology", "description": "從埃及法老昇星到波利尼西亞航海祖先，從中國星宿分野到馬雅銀河——人類將祖先起源投射於星辰的跨文化模式。"},
+    {"slug": "serpent-feathered-dragon", "title": "羽蛇/宇宙蛇/龍的神話演化", "title_en": "Feathered Serpents, Cosmic Serpents, and Dragons", "description": "從中美洲羽蛇神到中國龍，從北歐耶夢加得到印度那伽，從埃及阿佩普到澳洲彩虹蛇——蛇形神話生物的演化樹。"},
+    {"slug": "seven-sages-worldwide", "title": "七智者與文化英雄的全球分布", "title_en": "The Seven Sages and Culture Heroes Worldwide", "description": "美索不達米亞Apkallu、印度七仙人、希臘七賢、中國三皇五帝、波爾兄弟——文明奠基者的七人組原型比較。"},
+    {"slug": "sacred-mushroom-entheogen", "title": "神聖蘑菇與致幻植物在神話中的角色", "title_en": "Sacred Mushrooms and Entheogens in Mythology", "description": "從西伯利亞蠅傘到中美洲聖菇，從印度Soma到波斯Haoma，從亞馬遜死藤水到希臘Kykeon——致幻植物與宗教體驗的跨文化比較。"},
+    {"slug": "were-creatures-transformation", "title": "變形者：狼人/虎人/熊人神話比較", "title_en": "Were-Creatures: Lycanthropy and Therianthropy Across Cultures", "description": "從北歐Berserker到非洲豹人，從南美美洲虎薩滿到中國狐妖，從歐洲狼人到印度虎人——人類-動物變形的神話類型學。"},
+    {"slug": "bear-worship-comparative", "title": "熊崇拜的全球比較：從尼安德塔人到薩滿", "title_en": "Bear Worship Worldwide: From Neanderthals to Shamans", "description": "北極圈熊崇拜（薩米/尼夫赫/愛努）、北美原住民熊儀式、歐洲聖熊傳統、中國熊圖騰（黃帝有熊氏）——熊作為至上動物的跨文化證據。"},
+    {"slug": "three-worlds-cosmic-levels", "title": "三界宇宙觀的跨文化分布", "title_en": "The Three-World Cosmos Across Cultures", "description": "天堂/人間/冥界的三分宇宙模式——從北歐九界簡化為三界到中國天/地/水官，從印度Trailokya到基督教天堂/煉獄/地獄。"},
+    {"slug": "subterranean-worlds", "title": "地下世界與地心文明神話", "title_en": "Subterranean Worlds and Inner Earth Myths", "description": "阿加爾塔/香巴拉、地心空洞說、地下冥界入口——從宗教神話到現代祕密史的「地下文明」敘事傳統。"},
+    {"slug": "volcano-fire-mountains", "title": "火山神話與火山的跨文化解釋", "title_en": "Volcano Myths: Cross-Cultural Explanations of Eruptions", "description": "夏威夷Pele、日本富士山神、義大利Vulcan、中美洲波波卡特佩特、冰島Hekla——火山噴發在各文化中如何被神話化。"},
+    {"slug": "water-deities-comparative", "title": "水神/海神跨文化比較", "title_en": "Water Deities and Sea Gods Across Cultures", "description": "海神（Poseidon/Neptune/Njord）、河神（Oshun/Hapi/黃河伯）、雨神（Tlaloc/Chac/雷公）、泉神——水的神格化跨文化類型。"},
+    {"slug": "megalithic-world-age", "title": "巨石文明與世界年齡計算", "title_en": "Megalithic Monuments and the Age of the World", "description": "哥貝克力石陣、巨石陣、卡納克列石——神話中的上古巨人時代是否對應新石器時代的巨石建造者傳統。"},
+    {"slug": "hollow-earth-agartha", "title": "中空地球理論與阿加爾塔神話", "title_en": "The Hollow Earth Theory and the Myth of Agartha", "description": "從印度神話的Patala到佛教的香巴拉，從18世紀科學的Halley空心地球到神秘學的Agartha/Schamballah——地心神話的演化。"},
+    {"slug": "human-sacrifice-ritual", "title": "活人獻祭的神話基礎與儀式比較", "title_en": "Human Sacrifice: Mythological Foundations and Ritual Patterns", "description": "阿茲特克太陽祭、迦太基兒童祭、印度Sati、中國甲骨文中的獻祭記錄、北歐人祭——神話如何合理化獻祭行為。"},
+    {"slug": "cosmic-mill-myth", "title": "宇宙磨與天體運轉神話", "title_en": "The Cosmic Mill: Celestial Mechanics in Myth", "description": "北歐Frod麵粉磨（Mystery Mill）、芬蘭Sampo、中國天梯/璇璣玉衡、薩滿旋轉宇宙——天體運轉的神話化為旋轉巨輪/磨。"},
 ]
 
 def do_analyze(catalog, state, batch=1, random_mode=False):
@@ -679,6 +801,10 @@ def main():
     # Update indices after any changes
     update_cultures_index()
     update_themes_index()
+
+    # Update README files with current state
+    update_main_readme(catalog, state)
+    update_directory_readmes(catalog)
 
     save_state(state)
 
