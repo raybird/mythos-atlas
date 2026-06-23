@@ -6,6 +6,7 @@
 - [Ancestor Worship Comparative](ancestor-worship-comparative.md)
 - [Animal Symbolism](animal-symbolism.md)
 - [Astral Myths Stars Constellations](astral-myths-stars-constellations.md)
+- [Bull and Cattle Myths Comparative](bull-cattle-myths-comparative.md)
 - [Chaoskampf Order Vs Chaos](chaoskampf-order-vs-chaos.md)
 - [Cosmic Egg](cosmic-egg.md)
 - [Cosmic Tree World Tree](cosmic-tree-world-tree.md)
