@@ -7,4 +7,4 @@
 | [missing-god-global](missing-god-global.md) | missing-god-global |
 
 ---
-*Auto-generated on 2026-06-23 12:33 UTC*
+*Auto-generated on 2026-06-23 14:10 UTC*

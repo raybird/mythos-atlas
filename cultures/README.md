@@ -50,4 +50,4 @@
 | [tupi-guarani](tupi-guarani/index.md) | 圖皮-瓜拉尼神話 (Tupi-Guarani Mythology) | 南美洲—巴西/巴拉圭/玻利維亞 |
 
 ---
-*Auto-generated on 2026-06-23 12:33 UTC*
+*Auto-generated on 2026-06-23 14:10 UTC*

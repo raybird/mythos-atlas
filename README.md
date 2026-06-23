@@ -103,14 +103,14 @@ mythos-atlas/
 
 ## 📊 當前狀態
 
-> 自動更新於 2026-06-23 12:33 UTC
+> 自動更新於 2026-06-23 14:10 UTC
 
 | 類別 | 進度 |
 |------|------|
 | 文化體系 | 44/44 |
 | 跨文化主題 | 26/26 |
 | 分析文章 | 78 |
-| 總執行次數 | 34 |
+| 總執行次數 | 35 |
 
 <!-- STATS_END -->
 
@@ -135,14 +135,14 @@ mythos-atlas/
 | [印加神話](cultures/incan/) | 南美洲—安地斯山脈 | 5 | 2 | 2 |
 | [凱爾特神話](cultures/celtic/) | 西歐—愛爾蘭/不列顛/高盧 | 6 | 4 | 2 |
 | [斯拉夫神話](cultures/slavic/) | 東歐—巴爾幹 | 8 | 3 | 2 |
-| [波斯神話](cultures/persian/) | 伊朗高原 | 3 | 2 | 2 |
+| [波斯神話](cultures/persian/) | 伊朗高原 | 4 | 3 | 3 |
 | [韓國神話](cultures/korean/) | 東亞—朝鮮半島 | 4 | 3 | 3 |
 | [芬蘭-烏戈爾神話](cultures/finno-ugric/) | 北歐—烏拉爾地區 | 6 | 3 | 3 |
 | [西藏神話](cultures/tibetan/) | 青藏高原 | 6 | 4 | 4 |
 | [蘇美神話](cultures/sumerian/) | 美索不達米亞南部 | 7 | 4 | 4 |
 | [腓尼基神話](cultures/phoenician/) | 黎凡特—迦南 | 5 | 2 | 2 |
 | [赫梯神話](cultures/hittite/) | 安納托利亞 | 6 | 3 | 3 |
-| [約魯巴神話](cultures/yoruba/) | 西非—奈及利亞/貝南 | 3 | 2 | 2 |
+| [約魯巴神話](cultures/yoruba/) | 西非—奈及利亞/貝南 | 6 | 4 | 4 |
 | [蒙古神話](cultures/mongolian/) | 中亞—蒙古高原 | 3 | 3 | 2 |
 | [愛努神話](cultures/ainu/) | 北海道—庫頁島—千島群島 | 6 | 3 | 3 |
 | [伊特魯里亞神話](cultures/etruscan/) | 義大利—托斯卡尼 | 5 | 3 | 2 |
@@ -161,7 +161,7 @@ mythos-atlas/
 | [米諾斯神話](cultures/minoan/) | 愛琴海—克里特島 | 6 | 3 | 3 |
 | [努比亞/庫什神話](cultures/nubian/) | 東北非—尼羅河上游/蘇丹 | 5 | 3 | 3 |
 | [馬普切神話](cultures/mapuche/) | 南美洲—智利/阿根廷 | 5 | 3 | 2 |
-| [薩米神話](cultures/sami/) | 北歐—芬諾斯堪的亞 | 3 | 3 | 2 |
+| [薩米神話](cultures/sami/) | 北歐—芬諾斯堪的亞 | 6 | 5 | 4 |
 | [西伯利亞神話](cultures/siberian/) | 西伯利亞—通古斯/雅庫特/楚科奇 | 5 | 5 | 1 |
 | [圖皮-瓜拉尼神話](cultures/tupi-guarani/) | 南美洲—巴西/巴拉圭/玻利維亞 | 4 | 3 | 2 |
 
