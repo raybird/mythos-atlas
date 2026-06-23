@@ -4,7 +4,8 @@
   "enrich_log": [
     "slavic",
     "mayan",
-    "sami"
+    "sami",
+    "caucasian"
   ],
   "analysis_log": [
     "sacrificial-creation",

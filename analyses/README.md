@@ -27,6 +27,7 @@
 - [Eschatology Apocalyptic Myths](eschatology-apocalyptic-myths.md)
 - [Fate Goddesses Destiny](fate-goddesses-destiny.md)
 - [Female Deities](female-deities.md)
+- [Feline Myths Comparative](feline-myths-comparative.md)
 - [Fire Myths](fire-myths.md)
 - [Flood Myths Geological Origins](flood-myths-geological-origins.md)
 - [Fox Spirits Comparative](fox-spirits-comparative.md)
