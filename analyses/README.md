@@ -7,6 +7,7 @@
 - [Animal Symbolism](animal-symbolism.md)
 - [Astral Myths Stars Constellations](astral-myths-stars-constellations.md)
 - [Axis Mundi Comparative](axis-mundi-comparative.md)
+- [Bear Myths Comparative](bear-myths-comparative.md)
 - [Bee Honey Sacred Myths](bee-honey-sacred-myths.md)
 - [Bull Cattle Myths Comparative](bull-cattle-myths-comparative.md)
 - [Chaoskampf Order Vs Chaos](chaoskampf-order-vs-chaos.md)
