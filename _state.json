@@ -1,7 +1,7 @@
 {
   "new_index": 0,
   "theme_index": 0,
-  "enrich_log": [],
+  "enrich_log": ["slavic"],
   "analysis_log": [
     "sacrificial-creation",
     "origin-of-death",
