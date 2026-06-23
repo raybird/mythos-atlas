@@ -52,6 +52,7 @@
 - [Psychopomp Comparative](psychopomp-comparative.md)
 - [Psychostasia Judgment Of The Dead](psychostasia-judgment-of-the-dead.md)
 - [Rainbow Myths](rainbow-myths.md)
+- [Ravens Crows Mythology](ravens-crows-mythology.md)
 - [Reincarnation Metempsychosis](reincarnation-metempsychosis.md)
 - [Sacred Architecture Temple Myths](sacred-architecture-temple-myths.md)
 - [Sacred Kingship Comparative](sacred-kingship-comparative.md)
@@ -77,7 +78,8 @@
 - [Underworld Journey](underworld-journey.md)
 - [War Gods Comparative](war-gods-comparative.md)
 - [Wind Deities Comparative](wind-deities-comparative.md)
+- [Wisdom Gods Comparative](wisdom-gods-comparative.md)
 - [World Parents Separation](world-parents-separation.md)
 
 ---
-*Auto-generated on 2026-06-23 10:38 UTC*
+*Auto-generated on 2026-06-23 12:33 UTC*

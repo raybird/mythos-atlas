@@ -103,14 +103,14 @@ mythos-atlas/
 
 ## 📊 當前狀態
 
-> 自動更新於 2026-06-23 10:38 UTC
+> 自動更新於 2026-06-23 12:33 UTC
 
 | 類別 | 進度 |
 |------|------|
 | 文化體系 | 44/44 |
 | 跨文化主題 | 26/26 |
-| 分析文章 | 76 |
-| 總執行次數 | 33 |
+| 分析文章 | 78 |
+| 總執行次數 | 34 |
 
 <!-- STATS_END -->
 
@@ -171,9 +171,10 @@ mythos-atlas/
 
 ## 📝 分析文章
 
-> 跨文化比較神話學分析文章。共 76 篇。
+> 跨文化比較神話學分析文章。共 78 篇。
 
 - [World Parents Separation](analyses/world-parents-separation.md)
+- [Wisdom Gods Comparative](analyses/wisdom-gods-comparative.md)
 - [Wind Deities Comparative](analyses/wind-deities-comparative.md)
 - [War Gods Comparative](analyses/war-gods-comparative.md)
 - [Underworld Journey](analyses/underworld-journey.md)
@@ -192,9 +193,8 @@ mythos-atlas/
 - [Sacred Waters Springs](analyses/sacred-waters-springs.md)
 - [Sacred Rivers Myths](analyses/sacred-rivers-myths.md)
 - [Sacred Plants Entheogens](analyses/sacred-plants-entheogens.md)
-- [Sacred Numbers Cosmic Order](analyses/sacred-numbers-cosmic-order.md)
 
-... 及另外 56 篇
+... 及另外 58 篇
 
 <!-- ANALYSES_END -->
 
