@@ -2,7 +2,8 @@
   "new_index": 0,
   "theme_index": 0,
   "enrich_log": [
-    "slavic"
+    "slavic",
+    "mayan"
   ],
   "analysis_log": [
     "sacrificial-creation",
