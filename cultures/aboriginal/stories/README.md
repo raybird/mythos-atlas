@@ -2,7 +2,9 @@
 
 | 檔案 | 名稱 |
 |------|------|
+| [Seven-Sisters](Seven-Sisters.md) | Seven-Sisters |
+| [Tiddalik-Frog](Tiddalik-Frog.md) | Tiddalik-Frog |
 | [rainbow-serpent](rainbow-serpent.md) | rainbow-serpent |
 
 ---
-*Auto-generated on 2026-06-23 06:37 UTC*
+*Auto-generated on 2026-06-23 08:09 UTC*

@@ -103,14 +103,14 @@ mythos-atlas/
 
 ## 📊 當前狀態
 
-> 自動更新於 2026-06-23 06:37 UTC
+> 自動更新於 2026-06-23 08:09 UTC
 
 | 類別 | 進度 |
 |------|------|
 | 文化體系 | 44/44 |
 | 跨文化主題 | 26/26 |
 | 分析文章 | 76 |
-| 總執行次數 | 30 |
+| 總執行次數 | 32 |
 
 <!-- STATS_END -->
 
@@ -129,12 +129,12 @@ mythos-atlas/
 | [馬雅神話](cultures/mayan/) | 中美洲 | 3 | 2 | 1 |
 | [日本神話](cultures/japanese/) | 東亞—日本列島 | 6 | 3 | 1 |
 | [波利尼西亞神話](cultures/polynesian/) | 太平洋島嶼 | 6 | 3 | 3 |
-| [澳洲原住民神話](cultures/aboriginal/) | 大洋洲—澳洲 | 3 | 1 | 1 |
+| [澳洲原住民神話](cultures/aboriginal/) | 大洋洲—澳洲 | 5 | 3 | 3 |
 | [非洲諸神話](cultures/african/) | 撒哈拉以南非洲 | 7 | 4 | 2 |
 | [美洲原住民神話](cultures/indigenous-americas/) | 北美洲 | 5 | 4 | 2 |
 | [印加神話](cultures/incan/) | 南美洲—安地斯山脈 | 5 | 2 | 2 |
 | [凱爾特神話](cultures/celtic/) | 西歐—愛爾蘭/不列顛/高盧 | 6 | 4 | 2 |
-| [斯拉夫神話](cultures/slavic/) | 東歐—巴爾幹 | 4 | 1 | 1 |
+| [斯拉夫神話](cultures/slavic/) | 東歐—巴爾幹 | 8 | 3 | 2 |
 | [波斯神話](cultures/persian/) | 伊朗高原 | 3 | 2 | 2 |
 | [韓國神話](cultures/korean/) | 東亞—朝鮮半島 | 4 | 3 | 3 |
 | [芬蘭-烏戈爾神話](cultures/finno-ugric/) | 北歐—烏拉爾地區 | 6 | 3 | 3 |
@@ -149,7 +149,7 @@ mythos-atlas/
 | [巴斯克神話](cultures/basque/) | 西歐—庇里牛斯山脈 | 3 | 3 | 3 |
 | [波羅的神話](cultures/baltic/) | 東歐—波羅的海沿岸 | 5 | 4 | 3 |
 | [越南神話](cultures/vietnamese/) | 東南亞—紅河流域 | 3 | 3 | 3 |
-| [因紐特神話](cultures/inuit/) | 北極—阿拉斯加/加拿大/格陵蘭 | 3 | 1 | 1 |
+| [因紐特神話](cultures/inuit/) | 北極—阿拉斯加/加拿大/格陵蘭 | 5 | 3 | 3 |
 | [亞美尼亞神話](cultures/armenian/) | 南高加索—亞美尼亞高原 | 6 | 4 | 4 |
 | [菲律賓神話](cultures/philippine/) | 東南亞—菲律賓群島 | 4 | 3 | 2 |
 | [高加索神話](cultures/caucasian/) | 高加索山脈(奧塞提亞/切爾克斯/阿布哈茲) | 4 | 2 | 2 |

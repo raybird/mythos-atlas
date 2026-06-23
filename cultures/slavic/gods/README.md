@@ -3,9 +3,13 @@
 | 檔案 | 名稱 |
 |------|------|
 | [Dazbog](Dazbog.md) | Dazbog |
+| [Jarilo](Jarilo.md) | Jarilo |
+| [Marzanna](Marzanna.md) | Marzanna |
+| [Mokosh](Mokosh.md) | Mokosh |
 | [Perun](Perun.md) | Perun |
+| [Stribog](Stribog.md) | Stribog |
 | [Svarog](Svarog.md) | Svarog |
 | [Veles](Veles.md) | Veles |
 
 ---
-*Auto-generated on 2026-06-23 06:37 UTC*
+*Auto-generated on 2026-06-23 08:09 UTC*

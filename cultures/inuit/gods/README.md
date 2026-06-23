@@ -3,8 +3,10 @@
 | 檔案 | 名稱 |
 |------|------|
 | [Angakkuq](Angakkuq.md) | Angakkuq |
+| [Aningan-Malina](Aningan-Malina.md) | Aningan-Malina |
 | [Inuit-Spirit-Pantheon](Inuit-Spirit-Pantheon.md) | Inuit-Spirit-Pantheon |
+| [Nanook-Amarok](Nanook-Amarok.md) | Nanook-Amarok |
 | [Sedna](Sedna.md) | Sedna |
 
 ---
-*Auto-generated on 2026-06-23 06:37 UTC*
+*Auto-generated on 2026-06-23 08:09 UTC*

@@ -2,7 +2,9 @@
 
 | 檔案 | 名稱 |
 |------|------|
+| [kiviuq-journey](kiviuq-journey.md) | kiviuq-journey |
+| [qallupilluit-amarok](qallupilluit-amarok.md) | qallupilluit-amarok |
 | [sedna-and-the-shaman](sedna-and-the-shaman.md) | sedna-and-the-shaman |
 
 ---
-*Auto-generated on 2026-06-23 06:37 UTC*
+*Auto-generated on 2026-06-23 08:09 UTC*

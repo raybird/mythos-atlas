@@ -3,6 +3,7 @@
 | 檔案 | 名稱 |
 |------|------|
 | [indo-european-thunder-gods](indo-european-thunder-gods.md) | indo-european-thunder-gods |
+| [slavic-baltic-norse](slavic-baltic-norse.md) | slavic-baltic-norse |
 
 ---
-*Auto-generated on 2026-06-23 06:37 UTC*
+*Auto-generated on 2026-06-23 08:09 UTC*
