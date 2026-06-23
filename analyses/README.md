@@ -7,6 +7,7 @@
 - [Animal Symbolism](animal-symbolism.md)
 - [Astral Myths Stars Constellations](astral-myths-stars-constellations.md)
 - [Axis Mundi Comparative](axis-mundi-comparative.md)
+- [Babel Post Flood Civilization](babel-post-flood-civilization.md)
 - [Bear Myths Comparative](bear-myths-comparative.md)
 - [Bee Honey Sacred Myths](bee-honey-sacred-myths.md)
 - [Bull Cattle Myths Comparative](bull-cattle-myths-comparative.md)
@@ -28,6 +29,7 @@
 - [Female Deities](female-deities.md)
 - [Fire Myths](fire-myths.md)
 - [Flood Myths Geological Origins](flood-myths-geological-origins.md)
+- [Fox Spirits Comparative](fox-spirits-comparative.md)
 - [Giant Myths Comparative](giant-myths-comparative.md)
 - [Golden Age Paradise Myths](golden-age-paradise-myths.md)
 - [Healing Medicine Myths](healing-medicine-myths.md)
@@ -58,6 +60,7 @@
 - [Sacred Mushroom Entheogen](sacred-mushroom-entheogen.md)
 - [Sacred Numbers Cosmic Order](sacred-numbers-cosmic-order.md)
 - [Sacred Plants Entheogens](sacred-plants-entheogens.md)
+- [Sacred Rivers Myths](sacred-rivers-myths.md)
 - [Sacred Waters Springs](sacred-waters-springs.md)
 - [Sacrificial Creation](sacrificial-creation.md)
 - [Sea Deities Ocean Myths](sea-deities-ocean-myths.md)
@@ -77,4 +80,4 @@
 - [World Parents Separation](world-parents-separation.md)
 
 ---
-*Auto-generated on 2026-06-23 01:12 UTC*
+*Auto-generated on 2026-06-23 06:37 UTC*

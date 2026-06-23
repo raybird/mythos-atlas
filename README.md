@@ -103,14 +103,14 @@ mythos-atlas/
 
 ## 📊 當前狀態
 
-> 自動更新於 2026-06-23 01:12 UTC
+> 自動更新於 2026-06-23 06:37 UTC
 
 | 類別 | 進度 |
 |------|------|
 | 文化體系 | 44/44 |
 | 跨文化主題 | 26/26 |
-| 分析文章 | 72 |
-| 總執行次數 | 27 |
+| 分析文章 | 76 |
+| 總執行次數 | 30 |
 
 <!-- STATS_END -->
 
@@ -152,14 +152,14 @@ mythos-atlas/
 | [因紐特神話](cultures/inuit/) | 北極—阿拉斯加/加拿大/格陵蘭 | 3 | 1 | 1 |
 | [亞美尼亞神話](cultures/armenian/) | 南高加索—亞美尼亞高原 | 6 | 4 | 4 |
 | [菲律賓神話](cultures/philippine/) | 東南亞—菲律賓群島 | 4 | 3 | 2 |
-| [高加索神話](cultures/caucasian/) | 高加索山脈(奧塞提亞/切爾克斯/阿布哈茲) | 3 | 1 | 1 |
+| [高加索神話](cultures/caucasian/) | 高加索山脈(奧塞提亞/切爾克斯/阿布哈茲) | 4 | 2 | 2 |
 | [達基亞/羅馬尼亞神話](cultures/dacian/) | 東南歐—喀爾巴阡山脈 | 4 | 5 | 1 |
 | [羅馬神話](cultures/roman/) | 地中海—義大利半島 | 8 | 3 | 3 |
 | [前伊斯蘭阿拉伯神話](cultures/pre-islamic-arabian/) | 阿拉伯半島 | 6 | 3 | 3 |
 | [毛利神話](cultures/maori/) | 紐西蘭—玻里尼西亞三角 | 5 | 3 | 3 |
 | [斯基泰神話](cultures/scythian/) | 歐亞草原—黑海北岸至阿爾泰 | 9 | 4 | 4 |
-| [米諾斯神話](cultures/minoan/) | 愛琴海—克里特島 | 3 | 1 | 1 |
-| [努比亞/庫什神話](cultures/nubian/) | 東北非—尼羅河上游/蘇丹 | 3 | 1 | 1 |
+| [米諾斯神話](cultures/minoan/) | 愛琴海—克里特島 | 6 | 3 | 3 |
+| [努比亞/庫什神話](cultures/nubian/) | 東北非—尼羅河上游/蘇丹 | 5 | 3 | 3 |
 | [馬普切神話](cultures/mapuche/) | 南美洲—智利/阿根廷 | 5 | 3 | 2 |
 | [薩米神話](cultures/sami/) | 北歐—芬諾斯堪的亞 | 3 | 3 | 2 |
 | [西伯利亞神話](cultures/siberian/) | 西伯利亞—通古斯/雅庫特/楚科奇 | 5 | 5 | 1 |
@@ -171,7 +171,7 @@ mythos-atlas/
 
 ## 📝 分析文章
 
-> 跨文化比較神話學分析文章。共 72 篇。
+> 跨文化比較神話學分析文章。共 76 篇。
 
 - [World Parents Separation](analyses/world-parents-separation.md)
 - [Wind Deities Comparative](analyses/wind-deities-comparative.md)
@@ -190,11 +190,11 @@ mythos-atlas/
 - [Sea Deities Ocean Myths](analyses/sea-deities-ocean-myths.md)
 - [Sacrificial Creation](analyses/sacrificial-creation.md)
 - [Sacred Waters Springs](analyses/sacred-waters-springs.md)
+- [Sacred Rivers Myths](analyses/sacred-rivers-myths.md)
 - [Sacred Plants Entheogens](analyses/sacred-plants-entheogens.md)
 - [Sacred Numbers Cosmic Order](analyses/sacred-numbers-cosmic-order.md)
-- [Sacred Mushroom Entheogen](analyses/sacred-mushroom-entheogen.md)
 
-... 及另外 52 篇
+... 及另外 56 篇
 
 <!-- ANALYSES_END -->
 

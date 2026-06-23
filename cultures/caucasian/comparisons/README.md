@@ -3,6 +3,7 @@
 | 檔案 | 名稱 |
 |------|------|
 | [nart-heroes-global](nart-heroes-global.md) | nart-heroes-global |
+| [sole-weakness-global](sole-weakness-global.md) | sole-weakness-global |
 
 ---
-*Auto-generated on 2026-06-23 01:12 UTC*
+*Auto-generated on 2026-06-23 06:37 UTC*

@@ -3,8 +3,9 @@
 | 檔案 | 名稱 |
 |------|------|
 | [Caucasian-Pantheon](Caucasian-Pantheon.md) | Caucasian-Pantheon |
+| [Satana-Nart-Wisdom](Satana-Nart-Wisdom.md) | Satana-Nart-Wisdom |
 | [Sosruko](Sosruko.md) | Sosruko |
 | [Underworld-Deities](Underworld-Deities.md) | Underworld-Deities |
 
 ---
-*Auto-generated on 2026-06-23 01:12 UTC*
+*Auto-generated on 2026-06-23 06:37 UTC*

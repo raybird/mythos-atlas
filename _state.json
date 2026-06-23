@@ -3,22 +3,24 @@
   "theme_index": 0,
   "enrich_log": [],
   "analysis_log": [
-    "sacred-mountains",
+    "sacrificial-creation",
+    "origin-of-death",
+    "shamanism-in-myth",
+    "underworld-journey",
+    "sun-myths",
+    "cosmic-egg",
+    "twin-myths",
+    "shanhaijing-mythological-geography",
+    "babel-post-flood-civilization",
     "animal-symbolism",
+    "sacred-mountains",
     "axis-mundi-comparative",
     "cosmic-mill-myth",
-    "rainbow-myths",
-    "cosmic-egg",
-    "origin-of-death",
-    "underworld-journey",
-    "sacrificial-creation",
     "female-deities",
-    "twin-myths",
-    "shamanism-in-myth",
-    "sun-myths",
+    "rainbow-myths",
     "earth-diver-comparative",
     "sacred-mushroom-entheogen",
-    "shanhaijing-mythological-geography"
+    "sacred-rivers-myths"
   ],
-  "runs": 27
+  "runs": 30
 }

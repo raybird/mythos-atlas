@@ -3,6 +3,8 @@
 | 檔案 | 名稱 |
 |------|------|
 | [aspelta-coronation](aspelta-coronation.md) | aspelta-coronation |
+| [piye-conquest](piye-conquest.md) | piye-conquest |
+| [taharqa-assyria](taharqa-assyria.md) | taharqa-assyria |
 
 ---
-*Auto-generated on 2026-06-23 01:12 UTC*
+*Auto-generated on 2026-06-23 06:37 UTC*

@@ -8,4 +8,4 @@
 | [padmasambhava-subdues-mountain-god](padmasambhava-subdues-mountain-god.md) | padmasambhava-subdues-mountain-god |
 
 ---
-*Auto-generated on 2026-06-23 01:12 UTC*
+*Auto-generated on 2026-06-23 06:37 UTC*
