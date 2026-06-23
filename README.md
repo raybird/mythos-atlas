@@ -103,14 +103,14 @@ mythos-atlas/
 
 ## 📊 當前狀態
 
-> 自動更新於 2026-06-23 18:36 UTC
+> 自動更新於 2026-06-23 20:09 UTC
 
 | 類別 | 進度 |
 |------|------|
 | 文化體系 | 44/44 |
 | 跨文化主題 | 26/26 |
 | 分析文章 | 81 |
-| 總執行次數 | 38 |
+| 總執行次數 | 39 |
 
 <!-- STATS_END -->
 
@@ -132,7 +132,7 @@ mythos-atlas/
 | [澳洲原住民神話](cultures/aboriginal/) | 大洋洲—澳洲 | 5 | 3 | 3 |
 | [非洲諸神話](cultures/african/) | 撒哈拉以南非洲 | 7 | 4 | 2 |
 | [美洲原住民神話](cultures/indigenous-americas/) | 北美洲 | 5 | 4 | 2 |
-| [印加神話](cultures/incan/) | 南美洲—安地斯山脈 | 5 | 2 | 2 |
+| [印加神話](cultures/incan/) | 南美洲—安地斯山脈 | 6 | 3 | 3 |
 | [凱爾特神話](cultures/celtic/) | 西歐—愛爾蘭/不列顛/高盧 | 6 | 4 | 2 |
 | [斯拉夫神話](cultures/slavic/) | 東歐—巴爾幹 | 8 | 3 | 2 |
 | [波斯神話](cultures/persian/) | 伊朗高原 | 5 | 4 | 4 |
@@ -143,7 +143,7 @@ mythos-atlas/
 | [腓尼基神話](cultures/phoenician/) | 黎凡特—迦南 | 5 | 2 | 2 |
 | [赫梯神話](cultures/hittite/) | 安納托利亞 | 6 | 3 | 3 |
 | [約魯巴神話](cultures/yoruba/) | 西非—奈及利亞/貝南 | 6 | 4 | 4 |
-| [蒙古神話](cultures/mongolian/) | 中亞—蒙古高原 | 3 | 3 | 2 |
+| [蒙古神話](cultures/mongolian/) | 中亞—蒙古高原 | 4 | 4 | 3 |
 | [愛努神話](cultures/ainu/) | 北海道—庫頁島—千島群島 | 6 | 3 | 3 |
 | [伊特魯里亞神話](cultures/etruscan/) | 義大利—托斯卡尼 | 5 | 3 | 2 |
 | [巴斯克神話](cultures/basque/) | 西歐—庇里牛斯山脈 | 3 | 3 | 3 |
@@ -151,7 +151,7 @@ mythos-atlas/
 | [越南神話](cultures/vietnamese/) | 東南亞—紅河流域 | 3 | 3 | 3 |
 | [因紐特神話](cultures/inuit/) | 北極—阿拉斯加/加拿大/格陵蘭 | 5 | 3 | 3 |
 | [亞美尼亞神話](cultures/armenian/) | 南高加索—亞美尼亞高原 | 6 | 4 | 4 |
-| [菲律賓神話](cultures/philippine/) | 東南亞—菲律賓群島 | 4 | 3 | 2 |
+| [菲律賓神話](cultures/philippine/) | 東南亞—菲律賓群島 | 7 | 5 | 4 |
 | [高加索神話](cultures/caucasian/) | 高加索山脈(奧塞提亞/切爾克斯/阿布哈茲) | 7 | 4 | 4 |
 | [達基亞/羅馬尼亞神話](cultures/dacian/) | 東南歐—喀爾巴阡山脈 | 4 | 5 | 1 |
 | [羅馬神話](cultures/roman/) | 地中海—義大利半島 | 8 | 3 | 3 |

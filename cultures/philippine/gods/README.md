@@ -2,10 +2,13 @@
 
 | 檔案 | 名稱 |
 |------|------|
+| [Apolaki](Apolaki.md) | Apolaki |
 | [Bakunawa](Bakunawa.md) | Bakunawa |
 | [Bathala](Bathala.md) | Bathala |
 | [Lakapati](Lakapati.md) | Lakapati |
 | [MalakasMaganda](MalakasMaganda.md) | MalakasMaganda |
+| [Mayari](Mayari.md) | Mayari |
+| [Sidapa](Sidapa.md) | Sidapa |
 
 ---
-*Auto-generated on 2026-06-23 18:36 UTC*
+*Auto-generated on 2026-06-23 20:09 UTC*

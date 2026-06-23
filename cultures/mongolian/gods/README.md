@@ -3,9 +3,9 @@
 | 檔案 | 名稱 |
 |------|------|
 | [Bai-Ulgan](Bai-Ulgan.md) | Bai-Ulgan |
-| [Daichi-Tengri](Daichi-Tengri.md) | Daichi Tengri (岱欽騰格里/戰神) |
+| [Daichi-Tengri](Daichi-Tengri.md) | Daichi-Tengri |
 | [Erlik-Khan](Erlik-Khan.md) | Erlik-Khan |
 | [Tengri](Tengri.md) | Tengri |
 
 ---
-*Auto-generated on 2026-06-23 18:36 UTC*
+*Auto-generated on 2026-06-23 20:09 UTC*

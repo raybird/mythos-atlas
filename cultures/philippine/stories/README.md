@@ -5,6 +5,8 @@
 | [Bakunawa吞月傳說](Bakunawa吞月傳說.md) | Bakunawa吞月傳說 |
 | [Malakas與Maganda竹中誕生](Malakas與Maganda竹中誕生.md) | Malakas與Maganda竹中誕生 |
 | [MariangMakiling山靈傳說](MariangMakiling山靈傳說.md) | MariangMakiling山靈傳說 |
+| [mayari-apolaki-battle](mayari-apolaki-battle.md) | mayari-apolaki-battle |
+| [philippine-creation](philippine-creation.md) | philippine-creation |
 
 ---
-*Auto-generated on 2026-06-23 18:36 UTC*
+*Auto-generated on 2026-06-23 20:09 UTC*
