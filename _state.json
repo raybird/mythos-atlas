@@ -1,7 +1,9 @@
 {
   "new_index": 0,
   "theme_index": 0,
-  "enrich_log": ["slavic"],
+  "enrich_log": [
+    "slavic"
+  ],
   "analysis_log": [
     "sacrificial-creation",
     "origin-of-death",
@@ -22,5 +24,5 @@
     "sacred-mushroom-entheogen",
     "sacred-rivers-myths"
   ],
-  "runs": 32
+  "runs": 33
 }

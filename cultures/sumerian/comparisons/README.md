@@ -2,10 +2,10 @@
 
 | 檔案 | 名稱 |
 |------|------|
-| [flood-myth-anunnaki](flood-myth-anunnaki.md) | 蘇美洪水神話的影響譜系 |
-| [creation-primordial-waters](creation-primordial-waters.md) | 創世原水跨文化比較 |
-| [underworld-descent](underworld-descent.md) | 冥界之旅跨文化比較 |
-| [divine-kingship](divine-kingship.md) | 神聖王權跨文化比較 |
+| [creation-primordial-waters](creation-primordial-waters.md) | creation-primordial-waters |
+| [divine-kingship](divine-kingship.md) | divine-kingship |
+| [flood-myth-anunnaki](flood-myth-anunnaki.md) | flood-myth-anunnaki |
+| [underworld-descent](underworld-descent.md) | underworld-descent |
 
 ---
-*Auto-generated on 2026-06-23 08:09 UTC*
+*Auto-generated on 2026-06-23 10:38 UTC*

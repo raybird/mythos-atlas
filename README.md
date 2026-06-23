@@ -103,14 +103,14 @@ mythos-atlas/
 
 ## 📊 當前狀態
 
-> 自動更新於 2026-06-23 08:09 UTC
+> 自動更新於 2026-06-23 10:38 UTC
 
 | 類別 | 進度 |
 |------|------|
 | 文化體系 | 44/44 |
 | 跨文化主題 | 26/26 |
 | 分析文章 | 76 |
-| 總執行次數 | 32 |
+| 總執行次數 | 33 |
 
 <!-- STATS_END -->
 
@@ -126,7 +126,7 @@ mythos-atlas/
 | [埃及神話](cultures/egyptian/) | 北非—尼羅河流域 | 7 | 4 | 3 |
 | [北歐神話](cultures/norse/) | 北歐—日耳曼 | 7 | 4 | 2 |
 | [印度神話](cultures/hindu/) | 南亞—印度河流域 | 8 | 5 | 3 |
-| [馬雅神話](cultures/mayan/) | 中美洲 | 3 | 2 | 1 |
+| [馬雅神話](cultures/mayan/) | 中美洲 | 7 | 4 | 3 |
 | [日本神話](cultures/japanese/) | 東亞—日本列島 | 6 | 3 | 1 |
 | [波利尼西亞神話](cultures/polynesian/) | 太平洋島嶼 | 6 | 3 | 3 |
 | [澳洲原住民神話](cultures/aboriginal/) | 大洋洲—澳洲 | 5 | 3 | 3 |
@@ -139,7 +139,7 @@ mythos-atlas/
 | [韓國神話](cultures/korean/) | 東亞—朝鮮半島 | 4 | 3 | 3 |
 | [芬蘭-烏戈爾神話](cultures/finno-ugric/) | 北歐—烏拉爾地區 | 6 | 3 | 3 |
 | [西藏神話](cultures/tibetan/) | 青藏高原 | 6 | 4 | 4 |
-| [蘇美神話](cultures/sumerian/) | 美索不達米亞南部 | 4 | 1 | 1 |
+| [蘇美神話](cultures/sumerian/) | 美索不達米亞南部 | 7 | 4 | 4 |
 | [腓尼基神話](cultures/phoenician/) | 黎凡特—迦南 | 5 | 2 | 2 |
 | [赫梯神話](cultures/hittite/) | 安納托利亞 | 6 | 3 | 3 |
 | [約魯巴神話](cultures/yoruba/) | 西非—奈及利亞/貝南 | 3 | 2 | 2 |
