@@ -8,4 +8,4 @@
 | [shamanism-global](shamanism-global.md) | shamanism-global |
 
 ---
-*Auto-generated on 2026-06-23 20:09 UTC*
+*Auto-generated on 2026-06-23 20:12 UTC*

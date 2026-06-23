@@ -5,7 +5,8 @@
     "slavic",
     "mayan",
     "sami",
-    "caucasian"
+    "caucasian",
+    "philippine"
   ],
   "analysis_log": [
     "sacrificial-creation",
@@ -29,5 +30,5 @@
     "wisdom-gods-comparative",
     "turtle-myths-comparative"
   ],
-  "runs": 39
+  "runs": 40
 }

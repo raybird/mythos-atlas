@@ -8,4 +8,4 @@
 | [xibalba-underworld-comparison](xibalba-underworld-comparison.md) | xibalba-underworld-comparison |
 
 ---
-*Auto-generated on 2026-06-23 20:09 UTC*
+*Auto-generated on 2026-06-23 20:12 UTC*

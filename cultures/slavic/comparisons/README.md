@@ -6,4 +6,4 @@
 | [slavic-baltic-norse](slavic-baltic-norse.md) | slavic-baltic-norse |
 
 ---
-*Auto-generated on 2026-06-23 20:09 UTC*
+*Auto-generated on 2026-06-23 20:12 UTC*

@@ -4,7 +4,9 @@
 |------|------|
 | [culture-hero](culture-hero.md) | culture-hero |
 | [earth-mother](earth-mother.md) | earth-mother |
+| [european-mother-goddess](european-mother-goddess.md) | european-mother-goddess |
+| [pre-indo-european-relics](pre-indo-european-relics.md) | pre-indo-european-relics |
 | [tartalo-cyclops](tartalo-cyclops.md) | tartalo-cyclops |
 
 ---
-*Auto-generated on 2026-06-23 20:09 UTC*
+*Auto-generated on 2026-06-23 20:12 UTC*

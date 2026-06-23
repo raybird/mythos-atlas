@@ -10,4 +10,4 @@
 | [須佐之男命](須佐之男命.md) | 須佐之男命 |
 
 ---
-*Auto-generated on 2026-06-23 20:09 UTC*
+*Auto-generated on 2026-06-23 20:12 UTC*
