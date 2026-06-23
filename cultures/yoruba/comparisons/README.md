@@ -3,6 +3,8 @@
 | 檔案 | 名稱 |
 |------|------|
 | [creation-humans](creation-humans.md) | creation-humans |
+| [eshu-messenger-gods](eshu-messenger-gods.md) | eshu-messenger-gods |
+| [ocean-mothers](ocean-mothers.md) | ocean-mothers |
 | [shango-thunder-gods](shango-thunder-gods.md) | shango-thunder-gods |
 
 ---
