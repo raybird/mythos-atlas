@@ -41,7 +41,6 @@
 - [Indo European Myth Connections](indo-european-myth-connections.md)
 - [Labyrinth Spiral Myths](labyrinth-spiral-myths.md)
 - [Language Confusion Myths](language-confusion-myths.md)
-- [Maize Myths Comparative](maize-myths-comparative.md)
 - [Lost Continents Comparative](lost-continents-comparative.md)
 - [Maize Myths Comparative](maize-myths-comparative.md)
 - [Metamorphosis Shapeshifting](metamorphosis-shapeshifting.md)
@@ -77,6 +76,7 @@
 - [Threshold Crossroads Gods](threshold-crossroads-gods.md)
 - [Thunder Gods](thunder-gods.md)
 - [Trickster Across Cultures](trickster-across-cultures.md)
+- [Turtle Myths Comparative](turtle-myths-comparative.md)
 - [Twin Myths](twin-myths.md)
 - [Underworld Journey](underworld-journey.md)
 - [War Gods Comparative](war-gods-comparative.md)
@@ -85,4 +85,4 @@
 - [World Parents Separation](world-parents-separation.md)
 
 ---
-*Auto-generated on 2026-06-23 18:34 UTC*
+*Auto-generated on 2026-06-23 18:36 UTC*

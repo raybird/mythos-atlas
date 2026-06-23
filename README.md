@@ -103,14 +103,14 @@ mythos-atlas/
 
 ## 📊 當前狀態
 
-> 自動更新於 2026-06-23 18:34 UTC
+> 自動更新於 2026-06-23 18:36 UTC
 
 | 類別 | 進度 |
 |------|------|
 | 文化體系 | 44/44 |
 | 跨文化主題 | 26/26 |
-| 分析文章 | 80 |
-| 總執行次數 | 37 |
+| 分析文章 | 81 |
+| 總執行次數 | 38 |
 
 <!-- STATS_END -->
 
@@ -171,7 +171,7 @@ mythos-atlas/
 
 ## 📝 分析文章
 
-> 跨文化比較神話學分析文章。共 80 篇。
+> 跨文化比較神話學分析文章。共 81 篇。
 
 - [World Parents Separation](analyses/world-parents-separation.md)
 - [Wisdom Gods Comparative](analyses/wisdom-gods-comparative.md)
@@ -179,6 +179,7 @@ mythos-atlas/
 - [War Gods Comparative](analyses/war-gods-comparative.md)
 - [Underworld Journey](analyses/underworld-journey.md)
 - [Twin Myths](analyses/twin-myths.md)
+- [Turtle Myths Comparative](analyses/turtle-myths-comparative.md)
 - [Trickster Across Cultures](analyses/trickster-across-cultures.md)
 - [Thunder Gods](analyses/thunder-gods.md)
 - [Threshold Crossroads Gods](analyses/threshold-crossroads-gods.md)
@@ -192,9 +193,8 @@ mythos-atlas/
 - [Sacrificial Creation](analyses/sacrificial-creation.md)
 - [Sacred Waters Springs](analyses/sacred-waters-springs.md)
 - [Sacred Rivers Myths](analyses/sacred-rivers-myths.md)
-- [Sacred Plants Entheogens](analyses/sacred-plants-entheogens.md)
 
-... 及另外 60 篇
+... 及另外 61 篇
 
 <!-- ANALYSES_END -->
 

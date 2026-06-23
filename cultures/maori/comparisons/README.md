@@ -7,4 +7,4 @@
 | [hero-trickster-maui-global](hero-trickster-maui-global.md) | hero-trickster-maui-global |
 
 ---
-*Auto-generated on 2026-06-23 18:34 UTC*
+*Auto-generated on 2026-06-23 18:36 UTC*
