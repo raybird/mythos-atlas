@@ -3,6 +3,8 @@
 | 檔案 | 名稱 |
 |------|------|
 | [creation-myths-global](creation-myths-global.md) | creation-myths-global |
+| [maui-trickster-global](maui-trickster-global.md) | maui-trickster-global |
+| [polynesian-war-gods-global](polynesian-war-gods-global.md) | polynesian-war-gods-global |
 
 ---
-*Auto-generated on 2026-06-22 06:34 UTC*
+*Auto-generated on 2026-06-23 01:06 UTC*

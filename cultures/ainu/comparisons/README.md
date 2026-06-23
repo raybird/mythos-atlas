@@ -3,6 +3,8 @@
 | 檔案 | 名稱 |
 |------|------|
 | [bear-cult-global](bear-cult-global.md) | bear-cult-global |
+| [earth-diver-ainu-global](earth-diver-ainu-global.md) | earth-diver-ainu-global |
+| [fire-goddess-global](fire-goddess-global.md) | fire-goddess-global |
 
 ---
-*Auto-generated on 2026-06-22 06:34 UTC*
+*Auto-generated on 2026-06-23 01:06 UTC*

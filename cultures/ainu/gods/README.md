@@ -4,7 +4,10 @@
 |------|------|
 | [Ainu-Cosmos](Ainu-Cosmos.md) | Ainu-Cosmos |
 | [Ainu-Kamuy-System](Ainu-Kamuy-System.md) | Ainu-Kamuy-System |
+| [Kamuy-huci](Kamuy-huci.md) | Kamuy-huci |
 | [Kim-un-kamuy](Kim-un-kamuy.md) | Kim-un-kamuy |
+| [Kotan-kar-kamuy](Kotan-kar-kamuy.md) | Kotan-kar-kamuy |
+| [Rep-un-kamuy](Rep-un-kamuy.md) | Rep-un-kamuy |
 
 ---
-*Auto-generated on 2026-06-22 06:34 UTC*
+*Auto-generated on 2026-06-23 01:06 UTC*

@@ -2,8 +2,11 @@
 
 | 檔案 | 名稱 |
 |------|------|
+| [Illapa](Illapa.md) | Illapa |
 | [Inti](Inti.md) | Inti |
+| [Mama-Quilla](Mama-Quilla.md) | Mama-Quilla |
+| [Pachamama](Pachamama.md) | Pachamama |
 | [Viracocha](Viracocha.md) | Viracocha |
 
 ---
-*Auto-generated on 2026-06-22 06:34 UTC*
+*Auto-generated on 2026-06-23 01:06 UTC*

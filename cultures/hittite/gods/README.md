@@ -2,9 +2,12 @@
 
 | 檔案 | 名稱 |
 |------|------|
+| [Arinna](Arinna.md) | Arinna |
+| [Hannahannah](Hannahannah.md) | Hannahannah |
 | [Hittite-Pantheon](Hittite-Pantheon.md) | Hittite-Pantheon |
 | [Inara](Inara.md) | Inara |
+| [Sarruma](Sarruma.md) | Sarruma |
 | [Tarhunna](Tarhunna.md) | Tarhunna |
 
 ---
-*Auto-generated on 2026-06-22 06:34 UTC*
+*Auto-generated on 2026-06-23 01:06 UTC*

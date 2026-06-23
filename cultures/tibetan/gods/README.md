@@ -2,9 +2,12 @@
 
 | 檔案 | 名稱 |
 |------|------|
+| [Gesar](Gesar.md) | Gesar |
 | [Nyenchen-Thanglha](Nyenchen-Thanglha.md) | Nyenchen-Thanglha |
 | [Padmasambhava](Padmasambhava.md) | Padmasambhava |
+| [Shenrab-Miwo](Shenrab-Miwo.md) | Shenrab-Miwo |
+| [Tara](Tara.md) | Tara |
 | [Tibetan-Pantheon](Tibetan-Pantheon.md) | Tibetan-Pantheon |
 
 ---
-*Auto-generated on 2026-06-22 06:34 UTC*
+*Auto-generated on 2026-06-23 01:06 UTC*

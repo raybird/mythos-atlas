@@ -91,9 +91,10 @@ def update_main_readme(catalog, state):
     theme_count = len(catalog["themes"])
     existing_cultures = sum(1 for c in catalog["cultures"] if culture_exists(c["id"]))
     existing_themes = sum(1 for t in catalog["themes"] if theme_exists(t["id"]))
-    analysis_count = len([f for f in os.listdir(ANALYSES_DIR) if f.endswith(".md")]) if os.path.isdir(ANALYSES_DIR) else 0
+    analysis_files = [f for f in os.listdir(ANALYSES_DIR) if f.endswith(".md") and f != "README.md"] if os.path.isdir(ANALYSES_DIR) else []
     now = datetime.now().strftime('%Y-%m-%d %H:%M UTC')
 
+    # ── Stats section ──
     stats_section = (
         f"\n## 📊 當前狀態\n\n"
         f"> 自動更新於 {now}\n\n"
@@ -101,7 +102,7 @@ def update_main_readme(catalog, state):
         f"|------|------|\n"
         f"| 文化體系 | {existing_cultures}/{culture_count} |\n"
         f"| 跨文化主題 | {existing_themes}/{theme_count} |\n"
-        f"| 分析文章 | {analysis_count} |\n"
+        f"| 分析文章 | {len(analysis_files)} |\n"
         f"| 總執行次數 | {state['runs']} |\n\n"
     )
 
@@ -113,6 +114,50 @@ def update_main_readme(catalog, state):
         content = pre + "\n" + stats_section + post
     else:
         content += "\n" + marker_start + "\n" + stats_section + marker_end + "\n"
+
+    # ── Cultures list section ──
+    cultures_lines = ["\n## 🌍 已收錄文化\n\n", "| 文化 | 區域 | 神祇 | 故事 | 比較 |\n", "|------|------|------|------|------|\n"]
+    for cat in sorted(catalog["cultures"], key=lambda x: x.get("order", 999)):
+        cid = cat["id"]
+        if not culture_exists(cid):
+            continue
+        gods_dir = os.path.join(CULTURES_DIR, cid, "gods")
+        stories_dir = os.path.join(CULTURES_DIR, cid, "stories")
+        comp_dir = os.path.join(CULTURES_DIR, cid, "comparisons")
+        g = len([f for f in os.listdir(gods_dir) if f.endswith(".md") and f != "README.md"]) if os.path.isdir(gods_dir) else 0
+        s = len([f for f in os.listdir(stories_dir) if f.endswith(".md") and f != "README.md"]) if os.path.isdir(stories_dir) else 0
+        c = len([f for f in os.listdir(comp_dir) if f.endswith(".md") and f != "README.md"]) if os.path.isdir(comp_dir) else 0
+        cultures_lines.append(f"| [{cat['name']}](cultures/{cid}/) | {cat['region']} | {g} | {s} | {c} |\n")
+    cultures_lines.append("\n")
+
+    cm_start = "<!-- CULTURES_START -->"
+    cm_end = "<!-- CULTURES_END -->"
+    section = "".join(cultures_lines)
+    if cm_start in content and cm_end in content:
+        pre = content[:content.find(cm_start) + len(cm_start)]
+        post = content[content.find(cm_end):]
+        content = pre + "\n" + section + post
+    else:
+        content += "\n" + cm_start + "\n" + section + cm_end + "\n"
+
+    # ── Analyses list section ──
+    analyses_lines = ["\n## 📝 分析文章\n\n", "> 跨文化比較神話學分析文章。共 {} 篇。\n\n".format(len(analysis_files))]
+    for fname in sorted(analysis_files, reverse=True)[:20]:
+        title = fname.replace(".md", "").replace("-", " ").title()
+        analyses_lines.append(f"- [{title}](analyses/{fname})\n")
+    if len(analysis_files) > 20:
+        analyses_lines.append(f"\n... 及另外 {len(analysis_files) - 20} 篇\n")
+    analyses_lines.append("\n")
+
+    am_start = "<!-- ANALYSES_START -->"
+    am_end = "<!-- ANALYSES_END -->"
+    section = "".join(analyses_lines)
+    if am_start in content and am_end in content:
+        pre = content[:content.find(am_start) + len(am_start)]
+        post = content[content.find(am_end):]
+        content = pre + "\n" + section + post
+    else:
+        content += "\n" + am_start + "\n" + section + am_end + "\n"
 
     with open(readme_path, "w", encoding="utf-8") as f:
         f.write(content)

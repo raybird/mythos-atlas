@@ -7,8 +7,8 @@
 
 - [文化總覽](index.md) — 該文化的完整神話介紹
 - [神祇列表](gods/) — 6 位神祇
-- [故事](stories/) — 3 篇神話故事
-- [跨文化比較](comparisons/) — 1 篇比較研究
+- [故事列表](stories/) — 3 則故事
+- [跨文化比較](comparisons/) — 1 篇比較
 
 ---
-*Auto-generated on 2026-06-22 06:34 UTC*
+*Auto-generated on 2026-06-23 01:06 UTC*

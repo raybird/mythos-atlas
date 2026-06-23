@@ -2,7 +2,10 @@
 
 | 檔案 | 名稱 |
 |------|------|
+| [gesar-epic](gesar-epic.md) | gesar-epic |
+| [monkey-and-rakshasi](monkey-and-rakshasi.md) | monkey-and-rakshasi |
+| [mount-kailash](mount-kailash.md) | mount-kailash |
 | [padmasambhava-subdues-mountain-god](padmasambhava-subdues-mountain-god.md) | padmasambhava-subdues-mountain-god |
 
 ---
-*Auto-generated on 2026-06-22 06:34 UTC*
+*Auto-generated on 2026-06-23 01:06 UTC*

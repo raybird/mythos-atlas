@@ -3,6 +3,7 @@
 | 檔案 | 名稱 |
 |------|------|
 | [Viracocha-Quetzalcoatl](Viracocha-Quetzalcoatl.md) | Viracocha-Quetzalcoatl |
+| [thunder-gods-global](thunder-gods-global.md) | thunder-gods-global |
 
 ---
-*Auto-generated on 2026-06-22 06:34 UTC*
+*Auto-generated on 2026-06-23 01:06 UTC*
