@@ -7,4 +7,4 @@
 | [須彌山Meru](須彌山Meru.md) | 須彌山Meru |
 
 ---
-*Auto-generated on 2026-06-23 14:10 UTC*
+*Auto-generated on 2026-06-23 16:39 UTC*

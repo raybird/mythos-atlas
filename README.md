@@ -103,14 +103,14 @@ mythos-atlas/
 
 ## 📊 當前狀態
 
-> 自動更新於 2026-06-23 14:10 UTC
+> 自動更新於 2026-06-23 16:39 UTC
 
 | 類別 | 進度 |
 |------|------|
 | 文化體系 | 44/44 |
 | 跨文化主題 | 26/26 |
 | 分析文章 | 78 |
-| 總執行次數 | 35 |
+| 總執行次數 | 36 |
 
 <!-- STATS_END -->
 
@@ -126,7 +126,7 @@ mythos-atlas/
 | [埃及神話](cultures/egyptian/) | 北非—尼羅河流域 | 7 | 4 | 3 |
 | [北歐神話](cultures/norse/) | 北歐—日耳曼 | 7 | 4 | 2 |
 | [印度神話](cultures/hindu/) | 南亞—印度河流域 | 8 | 5 | 3 |
-| [馬雅神話](cultures/mayan/) | 中美洲 | 7 | 4 | 3 |
+| [馬雅神話](cultures/mayan/) | 中美洲 | 8 | 5 | 4 |
 | [日本神話](cultures/japanese/) | 東亞—日本列島 | 6 | 3 | 1 |
 | [波利尼西亞神話](cultures/polynesian/) | 太平洋島嶼 | 6 | 3 | 3 |
 | [澳洲原住民神話](cultures/aboriginal/) | 大洋洲—澳洲 | 5 | 3 | 3 |
@@ -135,7 +135,7 @@ mythos-atlas/
 | [印加神話](cultures/incan/) | 南美洲—安地斯山脈 | 5 | 2 | 2 |
 | [凱爾特神話](cultures/celtic/) | 西歐—愛爾蘭/不列顛/高盧 | 6 | 4 | 2 |
 | [斯拉夫神話](cultures/slavic/) | 東歐—巴爾幹 | 8 | 3 | 2 |
-| [波斯神話](cultures/persian/) | 伊朗高原 | 4 | 3 | 3 |
+| [波斯神話](cultures/persian/) | 伊朗高原 | 5 | 4 | 4 |
 | [韓國神話](cultures/korean/) | 東亞—朝鮮半島 | 4 | 3 | 3 |
 | [芬蘭-烏戈爾神話](cultures/finno-ugric/) | 北歐—烏拉爾地區 | 6 | 3 | 3 |
 | [西藏神話](cultures/tibetan/) | 青藏高原 | 6 | 4 | 4 |
@@ -152,7 +152,7 @@ mythos-atlas/
 | [因紐特神話](cultures/inuit/) | 北極—阿拉斯加/加拿大/格陵蘭 | 5 | 3 | 3 |
 | [亞美尼亞神話](cultures/armenian/) | 南高加索—亞美尼亞高原 | 6 | 4 | 4 |
 | [菲律賓神話](cultures/philippine/) | 東南亞—菲律賓群島 | 4 | 3 | 2 |
-| [高加索神話](cultures/caucasian/) | 高加索山脈(奧塞提亞/切爾克斯/阿布哈茲) | 4 | 2 | 2 |
+| [高加索神話](cultures/caucasian/) | 高加索山脈(奧塞提亞/切爾克斯/阿布哈茲) | 7 | 4 | 4 |
 | [達基亞/羅馬尼亞神話](cultures/dacian/) | 東南歐—喀爾巴阡山脈 | 4 | 5 | 1 |
 | [羅馬神話](cultures/roman/) | 地中海—義大利半島 | 8 | 3 | 3 |
 | [前伊斯蘭阿拉伯神話](cultures/pre-islamic-arabian/) | 阿拉伯半島 | 6 | 3 | 3 |

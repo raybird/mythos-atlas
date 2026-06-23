@@ -2,10 +2,13 @@
 
 | 檔案 | 名稱 |
 |------|------|
+| [Aefsati](Aefsati.md) | Aefsati |
 | [Caucasian-Pantheon](Caucasian-Pantheon.md) | Caucasian-Pantheon |
 | [Satana-Nart-Wisdom](Satana-Nart-Wisdom.md) | Satana-Nart-Wisdom |
 | [Sosruko](Sosruko.md) | Sosruko |
+| [Syrdon](Syrdon.md) | Syrdon |
+| [Uacilla](Uacilla.md) | Uacilla |
 | [Underworld-Deities](Underworld-Deities.md) | Underworld-Deities |
 
 ---
-*Auto-generated on 2026-06-23 14:10 UTC*
+*Auto-generated on 2026-06-23 16:39 UTC*

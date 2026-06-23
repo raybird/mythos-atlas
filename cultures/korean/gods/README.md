@@ -8,4 +8,4 @@
 | [檀君王儉](檀君王儉.md) | 檀君王儉 |
 
 ---
-*Auto-generated on 2026-06-23 14:10 UTC*
+*Auto-generated on 2026-06-23 16:39 UTC*

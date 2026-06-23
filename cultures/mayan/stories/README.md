@@ -6,6 +6,7 @@
 | [hero-twins-xibalba](hero-twins-xibalba.md) | hero-twins-xibalba |
 | [maize-people-creation](maize-people-creation.md) | maize-people-creation |
 | [popol-vuh-creation](popol-vuh-creation.md) | popol-vuh-creation |
+| [vucub-caquix](vucub-caquix.md) | vucub-caquix |
 
 ---
-*Auto-generated on 2026-06-23 14:10 UTC*
+*Auto-generated on 2026-06-23 16:39 UTC*

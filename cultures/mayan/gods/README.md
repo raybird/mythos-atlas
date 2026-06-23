@@ -9,6 +9,7 @@
 | [Itzamna](Itzamna.md) | Itzamna |
 | [Ix-Chel](Ix-Chel.md) | Ix-Chel |
 | [Kukulkan](Kukulkan.md) | Kukulkan |
+| [Yum-Kaax](Yum-Kaax.md) | Yum-Kaax |
 
 ---
-*Auto-generated on 2026-06-23 14:10 UTC*
+*Auto-generated on 2026-06-23 16:39 UTC*
