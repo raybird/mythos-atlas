@@ -26,8 +26,8 @@
 - [Eclipse Myths](eclipse-myths.md)
 - [Eschatology Apocalyptic Myths](eschatology-apocalyptic-myths.md)
 - [Fate Goddesses Destiny](fate-goddesses-destiny.md)
-- [Female Deities](female-deities.md)
 - [Feline Myths Comparative](feline-myths-comparative.md)
+- [Female Deities](female-deities.md)
 - [Fire Myths](fire-myths.md)
 - [Flood Myths Geological Origins](flood-myths-geological-origins.md)
 - [Fox Spirits Comparative](fox-spirits-comparative.md)
@@ -41,7 +41,9 @@
 - [Indo European Myth Connections](indo-european-myth-connections.md)
 - [Labyrinth Spiral Myths](labyrinth-spiral-myths.md)
 - [Language Confusion Myths](language-confusion-myths.md)
+- [Maize Myths Comparative](maize-myths-comparative.md)
 - [Lost Continents Comparative](lost-continents-comparative.md)
+- [Maize Myths Comparative](maize-myths-comparative.md)
 - [Metamorphosis Shapeshifting](metamorphosis-shapeshifting.md)
 - [Miraculous Birth Virgin Conception](miraculous-birth-virgin-conception.md)
 - [Mirror Reflection Myths](mirror-reflection-myths.md)
@@ -83,4 +85,4 @@
 - [World Parents Separation](world-parents-separation.md)
 
 ---
-*Auto-generated on 2026-06-23 16:39 UTC*
+*Auto-generated on 2026-06-23 18:34 UTC*
