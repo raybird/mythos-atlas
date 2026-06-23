@@ -6,6 +6,7 @@
 | [Inti](Inti.md) | Inti |
 | [Mama-Quilla](Mama-Quilla.md) | Mama-Quilla |
 | [Pachamama](Pachamama.md) | Pachamama |
+| [Supay](Supay.md) | 蘇帕伊 (Supay) |
 | [Viracocha](Viracocha.md) | Viracocha |
 
 ---
