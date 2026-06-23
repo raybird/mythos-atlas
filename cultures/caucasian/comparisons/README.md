@@ -5,4 +5,4 @@
 | [nart-heroes-global](nart-heroes-global.md) | nart-heroes-global |
 
 ---
-*Auto-generated on 2026-06-23 01:06 UTC*
+*Auto-generated on 2026-06-23 01:12 UTC*

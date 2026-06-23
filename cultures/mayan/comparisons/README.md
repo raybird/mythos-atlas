@@ -5,4 +5,4 @@
 | [popol-vuh-creation-parallels](popol-vuh-creation-parallels.md) | popol-vuh-creation-parallels |
 
 ---
-*Auto-generated on 2026-06-23 01:06 UTC*
+*Auto-generated on 2026-06-23 01:12 UTC*

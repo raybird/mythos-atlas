@@ -32,4 +32,4 @@
 | [psychopomp](psychopomp.md) | 靈魂引導者：跨文化的死亡中介 (Psychopomp: Guides of the Soul Across Cultures) |
 
 ---
-*Auto-generated on 2026-06-23 01:06 UTC*
+*Auto-generated on 2026-06-23 01:12 UTC*

@@ -11,6 +11,7 @@
 - [Bull Cattle Myths Comparative](bull-cattle-myths-comparative.md)
 - [Chaoskampf Order Vs Chaos](chaoskampf-order-vs-chaos.md)
 - [Cosmic Egg](cosmic-egg.md)
+- [Cosmic Mill Myth](cosmic-mill-myth.md)
 - [Cosmic Tree World Tree](cosmic-tree-world-tree.md)
 - [Creation Of Humans](creation-of-humans.md)
 - [Culture Hero Comparative](culture-hero-comparative.md)
@@ -75,4 +76,4 @@
 - [World Parents Separation](world-parents-separation.md)
 
 ---
-*Auto-generated on 2026-06-23 01:06 UTC*
+*Auto-generated on 2026-06-23 01:12 UTC*
