@@ -12,7 +12,8 @@
     "etruscan",
     "sumerian",
     "mapuche",
-    "maori"
+    "maori",
+    "inuit"
   ],
   "analysis_log": [
     "sacrificial-creation",
@@ -38,5 +39,5 @@
     "mermaid-aquatic-humanoids",
     "night-darkness-deities-comparative"
   ],
-  "runs": 45
+  "runs": 46
 }
