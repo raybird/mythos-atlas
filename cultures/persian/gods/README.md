@@ -6,7 +6,8 @@
 | [Anahita](Anahita.md) | Anahita |
 | [Mithra](Mithra.md) | Mithra |
 | [Rashnu](Rashnu.md) | Rashnu |
+| [Sraosha](Sraosha.md) | Sraosha |
 | [Verethragna](Verethragna.md) | Verethragna |
 
 ---
-*Auto-generated on 2026-06-24 08:15 UTC*
+*Auto-generated on 2026-06-24 10:38 UTC*

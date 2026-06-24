@@ -103,14 +103,14 @@ mythos-atlas/
 
 ## 📊 當前狀態
 
-> 自動更新於 2026-06-24 08:15 UTC
+> 自動更新於 2026-06-24 10:38 UTC
 
 | 類別 | 進度 |
 |------|------|
 | 文化體系 | 44/44 |
 | 跨文化主題 | 26/26 |
 | 分析文章 | 86 |
-| 總執行次數 | 42 |
+| 總執行次數 | 43 |
 
 <!-- STATS_END -->
 
@@ -135,11 +135,11 @@ mythos-atlas/
 | [印加神話](cultures/incan/) | 南美洲—安地斯山脈 | 6 | 3 | 3 |
 | [凱爾特神話](cultures/celtic/) | 西歐—愛爾蘭/不列顛/高盧 | 6 | 4 | 2 |
 | [斯拉夫神話](cultures/slavic/) | 東歐—巴爾幹 | 8 | 3 | 2 |
-| [波斯神話](cultures/persian/) | 伊朗高原 | 5 | 4 | 4 |
+| [波斯神話](cultures/persian/) | 伊朗高原 | 6 | 5 | 5 |
 | [韓國神話](cultures/korean/) | 東亞—朝鮮半島 | 4 | 3 | 3 |
 | [芬蘭-烏戈爾神話](cultures/finno-ugric/) | 北歐—烏拉爾地區 | 6 | 3 | 3 |
 | [西藏神話](cultures/tibetan/) | 青藏高原 | 6 | 4 | 4 |
-| [蘇美神話](cultures/sumerian/) | 美索不達米亞南部 | 7 | 4 | 4 |
+| [蘇美神話](cultures/sumerian/) | 美索不達米亞南部 | 9 | 7 | 7 |
 | [腓尼基神話](cultures/phoenician/) | 黎凡特—迦南 | 8 | 5 | 5 |
 | [赫梯神話](cultures/hittite/) | 安納托利亞 | 6 | 3 | 3 |
 | [約魯巴神話](cultures/yoruba/) | 西非—奈及利亞/貝南 | 6 | 4 | 4 |

@@ -6,9 +6,11 @@
 | [Enki](Enki.md) | Enki |
 | [Enlil](Enlil.md) | Enlil |
 | [Inanna](Inanna.md) | Inanna |
+| [Nammu](Nammu.md) | Nammu |
 | [Nanna](Nanna.md) | Nanna |
+| [Nergal](Nergal.md) | Nergal |
 | [Ninhursag](Ninhursag.md) | Ninhursag |
 | [Utu](Utu.md) | Utu |
 
 ---
-*Auto-generated on 2026-06-24 08:15 UTC*
+*Auto-generated on 2026-06-24 10:38 UTC*

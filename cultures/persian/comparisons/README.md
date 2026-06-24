@@ -6,6 +6,7 @@
 | [chinvat-bridge](chinvat-bridge.md) | chinvat-bridge |
 | [dualism-across-cultures](dualism-across-cultures.md) | dualism-across-cultures |
 | [mithra-across-cultures](mithra-across-cultures.md) | mithra-across-cultures |
+| [primal-being-sacrifice](primal-being-sacrifice.md) | primal-being-sacrifice |
 
 ---
-*Auto-generated on 2026-06-24 08:15 UTC*
+*Auto-generated on 2026-06-24 10:38 UTC*
