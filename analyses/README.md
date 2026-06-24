@@ -43,6 +43,7 @@
 - [Language Confusion Myths](language-confusion-myths.md)
 - [Lost Continents Comparative](lost-continents-comparative.md)
 - [Maize Myths Comparative](maize-myths-comparative.md)
+- [Mermaid and Aquatic Humanoid Myths](mermaid-aquatic-humanoids.md)
 - [Metamorphosis Shapeshifting](metamorphosis-shapeshifting.md)
 - [Miraculous Birth Virgin Conception](miraculous-birth-virgin-conception.md)
 - [Mirror Reflection Myths](mirror-reflection-myths.md)
