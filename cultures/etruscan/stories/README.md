@@ -5,6 +5,9 @@
 | [Hercle伊特魯里亞冒險](Hercle伊特魯里亞冒險.md) | Hercle伊特魯里亞冒險 |
 | [Tages犁溝神啟](Tages犁溝神啟.md) | Tages犁溝神啟 |
 | [Vibenna兄弟傳奇](Vibenna兄弟傳奇.md) | Vibenna兄弟傳奇 |
+| [etruscan-creation](etruscan-creation.md) | etruscan-creation |
+| [lars-porsenna](lars-porsenna.md) | lars-porsenna |
+| [piacenza-liver-divination](piacenza-liver-divination.md) | piacenza-liver-divination |
 
 ---
-*Auto-generated on 2026-06-24 02:08 UTC*
+*Auto-generated on 2026-06-24 08:15 UTC*

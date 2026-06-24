@@ -53,6 +53,7 @@
 - [Oaths Curses Myths](oaths-curses-myths.md)
 - [Oracle Prophecy Divination Myths](oracle-prophecy-divination-myths.md)
 - [Origin Of Death](origin-of-death.md)
+- [Origin Of Writing Myths](origin-of-writing-myths.md)
 - [Psychopomp Comparative](psychopomp-comparative.md)
 - [Psychostasia Judgment Of The Dead](psychostasia-judgment-of-the-dead.md)
 - [Rainbow Myths](rainbow-myths.md)
@@ -62,6 +63,7 @@
 - [Sacred Blood Mythology](sacred-blood-mythology.md)
 - [Sacred Kingship Comparative](sacred-kingship-comparative.md)
 - [Sacred Marriage Across Cultures](sacred-marriage-across-cultures.md)
+- [Sacred Masks Mythology](sacred-masks-mythology.md)
 - [Sacred Mountains](sacred-mountains.md)
 - [Sacred Mushroom Entheogen](sacred-mushroom-entheogen.md)
 - [Sacred Numbers Cosmic Order](sacred-numbers-cosmic-order.md)
@@ -88,4 +90,4 @@
 - [World Parents Separation](world-parents-separation.md)
 
 ---
-*Auto-generated on 2026-06-24 02:08 UTC*
+*Auto-generated on 2026-06-24 08:15 UTC*

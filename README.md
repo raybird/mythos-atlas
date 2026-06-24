@@ -103,14 +103,14 @@ mythos-atlas/
 
 ## 📊 當前狀態
 
-> 自動更新於 2026-06-24 02:08 UTC
+> 自動更新於 2026-06-24 08:15 UTC
 
 | 類別 | 進度 |
 |------|------|
 | 文化體系 | 44/44 |
 | 跨文化主題 | 26/26 |
-| 分析文章 | 84 |
-| 總執行次數 | 41 |
+| 分析文章 | 86 |
+| 總執行次數 | 42 |
 
 <!-- STATS_END -->
 
@@ -127,7 +127,7 @@ mythos-atlas/
 | [北歐神話](cultures/norse/) | 北歐—日耳曼 | 7 | 4 | 2 |
 | [印度神話](cultures/hindu/) | 南亞—印度河流域 | 8 | 5 | 3 |
 | [馬雅神話](cultures/mayan/) | 中美洲 | 8 | 5 | 4 |
-| [日本神話](cultures/japanese/) | 東亞—日本列島 | 6 | 3 | 1 |
+| [日本神話](cultures/japanese/) | 東亞—日本列島 | 10 | 7 | 5 |
 | [波利尼西亞神話](cultures/polynesian/) | 太平洋島嶼 | 6 | 3 | 3 |
 | [澳洲原住民神話](cultures/aboriginal/) | 大洋洲—澳洲 | 5 | 3 | 3 |
 | [非洲諸神話](cultures/african/) | 撒哈拉以南非洲 | 7 | 4 | 2 |
@@ -145,10 +145,10 @@ mythos-atlas/
 | [約魯巴神話](cultures/yoruba/) | 西非—奈及利亞/貝南 | 6 | 4 | 4 |
 | [蒙古神話](cultures/mongolian/) | 中亞—蒙古高原 | 4 | 4 | 3 |
 | [愛努神話](cultures/ainu/) | 北海道—庫頁島—千島群島 | 6 | 3 | 3 |
-| [伊特魯里亞神話](cultures/etruscan/) | 義大利—托斯卡尼 | 5 | 3 | 2 |
+| [伊特魯里亞神話](cultures/etruscan/) | 義大利—托斯卡尼 | 8 | 6 | 5 |
 | [巴斯克神話](cultures/basque/) | 西歐—庇里牛斯山脈 | 6 | 5 | 5 |
 | [波羅的神話](cultures/baltic/) | 東歐—波羅的海沿岸 | 5 | 4 | 3 |
-| [越南神話](cultures/vietnamese/) | 東南亞—紅河流域 | 3 | 3 | 3 |
+| [越南神話](cultures/vietnamese/) | 東南亞—紅河流域 | 7 | 7 | 7 |
 | [因紐特神話](cultures/inuit/) | 北極—阿拉斯加/加拿大/格陵蘭 | 5 | 3 | 3 |
 | [亞美尼亞神話](cultures/armenian/) | 南高加索—亞美尼亞高原 | 6 | 4 | 4 |
 | [菲律賓神話](cultures/philippine/) | 東南亞—菲律賓群島 | 7 | 5 | 4 |
@@ -171,7 +171,7 @@ mythos-atlas/
 
 ## 📝 分析文章
 
-> 跨文化比較神話學分析文章。共 84 篇。
+> 跨文化比較神話學分析文章。共 86 篇。
 
 - [World Parents Separation](analyses/world-parents-separation.md)
 - [Wisdom Gods Comparative](analyses/wisdom-gods-comparative.md)
@@ -194,7 +194,7 @@ mythos-atlas/
 - [Sacred Waters Springs](analyses/sacred-waters-springs.md)
 - [Sacred Rivers Myths](analyses/sacred-rivers-myths.md)
 
-... 及另外 64 篇
+... 及另外 66 篇
 
 <!-- ANALYSES_END -->
 
