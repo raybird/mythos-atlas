@@ -78,6 +78,7 @@
 - [Smith Forge Gods Comparative](smith-forge-gods-comparative.md)
 - [Spider Weaving Myths](spider-weaving-myths.md)
 - [Sun Myths](sun-myths.md)
+- [Swan Maiden Celestial Bride](swan-maiden-celestial-bride.md)
 - [Threshold Crossroads Gods](threshold-crossroads-gods.md)
 - [Thunder Gods](thunder-gods.md)
 - [Trickster Across Cultures](trickster-across-cultures.md)
