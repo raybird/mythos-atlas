@@ -2,10 +2,13 @@
 
 | 檔案 | 名稱 |
 |------|------|
+| [Anhanga](Anhanga.md) | Anhanga |
+| [Boitata](Boitata.md) | Boitata |
 | [Curupira-Saci](Curupira-Saci.md) | Curupira-Saci |
 | [Jaci-Guaraci](Jaci-Guaraci.md) | Jaci-Guaraci |
 | [Nhanderuvucu](Nhanderuvucu.md) | Nhanderuvucu |
 | [Tupa](Tupa.md) | Tupa |
+| [Yara](Yara.md) | Yara |
 
 ---
-*Auto-generated on 2026-06-23 20:12 UTC*
+*Auto-generated on 2026-06-24 02:08 UTC*

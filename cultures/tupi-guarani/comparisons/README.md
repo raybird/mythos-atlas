@@ -2,8 +2,11 @@
 
 | 檔案 | 名稱 |
 |------|------|
+| [americas-earth-diver](americas-earth-diver.md) | americas-earth-diver |
 | [culture-heroes-global](culture-heroes-global.md) | culture-heroes-global |
 | [flood-myths-americas](flood-myths-americas.md) | flood-myths-americas |
+| [south-american-creation-types](south-american-creation-types.md) | south-american-creation-types |
+| [tupa-thunder-gods](tupa-thunder-gods.md) | tupa-thunder-gods |
 
 ---
-*Auto-generated on 2026-06-23 20:12 UTC*
+*Auto-generated on 2026-06-24 02:08 UTC*

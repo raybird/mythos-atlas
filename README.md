@@ -103,14 +103,14 @@ mythos-atlas/
 
 ## 📊 當前狀態
 
-> 自動更新於 2026-06-23 20:12 UTC
+> 自動更新於 2026-06-24 02:08 UTC
 
 | 類別 | 進度 |
 |------|------|
 | 文化體系 | 44/44 |
 | 跨文化主題 | 26/26 |
-| 分析文章 | 81 |
-| 總執行次數 | 40 |
+| 分析文章 | 84 |
+| 總執行次數 | 41 |
 
 <!-- STATS_END -->
 
@@ -140,7 +140,7 @@ mythos-atlas/
 | [芬蘭-烏戈爾神話](cultures/finno-ugric/) | 北歐—烏拉爾地區 | 6 | 3 | 3 |
 | [西藏神話](cultures/tibetan/) | 青藏高原 | 6 | 4 | 4 |
 | [蘇美神話](cultures/sumerian/) | 美索不達米亞南部 | 7 | 4 | 4 |
-| [腓尼基神話](cultures/phoenician/) | 黎凡特—迦南 | 5 | 2 | 2 |
+| [腓尼基神話](cultures/phoenician/) | 黎凡特—迦南 | 8 | 5 | 5 |
 | [赫梯神話](cultures/hittite/) | 安納托利亞 | 6 | 3 | 3 |
 | [約魯巴神話](cultures/yoruba/) | 西非—奈及利亞/貝南 | 6 | 4 | 4 |
 | [蒙古神話](cultures/mongolian/) | 中亞—蒙古高原 | 4 | 4 | 3 |
@@ -163,7 +163,7 @@ mythos-atlas/
 | [馬普切神話](cultures/mapuche/) | 南美洲—智利/阿根廷 | 5 | 3 | 2 |
 | [薩米神話](cultures/sami/) | 北歐—芬諾斯堪的亞 | 6 | 5 | 4 |
 | [西伯利亞神話](cultures/siberian/) | 西伯利亞—通古斯/雅庫特/楚科奇 | 5 | 5 | 1 |
-| [圖皮-瓜拉尼神話](cultures/tupi-guarani/) | 南美洲—巴西/巴拉圭/玻利維亞 | 4 | 3 | 2 |
+| [圖皮-瓜拉尼神話](cultures/tupi-guarani/) | 南美洲—巴西/巴拉圭/玻利維亞 | 7 | 6 | 5 |
 
 <!-- CULTURES_END -->
 
@@ -171,7 +171,7 @@ mythos-atlas/
 
 ## 📝 分析文章
 
-> 跨文化比較神話學分析文章。共 81 篇。
+> 跨文化比較神話學分析文章。共 84 篇。
 
 - [World Parents Separation](analyses/world-parents-separation.md)
 - [Wisdom Gods Comparative](analyses/wisdom-gods-comparative.md)
@@ -194,7 +194,7 @@ mythos-atlas/
 - [Sacred Waters Springs](analyses/sacred-waters-springs.md)
 - [Sacred Rivers Myths](analyses/sacred-rivers-myths.md)
 
-... 及另外 61 篇
+... 及另外 64 篇
 
 <!-- ANALYSES_END -->
 

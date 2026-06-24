@@ -18,6 +18,7 @@
 - [Creation Of Humans](creation-of-humans.md)
 - [Culture Hero Comparative](culture-hero-comparative.md)
 - [Divine Androgyny](divine-androgyny.md)
+- [Divine Nectar Elixir Immortality](divine-nectar-elixir-immortality.md)
 - [Dogs Wolves Mythology](dogs-wolves-mythology.md)
 - [Dragons And Serpents Global](dragons-and-serpents-global.md)
 - [Dying And Rising Gods](dying-and-rising-gods.md)
@@ -43,7 +44,7 @@
 - [Language Confusion Myths](language-confusion-myths.md)
 - [Lost Continents Comparative](lost-continents-comparative.md)
 - [Maize Myths Comparative](maize-myths-comparative.md)
-- [Mermaid and Aquatic Humanoid Myths](mermaid-aquatic-humanoids.md)
+- [Mermaid Aquatic Humanoids](mermaid-aquatic-humanoids.md)
 - [Metamorphosis Shapeshifting](metamorphosis-shapeshifting.md)
 - [Miraculous Birth Virgin Conception](miraculous-birth-virgin-conception.md)
 - [Mirror Reflection Myths](mirror-reflection-myths.md)
@@ -58,6 +59,7 @@
 - [Ravens Crows Mythology](ravens-crows-mythology.md)
 - [Reincarnation Metempsychosis](reincarnation-metempsychosis.md)
 - [Sacred Architecture Temple Myths](sacred-architecture-temple-myths.md)
+- [Sacred Blood Mythology](sacred-blood-mythology.md)
 - [Sacred Kingship Comparative](sacred-kingship-comparative.md)
 - [Sacred Marriage Across Cultures](sacred-marriage-across-cultures.md)
 - [Sacred Mountains](sacred-mountains.md)
@@ -84,7 +86,6 @@
 - [Wind Deities Comparative](wind-deities-comparative.md)
 - [Wisdom Gods Comparative](wisdom-gods-comparative.md)
 - [World Parents Separation](world-parents-separation.md)
-- [Divine Nectar and Elixir of Immortality](divine-nectar-elixir-immortality.md)
 
 ---
-*Auto-generated on 2026-06-23 20:12 UTC*
+*Auto-generated on 2026-06-24 02:08 UTC*
