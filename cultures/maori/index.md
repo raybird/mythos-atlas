@@ -29,6 +29,9 @@ Rangi-nui(天父)、Papa-tūā-nuku(地母)、Tāne-mahuta(森林/鳥/造人)、
 - Māui半神傳奇
 - Te Ika-a-Māui(北島爲魚)
 - Tāwhirimātea風暴神的復仇
+- Tū-matauenga戰神與人類守護者
+- Rongo與Haumia食物之神的二元對應
+- Whiro黑暗之神與二元善惡對抗
 - Hine-nui-te-pō死亡女神
 - Whakaata毛利版畫藝術
 
@@ -38,6 +41,10 @@ Rangi-nui(天父)、Papa-tūā-nuku(地母)、Tāne-mahuta(森林/鳥/造人)、
 - **Māui釣起北島** ↔ 波利尼西亞其他Māui傳說
 - **Tāne造人(Tiki)** ↔ 女媧/普羅米修斯造人
 - **Hine-nui-te-pō冥界** ↔ 希臘Hades/北歐Hel
+- **Tāwhirimātea風暴神vs眾兄弟** ↔ 泰坦之戰/洛基引發諸神黃昏
+- **Tū-matauenga以意志戰勝風暴** ↔ 人類vs自然力量的永恆抗爭
+- **Tāne以紅泥造Hine-ahu-one** ↔ 恩基/Obatala以泥土造人
+- **Whiro黑暗之神vsTāne光明的對抗** ↔ 祆教Ahura Mazda vs Angra Mainyu
 
 ## 重要故事
 
@@ -47,6 +54,8 @@ Rangi-nui(天父)、Papa-tūā-nuku(地母)、Tāne-mahuta(森林/鳥/造人)、
 - Māui阻攔太陽
 - Māui與死亡女神
 - Tāwhirimātea的風暴復仇
+- Hine-ahu-one的創造
+- Hatupatu與鳥女
 - Hinemoa與Tūtānekai的愛情
 - Matawhero與Tinirau的鯨魚傳說
 

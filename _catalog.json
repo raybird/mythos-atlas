@@ -1623,6 +1623,9 @@
         "Te Ika-a-Māui(北島爲魚)",
         "Tāwhirimātea風暴神的復仇",
         "Hine-nui-te-pō死亡女神",
+        "Tū-matauenga戰神與人類守護者",
+        "Rongo與Haumia食物之神的二元對應",
+        "Whiro黑暗之神與二元善惡對抗",
         "Whakaata毛利版畫藝術"
       ],
       "parallels": [
@@ -1641,6 +1644,22 @@
         [
           "Hine-nui-te-pō冥界",
           "希臘Hades/北歐Hel"
+        ],
+        [
+          "Tāwhirimātea風暴神vs眾兄弟",
+          "泰坦之戰/洛基引發諸神黃昏"
+        ],
+        [
+          "Tū-matauenga以意志戰勝風暴",
+          "人類vs自然力量的永恆抗爭"
+        ],
+        [
+          "Tāne以紅泥造Hine-ahu-one",
+          "恩基/Obatala以泥土造人"
+        ],
+        [
+          "Whiro黑暗之神vs Tāne光明的對抗",
+          "祆教Ahura Mazda vs Angra Mainyu"
         ]
       ],
       "creation": "最初只有Rangi-nui(天父)與Papa-tūā-nuku(地母)緊密交合，黑暗中孕育眾神。Tāne-mahuta(森林神)以雙腳頂開天地——Rangi升爲遙遠天空，Papa成爲大地。Tāne以紅泥造第一女子Hine-ahu-one(土中少女)，後Hine嫁Tāne生人類。Māui以魚鉤從海底釣起巨大的魚——即今北島(Te Ika-a-Māui)。Tāwhirimātea(風暴神)因反對天地分離而掀風暴摧毀森林——象徵自然力量的永恆抗爭。",
@@ -1654,7 +1673,9 @@
         "Māui與死亡女神",
         "Tāwhirimātea的風暴復仇",
         "Hinemoa與Tūtānekai的愛情",
-        "Matawhero與Tinirau的鯨魚傳說"
+        "Matawhero與Tinirau的鯨魚傳說",
+        "Hine-ahu-one的創造",
+        "Hatupatu與鳥女"
       ],
       "order": 37
     },
