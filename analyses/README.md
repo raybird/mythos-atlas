@@ -84,6 +84,7 @@
 - [Wind Deities Comparative](wind-deities-comparative.md)
 - [Wisdom Gods Comparative](wisdom-gods-comparative.md)
 - [World Parents Separation](world-parents-separation.md)
+- [Divine Nectar and Elixir of Immortality](divine-nectar-elixir-immortality.md)
 
 ---
 *Auto-generated on 2026-06-23 20:12 UTC*
