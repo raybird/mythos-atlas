@@ -79,19 +79,12 @@ mythos-atlas/
 │   ├── primary-sources.md    # 原始文獻索引
 │   ├── secondary-sources.md  # 現代學術研究
 │   └── cross-ref.md          # 跨文化對照表
-└── populate.sh               # 自動充實排程腳本（每小時:10執行）
+└── daemon.sh                 # （已棄用）僅提示 populate.py 已不再適用
 ```
 
-## 自動化充實機制
+## 內容充實方式
 
-本 repo 透過 cron 排程，每小時在 **第 10 分鐘**自動執行 `populate.sh`，逐步：
-
-1. 新增一個文化的神話條目（依循環順序）
-2. 新增或擴充一個主題分析
-3. 更新索引與交叉對照表
-4. 自動 commit 進度
-
-預計完成時間：約 **3-6 個月**可達初步完整的跨文化覆蓋。
+本資料庫由 LLM 協作逐步深化。優先填充模板生成的空殼頁面（gods/、stories/、comparisons/），詳見 `AGENTS.md` 的工作流程。
 
 ## 如何參與
 
@@ -109,7 +102,7 @@ mythos-atlas/
 |------|------|
 | 文化體系 | 44/44 |
 | 跨文化主題 | 26/26 |
-| 分析文章 | 94 |
+| 分析文章 | 87 |
 | 總執行次數 | 49 |
 
 <!-- STATS_END -->
@@ -171,7 +164,7 @@ mythos-atlas/
 
 ## 📝 分析文章
 
-> 跨文化比較神話學分析文章。共 94 篇。
+> 跨文化比較神話學分析文章。共 87 篇。
 
 - [World Parents Separation](analyses/world-parents-separation.md)
 - [Wisdom Gods Comparative](analyses/wisdom-gods-comparative.md)
@@ -189,12 +182,10 @@ mythos-atlas/
 - [Spider Weaving Myths](analyses/spider-weaving-myths.md)
 - [Smith Forge Gods Comparative](analyses/smith-forge-gods-comparative.md)
 - [Sleep Dreams Mythology](analyses/sleep-dreams-mythology.md)
-- [Shanhaijing Mythological Geography](analyses/shanhaijing-mythological-geography.md)
-- [Shamanism In Myth](analyses/shamanism-in-myth.md)
 - [Sea Deities Ocean Myths](analyses/sea-deities-ocean-myths.md)
 - [Sacrificial Creation](analyses/sacrificial-creation.md)
 
-... 及另外 74 篇
+... 及另外 69 篇
 
 <!-- ANALYSES_END -->
 
