@@ -109,7 +109,7 @@ mythos-atlas/
 |------|------|
 | 文化體系 | 44/44 |
 | 跨文化主題 | 26/26 |
-| 分析文章 | 86 |
+| 分析文章 | 88 |
 | 總執行次數 | 43 |
 
 <!-- STATS_END -->
@@ -171,8 +171,10 @@ mythos-atlas/
 
 ## 📝 分析文章
 
-> 跨文化比較神話學分析文章。共 86 篇。
+> 跨文化比較神話學分析文章。共 88 篇。
 
+- [Divine Eyes: Vision, Blindness, and Insight](analyses/divine-eyes-vision-blindness-myths.md)
+- [Divine Laughter Comparative](analyses/divine-laughter-comparative.md)
 - [World Parents Separation](analyses/world-parents-separation.md)
 - [Wisdom Gods Comparative](analyses/wisdom-gods-comparative.md)
 - [Wind Deities Comparative](analyses/wind-deities-comparative.md)
