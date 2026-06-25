@@ -65,6 +65,7 @@
 | Papaios天父 | 斯基泰神話 |
 | Perkūnas雷神 | 波羅的神話 |
 | Pillán善靈/先祖靈魂 | 馬普切神話 |
+| Rongo與Haumia食物之神的二元對應 | 毛利神話 |
 | Saci-Pererê獨腳精靈 | 圖皮-瓜拉尼神話 |
 | Sarimanok神鳥 | 菲律賓神話 |
 | Satana(智慧女巫) | 高加索神話 |
@@ -86,6 +87,7 @@
 | Tupã雷神/創造之音 | 圖皮-瓜拉尼神話 |
 | Tāne分離天地 | 毛利神話 |
 | Tāwhirimātea風暴神的復仇 | 毛利神話 |
+| Tū-matauenga戰神與人類守護者 | 毛利神話 |
 | Vahagn雷神 | 亞美尼亞神話 |
 | Vanth死亡女神 | 伊特魯里亞神話 |
 | Viracocha創世 | 印加神話 |
@@ -93,6 +95,7 @@
 | Väralden Olmai世界人/造物主 | 薩米神話 |
 | Wekufu惡靈/混沌力量 | 馬普切神話 |
 | Whakaata毛利版畫藝術 | 毛利神話 |
+| Whiro黑暗之神與二元善惡對抗 | 毛利神話 |
 | Yima的王國與洪水 | 波斯神話 |
 | Zalmoxis不死神 | 達基亞/羅馬尼亞神話 |
 | Zmei龍 | 斯拉夫神話 |
@@ -295,4 +298,4 @@
 | 龍父仙母(Con Rồng Cháu Tiên) | 越南神話 |
 
 ---
-*Generated on 2026-06-24 10:38 UTC*
+*Generated on 2026-06-25 12:07 UTC*

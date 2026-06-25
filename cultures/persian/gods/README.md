@@ -4,10 +4,13 @@
 |------|------|
 | [Ahura Mazda](Ahura Mazda.md) | Ahura Mazda |
 | [Anahita](Anahita.md) | Anahita |
+| [Angra-Mainyu](Angra-Mainyu.md) | Angra-Mainyu |
+| [Daena-Soul-Guide](Daena-Soul-Guide.md) | Daena-Soul-Guide |
 | [Mithra](Mithra.md) | Mithra |
 | [Rashnu](Rashnu.md) | Rashnu |
 | [Sraosha](Sraosha.md) | Sraosha |
 | [Verethragna](Verethragna.md) | Verethragna |
+| [Zurvan](Zurvan.md) | Zurvan |
 
 ---
-*Auto-generated on 2026-06-24 10:38 UTC*
+*Auto-generated on 2026-06-25 12:07 UTC*

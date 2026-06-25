@@ -103,14 +103,14 @@ mythos-atlas/
 
 ## 📊 當前狀態
 
-> 自動更新於 2026-06-24 10:38 UTC
+> 自動更新於 2026-06-25 12:07 UTC
 
 | 類別 | 進度 |
 |------|------|
 | 文化體系 | 44/44 |
 | 跨文化主題 | 26/26 |
-| 分析文章 | 88 |
-| 總執行次數 | 43 |
+| 分析文章 | 94 |
+| 總執行次數 | 49 |
 
 <!-- STATS_END -->
 
@@ -126,43 +126,43 @@ mythos-atlas/
 | [埃及神話](cultures/egyptian/) | 北非—尼羅河流域 | 7 | 4 | 3 |
 | [北歐神話](cultures/norse/) | 北歐—日耳曼 | 7 | 4 | 2 |
 | [印度神話](cultures/hindu/) | 南亞—印度河流域 | 8 | 5 | 3 |
-| [馬雅神話](cultures/mayan/) | 中美洲 | 8 | 5 | 4 |
+| [馬雅神話](cultures/mayan/) | 中美洲 | 11 | 8 | 6 |
 | [日本神話](cultures/japanese/) | 東亞—日本列島 | 10 | 7 | 5 |
 | [波利尼西亞神話](cultures/polynesian/) | 太平洋島嶼 | 6 | 3 | 3 |
-| [澳洲原住民神話](cultures/aboriginal/) | 大洋洲—澳洲 | 5 | 3 | 3 |
+| [澳洲原住民神話](cultures/aboriginal/) | 大洋洲—澳洲 | 7 | 5 | 5 |
 | [非洲諸神話](cultures/african/) | 撒哈拉以南非洲 | 7 | 4 | 2 |
-| [美洲原住民神話](cultures/indigenous-americas/) | 北美洲 | 5 | 4 | 2 |
+| [美洲原住民神話](cultures/indigenous-americas/) | 北美洲 | 8 | 7 | 4 |
 | [印加神話](cultures/incan/) | 南美洲—安地斯山脈 | 6 | 3 | 3 |
 | [凱爾特神話](cultures/celtic/) | 西歐—愛爾蘭/不列顛/高盧 | 6 | 4 | 2 |
 | [斯拉夫神話](cultures/slavic/) | 東歐—巴爾幹 | 8 | 3 | 2 |
-| [波斯神話](cultures/persian/) | 伊朗高原 | 6 | 5 | 5 |
-| [韓國神話](cultures/korean/) | 東亞—朝鮮半島 | 4 | 3 | 3 |
+| [波斯神話](cultures/persian/) | 伊朗高原 | 9 | 8 | 8 |
+| [韓國神話](cultures/korean/) | 東亞—朝鮮半島 | 7 | 6 | 5 |
 | [芬蘭-烏戈爾神話](cultures/finno-ugric/) | 北歐—烏拉爾地區 | 6 | 3 | 3 |
 | [西藏神話](cultures/tibetan/) | 青藏高原 | 6 | 4 | 4 |
-| [蘇美神話](cultures/sumerian/) | 美索不達米亞南部 | 9 | 7 | 7 |
+| [蘇美神話](cultures/sumerian/) | 美索不達米亞南部 | 10 | 8 | 8 |
 | [腓尼基神話](cultures/phoenician/) | 黎凡特—迦南 | 8 | 5 | 5 |
 | [赫梯神話](cultures/hittite/) | 安納托利亞 | 6 | 3 | 3 |
-| [約魯巴神話](cultures/yoruba/) | 西非—奈及利亞/貝南 | 6 | 4 | 4 |
-| [蒙古神話](cultures/mongolian/) | 中亞—蒙古高原 | 4 | 4 | 3 |
+| [約魯巴神話](cultures/yoruba/) | 西非—奈及利亞/貝南 | 7 | 5 | 5 |
+| [蒙古神話](cultures/mongolian/) | 中亞—蒙古高原 | 9 | 6 | 5 |
 | [愛努神話](cultures/ainu/) | 北海道—庫頁島—千島群島 | 6 | 3 | 3 |
 | [伊特魯里亞神話](cultures/etruscan/) | 義大利—托斯卡尼 | 8 | 6 | 5 |
 | [巴斯克神話](cultures/basque/) | 西歐—庇里牛斯山脈 | 6 | 5 | 5 |
 | [波羅的神話](cultures/baltic/) | 東歐—波羅的海沿岸 | 5 | 4 | 3 |
 | [越南神話](cultures/vietnamese/) | 東南亞—紅河流域 | 7 | 7 | 7 |
-| [因紐特神話](cultures/inuit/) | 北極—阿拉斯加/加拿大/格陵蘭 | 5 | 3 | 3 |
+| [因紐特神話](cultures/inuit/) | 北極—阿拉斯加/加拿大/格陵蘭 | 8 | 6 | 5 |
 | [亞美尼亞神話](cultures/armenian/) | 南高加索—亞美尼亞高原 | 6 | 4 | 4 |
 | [菲律賓神話](cultures/philippine/) | 東南亞—菲律賓群島 | 7 | 5 | 4 |
 | [高加索神話](cultures/caucasian/) | 高加索山脈(奧塞提亞/切爾克斯/阿布哈茲) | 7 | 4 | 4 |
-| [達基亞/羅馬尼亞神話](cultures/dacian/) | 東南歐—喀爾巴阡山脈 | 4 | 5 | 1 |
+| [達基亞/羅馬尼亞神話](cultures/dacian/) | 東南歐—喀爾巴阡山脈 | 7 | 8 | 3 |
 | [羅馬神話](cultures/roman/) | 地中海—義大利半島 | 8 | 3 | 3 |
 | [前伊斯蘭阿拉伯神話](cultures/pre-islamic-arabian/) | 阿拉伯半島 | 6 | 3 | 3 |
-| [毛利神話](cultures/maori/) | 紐西蘭—玻里尼西亞三角 | 5 | 3 | 3 |
+| [毛利神話](cultures/maori/) | 紐西蘭—玻里尼西亞三角 | 10 | 6 | 6 |
 | [斯基泰神話](cultures/scythian/) | 歐亞草原—黑海北岸至阿爾泰 | 9 | 4 | 4 |
 | [米諾斯神話](cultures/minoan/) | 愛琴海—克里特島 | 6 | 3 | 3 |
-| [努比亞/庫什神話](cultures/nubian/) | 東北非—尼羅河上游/蘇丹 | 5 | 3 | 3 |
-| [馬普切神話](cultures/mapuche/) | 南美洲—智利/阿根廷 | 5 | 3 | 2 |
+| [努比亞/庫什神話](cultures/nubian/) | 東北非—尼羅河上游/蘇丹 | 7 | 5 | 5 |
+| [馬普切神話](cultures/mapuche/) | 南美洲—智利/阿根廷 | 8 | 6 | 4 |
 | [薩米神話](cultures/sami/) | 北歐—芬諾斯堪的亞 | 6 | 5 | 4 |
-| [西伯利亞神話](cultures/siberian/) | 西伯利亞—通古斯/雅庫特/楚科奇 | 5 | 5 | 1 |
+| [西伯利亞神話](cultures/siberian/) | 西伯利亞—通古斯/雅庫特/楚科奇 | 8 | 8 | 3 |
 | [圖皮-瓜拉尼神話](cultures/tupi-guarani/) | 南美洲—巴西/巴拉圭/玻利維亞 | 7 | 6 | 5 |
 
 <!-- CULTURES_END -->
@@ -171,20 +171,20 @@ mythos-atlas/
 
 ## 📝 分析文章
 
-> 跨文化比較神話學分析文章。共 88 篇。
+> 跨文化比較神話學分析文章。共 94 篇。
 
-- [Divine Eyes: Vision, Blindness, and Insight](analyses/divine-eyes-vision-blindness-myths.md)
-- [Divine Laughter Comparative](analyses/divine-laughter-comparative.md)
 - [World Parents Separation](analyses/world-parents-separation.md)
 - [Wisdom Gods Comparative](analyses/wisdom-gods-comparative.md)
 - [Wind Deities Comparative](analyses/wind-deities-comparative.md)
 - [War Gods Comparative](analyses/war-gods-comparative.md)
+- [Volcano Fire Mountain Myths](analyses/volcano-fire-mountain-myths.md)
 - [Underworld Journey](analyses/underworld-journey.md)
 - [Twin Myths](analyses/twin-myths.md)
 - [Turtle Myths Comparative](analyses/turtle-myths-comparative.md)
 - [Trickster Across Cultures](analyses/trickster-across-cultures.md)
 - [Thunder Gods](analyses/thunder-gods.md)
 - [Threshold Crossroads Gods](analyses/threshold-crossroads-gods.md)
+- [Swan Maiden Celestial Bride](analyses/swan-maiden-celestial-bride.md)
 - [Sun Myths](analyses/sun-myths.md)
 - [Spider Weaving Myths](analyses/spider-weaving-myths.md)
 - [Smith Forge Gods Comparative](analyses/smith-forge-gods-comparative.md)
@@ -193,10 +193,8 @@ mythos-atlas/
 - [Shamanism In Myth](analyses/shamanism-in-myth.md)
 - [Sea Deities Ocean Myths](analyses/sea-deities-ocean-myths.md)
 - [Sacrificial Creation](analyses/sacrificial-creation.md)
-- [Sacred Waters Springs](analyses/sacred-waters-springs.md)
-- [Sacred Rivers Myths](analyses/sacred-rivers-myths.md)
 
-... 及另外 66 篇
+... 及另外 74 篇
 
 <!-- ANALYSES_END -->
 

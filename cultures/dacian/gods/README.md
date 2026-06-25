@@ -5,7 +5,10 @@
 | [Bendis](Bendis.md) | Bendis |
 | [Derzelas](Derzelas.md) | Derzelas |
 | [Gebeleizis](Gebeleizis.md) | Gebeleizis |
+| [Heros](Heros.md) | Heros |
+| [Kotys](Kotys.md) | Kotys |
+| [Pleistoros](Pleistoros.md) | Pleistoros |
 | [Zalmoxis](Zalmoxis.md) | Zalmoxis |
 
 ---
-*Auto-generated on 2026-06-24 10:38 UTC*
+*Auto-generated on 2026-06-25 12:07 UTC*

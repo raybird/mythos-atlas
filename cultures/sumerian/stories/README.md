@@ -8,7 +8,8 @@
 | [enmerkar-language](enmerkar-language.md) | enmerkar-language |
 | [gilgamesh-bull-of-heaven](gilgamesh-bull-of-heaven.md) | gilgamesh-bull-of-heaven |
 | [inanna-and-shukaletuda](inanna-and-shukaletuda.md) | inanna-and-shukaletuda |
+| [inanna-descent-to-underworld](inanna-descent-to-underworld.md) | inanna-descent-to-underworld |
 | [inanna-dumuzi](inanna-dumuzi.md) | inanna-dumuzi |
 
 ---
-*Auto-generated on 2026-06-24 10:38 UTC*
+*Auto-generated on 2026-06-25 12:07 UTC*

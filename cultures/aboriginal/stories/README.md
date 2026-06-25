@@ -4,7 +4,9 @@
 |------|------|
 | [Seven-Sisters](Seven-Sisters.md) | Seven-Sisters |
 | [Tiddalik-Frog](Tiddalik-Frog.md) | Tiddalik-Frog |
+| [how-fire-came-to-earth](how-fire-came-to-earth.md) | how-fire-came-to-earth |
 | [rainbow-serpent](rainbow-serpent.md) | rainbow-serpent |
+| [wawalag-sisters](wawalag-sisters.md) | wawalag-sisters |
 
 ---
-*Auto-generated on 2026-06-24 10:38 UTC*
+*Auto-generated on 2026-06-25 12:07 UTC*

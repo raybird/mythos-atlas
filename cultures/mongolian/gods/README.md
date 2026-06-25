@@ -2,10 +2,15 @@
 
 | 檔案 | 名稱 |
 |------|------|
+| [Ataa-Ulaan](Ataa-Ulaan.md) | Ataa-Ulaan |
 | [Bai-Ulgan](Bai-Ulgan.md) | Bai-Ulgan |
 | [Daichi-Tengri](Daichi-Tengri.md) | Daichi-Tengri |
 | [Erlik-Khan](Erlik-Khan.md) | Erlik-Khan |
+| [Esege-Malan](Esege-Malan.md) | Esege-Malan |
+| [Khoormusta](Khoormusta.md) | Khoormusta |
+| [Ot](Ot.md) | Ot |
 | [Tengri](Tengri.md) | Tengri |
+| [Umay](Umay.md) | Umay |
 
 ---
-*Auto-generated on 2026-06-24 10:38 UTC*
+*Auto-generated on 2026-06-25 12:07 UTC*

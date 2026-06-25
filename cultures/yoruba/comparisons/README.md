@@ -3,9 +3,10 @@
 | 檔案 | 名稱 |
 |------|------|
 | [creation-humans](creation-humans.md) | creation-humans |
+| [deified-ancestors](deified-ancestors.md) | deified-ancestors |
 | [eshu-messenger-gods](eshu-messenger-gods.md) | eshu-messenger-gods |
 | [ocean-mothers](ocean-mothers.md) | ocean-mothers |
 | [shango-thunder-gods](shango-thunder-gods.md) | shango-thunder-gods |
 
 ---
-*Auto-generated on 2026-06-24 10:38 UTC*
+*Auto-generated on 2026-06-25 12:07 UTC*

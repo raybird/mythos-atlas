@@ -3,6 +3,7 @@
 | 檔案 | 名稱 |
 |------|------|
 | [Anu](Anu.md) | Anu |
+| [Dumuzi](Dumuzi.md) | Dumuzi |
 | [Enki](Enki.md) | Enki |
 | [Enlil](Enlil.md) | Enlil |
 | [Inanna](Inanna.md) | Inanna |
@@ -13,4 +14,4 @@
 | [Utu](Utu.md) | Utu |
 
 ---
-*Auto-generated on 2026-06-24 10:38 UTC*
+*Auto-generated on 2026-06-25 12:07 UTC*
