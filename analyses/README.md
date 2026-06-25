@@ -85,6 +85,7 @@
 - [Turtle Myths Comparative](turtle-myths-comparative.md)
 - [Twin Myths](twin-myths.md)
 - [Underworld Journey](underworld-journey.md)
+- [Volcano Fire Mountain Myths](volcano-fire-mountain-myths.md)
 - [War Gods Comparative](war-gods-comparative.md)
 - [Wind Deities Comparative](wind-deities-comparative.md)
 - [Wisdom Gods Comparative](wisdom-gods-comparative.md)
