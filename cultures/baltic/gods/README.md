@@ -4,9 +4,10 @@
 |------|------|
 | [Dievas](Dievas.md) | Dievas |
 | [Laima](Laima.md) | Laima |
+| [Mēness](Mēness.md) | Mēness |
 | [Perkūnas](Perkūnas.md) | Perkūnas |
 | [Saulė](Saulė.md) | Saulė |
 | [Žemyna](Žemyna.md) | Žemyna |
 
 ---
-*Auto-generated on 2026-06-25 12:07 UTC*
+*Auto-generated on 2026-06-25 22:40 UTC*

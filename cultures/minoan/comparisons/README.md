@@ -5,6 +5,7 @@
 | [goddess-religion-global](goddess-religion-global.md) | goddess-religion-global |
 | [labyrinth-spiral-comparative](labyrinth-spiral-comparative.md) | labyrinth-spiral-comparative |
 | [snake-goddess-global-comparative](snake-goddess-global-comparative.md) | snake-goddess-global-comparative |
+| [thalassocracy-sea-myths](thalassocracy-sea-myths.md) | thalassocracy-sea-myths |
 
 ---
-*Auto-generated on 2026-06-25 12:07 UTC*
+*Auto-generated on 2026-06-25 22:40 UTC*

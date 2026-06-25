@@ -56,7 +56,35 @@
         "黃帝戰蚩尤",
         "牛郎織女"
       ],
-      "order": 1
+      "order": 1,
+      "timeline": {
+        "precision": "century",
+        "start_year": -3000,
+        "end_year": -256,
+        "periods": [
+          {
+            "name": "神農—夏",
+            "start": -3000,
+            "end": -1600
+          },
+          {
+            "name": "商",
+            "start": -1600,
+            "end": -1046
+          },
+          {
+            "name": "周",
+            "start": -1046,
+            "end": -256
+          }
+        ],
+        "overlap_with": [
+          "mesopotamian",
+          "egyptian",
+          "minoan",
+          "hittite"
+        ]
+      }
     },
     {
       "id": "mesopotamian",
@@ -101,7 +129,40 @@
         "馬爾杜克戰提亞瑪特",
         "阿達帕破翼神話"
       ],
-      "order": 2
+      "order": 2,
+      "timeline": {
+        "precision": "century",
+        "start_year": -3500,
+        "end_year": -539,
+        "periods": [
+          {
+            "name": "蘇美城邦",
+            "start": -3500,
+            "end": -2334
+          },
+          {
+            "name": "阿卡德帝國",
+            "start": -2334,
+            "end": -2154
+          },
+          {
+            "name": "巴比倫",
+            "start": -1894,
+            "end": -539
+          },
+          {
+            "name": "亞述帝國",
+            "start": -1363,
+            "end": -609
+          }
+        ],
+        "overlap_with": [
+          "egyptian",
+          "hittite",
+          "minoan",
+          "sumerian"
+        ]
+      }
     },
     {
       "id": "greek",
@@ -152,7 +213,45 @@
         "奧菲斯尋妻",
         "迷宮與米諾陶"
       ],
-      "order": 3
+      "order": 3,
+      "timeline": {
+        "precision": "century",
+        "start_year": -1600,
+        "end_year": 146,
+        "periods": [
+          {
+            "name": "邁錫尼時期",
+            "start": -1600,
+            "end": -1100
+          },
+          {
+            "name": "黑暗時期",
+            "start": -1100,
+            "end": -800
+          },
+          {
+            "name": "古風時期",
+            "start": -800,
+            "end": -480
+          },
+          {
+            "name": "古典時期",
+            "start": -480,
+            "end": -323
+          },
+          {
+            "name": "希臘化時期",
+            "start": -323,
+            "end": 146
+          }
+        ],
+        "overlap_with": [
+          "egyptian",
+          "mesopotamian",
+          "minoan",
+          "roman"
+        ]
+      }
     },
     {
       "id": "egyptian",
@@ -197,7 +296,46 @@
         "巴神廟的創造",
         "拉神的神秘名"
       ],
-      "order": 4
+      "order": 4,
+      "timeline": {
+        "precision": "century",
+        "start_year": -3100,
+        "end_year": 30,
+        "periods": [
+          {
+            "name": "古王國",
+            "start": -2686,
+            "end": -2181
+          },
+          {
+            "name": "中王國",
+            "start": -2055,
+            "end": -1650
+          },
+          {
+            "name": "新王國",
+            "start": -1550,
+            "end": -1069
+          },
+          {
+            "name": "晚期",
+            "start": -664,
+            "end": -332
+          },
+          {
+            "name": "托勒密時期",
+            "start": -332,
+            "end": 30
+          }
+        ],
+        "overlap_with": [
+          "mesopotamian",
+          "hittite",
+          "minoan",
+          "nubian",
+          "greek"
+        ]
+      }
     },
     {
       "id": "norse",
@@ -238,7 +376,30 @@
         "洛基與巴德爾之死",
         "諸神黃昏預言與應驗"
       ],
-      "order": 5
+      "order": 5,
+      "timeline": {
+        "precision": "century",
+        "start_year": 200,
+        "end_year": 1066,
+        "periods": [
+          {
+            "name": "日耳曼鐵器時代",
+            "start": 200,
+            "end": 800
+          },
+          {
+            "name": "維京時期",
+            "start": 793,
+            "end": 1066
+          }
+        ],
+        "overlap_with": [
+          "celtic",
+          "roman",
+          "slavic",
+          "finno-ugric"
+        ]
+      }
     },
     {
       "id": "hindu",
@@ -285,7 +446,35 @@
         "杜爾迦斬魔",
         "象神Ganesh由來"
       ],
-      "order": 6
+      "order": 6,
+      "timeline": {
+        "precision": "century",
+        "start_year": -1500,
+        "end_year": 1200,
+        "periods": [
+          {
+            "name": "吠陀時期",
+            "start": -1500,
+            "end": -500
+          },
+          {
+            "name": "史詩—往世書時期",
+            "start": -500,
+            "end": 500
+          },
+          {
+            "name": "中世紀印度教",
+            "start": 500,
+            "end": 1200
+          }
+        ],
+        "overlap_with": [
+          "mesopotamian",
+          "persian",
+          "greek",
+          "chinese"
+        ]
+      }
     },
     {
       "id": "mayan",
@@ -323,7 +512,33 @@
         "玉米神重生",
         "創世神話"
       ],
-      "order": 7
+      "order": 7,
+      "timeline": {
+        "precision": "century",
+        "start_year": -2000,
+        "end_year": 1697,
+        "periods": [
+          {
+            "name": "前古典期",
+            "start": -2000,
+            "end": 250
+          },
+          {
+            "name": "古典期",
+            "start": 250,
+            "end": 900
+          },
+          {
+            "name": "後古典期",
+            "start": 900,
+            "end": 1697
+          }
+        ],
+        "overlap_with": [
+          "incan",
+          "indigenous-americas"
+        ]
+      }
     },
     {
       "id": "japanese",
@@ -364,7 +579,38 @@
         "因幡之白兔",
         "國讓神話"
       ],
-      "order": 8
+      "order": 8,
+      "timeline": {
+        "precision": "century",
+        "start_year": -300,
+        "end_year": 794,
+        "periods": [
+          {
+            "name": "彌生",
+            "start": -300,
+            "end": 250
+          },
+          {
+            "name": "古墳",
+            "start": 250,
+            "end": 538
+          },
+          {
+            "name": "飛鳥",
+            "start": 538,
+            "end": 710
+          },
+          {
+            "name": "奈良",
+            "start": 710,
+            "end": 794
+          }
+        ],
+        "overlap_with": [
+          "chinese",
+          "korean"
+        ]
+      }
     },
     {
       "id": "polynesian",
@@ -403,7 +649,33 @@
         "Māui阻攔太陽",
         "半神英雄傳奇"
       ],
-      "order": 9
+      "order": 9,
+      "timeline": {
+        "precision": "century",
+        "start_year": -1500,
+        "end_year": 1800,
+        "periods": [
+          {
+            "name": "拉皮塔時期",
+            "start": -1500,
+            "end": -500
+          },
+          {
+            "name": "波利尼西亞大遷徙",
+            "start": -500,
+            "end": 1200
+          },
+          {
+            "name": "古典波利尼西亞",
+            "start": 1200,
+            "end": 1800
+          }
+        ],
+        "overlap_with": [
+          "aboriginal",
+          "maori"
+        ]
+      }
     },
     {
       "id": "aboriginal",
@@ -439,7 +711,33 @@
         "七星姊妹",
         "Songlines追蹤祖先足跡"
       ],
-      "order": 10
+      "order": 10,
+      "timeline": {
+        "precision": "millennium",
+        "start_year": -50000,
+        "end_year": 1800,
+        "periods": [
+          {
+            "name": "史前澳洲",
+            "start": -50000,
+            "end": -10000
+          },
+          {
+            "name": "神話夢世紀",
+            "start": -10000,
+            "end": 1788
+          },
+          {
+            "name": "殖民接觸",
+            "start": 1788,
+            "end": 1900
+          }
+        ],
+        "overlap_with": [
+          "polynesian",
+          "maori"
+        ]
+      }
     },
     {
       "id": "african",
@@ -481,7 +779,34 @@
         "Orpheus式冥界之旅(非洲版本)",
         "Mwindo史詩"
       ],
-      "order": 11
+      "order": 11,
+      "timeline": {
+        "precision": "century",
+        "start_year": -5000,
+        "end_year": 1900,
+        "periods": [
+          {
+            "name": "史前非洲",
+            "start": -5000,
+            "end": -500
+          },
+          {
+            "name": "撒哈拉以南王國",
+            "start": 500,
+            "end": 1500
+          },
+          {
+            "name": "奴隸貿易—殖民",
+            "start": 1500,
+            "end": 1900
+          }
+        ],
+        "overlap_with": [
+          "egyptian",
+          "nubian",
+          "yoruba"
+        ]
+      }
     },
     {
       "id": "indigenous-americas",
@@ -523,7 +848,41 @@
         "白水牛女送七儀式",
         "雙子英雄"
       ],
-      "order": 12
+      "order": 12,
+      "timeline": {
+        "precision": "millennium",
+        "start_year": -12000,
+        "end_year": 1600,
+        "periods": [
+          {
+            "name": "古印第安期",
+            "start": -12000,
+            "end": -8000
+          },
+          {
+            "name": "古風期",
+            "start": -8000,
+            "end": -1000
+          },
+          {
+            "name": "林地區—平原區",
+            "start": -1000,
+            "end": 1000
+          },
+          {
+            "name": "密西西比文化",
+            "start": 800,
+            "end": 1600
+          }
+        ],
+        "overlap_with": [
+          "inuit",
+          "mayan",
+          "incan",
+          "mapuche",
+          "tupi-guarani"
+        ]
+      }
     },
     {
       "id": "incan",
@@ -560,7 +919,44 @@
         "Inkarri傳說",
         "Mama Huaco建立庫斯科"
       ],
-      "order": 13
+      "order": 13,
+      "timeline": {
+        "precision": "century",
+        "start_year": -3000,
+        "end_year": 1572,
+        "periods": [
+          {
+            "name": "前陶器時期",
+            "start": -3000,
+            "end": -1800
+          },
+          {
+            "name": "形成期",
+            "start": -1800,
+            "end": -200
+          },
+          {
+            "name": "區域發展期",
+            "start": -200,
+            "end": 600
+          },
+          {
+            "name": "瓦里—蒂亞瓦納科",
+            "start": 600,
+            "end": 1100
+          },
+          {
+            "name": "印加帝國",
+            "start": 1438,
+            "end": 1572
+          }
+        ],
+        "overlap_with": [
+          "mayan",
+          "indigenous-americas",
+          "mapuche"
+        ]
+      }
     },
     {
       "id": "celtic",
@@ -601,7 +997,35 @@
         "芬恩MacCool與鮭魚智慧",
         "聖杯尋找"
       ],
-      "order": 14
+      "order": 14,
+      "timeline": {
+        "precision": "century",
+        "start_year": -800,
+        "end_year": 1200,
+        "periods": [
+          {
+            "name": "哈爾施塔特",
+            "start": -800,
+            "end": -450
+          },
+          {
+            "name": "拉坦諾",
+            "start": -450,
+            "end": -1
+          },
+          {
+            "name": "羅馬—中世紀",
+            "start": 1,
+            "end": 1200
+          }
+        ],
+        "overlap_with": [
+          "norse",
+          "roman",
+          "greek",
+          "basque"
+        ]
+      }
     },
     {
       "id": "slavic",
@@ -640,7 +1064,29 @@
         "不死者Koschei",
         "Alkonost與Sirin神鳥"
       ],
-      "order": 15
+      "order": 15,
+      "timeline": {
+        "precision": "century",
+        "start_year": 400,
+        "end_year": 1200,
+        "periods": [
+          {
+            "name": "早期斯拉夫",
+            "start": 400,
+            "end": 800
+          },
+          {
+            "name": "基輔羅斯",
+            "start": 882,
+            "end": 1200
+          }
+        ],
+        "overlap_with": [
+          "norse",
+          "finno-ugric",
+          "baltic"
+        ]
+      }
     },
     {
       "id": "persian",
@@ -679,7 +1125,35 @@
         "Keresaspa戰巨蛇",
         "Alexander焚書傳奇"
       ],
-      "order": 16
+      "order": 16,
+      "timeline": {
+        "precision": "century",
+        "start_year": -1000,
+        "end_year": 651,
+        "periods": [
+          {
+            "name": "阿契美尼德帝國",
+            "start": -550,
+            "end": -330
+          },
+          {
+            "name": "帕提亞",
+            "start": -247,
+            "end": 224
+          },
+          {
+            "name": "薩珊帝國",
+            "start": 224,
+            "end": 651
+          }
+        ],
+        "overlap_with": [
+          "mesopotamian",
+          "greek",
+          "hindu",
+          "pre-islamic-arabian"
+        ]
+      }
     },
     {
       "id": "korean",
@@ -719,7 +1193,33 @@
         "沈清傳",
         "處容郎"
       ],
-      "order": 17
+      "order": 17,
+      "timeline": {
+        "precision": "century",
+        "start_year": -2333,
+        "end_year": 935,
+        "periods": [
+          {
+            "name": "古朝鮮",
+            "start": -2333,
+            "end": -108
+          },
+          {
+            "name": "三國時代",
+            "start": -57,
+            "end": 668
+          },
+          {
+            "name": "統一新羅",
+            "start": 668,
+            "end": 935
+          }
+        ],
+        "overlap_with": [
+          "chinese",
+          "japanese"
+        ]
+      }
     },
     {
       "id": "finno-ugric",
@@ -757,7 +1257,35 @@
         "Lemminkäinen的死亡與復活",
         "Kullervo復仇"
       ],
-      "order": 18
+      "order": 18,
+      "timeline": {
+        "precision": "century",
+        "start_year": -1000,
+        "end_year": 1300,
+        "periods": [
+          {
+            "name": "烏拉爾共同期",
+            "start": -1000,
+            "end": -500
+          },
+          {
+            "name": "芬蘭—烏戈爾分化",
+            "start": -500,
+            "end": 500
+          },
+          {
+            "name": "基督教化前",
+            "start": 500,
+            "end": 1300
+          }
+        ],
+        "overlap_with": [
+          "norse",
+          "slavic",
+          "siberian",
+          "sami"
+        ]
+      }
     },
     {
       "id": "tibetan",
@@ -796,7 +1324,29 @@
         "岡仁波齊朝聖",
         "大圓滿傳承神話"
       ],
-      "order": 19
+      "order": 19,
+      "timeline": {
+        "precision": "century",
+        "start_year": -500,
+        "end_year": 800,
+        "periods": [
+          {
+            "name": "張雄",
+            "start": -500,
+            "end": 600
+          },
+          {
+            "name": "吐蕃帝國",
+            "start": 600,
+            "end": 842
+          }
+        ],
+        "overlap_with": [
+          "chinese",
+          "hindu",
+          "mongolian"
+        ]
+      }
     },
     {
       "id": "sumerian",
@@ -837,7 +1387,34 @@
         "吉爾伽美什與天牛",
         "Ziusudra洪水"
       ],
-      "order": 20
+      "order": 20,
+      "timeline": {
+        "precision": "century",
+        "start_year": -4500,
+        "end_year": -2004,
+        "periods": [
+          {
+            "name": "烏魯克時期",
+            "start": -4000,
+            "end": -3100
+          },
+          {
+            "name": "早王朝時期",
+            "start": -2900,
+            "end": -2334
+          },
+          {
+            "name": "烏爾第三王朝",
+            "start": -2112,
+            "end": -2004
+          }
+        ],
+        "overlap_with": [
+          "mesopotamian",
+          "egyptian",
+          "minoan"
+        ]
+      }
     },
     {
       "id": "phoenician",
@@ -875,7 +1452,35 @@
         "Baal戰Mot",
         "阿斯塔特尋夫"
       ],
-      "order": 21
+      "order": 21,
+      "timeline": {
+        "precision": "century",
+        "start_year": -1500,
+        "end_year": -146,
+        "periods": [
+          {
+            "name": "青銅時代",
+            "start": -1500,
+            "end": -1200
+          },
+          {
+            "name": "腓尼基城邦",
+            "start": -1200,
+            "end": -539
+          },
+          {
+            "name": "波斯—希臘化",
+            "start": -539,
+            "end": -146
+          }
+        ],
+        "overlap_with": [
+          "mesopotamian",
+          "egyptian",
+          "greek",
+          "pre-islamic-arabian"
+        ]
+      }
     },
     {
       "id": "hittite",
@@ -913,7 +1518,30 @@
         "Telepinu失蹤",
         "伊盧揚卡蛇戰"
       ],
-      "order": 22
+      "order": 22,
+      "timeline": {
+        "precision": "century",
+        "start_year": -1750,
+        "end_year": -1178,
+        "periods": [
+          {
+            "name": "古王國",
+            "start": -1650,
+            "end": -1500
+          },
+          {
+            "name": "新王國",
+            "start": -1430,
+            "end": -1178
+          }
+        ],
+        "overlap_with": [
+          "mesopotamian",
+          "egyptian",
+          "minoan",
+          "phoenician"
+        ]
+      }
     },
     {
       "id": "yoruba",
@@ -967,7 +1595,34 @@
         "Orunmila與Ifá占卜的起源",
         "Ogun打開通往人間的路"
       ],
-      "order": 23
+      "order": 23,
+      "timeline": {
+        "precision": "century",
+        "start_year": 1000,
+        "end_year": 1900,
+        "periods": [
+          {
+            "name": "約魯巴城邦形成",
+            "start": 1000,
+            "end": 1400
+          },
+          {
+            "name": "奧約帝國",
+            "start": 1400,
+            "end": 1835
+          },
+          {
+            "name": "殖民時期",
+            "start": 1835,
+            "end": 1900
+          }
+        ],
+        "overlap_with": [
+          "african",
+          "egyptian",
+          "nubian"
+        ]
+      }
     },
     {
       "id": "mongolian",
@@ -1016,7 +1671,35 @@
         "成吉思汗的天命",
         "白老翁神話"
       ],
-      "order": 24
+      "order": 24,
+      "timeline": {
+        "precision": "century",
+        "start_year": -209,
+        "end_year": 1368,
+        "periods": [
+          {
+            "name": "匈奴",
+            "start": -209,
+            "end": 100
+          },
+          {
+            "name": "突厥—回鶻",
+            "start": 552,
+            "end": 840
+          },
+          {
+            "name": "蒙古帝國",
+            "start": 1206,
+            "end": 1368
+          }
+        ],
+        "overlap_with": [
+          "chinese",
+          "tibetan",
+          "siberian",
+          "persian"
+        ]
+      }
     },
     {
       "id": "ainu",
@@ -1062,7 +1745,34 @@
         "狐狸娶親",
         "貓頭鷹與人類的約定"
       ],
-      "order": 25
+      "order": 25,
+      "timeline": {
+        "precision": "century",
+        "start_year": -300,
+        "end_year": 1900,
+        "periods": [
+          {
+            "name": "繩文晚期",
+            "start": -300,
+            "end": 300
+          },
+          {
+            "name": "鄂霍次克文化",
+            "start": 500,
+            "end": 1200
+          },
+          {
+            "name": "愛努文化期",
+            "start": 1200,
+            "end": 1900
+          }
+        ],
+        "overlap_with": [
+          "japanese",
+          "siberian",
+          "ainu"
+        ]
+      }
     },
     {
       "id": "etruscan",
@@ -1108,7 +1818,34 @@
         "Vibenna兄弟傳奇",
         "Achle(阿基里斯)在伊特魯里亞藝術中"
       ],
-      "order": 26
+      "order": 26,
+      "timeline": {
+        "precision": "century",
+        "start_year": -900,
+        "end_year": -27,
+        "periods": [
+          {
+            "name": "維拉諾瓦",
+            "start": -900,
+            "end": -700
+          },
+          {
+            "name": "伊特魯里亞城邦",
+            "start": -700,
+            "end": -396
+          },
+          {
+            "name": "羅馬化",
+            "start": -396,
+            "end": -27
+          }
+        ],
+        "overlap_with": [
+          "greek",
+          "roman",
+          "phoenician"
+        ]
+      }
     },
     {
       "id": "basque",
@@ -1156,7 +1893,34 @@
         "Akelarre女巫集會",
         "Tartalo與牧羊人"
       ],
-      "order": 27
+      "order": 27,
+      "timeline": {
+        "precision": "century",
+        "start_year": -5000,
+        "end_year": 1000,
+        "periods": [
+          {
+            "name": "新石器時代",
+            "start": -5000,
+            "end": -2500
+          },
+          {
+            "name": "青銅—鐵器時代",
+            "start": -2500,
+            "end": -1
+          },
+          {
+            "name": "羅馬化前",
+            "start": 1,
+            "end": 1000
+          }
+        ],
+        "overlap_with": [
+          "celtic",
+          "roman",
+          "phoenician"
+        ]
+      }
     },
     {
       "id": "baltic",
@@ -1205,7 +1969,34 @@
         "Egle蛇王后",
         "Jūratė與Kastytis(琥珀傳說)"
       ],
-      "order": 28
+      "order": 28,
+      "timeline": {
+        "precision": "century",
+        "start_year": -2000,
+        "end_year": 1400,
+        "periods": [
+          {
+            "name": "波羅的部落聯合",
+            "start": -2000,
+            "end": -500
+          },
+          {
+            "name": "鐵器時代",
+            "start": -500,
+            "end": 1000
+          },
+          {
+            "name": "基督教化前",
+            "start": 1000,
+            "end": 1400
+          }
+        ],
+        "overlap_with": [
+          "norse",
+          "slavic",
+          "finno-ugric"
+        ]
+      }
     },
     {
       "id": "vietnamese",
@@ -1252,7 +2043,33 @@
         "Trọng Thủy與Mỵ Châu",
         "Chử Đồng Tử遇仙"
       ],
-      "order": 29
+      "order": 29,
+      "timeline": {
+        "precision": "century",
+        "start_year": -2879,
+        "end_year": 1400,
+        "periods": [
+          {
+            "name": "雄王時代",
+            "start": -2879,
+            "end": -258
+          },
+          {
+            "name": "北屬時期",
+            "start": -207,
+            "end": 939
+          },
+          {
+            "name": "獨立封建時期",
+            "start": 939,
+            "end": 1400
+          }
+        ],
+        "overlap_with": [
+          "chinese",
+          "chinese"
+        ]
+      }
     },
     {
       "id": "inuit",
@@ -1299,7 +2116,39 @@
         "Qallupilluit冰下妖怪",
         "Amarok巨狼傳說"
       ],
-      "order": 30
+      "order": 30,
+      "timeline": {
+        "precision": "century",
+        "start_year": -2000,
+        "end_year": 1900,
+        "periods": [
+          {
+            "name": "古愛斯基摩",
+            "start": -2000,
+            "end": -500
+          },
+          {
+            "name": "前因紐特",
+            "start": -500,
+            "end": 1000
+          },
+          {
+            "name": "圖勒文化",
+            "start": 1000,
+            "end": 1600
+          },
+          {
+            "name": "歷史因紐特",
+            "start": 1600,
+            "end": 1900
+          }
+        ],
+        "overlap_with": [
+          "siberian",
+          "indigenous-americas",
+          "norse"
+        ]
+      }
     },
     {
       "id": "armenian",
@@ -1346,7 +2195,35 @@
         "Ara the Beautiful與Semiramis",
         "薩遜的大衛史詩"
       ],
-      "order": 31
+      "order": 31,
+      "timeline": {
+        "precision": "century",
+        "start_year": -860,
+        "end_year": 301,
+        "periods": [
+          {
+            "name": "烏拉爾圖",
+            "start": -860,
+            "end": -590
+          },
+          {
+            "name": "亞美尼亞王國",
+            "start": -331,
+            "end": 1
+          },
+          {
+            "name": "基督教化",
+            "start": 1,
+            "end": 301
+          }
+        ],
+        "overlap_with": [
+          "mesopotamian",
+          "hittite",
+          "persian",
+          "caucasian"
+        ]
+      }
     },
     {
       "id": "philippine",
@@ -1393,7 +2270,29 @@
         "Aswang之夜",
         "Sarimanok神鳥傳說"
       ],
-      "order": 32
+      "order": 32,
+      "timeline": {
+        "precision": "century",
+        "start_year": -2000,
+        "end_year": 1521,
+        "periods": [
+          {
+            "name": "南島民族遷徙",
+            "start": -2000,
+            "end": -500
+          },
+          {
+            "name": "呂宋—米沙鄢城邦",
+            "start": 900,
+            "end": 1521
+          }
+        ],
+        "overlap_with": [
+          "polynesian",
+          "chinese",
+          "indigenous-americas"
+        ]
+      }
     },
     {
       "id": "caucasian",
@@ -1442,7 +2341,35 @@
         "Nart大洪水",
         "蛇戰傳說"
       ],
-      "order": 33
+      "order": 33,
+      "timeline": {
+        "precision": "century",
+        "start_year": -2000,
+        "end_year": 1500,
+        "periods": [
+          {
+            "name": "青銅—鐵器時代",
+            "start": -2000,
+            "end": -500
+          },
+          {
+            "name": "科爾基斯—伊比利亞",
+            "start": -500,
+            "end": 500
+          },
+          {
+            "name": "中世紀高加索",
+            "start": 500,
+            "end": 1500
+          }
+        ],
+        "overlap_with": [
+          "hittite",
+          "armenian",
+          "persian",
+          "greek"
+        ]
+      }
     },
     {
       "id": "dacian",
@@ -1491,7 +2418,35 @@
         "Solomonari巫師傳說",
         "Căluşari魔法戰舞"
       ],
-      "order": 34
+      "order": 34,
+      "timeline": {
+        "precision": "century",
+        "start_year": -1600,
+        "end_year": 106,
+        "periods": [
+          {
+            "name": "達基亞文化形成",
+            "start": -1600,
+            "end": -500
+          },
+          {
+            "name": "達基亞王國",
+            "start": -500,
+            "end": 106
+          },
+          {
+            "name": "羅馬達基亞",
+            "start": 106,
+            "end": 271
+          }
+        ],
+        "overlap_with": [
+          "greek",
+          "roman",
+          "celtic",
+          "scythian"
+        ]
+      }
     },
     {
       "id": "roman",
@@ -1550,7 +2505,37 @@
         "凱撒跨越盧比孔河",
         "奧古斯都的和平祭壇"
       ],
-      "order": 35
+      "order": 35,
+      "timeline": {
+        "precision": "century",
+        "start_year": -753,
+        "end_year": 476,
+        "periods": [
+          {
+            "name": "羅馬王政",
+            "start": -753,
+            "end": -509
+          },
+          {
+            "name": "羅馬共和",
+            "start": -509,
+            "end": -27
+          },
+          {
+            "name": "羅馬帝國",
+            "start": -27,
+            "end": 476
+          }
+        ],
+        "overlap_with": [
+          "greek",
+          "egyptian",
+          "celtic",
+          "etruscan",
+          "phoenician",
+          "persian"
+        ]
+      }
     },
     {
       "id": "pre-islamic-arabian",
@@ -1602,7 +2587,35 @@
         "Ad族與Thamud族的毀滅",
         "Zarqaa al-Yamama女先知"
       ],
-      "order": 36
+      "order": 36,
+      "timeline": {
+        "precision": "century",
+        "start_year": -1200,
+        "end_year": 622,
+        "periods": [
+          {
+            "name": "早期閃族",
+            "start": -1200,
+            "end": -500
+          },
+          {
+            "name": "南阿拉伯王國",
+            "start": -500,
+            "end": 300
+          },
+          {
+            "name": "賈希利亞",
+            "start": 300,
+            "end": 622
+          }
+        ],
+        "overlap_with": [
+          "mesopotamian",
+          "egyptian",
+          "phoenician",
+          "persian"
+        ]
+      }
     },
     {
       "id": "maori",
@@ -1677,7 +2690,32 @@
         "Hine-ahu-one的創造",
         "Hatupatu與鳥女"
       ],
-      "order": 37
+      "order": 37,
+      "timeline": {
+        "precision": "century",
+        "start_year": 1250,
+        "end_year": 1840,
+        "periods": [
+          {
+            "name": "早期毛利",
+            "start": 1250,
+            "end": 1500
+          },
+          {
+            "name": "古典毛利",
+            "start": 1500,
+            "end": 1800
+          },
+          {
+            "name": "歐洲接觸期",
+            "start": 1769,
+            "end": 1840
+          }
+        ],
+        "overlap_with": [
+          "polynesian"
+        ]
+      }
     },
     {
       "id": "scythian",
@@ -1729,7 +2767,36 @@
         "帕茲里克冰凍公主",
         "Ares聖劍的祭祀儀式"
       ],
-      "order": 38
+      "order": 38,
+      "timeline": {
+        "precision": "century",
+        "start_year": -900,
+        "end_year": -200,
+        "periods": [
+          {
+            "name": "斯基泰形成期",
+            "start": -900,
+            "end": -700
+          },
+          {
+            "name": "斯基泰王國",
+            "start": -700,
+            "end": -300
+          },
+          {
+            "name": "薩爾馬提亞",
+            "start": -300,
+            "end": -200
+          }
+        ],
+        "overlap_with": [
+          "greek",
+          "persian",
+          "caucasian",
+          "dacian",
+          "slavic"
+        ]
+      }
     },
     {
       "id": "minoan",
@@ -1786,7 +2853,40 @@
         "跳牛儀式",
         "米諾斯海軍與海洋霸權神話"
       ],
-      "order": 39
+      "order": 39,
+      "timeline": {
+        "precision": "century",
+        "start_year": -2600,
+        "end_year": -1100,
+        "periods": [
+          {
+            "name": "前王宮時期",
+            "start": -2600,
+            "end": -1900
+          },
+          {
+            "name": "古王宮時期",
+            "start": -1900,
+            "end": -1700
+          },
+          {
+            "name": "新王宮時期",
+            "start": -1700,
+            "end": -1450
+          },
+          {
+            "name": "後王宮時期",
+            "start": -1450,
+            "end": -1100
+          }
+        ],
+        "overlap_with": [
+          "egyptian",
+          "hittite",
+          "mesopotamian",
+          "greek"
+        ]
+      }
     },
     {
       "id": "nubian",
@@ -1837,7 +2937,29 @@
         "Apedemak獅神的節日",
         "Kerma王國的繁榮與衰落"
       ],
-      "order": 40
+      "order": 40,
+      "timeline": {
+        "precision": "century",
+        "start_year": -2000,
+        "end_year": 350,
+        "periods": [
+          {
+            "name": "Kerma文化",
+            "start": -2500,
+            "end": -1500
+          },
+          {
+            "name": "庫什王國",
+            "start": -800,
+            "end": 350
+          }
+        ],
+        "overlap_with": [
+          "egyptian",
+          "yoruba",
+          "african"
+        ]
+      }
     },
     {
       "id": "mapuche",
@@ -1888,7 +3010,33 @@
         "Machi療癒儀式",
         "Admapu法則的起源"
       ],
-      "order": 41
+      "order": 41,
+      "timeline": {
+        "precision": "century",
+        "start_year": -500,
+        "end_year": 1888,
+        "periods": [
+          {
+            "name": "前哥倫布時期",
+            "start": -500,
+            "end": 1541
+          },
+          {
+            "name": "阿勞科戰爭",
+            "start": 1541,
+            "end": 1818
+          },
+          {
+            "name": "併入智利",
+            "start": 1818,
+            "end": 1888
+          }
+        ],
+        "overlap_with": [
+          "incan",
+          "indigenous-americas"
+        ]
+      }
     },
     {
       "id": "sami",
@@ -1946,7 +3094,34 @@
         "馴鹿的起源神話",
         "Joik的誕生(音樂與魔法)"
       ],
-      "order": 42
+      "order": 42,
+      "timeline": {
+        "precision": "century",
+        "start_year": -2000,
+        "end_year": 1700,
+        "periods": [
+          {
+            "name": "早期薩米",
+            "start": -2000,
+            "end": -500
+          },
+          {
+            "name": "北歐鐵器時代",
+            "start": -500,
+            "end": 1000
+          },
+          {
+            "name": "中世紀晚期",
+            "start": 1000,
+            "end": 1700
+          }
+        ],
+        "overlap_with": [
+          "norse",
+          "finno-ugric",
+          "slavic"
+        ]
+      }
     },
     {
       "id": "siberian",
@@ -2003,7 +3178,40 @@
         "北極光爲死者之舞",
         "Kalau以火毀滅第三世界"
       ],
-      "order": 43
+      "order": 43,
+      "timeline": {
+        "precision": "century",
+        "start_year": -3000,
+        "end_year": 1800,
+        "periods": [
+          {
+            "name": "新石器—青銅時代",
+            "start": -3000,
+            "end": -500
+          },
+          {
+            "name": "斯基泰—西伯利亞",
+            "start": -500,
+            "end": 500
+          },
+          {
+            "name": "突厥—蒙古期",
+            "start": 500,
+            "end": 1500
+          },
+          {
+            "name": "俄羅斯擴張期",
+            "start": 1500,
+            "end": 1800
+          }
+        ],
+        "overlap_with": [
+          "mongolian",
+          "sami",
+          "ainu",
+          "finno-ugric"
+        ]
+      }
     },
     {
       "id": "tupi-guarani",
@@ -2063,7 +3271,29 @@
         "Pajé薩滿上升天堂取靈藥",
         "光輝之土Yvy Marãe'ỹ的尋找"
       ],
-      "order": 44
+      "order": 44,
+      "timeline": {
+        "precision": "century",
+        "start_year": -1000,
+        "end_year": 1760,
+        "periods": [
+          {
+            "name": "前哥倫布時期",
+            "start": -1000,
+            "end": 1500
+          },
+          {
+            "name": "殖民接觸期",
+            "start": 1500,
+            "end": 1760
+          }
+        ],
+        "overlap_with": [
+          "indigenous-americas",
+          "incan",
+          "mapuche"
+        ]
+      }
     }
   ],
   "themes": [
@@ -2539,6 +3769,27 @@
       ],
       "key_observations": "Psychopomp(靈魂引導者)爲宗教學中描述引導死者靈魂到達冥界/來世的存在。跨文化共通特徵：(1)神聖的渡者(Hermes/Charon→希臘、Anubis→埃及、Valkyries→北歐、牛頭馬面→中國)(2)動物嚮導(狗/胡狼/貓頭鷹/烏鴉)(3)橋/河流的守護者(Chinvat橋→波斯、Styx→希臘)。靈魂引導者的存在反映人類對死亡作爲「旅程」的普遍隱喻。",
       "order": 125
+    },
+    {
+      "id": "world-ages-and-cycles",
+      "name": "宇宙紀元與世界循環",
+      "name_en": "World Ages and Cosmic Cycles",
+      "cultures_covered": [
+        "Hindu",
+        "Greek",
+        "Mayan",
+        "Norse",
+        "Persian",
+        "Etruscan",
+        "Chinese",
+        "Japanese",
+        "Aztec",
+        "Incan",
+        "Egyptian",
+        "Mesopotamian"
+      ],
+      "key_observations": "跨文化普遍存在「黃金—白銀—青銅—黑鐵」的退化敘事與循環時間觀。印度四Yuga(864萬年→43.2萬年遞減)、希臘赫西俄德五時代、馬雅五太陽紀、北歐諸神黃昏後的再生、波斯九千年世界周期、伊特魯里亞萬年期——共同揭示人類對時間退化與循環復興的原型認知。關鍵區別：線性vs循環vs螺旋時間觀的文明偏好，及其與社會階層、王權正當性的關聯。",
+      "order": 126
     }
   ]
 }

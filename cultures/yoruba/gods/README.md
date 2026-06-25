@@ -2,8 +2,11 @@
 
 | 檔案 | 名稱 |
 |------|------|
+| [eshu](eshu.md) | eshu |
 | [obatala](obatala.md) | obatala |
 | [ogun](ogun.md) | ogun |
+| [olodumare](olodumare.md) | olodumare |
+| [olokun](olokun.md) | olokun |
 | [orunmila](orunmila.md) | orunmila |
 | [oshun](oshun.md) | oshun |
 | [oya](oya.md) | oya |
@@ -11,4 +14,4 @@
 | [yemaya](yemaya.md) | yemaya |
 
 ---
-*Auto-generated on 2026-06-25 12:07 UTC*
+*Auto-generated on 2026-06-25 22:40 UTC*

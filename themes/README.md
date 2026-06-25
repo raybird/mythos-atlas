@@ -30,6 +30,7 @@
 | [sacred-kingship](sacred-kingship.md) | 聖王：神聖王權與天命的跨文化比較 (Sacred Kingship: Divine Rule Across Cultures) |
 | [culture-hero](culture-hero.md) | 文化英雄：盜火、農耕與文明奠基者 (Culture Hero: Fire Theft, Agriculture & Civilizing Gifts) |
 | [psychopomp](psychopomp.md) | 靈魂引導者：跨文化的死亡中介 (Psychopomp: Guides of the Soul Across Cultures) |
+| [world-ages-and-cycles](world-ages-and-cycles.md) | 宇宙紀元與世界循環 (World Ages and Cosmic Cycles) |
 
 ---
-*Auto-generated on 2026-06-25 12:07 UTC*
+*Auto-generated on 2026-06-25 22:40 UTC*

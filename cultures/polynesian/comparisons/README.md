@@ -4,7 +4,8 @@
 |------|------|
 | [creation-myths-global](creation-myths-global.md) | creation-myths-global |
 | [maui-trickster-global](maui-trickster-global.md) | maui-trickster-global |
+| [navigation-mythology](navigation-mythology.md) | navigation-mythology |
 | [polynesian-war-gods-global](polynesian-war-gods-global.md) | polynesian-war-gods-global |
 
 ---
-*Auto-generated on 2026-06-25 12:07 UTC*
+*Auto-generated on 2026-06-25 22:40 UTC*

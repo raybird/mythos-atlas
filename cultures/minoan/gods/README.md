@@ -6,8 +6,9 @@
 | [Minoan-Pillar-Gods](Minoan-Pillar-Gods.md) | Minoan-Pillar-Gods |
 | [Minoan-Tree-Goddess](Minoan-Tree-Goddess.md) | Minoan-Tree-Goddess |
 | [Minotaur](Minotaur.md) | Minotaur |
+| [Mother-Goddess](Mother-Goddess.md) | Mother-Goddess |
 | [Potnia-Theron](Potnia-Theron.md) | Potnia-Theron |
 | [Snake-Goddess](Snake-Goddess.md) | Snake-Goddess |
 
 ---
-*Auto-generated on 2026-06-25 12:07 UTC*
+*Auto-generated on 2026-06-25 22:40 UTC*

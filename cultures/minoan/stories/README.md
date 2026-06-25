@@ -2,9 +2,10 @@
 
 | 檔案 | 名稱 |
 |------|------|
+| [birth-of-zeus](birth-of-zeus.md) | birth-of-zeus |
 | [bull-leaping](bull-leaping.md) | bull-leaping |
 | [daedalus-and-icarus](daedalus-and-icarus.md) | daedalus-and-icarus |
 | [minos-and-knossos](minos-and-knossos.md) | minos-and-knossos |
 
 ---
-*Auto-generated on 2026-06-25 12:07 UTC*
+*Auto-generated on 2026-06-25 22:40 UTC*

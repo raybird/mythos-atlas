@@ -5,9 +5,12 @@
 | [Al-Lat](Al-Lat.md) | Al-Lat |
 | [Al-Uzza](Al-Uzza.md) | Al-Uzza |
 | [Athtar](Athtar.md) | Athtar |
+| [Dhat-Badan](Dhat-Badan.md) | Dhat-Badan |
 | [Hubal](Hubal.md) | Hubal |
 | [Ilmaqah](Ilmaqah.md) | Ilmaqah |
 | [Manat](Manat.md) | Manat |
+| [Nasr](Nasr.md) | Nasr |
+| [Wadd](Wadd.md) | Wadd |
 
 ---
-*Auto-generated on 2026-06-25 12:07 UTC*
+*Auto-generated on 2026-06-25 22:40 UTC*

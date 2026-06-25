@@ -8,6 +8,7 @@
 | [Epona](Epona.md) | Epona |
 | [Lugh](Lugh.md) | Lugh |
 | [Morrigan](Morrigan.md) | Morrigan |
+| [Nuada](Nuada.md) | Nuada |
 
 ---
-*Auto-generated on 2026-06-25 12:07 UTC*
+*Auto-generated on 2026-06-25 22:40 UTC*

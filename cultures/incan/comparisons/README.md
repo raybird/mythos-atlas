@@ -4,7 +4,8 @@
 |------|------|
 | [Viracocha-Quetzalcoatl](Viracocha-Quetzalcoatl.md) | Viracocha-Quetzalcoatl |
 | [inca-creation-flood-comparative](inca-creation-flood-comparative.md) | inca-creation-flood-comparative |
+| [mountain-deities-comparative](mountain-deities-comparative.md) | mountain-deities-comparative |
 | [thunder-gods-global](thunder-gods-global.md) | thunder-gods-global |
 
 ---
-*Auto-generated on 2026-06-25 12:07 UTC*
+*Auto-generated on 2026-06-25 22:40 UTC*

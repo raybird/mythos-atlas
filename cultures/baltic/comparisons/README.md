@@ -3,8 +3,9 @@
 | 檔案 | 名稱 |
 |------|------|
 | [Dievas天父與印歐天父神比較](Dievas天父與印歐天父神比較.md) | Dievas天父與印歐天父神比較 |
+| [Mēness月神與跨文化月神比較](Mēness月神與跨文化月神比較.md) | Mēness月神與跨文化月神比較 |
 | [Perkūnas戰Velnias雷神戰蛇](Perkūnas戰Velnias雷神戰蛇.md) | Perkūnas戰Velnias雷神戰蛇 |
 | [Saulė太陽船與跨文化太陽運具比較](Saulė太陽船與跨文化太陽運具比較.md) | Saulė太陽船與跨文化太陽運具比較 |
 
 ---
-*Auto-generated on 2026-06-25 12:07 UTC*
+*Auto-generated on 2026-06-25 22:40 UTC*
