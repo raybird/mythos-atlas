@@ -1,9 +1,10 @@
-# 斯拉夫神話 — 跨文化比較
+# 斯拉夫跨文化比較
 
-| 檔案 | 名稱 |
-|------|------|
-| [indo-european-thunder-gods](indo-european-thunder-gods.md) | indo-european-thunder-gods |
-| [slavic-baltic-norse](slavic-baltic-norse.md) | slavic-baltic-norse |
+- [indo-european-thunder-gods](indo-european-thunder-gods.md)
+- [slavic-baltic-norse](slavic-baltic-norse.md)
+- [斯拉夫世界樹比較](斯拉夫世界樹比較.md)
+- [斯拉夫女性三聯神比較](斯拉夫女性三聯神比較.md)
+- [斯拉夫波羅的海北歐比較](斯拉夫波羅的海北歐比較.md)
 
 ---
-*Auto-generated on 2026-06-26 02:07 UTC*
+*Generated on 2026-06-26 16:46 UTC*

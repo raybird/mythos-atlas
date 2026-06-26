@@ -1,15 +1,16 @@
-# 斯拉夫神話 — 神祇
+# 斯拉夫神祇
 
-| 檔案 | 名稱 |
-|------|------|
-| [Dazbog](Dazbog.md) | Dazbog |
-| [Jarilo](Jarilo.md) | Jarilo |
-| [Marzanna](Marzanna.md) | Marzanna |
-| [Mokosh](Mokosh.md) | Mokosh |
-| [Perun](Perun.md) | Perun |
-| [Stribog](Stribog.md) | Stribog |
-| [Svarog](Svarog.md) | Svarog |
-| [Veles](Veles.md) | Veles |
+- [Dazbog](Dazbog.md)
+- [Jarilo](Jarilo.md)
+- [Marzanna](Marzanna.md)
+- [Mokosh](Mokosh.md)
+- [Perun](Perun.md)
+- [Stribog](Stribog.md)
+- [Svarog](Svarog.md)
+- [Veles](Veles.md)
+- [佐莉亞](佐莉亞.md)
+- [斯瓦羅日奇](斯瓦羅日奇.md)
+- [霍爾斯](霍爾斯.md)
 
 ---
-*Auto-generated on 2026-06-26 02:07 UTC*
+*Generated on 2026-06-26 16:46 UTC*

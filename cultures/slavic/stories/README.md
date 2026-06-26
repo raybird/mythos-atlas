@@ -1,10 +1,11 @@
-# 斯拉夫神話 — 故事
+# 斯拉夫故事
 
-| 檔案 | 名稱 |
-|------|------|
-| [jarilo-marzanna-cycle](jarilo-marzanna-cycle.md) | jarilo-marzanna-cycle |
-| [perun-veles-battle](perun-veles-battle.md) | perun-veles-battle |
-| [svetovit-temple-arkona](svetovit-temple-arkona.md) | svetovit-temple-arkona |
+- [jarilo-marzanna-cycle](jarilo-marzanna-cycle.md)
+- [perun-veles-battle](perun-veles-battle.md)
+- [svetovit-temple-arkona](svetovit-temple-arkona.md)
+- [斯拉夫創世與神鴨](斯拉夫創世與神鴨.md)
+- [火鳥的羽毛](火鳥的羽毛.md)
+- [科謝伊不死者](科謝伊不死者.md)
 
 ---
-*Auto-generated on 2026-06-26 02:07 UTC*
+*Generated on 2026-06-26 16:46 UTC*
