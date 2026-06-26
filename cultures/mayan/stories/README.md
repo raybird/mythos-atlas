@@ -1,15 +1,16 @@
-# 馬雅神話 — 故事
+# 馬雅故事
 
-| 檔案 | 名稱 |
-|------|------|
-| [Alux精靈傳說](Alux精靈傳說.md) | Alux精靈傳說 |
-| [Chaac與玉米之神](Chaac與玉米之神.md) | Chaac與玉米之神 |
-| [hero-twins-xibalba-trial](hero-twins-xibalba-trial.md) | hero-twins-xibalba-trial |
-| [hero-twins-xibalba](hero-twins-xibalba.md) | hero-twins-xibalba |
-| [maize-people-creation](maize-people-creation.md) | maize-people-creation |
-| [popol-vuh-creation](popol-vuh-creation.md) | popol-vuh-creation |
-| [vucub-caquix](vucub-caquix.md) | vucub-caquix |
-| [創世之初](創世之初.md) | 創世之初 |
+- [Alux精靈傳說](Alux精靈傳說.md)
+- [Chaac與玉米之神](Chaac與玉米之神.md)
+- [hero-twins-xibalba-trial](hero-twins-xibalba-trial.md)
+- [hero-twins-xibalba](hero-twins-xibalba.md)
+- [maize-people-creation](maize-people-creation.md)
+- [popol-vuh-creation](popol-vuh-creation.md)
+- [vucub-caquix](vucub-caquix.md)
+- [創世之初](創世之初.md)
+- [月亮上的兔子](月亮上的兔子.md)
+- [英雄雙子化日月](英雄雙子化日月.md)
+- [西帕克納與卡布拉坎](西帕克納與卡布拉坎.md)
 
 ---
-*Auto-generated on 2026-06-26 02:07 UTC*
+*Generated on 2026-06-26 10:36 UTC*
