@@ -1,14 +1,15 @@
-# 非洲諸神話 — 神祇
+# 非洲神祇
 
-| 檔案 | 名稱 |
-|------|------|
-| [Anansi](Anansi.md) | Anansi |
-| [Khepri](Khepri.md) | Khepri |
-| [Obatala](Obatala.md) | Obatala |
-| [Ogun](Ogun.md) | Ogun |
-| [Olorun-Olódùmarè](Olorun-Olódùmarè.md) | Olorun-Olódùmarè |
-| [Shango](Shango.md) | Shango |
-| [Yemaya](Yemaya.md) | Yemaya |
+- [Anansi](Anansi.md)
+- [Khepri](Khepri.md)
+- [Obatala](Obatala.md)
+- [Ogun](Ogun.md)
+- [Olorun-Olódùmarè](Olorun-Olódùmarè.md)
+- [Shango](Shango.md)
+- [Yemaya](Yemaya.md)
+- [尼亞美](尼亞美.md)
+- [恩贊比姆彭古](恩贊比姆彭古.md)
+- [瑪巫麗莎](瑪巫麗莎.md)
 
 ---
-*Auto-generated on 2026-06-26 02:07 UTC*
+*Generated on 2026-06-26 14:12 UTC*
