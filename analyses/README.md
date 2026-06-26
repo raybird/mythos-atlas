@@ -21,6 +21,7 @@
 - [Divine Nectar Elixir Immortality](divine-nectar-elixir-immortality.md)
 - [Divine Retribution Comparative](divine-retribution-comparative.md)
 - [Divine Weapons Armaments Comparative](divine-weapons-armaments-comparative.md)
+- [Deer / Stag in World Mythologies](deer-stag-myths-comparative.md)
 - [Dogs Wolves Mythology](dogs-wolves-mythology.md)
 - [Dragons And Serpents Global](dragons-and-serpents-global.md)
 - [Dying And Rising Gods](dying-and-rising-gods.md)
