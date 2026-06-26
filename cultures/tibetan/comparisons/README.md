@@ -1,11 +1,12 @@
-# 西藏神話 — 跨文化比較
+# 西藏跨文化比較
 
-| 檔案 | 名稱 |
-|------|------|
-| [buddhist-subjugation-global](buddhist-subjugation-global.md) | buddhist-subjugation-global |
-| [creation-myths-comparison](creation-myths-comparison.md) | creation-myths-comparison |
-| [hidden-teachings-comparison](hidden-teachings-comparison.md) | hidden-teachings-comparison |
-| [protector-gods-comparison](protector-gods-comparison.md) | protector-gods-comparison |
+- [buddhist-subjugation-global](buddhist-subjugation-global.md)
+- [creation-myths-comparison](creation-myths-comparison.md)
+- [hidden-teachings-comparison](hidden-teachings-comparison.md)
+- [protector-gods-comparison](protector-gods-comparison.md)
+- [佛教忿怒尊全球比較](佛教忿怒尊全球比較.md)
+- [忿怒護法神比較](忿怒護法神比較.md)
+- [藏印佛教神系比較](藏印佛教神系比較.md)
 
 ---
-*Auto-generated on 2026-06-26 02:07 UTC*
+*Generated on 2026-06-26 20:14 UTC*

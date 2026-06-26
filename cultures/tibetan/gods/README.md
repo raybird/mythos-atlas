@@ -1,13 +1,14 @@
-# 西藏神話 — 神祇
+# 西藏神祇
 
-| 檔案 | 名稱 |
-|------|------|
-| [Gesar](Gesar.md) | Gesar |
-| [Nyenchen-Thanglha](Nyenchen-Thanglha.md) | Nyenchen-Thanglha |
-| [Padmasambhava](Padmasambhava.md) | Padmasambhava |
-| [Shenrab-Miwo](Shenrab-Miwo.md) | Shenrab-Miwo |
-| [Tara](Tara.md) | Tara |
-| [Tibetan-Pantheon](Tibetan-Pantheon.md) | Tibetan-Pantheon |
+- [Gesar](Gesar.md)
+- [Nyenchen-Thanglha](Nyenchen-Thanglha.md)
+- [Padmasambhava](Padmasambhava.md)
+- [Shenrab-Miwo](Shenrab-Miwo.md)
+- [Tara](Tara.md)
+- [Tibetan-Pantheon](Tibetan-Pantheon.md)
+- [吉祥天母](吉祥天母.md)
+- [瑪哈嘎拉](瑪哈嘎拉.md)
+- [閻魔德迦](閻魔德迦.md)
 
 ---
-*Auto-generated on 2026-06-26 02:07 UTC*
+*Generated on 2026-06-26 20:14 UTC*
