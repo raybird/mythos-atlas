@@ -4,7 +4,10 @@
 |------|------|
 | [ara-semiramis](ara-semiramis.md) | ara-semiramis |
 | [artavazd](artavazd.md) | artavazd |
+| [founding-of-van](founding-of-van.md) | founding-of-van |
 | [hayk-bel](hayk-bel.md) | hayk-bel |
+| [sasuntsi-davit](sasuntsi-davit.md) | sasuntsi-davit |
+| [tork-angegh](tork-angegh.md) | tork-angegh |
 | [vahagn-dragon](vahagn-dragon.md) | vahagn-dragon |
 
 ---

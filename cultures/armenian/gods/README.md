@@ -6,6 +6,9 @@
 | [aramazd](aramazd.md) | aramazd |
 | [astghik](astghik.md) | astghik |
 | [hayk](hayk.md) | hayk |
+| [mihr](mihr.md) | mihr |
+| [nane](nane.md) | nane |
+| [spandaramet](spandaramet.md) | spandaramet |
 | [tir](tir.md) | tir |
 | [vahagn](vahagn.md) | vahagn |
 
