@@ -8,4 +8,4 @@
 | [sole-weakness-global](sole-weakness-global.md) | sole-weakness-global |
 
 ---
-*Auto-generated on 2026-06-25 22:40 UTC*
+*Auto-generated on 2026-06-26 02:07 UTC*

@@ -1,13 +1,14 @@
-# 愛努神話 — 神祇
+# 阿伊努神祇
 
-| 檔案 | 名稱 |
-|------|------|
-| [Ainu-Cosmos](Ainu-Cosmos.md) | Ainu-Cosmos |
-| [Ainu-Kamuy-System](Ainu-Kamuy-System.md) | Ainu-Kamuy-System |
-| [Kamuy-huci](Kamuy-huci.md) | Kamuy-huci |
-| [Kim-un-kamuy](Kim-un-kamuy.md) | Kim-un-kamuy |
-| [Kotan-kar-kamuy](Kotan-kar-kamuy.md) | Kotan-kar-kamuy |
-| [Rep-un-kamuy](Rep-un-kamuy.md) | Rep-un-kamuy |
+- [Ainu Cosmos](Ainu-Cosmos.md)
+- [Ainu Kamuy System](Ainu-Kamuy-System.md)
+- [Chup Kamuy](Chup-Kamuy.md)
+- [Hasinaw uk kamuy](Hasinaw-uk-kamuy.md)
+- [Kamuy huci](Kamuy-huci.md)
+- [Kim un kamuy](Kim-un-kamuy.md)
+- [Kotan kar kamuy](Kotan-kar-kamuy.md)
+- [Rep un kamuy](Rep-un-kamuy.md)
+- [Waka ush Kamuy](Waka-ush-Kamuy.md)
 
 ---
-*Auto-generated on 2026-06-25 22:40 UTC*
+*Generated on 2026-06-26 02:07 UTC*

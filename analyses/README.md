@@ -16,6 +16,7 @@
 - [Creation Of Humans](creation-of-humans.md)
 - [Culture Hero Comparative](culture-hero-comparative.md)
 - [Divine Androgyny](divine-androgyny.md)
+- [Divine Archery Comparative](divine-archery-comparative.md)
 - [Divine Laughter Comparative](divine-laughter-comparative.md)
 - [Divine Nectar Elixir Immortality](divine-nectar-elixir-immortality.md)
 - [Divine Retribution Comparative](divine-retribution-comparative.md)
@@ -94,11 +95,10 @@
 - [Twin Myths](twin-myths.md)
 - [Underworld Journey](underworld-journey.md)
 - [Volcano Fire Mountain Myths](volcano-fire-mountain-myths.md)
-- [Divine Archery Comparative](divine-archery-comparative.md)
 - [War Gods Comparative](war-gods-comparative.md)
 - [Wind Deities Comparative](wind-deities-comparative.md)
 - [Wisdom Gods Comparative](wisdom-gods-comparative.md)
 - [World Parents Separation](world-parents-separation.md)
 
 ---
-*Auto-generated on 2026-06-25 22:41 UTC*
+*Auto-generated on 2026-06-26 02:07 UTC*

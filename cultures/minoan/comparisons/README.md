@@ -8,4 +8,4 @@
 | [thalassocracy-sea-myths](thalassocracy-sea-myths.md) | thalassocracy-sea-myths |
 
 ---
-*Auto-generated on 2026-06-25 22:40 UTC*
+*Auto-generated on 2026-06-26 02:07 UTC*

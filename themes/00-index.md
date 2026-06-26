@@ -1,9 +1,10 @@
 # 主題索引
 
-> 跨文化母題主題。
+> 自動生成的索引 — 跨文化主題分析。
 
 | 檔案 | 主題 |
 |------|------|
+| [README](README.md) | 主題目錄 |
 | [afterlife-journey](afterlife-journey.md) | 冥界之旅與死後世界 |
 | [chaoskampf](chaoskampf.md) | 混沌之戰：秩序對抗混亂的宇宙鬥爭 |
 | [cosmic-sacrifice](cosmic-sacrifice.md) | 宇宙獻祭：原始巨人死亡創造世界 |
@@ -32,5 +33,5 @@
 | [world-ages-and-cycles](world-ages-and-cycles.md) | 宇宙紀元與世界循環 |
 | [world-tree](world-tree.md) | 世界樹與宇宙樹 |
 
----
-*總計 27 個主題*
+
+*總計 28 個主題*

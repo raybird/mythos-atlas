@@ -96,14 +96,14 @@ mythos-atlas/
 
 ## 📊 當前狀態
 
-> 自動更新於 2026-06-25 22:40 UTC
+> 自動更新於 2026-06-26 02:07 UTC
 
 | 類別 | 進度 |
 |------|------|
 | 文化體系 | 44/44 |
 | 跨文化主題 | 27/27 |
-| 分析文章 | 96 |
-| 總執行次數 | 51 |
+| 分析文章 | 97 |
+| 總執行次數 | 52 |
 
 <!-- STATS_END -->
 
@@ -130,14 +130,14 @@ mythos-atlas/
 | [斯拉夫神話](cultures/slavic/) | 東歐—巴爾幹 | 8 | 3 | 2 |
 | [波斯神話](cultures/persian/) | 伊朗高原 | 9 | 8 | 8 |
 | [韓國神話](cultures/korean/) | 東亞—朝鮮半島 | 7 | 6 | 5 |
-| [芬蘭-烏戈爾神話](cultures/finno-ugric/) | 北歐—烏拉爾地區 | 6 | 3 | 3 |
+| [芬蘭-烏戈爾神話](cultures/finno-ugric/) | 北歐—烏拉爾地區 | 8 | 5 | 5 |
 | [西藏神話](cultures/tibetan/) | 青藏高原 | 6 | 4 | 4 |
 | [蘇美神話](cultures/sumerian/) | 美索不達米亞南部 | 10 | 8 | 8 |
 | [腓尼基神話](cultures/phoenician/) | 黎凡特—迦南 | 8 | 5 | 5 |
 | [赫梯神話](cultures/hittite/) | 安納托利亞 | 9 | 6 | 6 |
 | [約魯巴神話](cultures/yoruba/) | 西非—奈及利亞/貝南 | 10 | 8 | 8 |
 | [蒙古神話](cultures/mongolian/) | 中亞—蒙古高原 | 9 | 6 | 5 |
-| [愛努神話](cultures/ainu/) | 北海道—庫頁島—千島群島 | 6 | 3 | 3 |
+| [愛努神話](cultures/ainu/) | 北海道—庫頁島—千島群島 | 9 | 6 | 6 |
 | [伊特魯里亞神話](cultures/etruscan/) | 義大利—托斯卡尼 | 8 | 6 | 5 |
 | [巴斯克神話](cultures/basque/) | 西歐—庇里牛斯山脈 | 6 | 5 | 5 |
 | [波羅的神話](cultures/baltic/) | 東歐—波羅的海沿岸 | 6 | 5 | 4 |
@@ -164,7 +164,7 @@ mythos-atlas/
 
 ## 📝 分析文章
 
-> 跨文化比較神話學分析文章。共 96 篇。
+> 跨文化比較神話學分析文章。共 97 篇。
 
 - [World Parents Separation](analyses/world-parents-separation.md)
 - [Wisdom Gods Comparative](analyses/wisdom-gods-comparative.md)
@@ -187,7 +187,7 @@ mythos-atlas/
 - [Sleep Dreams Mythology](analyses/sleep-dreams-mythology.md)
 - [Shamanism In Myth](analyses/shamanism-in-myth.md)
 
-... 及另外 76 篇
+... 及另外 77 篇
 
 <!-- ANALYSES_END -->
 
