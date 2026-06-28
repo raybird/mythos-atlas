@@ -96,15 +96,15 @@ mythos-atlas/
 
 ## 📊 當前狀態
 
-> 自動更新於 2026-06-27 02:13 UTC
+> 自動更新於 2026-06-28 12:31 UTC
 
 | 類別 | 進度 |
 |------|------|
 | 文化體系 | 44/44 |
 | 跨文化主題 | 27/27 |
-| 分析文章 | 108 |
-| 已充實文化 | 15/44 |
-| 總頁面數 | 914 |
+| 分析文章 | 115 |
+| 已充實文化 | 19/44 |
+| 總頁面數 | 964 |
 | 總執行次數 | 52 |
 
 <!-- STATS_END -->
@@ -116,40 +116,40 @@ mythos-atlas/
 | 文化 | 區域 | 神祇 | 故事 | 比較 |
 |------|------|------|------|------|
 | [中國上古神話](cultures/chinese/) | 東亞 | 5 | 8 | 4 |
-| [美索不達米亞神話](cultures/mesopotamian/) | 兩河流域 | 6 | 4 | 3 |
+| [美索不達米亞神話](cultures/mesopotamian/) | 兩河流域 | 9 | 7 | 6 |
 | [希臘神話](cultures/greek/) | 地中海—巴爾幹 | 11 | 6 | 4 |
-| [埃及神話](cultures/egyptian/) | 北非—尼羅河流域 | 7 | 4 | 3 |
-| [北歐神話](cultures/norse/) | 北歐—日耳曼 | 7 | 4 | 2 |
-| [印度神話](cultures/hindu/) | 南亞—印度河流域 | 8 | 5 | 3 |
-| [馬雅神話](cultures/mayan/) | 中美洲 | 11 | 8 | 6 |
+| [埃及神話](cultures/egyptian/) | 北非—尼羅河流域 | 10 | 7 | 6 |
+| [北歐神話](cultures/norse/) | 北歐—日耳曼 | 10 | 8 | 6 |
+| [印度神話](cultures/hindu/) | 南亞—印度河流域 | 11 | 8 | 7 |
+| [馬雅神話](cultures/mayan/) | 中美洲 | 19 | 14 | 12 |
 | [日本神話](cultures/japanese/) | 東亞—日本列島 | 10 | 7 | 5 |
-| [波利尼西亞神話](cultures/polynesian/) | 太平洋島嶼 | 7 | 4 | 4 |
+| [波利尼西亞神話](cultures/polynesian/) | 太平洋島嶼 | 11 | 8 | 8 |
 | [澳洲原住民神話](cultures/aboriginal/) | 大洋洲—澳洲 | 7 | 5 | 5 |
-| [非洲諸神話](cultures/african/) | 撒哈拉以南非洲 | 7 | 4 | 2 |
+| [非洲諸神話](cultures/african/) | 撒哈拉以南非洲 | 10 | 7 | 5 |
 | [美洲原住民神話](cultures/indigenous-americas/) | 北美洲 | 8 | 7 | 4 |
-| [印加神話](cultures/incan/) | 南美洲—安地斯山脈 | 7 | 4 | 4 |
-| [凱爾特神話](cultures/celtic/) | 西歐—愛爾蘭/不列顛/高盧 | 7 | 5 | 3 |
-| [斯拉夫神話](cultures/slavic/) | 東歐—巴爾幹 | 8 | 3 | 2 |
-| [波斯神話](cultures/persian/) | 伊朗高原 | 9 | 8 | 8 |
+| [印加神話](cultures/incan/) | 南美洲—安地斯山脈 | 10 | 7 | 7 |
+| [凱爾特神話](cultures/celtic/) | 西歐—愛爾蘭/不列顛/高盧 | 8 | 6 | 4 |
+| [斯拉夫神話](cultures/slavic/) | 東歐—巴爾幹 | 11 | 6 | 5 |
+| [波斯神話](cultures/persian/) | 伊朗高原 | 13 | 12 | 12 |
 | [韓國神話](cultures/korean/) | 東亞—朝鮮半島 | 7 | 6 | 5 |
 | [芬蘭-烏戈爾神話](cultures/finno-ugric/) | 北歐—烏拉爾地區 | 8 | 5 | 5 |
-| [西藏神話](cultures/tibetan/) | 青藏高原 | 6 | 4 | 4 |
-| [蘇美神話](cultures/sumerian/) | 美索不達米亞南部 | 10 | 8 | 8 |
+| [西藏神話](cultures/tibetan/) | 青藏高原 | 9 | 7 | 7 |
+| [蘇美神話](cultures/sumerian/) | 美索不達米亞南部 | 17 | 14 | 13 |
 | [腓尼基神話](cultures/phoenician/) | 黎凡特—迦南 | 8 | 5 | 5 |
 | [赫梯神話](cultures/hittite/) | 安納托利亞 | 9 | 6 | 6 |
-| [約魯巴神話](cultures/yoruba/) | 西非—奈及利亞/貝南 | 10 | 8 | 8 |
+| [約魯巴神話](cultures/yoruba/) | 西非—奈及利亞/貝南 | 13 | 11 | 11 |
 | [蒙古神話](cultures/mongolian/) | 中亞—蒙古高原 | 9 | 6 | 5 |
 | [愛努神話](cultures/ainu/) | 北海道—庫頁島—千島群島 | 9 | 6 | 6 |
 | [伊特魯里亞神話](cultures/etruscan/) | 義大利—托斯卡尼 | 8 | 6 | 5 |
-| [巴斯克神話](cultures/basque/) | 西歐—庇里牛斯山脈 | 6 | 5 | 5 |
-| [波羅的神話](cultures/baltic/) | 東歐—波羅的海沿岸 | 6 | 5 | 4 |
+| [巴斯克神話](cultures/basque/) | 西歐—庇里牛斯山脈 | 7 | 6 | 6 |
+| [波羅的神話](cultures/baltic/) | 東歐—波羅的海沿岸 | 8 | 7 | 6 |
 | [越南神話](cultures/vietnamese/) | 東南亞—紅河流域 | 7 | 7 | 7 |
 | [因紐特神話](cultures/inuit/) | 北極—阿拉斯加/加拿大/格陵蘭 | 8 | 6 | 5 |
-| [亞美尼亞神話](cultures/armenian/) | 南高加索—亞美尼亞高原 | 6 | 4 | 4 |
+| [亞美尼亞神話](cultures/armenian/) | 南高加索—亞美尼亞高原 | 9 | 7 | 7 |
 | [菲律賓神話](cultures/philippine/) | 東南亞—菲律賓群島 | 7 | 5 | 4 |
-| [高加索神話](cultures/caucasian/) | 高加索山脈(奧塞提亞/切爾克斯/阿布哈茲) | 7 | 4 | 4 |
+| [高加索神話](cultures/caucasian/) | 高加索山脈(奧塞提亞/切爾克斯/阿布哈茲) | 8 | 5 | 5 |
 | [達基亞/羅馬尼亞神話](cultures/dacian/) | 東南歐—喀爾巴阡山脈 | 7 | 8 | 3 |
-| [羅馬神話](cultures/roman/) | 地中海—義大利半島 | 8 | 3 | 3 |
+| [羅馬神話](cultures/roman/) | 地中海—義大利半島 | 12 | 6 | 6 |
 | [前伊斯蘭阿拉伯神話](cultures/pre-islamic-arabian/) | 阿拉伯半島 | 9 | 6 | 6 |
 | [毛利神話](cultures/maori/) | 紐西蘭—玻里尼西亞三角 | 10 | 6 | 6 |
 | [斯基泰神話](cultures/scythian/) | 歐亞草原—黑海北岸至阿爾泰 | 9 | 4 | 4 |
@@ -166,7 +166,7 @@ mythos-atlas/
 
 ## 📝 分析文章
 
-> 跨文化比較神話學分析文章。共 97 篇。
+> 跨文化比較神話學分析文章。共 115 篇。
 
 - [World Parents Separation](analyses/world-parents-separation.md)
 - [Wisdom Gods Comparative](analyses/wisdom-gods-comparative.md)
@@ -189,7 +189,7 @@ mythos-atlas/
 - [Sleep Dreams Mythology](analyses/sleep-dreams-mythology.md)
 - [Shamanism In Myth](analyses/shamanism-in-myth.md)
 
-... 及另外 77 篇
+... 及另外 95 篇
 
 <!-- ANALYSES_END -->
 
