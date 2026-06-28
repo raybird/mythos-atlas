@@ -6,6 +6,7 @@
 | [bear-cult-eurasia](bear-cult-eurasia.md) | bear-cult-eurasia |
 | [sami-norse-shamanism](sami-norse-shamanism.md) | sami-norse-shamanism |
 | [shamanism-global](shamanism-global.md) | shamanism-global |
+| [earth-diver-myths](earth-diver-myths.md) | earth-diver-myths |
 
 ---
 *Auto-generated on 2026-06-26 02:07 UTC*
