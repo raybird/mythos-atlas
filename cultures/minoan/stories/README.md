@@ -5,6 +5,7 @@
 | [birth-of-zeus](birth-of-zeus.md) | birth-of-zeus |
 | [bull-leaping](bull-leaping.md) | bull-leaping |
 | [daedalus-and-icarus](daedalus-and-icarus.md) | daedalus-and-icarus |
+| [glaukos-resurrection](glaukos-resurrection.md) | 格勞科斯的死而復活 — 蛇藥與先知 |
 | [minos-and-knossos](minos-and-knossos.md) | minos-and-knossos |
 
 ---
