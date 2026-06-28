@@ -79,6 +79,7 @@
 - [Sacred Stones Meteorites Mythology](sacred-stones-meteorites-mythology.md)
 - [Sacred Waters Springs](sacred-waters-springs.md)
 - [Sacrificial Creation](sacrificial-creation.md)
+- [Scapegoat / Pharmakos Comparative](scapegoat-pharmakos-comparative.md)
 - [Sea Deities Ocean Myths](sea-deities-ocean-myths.md)
 - [Shamanism In Myth](shamanism-in-myth.md)
 - [Sleep Dreams Mythology](sleep-dreams-mythology.md)
