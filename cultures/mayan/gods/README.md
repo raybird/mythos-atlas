@@ -11,6 +11,7 @@
 - [Kinich-Ahau](Kinich-Ahau.md)
 - [Kukulkan](Kukulkan.md)
 - [Yum-Kaax](Yum-Kaax.md)
+- [查克切爾 (Chac-Chel)](Chac-Chel.md)
 - [卡瑪佐茲](卡瑪佐茲.md)
 - [渾渾阿普](渾渾阿普.md)
 - [艾克楚亞](艾克楚亞.md)
