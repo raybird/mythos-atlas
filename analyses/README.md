@@ -11,6 +11,7 @@
 - [Bull Cattle Myths Comparative](bull-cattle-myths-comparative.md)
 - [Cave Myths Comparative](cave-myths-comparative.md)
 - [Chaoskampf Order Vs Chaos](chaoskampf-order-vs-chaos.md)
+- [Creative Word Logos Comparative](creative-word-logos-comparative.md)
 - [Cosmic Egg](cosmic-egg.md)
 - [Cosmic Tree World Tree](cosmic-tree-world-tree.md)
 - [Creation Of Humans](creation-of-humans.md)
