@@ -11,6 +11,8 @@
 | [Targitaus](Targitaus.md) | Targitaus |
 | [Thagimasadas](Thagimasadas.md) | Thagimasadas |
 | [蛇足女神](蛇足女神.md) | 蛇足女神 |
+| [Colaxais](Colaxais.md) | Colaxais（科拉克賽） |
+| [Lipoxais](Lipoxais.md) | Lipoxais（利波克賽） |
 
 ---
 *Auto-generated on 2026-06-26 02:07 UTC*
