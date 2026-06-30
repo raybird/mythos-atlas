@@ -29,6 +29,7 @@
 - [Earth Diver Global Myth Complex](earth-diver-global-myth-complex.md)
 - [Eclipse Myths](eclipse-myths.md)
 - [Eschatology Apocalyptic Myths](eschatology-apocalyptic-myths.md)
+- [Eye Symbolism Comparative](eye-symbolism-comparative.md)
 - [Fate Goddesses Destiny](fate-goddesses-destiny.md)
 - [Feline Myths Comparative](feline-myths-comparative.md)
 - [Female Deities](female-deities.md)
