@@ -68,6 +68,7 @@
 - [Rainbow Myths](rainbow-myths.md)
 - [Ravens Crows Mythology](ravens-crows-mythology.md)
 - [Reincarnation Metempsychosis](reincarnation-metempsychosis.md)
+- [Rice Myths Comparative](rice-myths-comparative.md)
 - [Sacred Architecture Temple Myths](sacred-architecture-temple-myths.md)
 - [Sacred Blood Mythology](sacred-blood-mythology.md)
 - [Sacred Dance Mythology](sacred-dance-mythology.md)
