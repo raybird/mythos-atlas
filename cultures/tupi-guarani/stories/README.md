@@ -8,6 +8,7 @@
 | [nhanderuvucu-creates-world](nhanderuvucu-creates-world.md) | nhanderuvucu-creates-world |
 | [sun-moon-brothers](sun-moon-brothers.md) | sun-moon-brothers |
 | [yvy-maraey](yvy-maraey.md) | yvy-maraey |
+| [yara-fisherman](yara-fisherman.md) | yara-fisherman |
 
 ---
 *Auto-generated on 2026-06-26 02:07 UTC*

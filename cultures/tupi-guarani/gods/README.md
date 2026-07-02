@@ -9,6 +9,7 @@
 | [Nhanderuvucu](Nhanderuvucu.md) | Nhanderuvucu |
 | [Tupa](Tupa.md) | Tupa |
 | [Yara](Yara.md) | Yara |
+| [Karai](Karai.md) | Karai |
 
 ---
 *Auto-generated on 2026-06-26 02:07 UTC*
