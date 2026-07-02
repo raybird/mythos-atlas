@@ -98,6 +98,7 @@
 - [Trickster Across Cultures](trickster-across-cultures.md)
 - [Turtle Myths Comparative](turtle-myths-comparative.md)
 - [Twin Myths](twin-myths.md)
+- [Unicorn / Qilin Comparative](unicorn-qilin-comparative.md)
 - [Underworld Journey](underworld-journey.md)
 - [Volcano Fire Mountain Myths](volcano-fire-mountain-myths.md)
 - [War Gods Comparative](war-gods-comparative.md)
