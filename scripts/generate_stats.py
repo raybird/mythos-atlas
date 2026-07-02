@@ -15,11 +15,15 @@ from pathlib import Path
 from datetime import datetime, timezone
 from collections import defaultdict
 
-import matplotlib
-matplotlib.use('Agg')
-import matplotlib.pyplot as plt
-import matplotlib.ticker as mticker
-import numpy as np
+HAS_MATPLOTLIB = True
+try:
+    import matplotlib
+    matplotlib.use('Agg')
+    import matplotlib.pyplot as plt
+    import matplotlib.ticker as mticker
+    import numpy as np
+except ImportError:
+    HAS_MATPLOTLIB = False
 
 ROOT = Path(__file__).resolve().parent.parent
 CATALOG = ROOT / '_catalog.json'
@@ -381,26 +385,30 @@ def main():
     RADAR_DIR.mkdir(parents=True, exist_ok=True)
     OVERVIEW_DIR.mkdir(parents=True, exist_ok=True)
 
-    # generate per-culture radar charts
-    print('[*] Generating radar charts...')
-    for ci in cultures:
-        path = RADAR_DIR / f'{ci["id"]}.svg'
-        try:
-            make_radar_chart(ci, cultures, path)
-        except Exception as e:
-            print(f'    [!] {ci["id"]}: {e}')
-    print(f'    Done — {len(cultures)} charts')
+    if HAS_MATPLOTLIB:
+        # generate per-culture radar charts
+        print('[*] Generating radar charts...')
+        for ci in cultures:
+            path = RADAR_DIR / f'{ci["id"]}.svg'
+            try:
+                make_radar_chart(ci, cultures, path)
+            except Exception as e:
+                print(f'    [!] {ci["id"]}: {e}')
+        print(f'    Done — {len(cultures)} charts')
 
-    # overview charts
-    print('[*] Generating overview charts...')
-    make_pages_bar(cultures, OVERVIEW_DIR / 'pages-bar.svg')
-    print('    pages-bar.svg')
-    make_enrichment_pie(sum(1 for c in cultures if c['is_enriched']), len(cultures), OVERVIEW_DIR / 'enrichment-pie.svg')
-    print('    enrichment-pie.svg')
-    make_analysis_coverage(cultures, OVERVIEW_DIR / 'analysis-coverage.svg')
-    print('    analysis-coverage.svg')
+        # overview charts
+        print('[*] Generating overview charts...')
+        make_pages_bar(cultures, OVERVIEW_DIR / 'pages-bar.svg')
+        print('    pages-bar.svg')
+        make_enrichment_pie(sum(1 for c in cultures if c['is_enriched']), len(cultures), OVERVIEW_DIR / 'enrichment-pie.svg')
+        print('    enrichment-pie.svg')
+        make_analysis_coverage(cultures, OVERVIEW_DIR / 'analysis-coverage.svg')
+        print('    analysis-coverage.svg')
+    else:
+        print('[!] matplotlib/numpy not found. Skipping SVG charts generation. Only tables and statistics will be updated.')
 
     # dashboard
+
     print('[*] Generating dashboard...')
     dashboard = generate_dashboard(metrics)
     (STATS_DIR / 'index.md').write_text(dashboard, encoding='utf-8')
