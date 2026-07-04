@@ -106,6 +106,7 @@
 - [Wisdom Gods Comparative](wisdom-gods-comparative.md)
 - [World Parents Separation](world-parents-separation.md)
 - [Earthquake Myths Comparative](earthquake-myths-comparative.md)
+- [Warrior Women / Amazons Comparative](warrior-women-amazons-comparative.md)
 
 ---
 *Auto-generated on 2026-06-26 02:07 UTC*
