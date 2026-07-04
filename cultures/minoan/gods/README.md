@@ -10,6 +10,7 @@
 | [Mother-Goddess](Mother-Goddess.md) | Mother-Goddess |
 | [Potnia-Theron](Potnia-Theron.md) | Potnia-Theron |
 | [Snake-Goddess](Snake-Goddess.md) | Snake-Goddess |
+| [Talos](Talos.md) | 塔洛斯 (Talos) |
 
 ---
 *Auto-generated on 2026-06-26 02:07 UTC*

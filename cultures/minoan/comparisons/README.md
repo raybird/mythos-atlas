@@ -7,6 +7,7 @@
 | [snake-goddess-global-comparative](snake-goddess-global-comparative.md) | snake-goddess-global-comparative |
 | [thalassocracy-sea-myths](thalassocracy-sea-myths.md) | thalassocracy-sea-myths |
 | [thera-eruption-myth](thera-eruption-myth.md) | 聖托里尼火山爆發與文明毀滅神話比較 |
+| [automated-guardians-comparative](automated-guardians-comparative.md) | 自動化守護者神話比較 |
 
 ---
 *Auto-generated on 2026-06-26 02:07 UTC*

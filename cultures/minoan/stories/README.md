@@ -7,6 +7,7 @@
 | [daedalus-and-icarus](daedalus-and-icarus.md) | daedalus-and-icarus |
 | [glaukos-resurrection](glaukos-resurrection.md) | 格勞科斯的死而復活 — 蛇藥與先知 |
 | [minos-and-knossos](minos-and-knossos.md) | minos-and-knossos |
+| [talos-medea-argonauts](talos-medea-argonauts.md) | 塔洛斯與阿爾戈英雄 |
 
 ---
 *Auto-generated on 2026-06-26 02:07 UTC*
