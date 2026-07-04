@@ -9,6 +9,7 @@
 | [sun-moon-brothers](sun-moon-brothers.md) | sun-moon-brothers |
 | [yvy-maraey](yvy-maraey.md) | yvy-maraey |
 | [yara-fisherman](yara-fisherman.md) | yara-fisherman |
+| [origem-da-noite](origem-da-noite.md) | 黑夜的起源 (A Origem da Noite) |
 
 ---
 *Auto-generated on 2026-06-26 02:07 UTC*

@@ -10,6 +10,7 @@
 | [Tupa](Tupa.md) | Tupa |
 | [Yara](Yara.md) | Yara |
 | [Karai](Karai.md) | Karai |
+| [Jurupari](Jurupari.md) | 尤魯帕里 (Jurupari) |
 
 ---
 *Auto-generated on 2026-06-26 02:07 UTC*
