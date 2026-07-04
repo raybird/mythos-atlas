@@ -12,6 +12,7 @@
 - [英雄雙子化日月](英雄雙子化日月.md)
 - [西帕克納與卡布拉坎](西帕克納與卡布拉坎.md)
 - [拉比納爾武士 (Rabinal Achí)](rabinal-achi.md)
+- [可可的起源](origin-of-cacao.md)
 - [庫庫爾坎的東去與歸來的承諾](kukulkan-departure.md)
 
 ---

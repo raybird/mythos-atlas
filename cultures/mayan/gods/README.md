@@ -15,6 +15,7 @@
 - [卡瑪佐茲](卡瑪佐茲.md)
 - [渾渾阿普](渾渾阿普.md)
 - [艾克楚亞](艾克楚亞.md)
+- [伊克斯皮亞科克 (Ixpiyacoc)](Ixpiyacoc.md)
 - [帕瓦頓 (Pawahtun)](pawahtun.md)
 
 ---

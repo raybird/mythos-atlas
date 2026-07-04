@@ -10,6 +10,7 @@
 - [英雄雙子比較](英雄雙子比較.md)
 - [雨神比較](雨神比較.md)
 - [馬雅世界樹與跨文化宇宙軸比較](maya-world-tree-comparison.md)
+- [瑪雅血祭與宇宙循環跨文化比較](maya-blood-sacrifice-cosmic-renewal.md)
 - [馬雅長曆法與跨文化宇宙循環比較](maya-baktun-cycle-comparison.md)
 
 ---
