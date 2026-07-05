@@ -8,6 +8,7 @@
 | [Lautaro智取西班牙人](Lautaro智取西班牙人.md) | Lautaro智取西班牙人 |
 | [Trentren與Kai-Kai大戰](Trentren與Kai-Kai大戰.md) | Trentren與Kai-Kai大戰 |
 | [創世神話](創世神話.md) | 創世神話 |
+| [first-machi-origin](first-machi-origin.md) | first-machi-origin |
 
 ---
 *Auto-generated on 2026-06-26 02:07 UTC*

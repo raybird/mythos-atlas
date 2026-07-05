@@ -6,6 +6,7 @@
 | [Trentren-KaiKai與Chaoskampf比較](Trentren-KaiKai與Chaoskampf比較.md) | Trentren-KaiKai與Chaoskampf比較 |
 | [馬普切二元論跨文化比較](馬普切二元論跨文化比較.md) | 馬普切二元論跨文化比較 |
 | [馬普切退隱至高神比較](馬普切退隱至高神比較.md) | 馬普切退隱至高神比較 |
+| [mapuche-cosmic-geography-comparative](mapuche-cosmic-geography-comparative.md) | mapuche-cosmic-geography-comparative |
 
 ---
 *Auto-generated on 2026-06-26 02:07 UTC*
