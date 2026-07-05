@@ -8,6 +8,7 @@
 | [tarhunna-vs-illuyanka](tarhunna-vs-illuyanka.md) | tarhunna-vs-illuyanka |
 | [telipinu-disappearance](telipinu-disappearance.md) | telipinu-disappearance |
 | [ullikummi-song](ullikummi-song.md) | ullikummi-song |
+| [kasku-moon-god-falls](kasku-moon-god-falls.md) | kasku-moon-god-falls |
 
 ---
 *Auto-generated on 2026-06-26 02:07 UTC*

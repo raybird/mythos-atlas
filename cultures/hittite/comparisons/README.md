@@ -8,6 +8,7 @@
 | [hepat-and-queen-goddesses](hepat-and-queen-goddesses.md) | hepat-and-queen-goddesses |
 | [missing-god-global](missing-god-global.md) | missing-god-global |
 | [substitution-ritual-comparative](substitution-ritual-comparative.md) | substitution-ritual-comparative |
+| [hittite-magic-ritual-comparative](hittite-magic-ritual-comparative.md) | hittite-magic-ritual-comparative |
 
 ---
 *Auto-generated on 2026-06-26 02:07 UTC*

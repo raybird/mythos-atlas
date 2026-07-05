@@ -11,6 +11,7 @@
 | [Sarruma](Sarruma.md) | Sarruma |
 | [Shaushka](Shaushka.md) | Shaushka |
 | [Tarhunna](Tarhunna.md) | Tarhunna |
+| [Istanu](Istanu.md) | Istanu |
 
 ---
 *Auto-generated on 2026-06-26 02:07 UTC*
