@@ -9,6 +9,8 @@
 | [Daramulum-Keeper-of-Secrets](Daramulum-Keeper-of-Secrets.md) | Daramulum-Keeper-of-Secrets |
 | [Dreamtime-Creation](Dreamtime-Creation.md) | Dreamtime-Creation |
 | [Yhi-Sun-Goddess](Yhi-Sun-Goddess.md) | Yhi-Sun-Goddess |
+| [Mamaragan](Mamaragan.md) | Mamaragan—雷電精靈與暴風之主 |
 
 ---
+
 *Auto-generated on 2026-06-26 02:07 UTC*

@@ -7,6 +7,8 @@
 | [flood-myths-comparison](flood-myths-comparison.md) | flood-myths-comparison |
 | [sky-father-comparison](sky-father-comparison.md) | sky-father-comparison |
 | [songlines-world](songlines-world.md) | songlines-world |
+| [thunder-gods-comparative](thunder-gods-comparative.md) | 跨文化比較：雷電神祇的全球譜系 |
 
 ---
+
 *Auto-generated on 2026-06-26 02:07 UTC*
