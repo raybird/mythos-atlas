@@ -9,6 +9,7 @@
 | [索爾](索爾.md) | 索爾 |
 | [芙蕾雅](芙蕾雅.md) | 芙蕾雅 |
 | [霍德](霍德.md) | 霍德 |
+| [Freyr](Freyr.md) | Freyr |
 
 ---
 *Auto-generated on 2026-06-26 02:07 UTC*

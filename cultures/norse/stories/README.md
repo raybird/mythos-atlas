@@ -6,6 +6,7 @@
 | [洛基與巴德爾之死](洛基與巴德爾之死.md) | 洛基與巴德爾之死 |
 | [索爾戰巨蛇](索爾戰巨蛇.md) | 索爾戰巨蛇 |
 | [諸神黃昏預言與應驗](諸神黃昏預言與應驗.md) | 諸神黃昏預言與應驗 |
+| [skirnir-gerd-freyr-love](skirnir-gerd-freyr-love.md) | skirnir-gerd-freyr-love |
 
 ---
 *Auto-generated on 2026-06-26 02:07 UTC*
