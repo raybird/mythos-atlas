@@ -6,6 +6,7 @@
 - [hunt goddess global](hunt-goddess-global.md)
 - [sun moon global](sun-moon-global.md)
 - [water deity global](water-deity-global.md)
+- [inau sacred wands comparative](inau-sacred-wands-comparative.md)
 
 ---
 *Generated on 2026-06-26 02:07 UTC*

@@ -6,6 +6,7 @@
 - [okikurumi hero](okikurumi-hero.md)
 - [salmon journey](salmon-journey.md)
 - [star girl crane](star-girl-crane.md)
+- [kotan kar kamuy creates villages](kotan-kar-kamuy-creates-villages.md)
 
 ---
 *Generated on 2026-06-26 02:07 UTC*

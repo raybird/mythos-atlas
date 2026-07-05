@@ -9,6 +9,7 @@
 - [Kotan kar kamuy](Kotan-kar-kamuy.md)
 - [Rep un kamuy](Rep-un-kamuy.md)
 - [Waka ush Kamuy](Waka-ush-Kamuy.md)
+- [Nusa kor kamuy](Nusa-kor-kamuy.md)
 
 ---
 *Generated on 2026-06-26 02:07 UTC*
