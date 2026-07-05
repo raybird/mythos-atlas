@@ -7,6 +7,7 @@
 | [Dagda](Dagda.md) | Dagda |
 | [Epona](Epona.md) | Epona |
 | [Lugh](Lugh.md) | Lugh |
+| [Ogma](Ogma.md) | Ogma |
 | [Morrigan](Morrigan.md) | Morrigan |
 | [Nuada](Nuada.md) | Nuada |
 
