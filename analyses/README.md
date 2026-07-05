@@ -37,6 +37,7 @@
 - [Flood Myths Geological Origins](flood-myths-geological-origins.md)
 - [Fox Spirits Comparative](fox-spirits-comparative.md)
 - [Giant Myths Comparative](giant-myths-comparative.md)
+- [Goat and Ram in World Mythology](goat-ram-myths-comparative.md)
 - [Golden Age Paradise Myths](golden-age-paradise-myths.md)
 - [Healing Medicine Myths](healing-medicine-myths.md)
 - [Heros Journey Monomyth](heros-journey-monomyth.md)
