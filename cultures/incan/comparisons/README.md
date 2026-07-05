@@ -6,6 +6,7 @@
 | [inca-creation-flood-comparative](inca-creation-flood-comparative.md) | inca-creation-flood-comparative |
 | [mountain-deities-comparative](mountain-deities-comparative.md) | mountain-deities-comparative |
 | [thunder-gods-global](thunder-gods-global.md) | thunder-gods-global |
+| [inca-worldview-comparative](inca-worldview-comparative.md) | inca-worldview-comparative |
 
 ---
 *Auto-generated on 2026-06-26 02:07 UTC*

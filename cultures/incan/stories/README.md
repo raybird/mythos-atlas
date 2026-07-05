@@ -6,6 +6,7 @@
 | [Manco-Capac-mama-ocllo](Manco-Capac-mama-ocllo.md) | Manco-Capac-mama-ocllo |
 | [Viracocha-wanderings](Viracocha-wanderings.md) | Viracocha-wanderings |
 | [inti-mamaquilla-separation](inti-mamaquilla-separation.md) | inti-mamaquilla-separation |
+| [kon-vs-pachacamac](kon-vs-pachacamac.md) | kon-vs-pachacamac |
 
 ---
 *Auto-generated on 2026-06-26 02:07 UTC*
