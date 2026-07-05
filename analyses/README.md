@@ -108,6 +108,7 @@
 - [World Parents Separation](world-parents-separation.md)
 - [Earthquake Myths Comparative](earthquake-myths-comparative.md)
 - [Warrior Women / Amazons Comparative](warrior-women-amazons-comparative.md)
+- [Three-Tiered Cosmos Comparative](three-tiered-cosmos-comparative.md)
 
 ---
 *Auto-generated on 2026-06-26 02:07 UTC*
