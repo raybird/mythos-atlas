@@ -9,6 +9,7 @@
 | [天鈿女命](天鈿女命.md) | 天鈿女命 |
 | [建御雷神](建御雷神.md) | 建御雷神 |
 | [惠比壽](惠比壽.md) | 惠比壽 |
+| [Konohanasakuya-hime](Konohanasakuya-hime.md) | Konohanasakuya-hime |
 | [月讀命](月讀命.md) | 月讀命 |
 | [瓊瓊杵尊](瓊瓊杵尊.md) | 瓊瓊杵尊 |
 | [須佐之男命](須佐之男命.md) | 須佐之男命 |
