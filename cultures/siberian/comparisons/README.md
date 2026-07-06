@@ -5,6 +5,7 @@
 | [北亞熊崇拜與熊始祖神話比較](北亞熊崇拜與熊始祖神話比較.md) | 北亞熊崇拜與熊始祖神話比較 |
 | [薩滿宇宙三界結構比較](薩滿宇宙三界結構比較.md) | 薩滿宇宙三界結構比較 |
 | [西伯利亞神系與北亞北美跨文化比較](西伯利亞神系與北亞北美跨文化比較.md) | 西伯利亞神系與北亞北美跨文化比較 |
+| [siberian-earth-diver-comparative](siberian-earth-diver-comparative.md) | siberian-earth-diver-comparative |
 
 ---
 *Auto-generated on 2026-06-26 02:07 UTC*

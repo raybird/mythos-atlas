@@ -10,6 +10,7 @@
 | [熊始祖神話](熊始祖神話.md) | 熊始祖神話 |
 | [狐狸欺騙巨靈](狐狸欺騙巨靈.md) | 狐狸欺騙巨靈 |
 | [薩滿入冥界取魂](薩滿入冥界取魂.md) | 薩滿入冥界取魂 |
+| [origin-of-shaman-drum](origin-of-shaman-drum.md) | origin-of-shaman-drum |
 
 ---
 *Auto-generated on 2026-06-26 02:07 UTC*

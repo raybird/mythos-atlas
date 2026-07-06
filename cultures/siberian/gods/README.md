@@ -10,6 +10,7 @@
 | [Tulujn](Tulujn.md) | Tulujn |
 | [Umai](Umai.md) | Umai |
 | [Yryn-Ajy](Yryn-Ajy.md) | Yryn-Ajy |
+| [Ajysyt](Ajysyt.md) | Ajysyt |
 
 ---
 *Auto-generated on 2026-06-26 02:07 UTC*
