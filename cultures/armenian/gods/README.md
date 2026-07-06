@@ -3,6 +3,7 @@
 | 檔案 | 名稱 |
 |------|------|
 | [anahit](anahit.md) | anahit |
+| [Aralez](Aralez.md) | Aralez |
 | [aramazd](aramazd.md) | aramazd |
 | [astghik](astghik.md) | astghik |
 | [hayk](hayk.md) | hayk |

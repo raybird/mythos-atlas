@@ -3,6 +3,7 @@
 | 檔案 | 名稱 |
 |------|------|
 | [aralez-resurrection-dogs](aralez-resurrection-dogs.md) | aralez-resurrection-dogs |
+| [armenian-underworld-comparative](armenian-underworld-comparative.md) | armenian-underworld-comparative |
 | [aramazd-ahura-mazda-zeus](aramazd-ahura-mazda-zeus.md) | aramazd-ahura-mazda-zeus |
 | [ararat-flood-mountains](ararat-flood-mountains.md) | ararat-flood-mountains |
 | [mother-goddesses-comparison](mother-goddesses-comparison.md) | mother-goddesses-comparison |
