@@ -6,6 +6,7 @@
 | [北美原住民靈性傳統比較](北美原住民靈性傳統比較.md) | 北美原住民靈性傳統比較 |
 | [大地潛水者(潛入原水取泥土造地)](大地潛水者(潛入原水取泥土造地).md) | 大地潛水者(潛入原水取泥土造地) |
 | [大洪水世界重建](大洪水世界重建.md) | 大洪水世界重建 |
+| [navajo-dine-southwest-creation-comparative](navajo-dine-southwest-creation-comparative.md) | navajo-dine-southwest-creation-comparative |
 
 ---
 *Auto-generated on 2026-06-26 02:07 UTC*

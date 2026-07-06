@@ -9,6 +9,7 @@
 | [白水牛女送七儀式](白水牛女送七儀式.md) | 白水牛女送七儀式 |
 | [蜘蛛祖母創世](蜘蛛祖母創世.md) | 蜘蛛祖母創世 |
 | [雙子英雄](雙子英雄.md) | 雙子英雄 |
+| [monster-slayer-and-born-for-water](monster-slayer-and-born-for-water.md) | monster-slayer-and-born-for-water |
 
 ---
 *Auto-generated on 2026-06-26 02:07 UTC*
