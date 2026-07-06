@@ -7,6 +7,7 @@
 | [Yima-Vara](Yima-Vara.md) | Yima-Vara |
 | [Zarathustra-revelation](Zarathustra-revelation.md) | Zarathustra-revelation |
 | [creation-bundahishn](creation-bundahishn.md) | creation-bundahishn |
+| [tahmuras-daeva-binder](tahmuras-daeva-binder.md) | tahmuras-daeva-binder |
 | [tishtrya-apaosha](tishtrya-apaosha.md) | tishtrya-apaosha |
 | [zahhak-serpent-king](zahhak-serpent-king.md) | zahhak-serpent-king |
 | [zarathustra-good-evil](zarathustra-good-evil.md) | zarathustra-good-evil |

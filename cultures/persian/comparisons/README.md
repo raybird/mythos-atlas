@@ -9,6 +9,7 @@
 | [dualism-across-cultures](dualism-across-cultures.md) | dualism-across-cultures |
 | [fire-sacred-comparison](fire-sacred-comparison.md) | fire-sacred-comparison |
 | [mithra-across-cultures](mithra-across-cultures.md) | mithra-across-cultures |
+| [persian-afterlife-comparative](persian-afterlife-comparative.md) | persian-afterlife-comparative |
 | [primal-being-sacrifice](primal-being-sacrifice.md) | primal-being-sacrifice |
 
 ---

@@ -5,6 +5,7 @@
 | [Ahura Mazda](Ahura Mazda.md) | Ahura Mazda |
 | [Anahita](Anahita.md) | Anahita |
 | [Angra-Mainyu](Angra-Mainyu.md) | Angra-Mainyu |
+| [Asha-Vahishta](Asha-Vahishta.md) | Asha-Vahishta |
 | [Daena-Soul-Guide](Daena-Soul-Guide.md) | Daena-Soul-Guide |
 | [Mithra](Mithra.md) | Mithra |
 | [Rashnu](Rashnu.md) | Rashnu |
