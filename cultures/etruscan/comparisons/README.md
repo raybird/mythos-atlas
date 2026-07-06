@@ -7,6 +7,7 @@
 | [etruscan-divination](etruscan-divination.md) | etruscan-divination |
 | [etruscan-greek-roman-triangle](etruscan-greek-roman-triangle.md) | etruscan-greek-roman-triangle |
 | [伊特魯里亞冥界之旅與跨文化死後世界](伊特魯里亞冥界之旅與跨文化死後世界.md) | 伊特魯里亞冥界之旅與跨文化死後世界 |
+| [etruscan-saecula-comparative](etruscan-saecula-comparative.md) | etruscan-saecula-comparative |
 
 ---
 *Auto-generated on 2026-06-26 02:07 UTC*

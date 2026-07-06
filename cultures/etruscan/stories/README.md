@@ -8,6 +8,7 @@
 | [etruscan-creation](etruscan-creation.md) | etruscan-creation |
 | [lars-porsenna](lars-porsenna.md) | lars-porsenna |
 | [piacenza-liver-divination](piacenza-liver-divination.md) | piacenza-liver-divination |
+| [fufluns-and-the-vine](fufluns-and-the-vine.md) | fufluns-and-the-vine |
 
 ---
 *Auto-generated on 2026-06-26 02:07 UTC*
