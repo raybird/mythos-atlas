@@ -6,6 +6,7 @@
 | [普羅米修斯造人](普羅米修斯造人.md) | 普羅米修斯造人 |
 | [杜卡利翁洪水](杜卡利翁洪水.md) | 杜卡利翁洪水 |
 | [泰坦之戰](泰坦之戰.md) | 泰坦之戰 |
+| [greek-underworld-afterlife-comparative](greek-underworld-afterlife-comparative.md) | greek-underworld-afterlife-comparative |
 
 ---
 *Auto-generated on 2026-06-26 02:07 UTC*

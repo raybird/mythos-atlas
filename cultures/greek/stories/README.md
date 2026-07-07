@@ -3,6 +3,7 @@
 | 檔案 | 名稱 |
 |------|------|
 | [伊阿宋與金羊毛](伊阿宋與金羊毛.md) | 伊阿宋與金羊毛 |
+| [persephone-hades-abduction](persephone-hades-abduction.md) | persephone-hades-abduction |
 | [奧德賽返鄉](奧德賽返鄉.md) | 奧德賽返鄉 |
 | [奧菲斯尋妻](奧菲斯尋妻.md) | 奧菲斯尋妻 |
 | [特洛伊戰爭](特洛伊戰爭.md) | 特洛伊戰爭 |
