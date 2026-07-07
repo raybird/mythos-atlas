@@ -45,7 +45,8 @@
     "scythian",
     "minoan",
     "nubian",
-    "siberian"
+    "siberian",
+    "persian"
   ],
   "analysis_log": [
     "sacrificial-creation",
@@ -78,5 +79,5 @@
     "mythological-catastrophe-timeline",
     "triune-deities-comparative"
   ],
-  "runs": 53
+  "runs": 54
 }
