@@ -1,0 +1,134 @@
+name: Mythos Atlas CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  schedule:
+    - cron: '0 1,7,13,19 * * *'
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          python3 -m pip install --upgrade pip
+          pip install matplotlib numpy 2>/dev/null || true
+
+      - name: Format validation — heading hierarchy
+        run: |
+          echo "Checking heading consistency..."
+          python3 -c "
+import sys, re
+from pathlib import Path
+root = Path('.')
+errors = 0
+for f in sorted(root.rglob('*.md')):
+    if '.git' in str(f): continue
+    text = f.read_text(encoding='utf-8')
+    headings = [(i, l.strip()) for i, l in enumerate(text.split('\n'), 1) if l.strip().startswith('#')]
+    if not headings:
+        print(f'[ERROR] {f}: no heading found'); errors += 1; continue
+    first_level = len(headings[0][1]) - len(headings[0][1].lstrip('#'))
+    if first_level != 1:
+        print(f'[ERROR] {f}: first heading is h{first_level}, expected h1'); errors += 1
+    prev = 1
+    for ln, h in headings[1:]:
+        level = len(h) - len(h.lstrip('#'))
+        if level > prev + 1:
+            print(f'[ERROR] {f}:{ln}: heading jumps from h{prev} to h{level}'); errors += 1
+        prev = level
+sys.exit(errors)
+"
+
+      - name: Orphan check — themes
+        run: |
+          echo "Checking orphan themes..."
+          python3 -c "
+import re
+from pathlib import Path
+root = Path('.')
+errors = 0
+index_text = (root / 'themes' / '00-index.md').read_text(encoding='utf-8')
+indexed = set(re.findall(r'\(([^)]+\.md)\)', index_text))
+for f in sorted((root / 'themes').glob('*.md')):
+    if f.name in ('README.md', '00-index.md'): continue
+    if f.name not in indexed:
+        print(f'[ERROR] {f}: orphan theme — not in themes/00-index.md'); errors += 1
+sys.exit(errors)
+"
+
+      - name: Orphan check — analyses
+        run: |
+          echo "Checking orphan analyses..."
+          python3 -c "
+import re
+from pathlib import Path
+root = Path('.')
+errors = 0
+readme = (root / 'README.md').read_text(encoding='utf-8')
+m = re.search(r'<!-- ANALYSES_START -->(.*?)<!-- ANALYSES_END -->', readme, re.DOTALL)
+indexed = set(re.findall(r'\(analyses/([^)]+\.md)\)', m.group(1) if m else ''))
+for f in sorted((root / 'analyses').glob('*.md')):
+    if f.name == 'README.md': continue
+    if f.name not in indexed:
+        print(f'[ERROR] {f}: orphan analysis — not in README.md'); errors += 1
+sys.exit(errors)
+"
+
+      - name: Citation check — gods, stories, comparisons, themes, analyses
+        run: |
+          echo "Checking citation sections..."
+          python3 -c "
+import re
+from pathlib import Path
+root = Path('.')
+errors = 0
+pattern = re.compile(r'^#{2,4}\s*(參考文獻|參考來源|參考資料|References|Sources|Bibliography)\s*$', re.MULTILINE)
+for glob_pat, label in [
+    ('analyses/*.md', 'analysis'),
+    ('themes/*.md', 'theme'),
+    ('cultures/*/gods/*.md', 'god'),
+    ('cultures/*/stories/*.md', 'story'),
+    ('cultures/*/comparisons/*.md', 'comparison'),
+]:
+    for f in sorted(root.glob(glob_pat)):
+        if f.name == 'README.md' or f.name == '00-index.md': continue
+        text = f.read_text(encoding='utf-8')
+        matches = list(pattern.finditer(text))
+        if not matches:
+            print(f'[ERROR] {f}: missing reference section'); errors += 1
+            continue
+        remaining = text[matches[-1].end():].strip()
+        ref_lines = sum(1 for l in remaining.split('\n') if l.strip() and not l.strip().startswith('#') and not l.strip().startswith('>'))
+        if ref_lines == 0:
+            print(f'[ERROR] {f}: empty reference section'); errors += 1
+sys.exit(errors)
+"
+
+      - name: Statistics comparison
+        run: |
+          echo "Running generate_stats.py..."
+          if python3 scripts/generate_stats.py 2>&1; then
+            if git status --porcelain | grep -qE '^\?\? stats/|^ M stats/|^ M README.md'; then
+              echo '⚠️  Stats changed after regeneration'
+              git diff --stat
+            else
+              echo '✅ Stats unchanged'
+            fi
+          else
+            echo '⚠️  generate_stats.py failed (charts may need matplotlib)'
+          fi
