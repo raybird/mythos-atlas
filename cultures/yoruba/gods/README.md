@@ -12,6 +12,8 @@
 | [oya](oya.md) | oya |
 | [shango](shango.md) | shango |
 | [yemaya](yemaya.md) | yemaya |
+| [inle](inle.md) | 因勒 (Inle/Erinlẹ́) — 漁業、醫藥、河湖生態 |
+| [araunaye](araunaye.md) | 阿勞納耶 (Araunaye) — 原初大地、土壤精靈 |
 
 ---
-*Auto-generated on 2026-06-26 02:07 UTC*
+*Updated 2026-07-10*

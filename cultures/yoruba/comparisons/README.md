@@ -10,6 +10,8 @@
 | [iron-war-gods](iron-war-gods.md) | iron-war-gods |
 | [ocean-mothers](ocean-mothers.md) | ocean-mothers |
 | [shango-thunder-gods](shango-thunder-gods.md) | shango-thunder-gods |
+| [twin-myths-cross-cultural](twin-myths-cross-cultural.md) | 雙生神與雙胞胎神話跨文化比較 |
+| [orisha-olympians-pantheon-comparison](orisha-olympians-pantheon-comparison.md) | 奧里沙與奧林帕斯眾神萬神殿比較 |
 
 ---
-*Auto-generated on 2026-06-26 02:07 UTC*
+*Updated 2026-07-10*

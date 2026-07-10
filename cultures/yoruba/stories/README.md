@@ -10,6 +10,8 @@
 | [oshun-mirror](oshun-mirror.md) | oshun-mirror |
 | [shango-deification](shango-deification.md) | shango-deification |
 | [yemaya-ocean-kingdom](yemaya-ocean-kingdom.md) | yemaya-ocean-kingdom |
+| [inle-tragic-love](inle-tragic-love.md) | 因勒的悲劇之愛 (Inle's Tragic Love) |
+| [oba-river-sacrifice](oba-river-sacrifice.md) | 歐巴的河流犧牲 (Oba's River Sacrifice) |
 
 ---
-*Auto-generated on 2026-06-26 02:07 UTC*
+*Updated 2026-07-10*
