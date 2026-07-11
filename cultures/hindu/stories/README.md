@@ -7,6 +7,7 @@
 | [羅摩與悉多](羅摩與悉多.md) | 羅摩與悉多 |
 | [象神Ganesh由來](象神Ganesh由來.md) | 象神Ganesh由來 |
 | [黑天Krishna神蹟](黑天Krishna神蹟.md) | 黑天Krishna神蹟 |
+| [恆河降世](恆河降世.md) | 恆河降世 |
 
 ---
 *Auto-generated on 2026-06-26 02:07 UTC*

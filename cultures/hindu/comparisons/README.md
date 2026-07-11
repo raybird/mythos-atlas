@@ -5,6 +5,7 @@
 | [Purusha化身宇宙](Purusha化身宇宙.md) | Purusha化身宇宙 |
 | [摩蹉魚洪水](摩蹉魚洪水.md) | 摩蹉魚洪水 |
 | [須彌山Meru](須彌山Meru.md) | 須彌山Meru |
+| [印度與希臘創世神話比較](印度與希臘創世神話比較.md) | 印度與希臘創世神話比較 |
 
 ---
 *Auto-generated on 2026-06-26 02:07 UTC*
