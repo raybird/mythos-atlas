@@ -12,6 +12,7 @@
 | [yemaya-ocean-kingdom](yemaya-ocean-kingdom.md) | yemaya-ocean-kingdom |
 | [inle-tragic-love](inle-tragic-love.md) | 因勒的悲劇之愛 (Inle's Tragic Love) |
 | [oba-river-sacrifice](oba-river-sacrifice.md) | 歐巴的河流犧牲 (Oba's River Sacrifice) |
+| [oya-shango-separation](oya-shango-separation.md) | 奧雅與尚戈的分離 (Ọya's Separation from Ṣàngó) |
 
 ---
-*Updated 2026-07-10*
+*Updated 2026-07-11*

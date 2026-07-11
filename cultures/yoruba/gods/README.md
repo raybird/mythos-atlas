@@ -14,6 +14,7 @@
 | [yemaya](yemaya.md) | yemaya |
 | [inle](inle.md) | 因勒 (Inle/Erinlẹ́) — 漁業、醫藥、河湖生態 |
 | [araunaye](araunaye.md) | 阿勞納耶 (Araunaye) — 原初大地、土壤精靈 |
+| [ose](ose.md) | 奧謝 (Ọṣẹ) — 生育、豐饒、淡水、占卜 |
 
 ---
-*Updated 2026-07-10*
+*Updated 2026-07-11*

@@ -39,7 +39,15 @@ Olodumare 的「不可直接崇拜」與印度「梵（Brahman）為 neti neti�
 
 Olodumare 的缺席由 Ifá 占卜系統來填補。Ifá 成為人與神之間的橋樑——不是為了直接與 Olodumare 溝通，而是為了揭示 Olodumare 在創世時為每個靈魂設定的命運（Ayanmo）。這種「命運透過占卜揭示」的機制使約魯巴宗教獨樹一格：至高神不是透過教義或經典來啟示，而是透過占卜結果來提示。
 
-### 3. 跨大西洋的演化
+### 3. 缺陷的神聖性——Olodumare 的「不完美」
+
+Olodumare 雖然是至高神，但祂並非完美無缺——祂選擇的執行者 Obatala 醉酒造出了殘疾人，祂派遣的 Oduduwa 後來與 Obatala 發生權力衝突。這些「神聖的不完美」使得約魯巴至高神的觀念比其他文明更為人性化。相比之下，基督教的上帝是全知全能全善的、伊斯蘭的安拉是完美的、印度的梵是超越一切缺點的。Olodumare 的「間接不完美」（透過代理者的失誤展現）可能反映了約魯巴哲學中「完美是不存在的，只有不完美中的和諧」的核心觀點。
+
+### 4. 禮物經濟與神恩
+
+Olodumare 與 Orisha 之間的關係是一種「禮物經濟」(Gift Economy)——Olodumare 賜予 Orisha Aṣẹ（力量/權柄），Orisha 再將 Aṣĕ 傳遞給人類。這種「層級化的恩典」與基督教的「恩典涓滴」(Trickle-down Grace) 和中國天人感應的「天命」(Mandate of Heaven) 具有結構性相似。但約魯巴版本的獨特之處在於：人類可以透過獻祭和儀式「向上」回饋 Aṣẹ 給 Orisha，形成一種雙向的禮物循環。
+
+### 5. 跨大西洋的演化
 
 在非裔美洲宗教中，Olodumare 的角色進一步發生了變化。在古巴薩泰里阿（Santería）中，Olodumare（Olofi）被等同於基督教上帝；但在巴西康東布雷（Candomblé）中，Olodumare 被保留為更高的抽象存在，與 Orisha 崇拜保持距離。海地巫毒（Vodou）則發展出 Bondye 的概念——同時融合了 Olodumare 與基督教上帝的雙重遺產。
 
@@ -50,3 +58,5 @@ Olodumare 的缺席由 Ifá 占卜系統來填補。Ifá 成為人與神之間�
 - 《非洲至高神的概念》（Wilhelm Schmidt, 1935）
 - 《薩泰里阿：非洲神靈在古巴》（Miguel Barnet, 2001）
 - 《非裔美洲宗教》（Albert J. Raboteau, 1978）
+- 《約魯巴宗教中的 Ifá 占卜系統》（William R. Bascom, 1969）
+- 《禮物：人類學中的交換研究》（Marcel Mauss, 1925）

@@ -12,6 +12,7 @@
 | [shango-thunder-gods](shango-thunder-gods.md) | shango-thunder-gods |
 | [twin-myths-cross-cultural](twin-myths-cross-cultural.md) | 雙生神與雙胞胎神話跨文化比較 |
 | [orisha-olympians-pantheon-comparison](orisha-olympians-pantheon-comparison.md) | 奧里沙與奧林帕斯眾神萬神殿比較 |
+| [underworld-gatekeepers](underworld-gatekeepers.md) | 冥界守門人跨文化比較 |
 
 ---
-*Updated 2026-07-10*
+*Updated 2026-07-11*
