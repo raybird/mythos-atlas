@@ -110,6 +110,7 @@
 - [Warrior Women / Amazons Comparative](warrior-women-amazons-comparative.md)
 - [Three-Tiered Cosmos Comparative](three-tiered-cosmos-comparative.md)
 - [Scorpion Myths Cross-Cultural Comparative](scorpion-myths-comparative.md)
+- [Wounded Healer Comparative](wounded-healer-comparative.md)
 
 ---
 *Auto-generated on 2026-06-26 02:07 UTC*
