@@ -7,6 +7,8 @@
 | [Perkūnas懲罰月神不忠](Perkūnas懲罰月神不忠.md) | Perkūnas懲罰月神不忠 |
 | [Saulė的婚禮](Saulė的婚禮.md) | Saulė的婚禮 |
 | [Velnias與Dievas造地](Velnias與Dievas造地.md) | Velnias與Dievas造地 |
+| [Ašvieniai拉太陽車](Ašvieniai拉太陽車.md) | Ašvieniai拉太陽車 |
+| [維爾尼亞斯的地下王國](維爾尼亞斯的地下王國.md) | 維爾尼亞斯的地下王國 |
 
 ---
-*Auto-generated on 2026-06-26 02:07 UTC*
+*Updated 2026-07-12*
