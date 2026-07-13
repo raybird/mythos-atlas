@@ -15,6 +15,7 @@
 | [Drvaspa](Drvaspa.md) | Drvaspa |
 | [Gayomart](Gayomart.md) | Gayomart |
 | [Geush-Urvan](Geush-Urvan.md) | Geush-Urvan |
+| [Fravashi](fravashi.md) | Fravashi |
 | [Haoma](Haoma.md) | Haoma |
 | [Haurvatat](Haurvatat.md) | Haurvatat |
 | [Hvare-khshaeta](Hvare-khshaeta.md) | Hvare-khshaeta |
@@ -40,4 +41,4 @@
 | [saoshyant](saoshyant.md) | saoshyant |
 
 ---
-*Last updated: 2026-07-11 14:08 UTC*
+*Last updated: 2026-07-13 UTC*

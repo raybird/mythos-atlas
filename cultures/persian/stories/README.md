@@ -15,6 +15,7 @@
 | [esfandiyar-seven-labors](esfandiyar-seven-labors.md) | esfandiyar-seven-labors |
 | [fereydun-three-sons](fereydun-three-sons.md) | fereydun-three-sons |
 | [frashokereti-final-renovation](frashokereti-final-renovation.md) | frashokereti-final-renovation |
+| [gaokerena-saga](gaokerena-saga.md) | gaokerena-saga |
 | [garshasp-dragon-slayer](garshasp-dragon-slayer.md) | garshasp-dragon-slayer |
 | [gayomart-primal-bull](gayomart-primal-bull.md) | gayomart-primal-bull |
 | [gushtasp-conversion](gushtasp-conversion.md) | gushtasp-conversion |
@@ -39,4 +40,4 @@
 | [卡韋鐵匠起義](卡韋鐵匠起義.md) | 卡韋鐵匠起義 |
 
 ---
-*Last updated: 2026-07-11 14:08 UTC*
+*Last updated: 2026-07-13 UTC*

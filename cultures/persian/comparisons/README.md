@@ -35,7 +35,8 @@
 | [xvarenah-divine-glory-comparative](xvarenah-divine-glory-comparative.md) | xvarenah-divine-glory-comparative |
 | [xvarenah-divine-glory](xvarenah-divine-glory.md) | xvarenah-divine-glory |
 | [zoroastrian-creation-indo-european](zoroastrian-creation-indo-european.md) | zoroastrian-creation-indo-european |
+| [zoroastrian-buddhist-eschatology](zoroastrian-buddhist-eschatology.md) | zoroastrian-buddhist-eschatology |
 | [波斯與美索不達米亞創世比較](波斯與美索不達米亞創世比較.md) | 波斯與美索不達米亞創世比較 |
 
 ---
-*Last updated: 2026-07-11 14:08 UTC*
+*Last updated: 2026-07-13 UTC*
