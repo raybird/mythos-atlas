@@ -10,6 +10,10 @@
 | [Ogma](Ogma.md) | Ogma |
 | [Morrigan](Morrigan.md) | Morrigan |
 | [Nuada](Nuada.md) | Nuada |
+| [Arawn](Arawn.md) | Arawn |
+| [Bres](Bres.md) | Bres |
+| [Danu](Danu.md) | Danu |
+| [Taranis](Taranis.md) | Taranis |
 
 ---
-*Auto-generated on 2026-06-26 02:07 UTC*
+*Updated on 2026-07-13*

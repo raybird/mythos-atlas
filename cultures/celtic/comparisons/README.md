@@ -6,6 +6,8 @@
 | [大洪水(神族戰爭淹沒)](大洪水(神族戰爭淹沒).md) | 大洪水(神族戰爭淹沒) |
 | [德魯伊跨文化比較](德魯伊跨文化比較.md) | 德魯伊跨文化比較 |
 | [celtic-pantheon-comparative](celtic-pantheon-comparative.md) | celtic-pantheon-comparative |
+| [thunder-gods-cross-cultural](thunder-gods-cross-cultural.md) | 雷神跨文化比較 |
+| [otherworld-afterlife-cross-cultural](otherworld-afterlife-cross-cultural.md) | 另一世界與冥界跨文化比較 |
 
 ---
-*Auto-generated on 2026-06-26 02:07 UTC*
+*Updated on 2026-07-13*

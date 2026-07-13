@@ -8,6 +8,8 @@
 | [芬恩MacCool與鮭魚智慧](芬恩MacCool與鮭魚智慧.md) | 芬恩MacCool與鮭魚智慧 |
 | [莫伊圖拉之戰](莫伊圖拉之戰.md) | 莫伊圖拉之戰 |
 | [children-of-tuireann](children-of-tuireann.md) | children-of-tuireann |
+| [second-battle-of-mag-tuired](second-battle-of-mag-tuired.md) | 莫伊圖拉第二戰 |
+| [balor-of-the-evil-eye](balor-of-the-evil-eye.md) | Balor 的邪眼 |
 
 ---
-*Auto-generated on 2026-06-26 02:07 UTC*
+*Updated on 2026-07-13*
