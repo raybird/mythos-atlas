@@ -11,6 +11,7 @@
 | [Nanna](Nanna.md) | Nanna |
 | [Nergal](Nergal.md) | Nergal |
 | [Ninhursag](Ninhursag.md) | Ninhursag |
+| [Nungal](Nungal.md) | 寧加爾 |
 | [Utu](Utu.md) | Utu |
 
 ---

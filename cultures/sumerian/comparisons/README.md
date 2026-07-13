@@ -9,6 +9,7 @@
 | [flood-myth-anunnaki](flood-myth-anunnaki.md) | flood-myth-anunnaki |
 | [sumerian-afterlife](sumerian-afterlife.md) | sumerian-afterlife |
 | [sumerian-flood-comparison](sumerian-flood-comparison.md) | sumerian-flood-comparison |
+| [sumerian-measure-fate](sumerian-measure-fate.md) | 蘇美命運度量與跨文化命運神話比較 |
 | [underworld-descent](underworld-descent.md) | underworld-descent |
 
 ---

@@ -7,6 +7,7 @@
 | [enlil-and-ninlil](enlil-and-ninlil.md) | enlil-and-ninlil |
 | [enmerkar-language](enmerkar-language.md) | enmerkar-language |
 | [gilgamesh-bull-of-heaven](gilgamesh-bull-of-heaven.md) | gilgamesh-bull-of-heaven |
+| [gilgamesh-utnapishtim](gilgamesh-utnapishtim.md) | 吉爾伽美什與烏特納匹什提 |
 | [inanna-and-shukaletuda](inanna-and-shukaletuda.md) | inanna-and-shukaletuda |
 | [inanna-descent-to-underworld](inanna-descent-to-underworld.md) | inanna-descent-to-underworld |
 | [inanna-dumuzi](inanna-dumuzi.md) | inanna-dumuzi |
