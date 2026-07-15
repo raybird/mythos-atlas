@@ -23,6 +23,7 @@
 | [hushang-fire-discovery](hushang-fire-discovery.md) | hushang-fire-discovery |
 | [jamshid-cup](jamshid-cup.md) | jamshid-cup |
 | [kay-khosrow-ascension](kay-khosrow-ascension.md) | kay-khosrow-ascension |
+| [kay-qobad-ascension](kay-qobad-ascension.md) | kay-qobad-ascension |
 | [rostam-esfandiyar](rostam-esfandiyar.md) | rostam-esfandiyar |
 | [rostam-seven-labors](rostam-seven-labors.md) | rostam-seven-labors |
 | [rostam-sohrab](rostam-sohrab.md) | rostam-sohrab |
@@ -40,4 +41,4 @@
 | [卡韋鐵匠起義](卡韋鐵匠起義.md) | 卡韋鐵匠起義 |
 
 ---
-*Last updated: 2026-07-13 UTC*
+*Last updated: 2026-07-15 UTC*

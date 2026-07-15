@@ -15,6 +15,7 @@
 | [hara-berezaiti-cosmic-mountain](hara-berezaiti-cosmic-mountain.md) | hara-berezaiti-cosmic-mountain |
 | [indo-european-dragon-slaying-myths](indo-european-dragon-slaying-myths.md) | indo-european-dragon-slaying-myths |
 | [invulnerable-hero-comparison](invulnerable-hero-comparison.md) | invulnerable-hero-comparison |
+| [magi-brahmin-priestly-traditions](magi-brahmin-priestly-traditions.md) | magi-brahmin-priestly-traditions |
 | [mithra-across-cultures](mithra-across-cultures.md) | mithra-across-cultures |
 | [persian-abrahamic-influence](persian-abrahamic-influence.md) | persian-abrahamic-influence |
 | [persian-afterlife-comparative](persian-afterlife-comparative.md) | persian-afterlife-comparative |
@@ -39,4 +40,4 @@
 | [波斯與美索不達米亞創世比較](波斯與美索不達米亞創世比較.md) | 波斯與美索不達米亞創世比較 |
 
 ---
-*Last updated: 2026-07-13 UTC*
+*Last updated: 2026-07-15 UTC*

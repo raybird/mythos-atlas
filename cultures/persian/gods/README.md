@@ -12,6 +12,7 @@
 | [Atar](Atar.md) | Atar |
 | [Bushyasta](Bushyasta.md) | Bushyasta |
 | [Daena-Soul-Guide](Daena-Soul-Guide.md) | Daena-Soul-Guide |
+| [Druj](Druj.md) | Druj |
 | [Drvaspa](Drvaspa.md) | Drvaspa |
 | [Gayomart](Gayomart.md) | Gayomart |
 | [Geush-Urvan](Geush-Urvan.md) | Geush-Urvan |
@@ -41,4 +42,4 @@
 | [saoshyant](saoshyant.md) | saoshyant |
 
 ---
-*Last updated: 2026-07-13 UTC*
+*Last updated: 2026-07-15 UTC*
