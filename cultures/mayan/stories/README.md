@@ -14,6 +14,7 @@
 - [拉比納爾武士 (Rabinal Achí)](rabinal-achi.md)
 - [可可的起源](origin-of-cacao.md)
 - [庫庫爾坎的東去與歸來的承諾](kukulkan-departure.md)
+- [撐船者之神與冥河渡航](paddler-gods-underworld-crossing.md)
 
 ---
-*Generated on 2026-06-26 10:36 UTC*
+*Generated on 2026-07-15*

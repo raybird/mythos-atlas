@@ -46,7 +46,8 @@
     "minoan",
     "nubian",
     "siberian",
-    "persian"
+    "persian",
+    "mayan"
   ],
   "analysis_log": [
     "sacrificial-creation",
@@ -80,5 +81,5 @@
     "triune-deities-comparative",
     "divine-chariots-solar-vehicles-comparative"
   ],
-  "runs": 54
+  "runs": 55
 }
