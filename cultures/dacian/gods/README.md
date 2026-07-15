@@ -9,6 +9,7 @@
 | [Kotys](Kotys.md) | Kotys |
 | [Pleistoros](Pleistoros.md) | Pleistoros |
 | [Zalmoxis](Zalmoxis.md) | Zalmoxis |
+| [Zbaldia](Zbaldia.md) | Zbaldia |
 
 ---
 *Auto-generated on 2026-06-26 02:07 UTC*

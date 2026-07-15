@@ -10,6 +10,7 @@
 | [Solomonari巫師傳說](Solomonari巫師傳說.md) | Solomonari巫師傳說 |
 | [Zalmoxis地下居所三千年](Zalmoxis地下居所三千年.md) | Zalmoxis地下居所三千年 |
 | [白鶴引路](白鶴引路.md) | 白鶴引路 |
+| [dacian-serpent-battle](dacian-serpent-battle.md) | 達基亞蛇怪之戰 |
 
 ---
 *Auto-generated on 2026-06-26 02:07 UTC*
