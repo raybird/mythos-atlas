@@ -9,6 +9,7 @@
 | [missing-god-global](missing-god-global.md) | missing-god-global |
 | [substitution-ritual-comparative](substitution-ritual-comparative.md) | substitution-ritual-comparative |
 | [hittite-magic-ritual-comparative](hittite-magic-ritual-comparative.md) | hittite-magic-ritual-comparative |
+| [hittite-treaty-oath-cosmic-order](hittite-treaty-oath-cosmic-order.md) | 赫梯條約與誓言的宇宙秩序觀 |
 
 ---
 *Auto-generated on 2026-06-26 02:07 UTC*

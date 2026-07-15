@@ -12,6 +12,9 @@
 | [Shaushka](Shaushka.md) | Shaushka |
 | [Tarhunna](Tarhunna.md) | Tarhunna |
 | [Istanu](Istanu.md) | Istanu |
+| [Ea](Ea.md) | Ea（智慧之神） |
+| [Telipinu](Telipinu.md) | Telipinu（穀物之神） |
+| [Iyarri](Iyarri.md) | Iyarri（瘟疫之神） |
 
 ---
 *Auto-generated on 2026-06-26 02:07 UTC*
