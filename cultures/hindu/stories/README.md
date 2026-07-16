@@ -8,6 +8,11 @@
 | [象神Ganesh由來](象神Ganesh由來.md) | 象神Ganesh由來 |
 | [黑天Krishna神蹟](黑天Krishna神蹟.md) | 黑天Krishna神蹟 |
 | [恆河降世](恆河降世.md) | 恆河降世 |
+| [薩蒂自焚](薩蒂自焚.md) | 薩蒂自焚 |
+| [阿修羅三連城](阿修羅三連城.md) | 阿修羅三連城 |
+| [savitri-satyavan](savitri-satyavan.md) | Savitri 與 Satyavan |
+| [hanuman-lanka](hanuman-lanka.md) | Hanuman 前往楞伽 |
+| [瓦摩那與巴利](瓦摩那與巴利.md) | 瓦摩那與巴利 |
 
 ---
-*Auto-generated on 2026-06-26 02:07 UTC*
+*Updated 2026-07-16*
