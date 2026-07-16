@@ -13,6 +13,7 @@
 | [twin-myths-cross-cultural](twin-myths-cross-cultural.md) | 雙生神與雙胞胎神話跨文化比較 |
 | [orisha-olympians-pantheon-comparison](orisha-olympians-pantheon-comparison.md) | 奧里沙與奧林帕斯眾神萬神殿比較 |
 | [underworld-gatekeepers](underworld-gatekeepers.md) | 冥界守門人跨文化比較 |
+| [reborn-children-cross-cultural](reborn-children-cross-cultural.md) | 反覆投胎的孩童：Abíkú 與跨文化「再生兒」概念比較 |
 
 ---
-*Updated 2026-07-11*
+*Updated 2026-07-16*
