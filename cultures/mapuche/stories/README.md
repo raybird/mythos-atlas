@@ -9,6 +9,8 @@
 | [Trentren與Kai-Kai大戰](Trentren與Kai-Kai大戰.md) | Trentren與Kai-Kai大戰 |
 | [創世神話](創世神話.md) | 創世神話 |
 | [first-machi-origin](first-machi-origin.md) | first-machi-origin |
+| [Trauco森林矮人](Trauco森林矮人.md) | Trauco森林矮人 |
+| [Admapu法則的起源](Admapu法則的起源.md) | Admapu法則的起源 |
 
 ---
 *Auto-generated on 2026-06-26 02:07 UTC*
