@@ -13,6 +13,7 @@
 - [瑪雅血祭與宇宙循環跨文化比較](maya-blood-sacrifice-cosmic-renewal.md)
 - [馬雅長曆法與跨文化宇宙循環比較](maya-baktun-cycle-comparison.md)
 - [英雄雙子騙子策略與全球騙子原型跨文化比較](trickster-archetype-cross-culture.md)
+- [中美洲與全球文明的宇宙毀滅循環比較](mesoamerican-cyclical-destruction-comparison.md)
 
 ---
-*Generated on 2026-07-15*
+*Generated on 2026-07-17*
