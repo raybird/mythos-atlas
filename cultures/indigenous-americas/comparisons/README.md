@@ -7,6 +7,7 @@
 | [大地潛水者(潛入原水取泥土造地)](大地潛水者(潛入原水取泥土造地).md) | 大地潛水者(潛入原水取泥土造地) |
 | [大洪水世界重建](大洪水世界重建.md) | 大洪水世界重建 |
 | [navajo-dine-southwest-creation-comparative](navajo-dine-southwest-creation-comparative.md) | navajo-dine-southwest-creation-comparative |
+| [sacred-pipe-cross-cultural](sacred-pipe-cross-cultural.md) | 神聖煙斗跨文化比較 |
 
 ---
 *Auto-generated on 2026-06-26 02:07 UTC*

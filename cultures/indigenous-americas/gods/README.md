@@ -11,6 +11,7 @@
 | [White-Buffalo-Calf-Woman](White-Buffalo-Calf-Woman.md) | White-Buffalo-Calf-Woman |
 | [蜘蛛祖母](蜘蛛祖母.md) | 蜘蛛祖母 |
 | [雷鳥](雷鳥.md) | 雷鳥 |
+| [Wakan-Tanka](Wakan-Tanka.md) | Wakan Tanka — 拉科塔至高神秘 |
 
 ---
 *Auto-generated on 2026-06-26 02:07 UTC*
