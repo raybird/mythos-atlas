@@ -113,6 +113,7 @@
 - [Wounded Healer Comparative](wounded-healer-comparative.md)
 - [Forbidden Container & Curiosity Taboo Comparative](forbidden-container-curiosity-taboo-comparative.md)
 - [Blood Covenant Myths Comparative](blood-covenant-myths-comparative.md)
+- [Living Dead: Revenant & Zombie Comparative](living-dead-revenant-zombie-comparative.md)
 
 ---
-*Auto-generated on 2026-06-26 02:07 UTC*
+*Last updated 2026-07-18*
