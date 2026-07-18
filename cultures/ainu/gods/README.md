@@ -11,5 +11,7 @@
 - [Waka ush Kamuy](Waka-ush-Kamuy.md)
 - [Nusa kor kamuy](Nusa-kor-kamuy.md)
 
+- [Turu kamuy](Turu-kamuy.md)
+
 ---
 *Generated on 2026-06-26 02:07 UTC*

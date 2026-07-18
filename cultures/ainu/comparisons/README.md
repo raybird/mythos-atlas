@@ -8,5 +8,7 @@
 - [water deity global](water-deity-global.md)
 - [inau sacred wands comparative](inau-sacred-wands-comparative.md)
 
+- [sacred mountain global](sacred-mountain-global.md)
+
 ---
 *Generated on 2026-06-26 02:07 UTC*

@@ -8,5 +8,7 @@
 - [star girl crane](star-girl-crane.md)
 - [kotan kar kamuy creates villages](kotan-kar-kamuy-creates-villages.md)
 
+- [fire theft rera](fire-theft-rera.md)
+
 ---
 *Generated on 2026-06-26 02:07 UTC*
