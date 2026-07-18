@@ -1824,7 +1824,11 @@
         "Charun藍色惡魔",
         "Vanth死亡女神",
         "宇宙分16區",
-        "神祇三重奏"
+        "神祇三重奏",
+        "世界時期(Saecula)",
+        "釘子儀式(Clavus)",
+        "六日創世",
+        "三岔門 Trimodia"
       ],
       "parallels": [
         [
@@ -1842,12 +1846,15 @@
       ],
       "creation": "伊特魯里亞創世神話記載甚少——世界由Tinia(天空神)以六天創造(類似聖經但更古老)。宇宙分為16個天文區域，每區由特定神祇管轄。Tinia握有三道雷電——第一道用於警告，第二道用於懲戒，第三道僅用於眾神議會同意後。世界將經歷六個千年(六個世代)後終結。",
       "flood": "伊特魯里亞神話記載世界將經歷多次毀滅循環(以雷電、洪水、地震)。Tinia以雷電懲罰人類傲慢。部分傳說描述上古洪水毀滅巨人世代——此主題可能通過伊特魯里亞影響了羅馬神話。",
-      "pantheon": "Tinia(天/雷神)、Uni(天后)、Menrva(智慧/戰)、Nethuns(海)、Turms(信使)、Fufluns(酒/狂喜)、Aplu(預言)、Usil(太陽)、Turan(愛)、Laran(戰)、Selvans(邊界)、Culsans(門神)、Aita(冥王)、Phersipnei(冥后)、Charun(渡者)、Vanth(死亡神使)",
+      "pantheon": "Tinia(天/雷神)、Uni(天后)、Menrva(智慧/戰)、Nethuns(海)、Turms(信使)、Fufluns(酒/狂喜)、Aplu(預言)、Usil(太陽)、Turan(愛)、Laran(戰)、Selvans(邊界)、Culsans(門神)、Aita(冥王)、Phersipnei(冥后)、Charun(渡者)、Vanth(死亡神使)、Sethlans(火/鍛造)、Nortia(命運/釘子)、Ani(風/呼吸)、Morta(死亡審判)",
       "stories": [
         "Tages從犁溝中現身傳授占卜",
         "Hercle(赫拉克勒斯)冒險",
         "Vibenna兄弟傳奇",
-        "Achle(阿基里斯)在伊特魯里亞藝術中"
+        "Achle(阿基里斯)在伊特魯里亞藝術中",
+        "莫爾塔的審判(冥界死後審判)",
+        "塔格斯的犁溝神啟(占卜起源)",
+        "科爾托納的建城神話"
       ],
       "order": 26,
       "timeline": {
