@@ -27,6 +27,7 @@
 | [rostam-esfandiyar](rostam-esfandiyar.md) | rostam-esfandiyar |
 | [rostam-seven-labors](rostam-seven-labors.md) | rostam-seven-labors |
 | [rostam-sohrab](rostam-sohrab.md) | rostam-sohrab |
+| [rostam-akvan-demon](rostam-akvan-demon.md) | rostam-akvan-demon |
 | [sacred-dog-legend](sacred-dog-legend.md) | sacred-dog-legend |
 | [simurgh-covenant](simurgh-covenant.md) | simurgh-covenant |
 | [siyavash](siyavash.md) | siyavash |
@@ -41,4 +42,4 @@
 | [卡韋鐵匠起義](卡韋鐵匠起義.md) | 卡韋鐵匠起義 |
 
 ---
-*Last updated: 2026-07-15 UTC*
+*Last updated: 2026-07-18 UTC*
