@@ -114,6 +114,7 @@
 - [Forbidden Container & Curiosity Taboo Comparative](forbidden-container-curiosity-taboo-comparative.md)
 - [Blood Covenant Myths Comparative](blood-covenant-myths-comparative.md)
 - [Living Dead: Revenant & Zombie Comparative](living-dead-revenant-zombie-comparative.md)
+- [Sacred Ash & Holy Dust Comparative](sacred-ash-holy-dust-comparative.md)
 
 ---
 *Last updated 2026-07-18*
