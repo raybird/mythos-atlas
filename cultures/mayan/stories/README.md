@@ -16,6 +16,7 @@
 - [庫庫爾坎的東去與歸來的承諾](kukulkan-departure.md)
 - [撐船者之神與冥河渡航](paddler-gods-underworld-crossing.md)
 - [五個世界紀元 (Five World Ages / Five Suns)](five-world-ages.md)
+- [神聖球賽的起源與宇宙秩序 (The Origin of the Sacred Ballgame)](sacred-ballgame-origin.md)
 
 ---
-*Generated on 2026-07-17*
+*Generated on 2026-07-18*

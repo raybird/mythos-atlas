@@ -14,6 +14,7 @@
 - [馬雅長曆法與跨文化宇宙循環比較](maya-baktun-cycle-comparison.md)
 - [英雄雙子騙子策略與全球騙子原型跨文化比較](trickster-archetype-cross-culture.md)
 - [中美洲與全球文明的宇宙毀滅循環比較](mesoamerican-cyclical-destruction-comparison.md)
+- [馬雅與波斯宇宙循環觀比較](mayan-zoroastrian-cyclical-cosmology.md)
 
 ---
-*Generated on 2026-07-17*
+*Generated on 2026-07-18*
