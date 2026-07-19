@@ -14,6 +14,7 @@
 | [oba-river-sacrifice](oba-river-sacrifice.md) | 歐巴的河流犧牲 (Oba's River Sacrifice) |
 | [oya-shango-separation](oya-shango-separation.md) | 奧雅與尚戈的分離 (Ọya's Separation from Ṣàngó) |
 | [abiku-cycle](abiku-cycle.md) | 阿比庫的循環 (The Abíkú Cycle) |
+| [aganju-volcanic-journey](aganju-volcanic-journey.md) | 阿甘朱的火山之旅 (Aganju's Volcanic Journey) |
 
 ---
-*Updated 2026-07-16*
+*Updated 2026-07-19*
