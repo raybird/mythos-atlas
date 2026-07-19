@@ -11,6 +11,7 @@
 | [sumerian-flood-comparison](sumerian-flood-comparison.md) | sumerian-flood-comparison |
 | [sumerian-measure-fate](sumerian-measure-fate.md) | 蘇美命運度量與跨文化命運神話比較 |
 | [underworld-descent](underworld-descent.md) | underworld-descent |
+| [sumerian-greek-mythological-structure](sumerian-greek-mythological-structure.md) | 蘇美與希臘神話結構比較 |
 
 ---
-*Auto-generated on 2026-06-26 02:07 UTC*
+*Last updated: 2026-07-19*

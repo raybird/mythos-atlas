@@ -11,6 +11,7 @@
 | [inanna-and-shukaletuda](inanna-and-shukaletuda.md) | inanna-and-shukaletuda |
 | [inanna-descent-to-underworld](inanna-descent-to-underworld.md) | inanna-descent-to-underworld |
 | [inanna-dumuzi](inanna-dumuzi.md) | inanna-dumuzi |
+| [ninurta-return-nippur](ninurta-return-nippur.md) | 尼努爾塔返回尼普爾 |
 
 ---
-*Auto-generated on 2026-06-26 02:07 UTC*
+*Last updated: 2026-07-19*

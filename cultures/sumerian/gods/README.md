@@ -13,6 +13,7 @@
 | [Ninhursag](Ninhursag.md) | Ninhursag |
 | [Nungal](Nungal.md) | 寧加爾 |
 | [Utu](Utu.md) | Utu |
+| [Anzu](Anzu.md) | Anzu（安祖）— 混沌風暴之鳥 |
 
 ---
-*Auto-generated on 2026-06-26 02:07 UTC*
+*Last updated: 2026-07-19*
