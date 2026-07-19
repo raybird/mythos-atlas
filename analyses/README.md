@@ -115,6 +115,7 @@
 - [Blood Covenant Myths Comparative](blood-covenant-myths-comparative.md)
 - [Living Dead: Revenant & Zombie Comparative](living-dead-revenant-zombie-comparative.md)
 - [Sacred Ash & Holy Dust Comparative](sacred-ash-holy-dust-comparative.md)
+- [Sacred Anointing Oil Comparative](sacred-anointing-oil-myths-comparative.md)
 
 ---
-*Last updated 2026-07-18*
+*Last updated 2026-07-19*
