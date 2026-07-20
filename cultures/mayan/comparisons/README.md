@@ -15,6 +15,7 @@
 - [英雄雙子騙子策略與全球騙子原型跨文化比較](trickster-archetype-cross-culture.md)
 - [中美洲與全球文明的宇宙毀滅循環比較](mesoamerican-cyclical-destruction-comparison.md)
 - [馬雅與波斯宇宙循環觀比較](mayan-zoroastrian-cyclical-cosmology.md)
+- [神聖穀物與文明之根 — 跨文化穀物神祇比較](sacred-grain-deities-comparison.md)
 
 ---
-*Generated on 2026-07-18*
+*Generated on 2026-07-20*

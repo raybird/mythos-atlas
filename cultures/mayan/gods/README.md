@@ -20,6 +20,7 @@
 - [Ixazaluoh — 女性創世原力與虛空女神](Ixazaluoh-feminine-creation.md)
 - [Noh Ek — 金星神、戰爭與時間的天體主宰](Noh-Ek.md)
 - [Hunab Ku — 胡納布庫，至高唯一的神](Hunab-Ku.md)
+- [K'awiil — 雷電、王權與王朝延續之神](kawiil.md)
 
 ---
-*Generated on 2026-07-18*
+*Generated on 2026-07-20*

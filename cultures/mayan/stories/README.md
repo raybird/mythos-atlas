@@ -17,6 +17,7 @@
 - [撐船者之神與冥河渡航](paddler-gods-underworld-crossing.md)
 - [五個世界紀元 (Five World Ages / Five Suns)](five-world-ages.md)
 - [神聖球賽的起源與宇宙秩序 (The Origin of the Sacred Ballgame)](sacred-ballgame-origin.md)
+- [玉米神的冥界之旅 (The Maize God's Journey Through Xibalba)](maize-god-xibalba.md)
 
 ---
-*Generated on 2026-07-18*
+*Generated on 2026-07-20*
