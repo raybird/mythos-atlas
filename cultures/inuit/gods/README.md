@@ -10,6 +10,7 @@
 | [Sedna](Sedna.md) | Sedna |
 | [Sila](Sila.md) | Sila |
 | [Tornarsuk](Tornarsuk.md) | Tornarsuk |
+| [Nerrivik](Nerrivik.md) | Nerrivik — 海之供養者與海豹女巫 |
 
 ---
 *Auto-generated on 2026-06-26 02:07 UTC*

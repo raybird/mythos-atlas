@@ -8,6 +8,7 @@
 | [sedna-and-the-shaman](sedna-and-the-shaman.md) | sedna-and-the-shaman |
 | [北極大洪水](北極大洪水.md) | 北極大洪水 |
 | [第一位Angakkuq](第一位Angakkuq.md) | 第一位Angakkuq |
+| [tupilak-creation](tupilak-creation.md) | Tupilak 的創造：薩滿的魔法造物 |
 
 ---
 *Auto-generated on 2026-06-26 02:07 UTC*
