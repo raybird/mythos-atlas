@@ -9,6 +9,8 @@
 | [Nubian-Pantheon](Nubian-Pantheon.md) | Nubian-Pantheon |
 | [Royal-Cult](Royal-Cult.md) | Royal-Cult |
 | [Sebiumeker-Dedun](Sebiumeker-Dedun.md) | Sebiumeker-Dedun |
+| [Satis](Satis.md) | Satis |
+| [Anuket](Anuket.md) | Anuket |
 
 ---
-*Auto-generated on 2026-06-26 02:07 UTC*
+*Last updated 2026-07-22*
