@@ -16,5 +16,7 @@
 | [abiku-cycle](abiku-cycle.md) | 阿比庫的循環 (The Abíkú Cycle) |
 | [aganju-volcanic-journey](aganju-volcanic-journey.md) | 阿甘朱的火山之旅 (Aganju's Volcanic Journey) |
 
+| [the-sacred-iroko-tree](the-sacred-iroko-tree.md) | 聖伊羅科樹的傳說 (Itàn Igbo Iroko) |
+
 ---
-*Updated 2026-07-19*
+*Updated 2026-07-22*

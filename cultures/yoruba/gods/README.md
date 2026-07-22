@@ -18,5 +18,7 @@
 | [abiku](abiku.md) | 阿比庫 (Abíkú) — 反覆投胎的靈魂、兒童死亡與再生 |
 | [iyami-aje](iyami-aje.md) | 眾母之巫 (Ìyámi Aje) — 巫術、命運、財富、女性神秘力量 |
 
+| [egbe](egbe.md) | 厄格貝 (Egbe / Ẹgbẹ́) — 童年同伴、靈魂雙胞胎、社交紐帶 |
+
 ---
-*Updated 2026-07-19*
+*Updated 2026-07-22*
