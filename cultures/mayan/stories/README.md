@@ -18,6 +18,7 @@
 - [五個世界紀元 (Five World Ages / Five Suns)](five-world-ages.md)
 - [神聖球賽的起源與宇宙秩序 (The Origin of the Sacred Ballgame)](sacred-ballgame-origin.md)
 - [玉米神的冥界之旅 (The Maize God's Journey Through Xibalba)](maize-god-xibalba.md)
+- [玉米神的斬首 — 西巴爾巴的六重考驗與枯樹上的葫蘆](maize-god-beheading.md)
 
 ---
-*Generated on 2026-07-20*
+*Updated on 2026-07-23*

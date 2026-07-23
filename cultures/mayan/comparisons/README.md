@@ -16,6 +16,7 @@
 - [中美洲與全球文明的宇宙毀滅循環比較](mesoamerican-cyclical-destruction-comparison.md)
 - [馬雅與波斯宇宙循環觀比較](mayan-zoroastrian-cyclical-cosmology.md)
 - [神聖穀物與文明之根 — 跨文化穀物神祇比較](sacred-grain-deities-comparison.md)
+- [馬雅與印度「宇宙犧牲」創世比較](mayan-hindu-cosmic-sacrifice.md)
 
 ---
-*Generated on 2026-07-20*
+*Updated on 2026-07-23*
