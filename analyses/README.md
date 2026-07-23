@@ -116,6 +116,7 @@
 - [Living Dead: Revenant & Zombie Comparative](living-dead-revenant-zombie-comparative.md)
 - [Sacred Ash & Holy Dust Comparative](sacred-ash-holy-dust-comparative.md)
 - [Sacred Anointing Oil Comparative](sacred-anointing-oil-myths-comparative.md)
+- [Sacred Spirals Mythology Comparative](sacred-spirals-mythology-comparative.md)
 
 ---
-*Last updated 2026-07-19*
+*Last updated 2026-07-23*
