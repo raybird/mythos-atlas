@@ -40,6 +40,7 @@
 | [zarathustra-good-evil](zarathustra-good-evil.md) | zarathustra-good-evil |
 | [zarathustra-temptation](zarathustra-temptation.md) | zarathustra-temptation |
 | [卡韋鐵匠起義](卡韋鐵匠起義.md) | 卡韋鐵匠起義 |
+| [frashokereti-final-renovation](frashokereti-final-renovation.md) | frashokereti-final-renovation |
 
 ---
-*Last updated: 2026-07-18 UTC*
+*Last updated: 2026-07-24 UTC*
