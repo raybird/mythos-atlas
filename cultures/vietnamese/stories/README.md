@@ -9,6 +9,9 @@
 | [thanh-giong](thanh-giong.md) | thanh-giong |
 | [trong-thuy-my-chau](trong-thuy-my-chau.md) | trong-thuy-my-chau |
 | [trum-troi-creation](trum-troi-creation.md) | trum-troi-creation |
+| [thach-sanh](thach-sanh.md) | Thạch Sanh（石山英雄） |
+| [su-tich-ho-guom](su-tich-ho-guom.md) | Sự Tích Hồ Gươm（還劍湖傳說） |
+| [su-tich-cay-neu](su-tich-cay-neu.md) | Sự Tích Cây Nêu（神竹竿的傳說） |
 
 ---
-*Auto-generated on 2026-06-26 02:07 UTC*
+*Updated 2026-07-25*
