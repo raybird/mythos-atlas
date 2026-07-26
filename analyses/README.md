@@ -117,6 +117,7 @@
 - [Sacred Ash & Holy Dust Comparative](sacred-ash-holy-dust-comparative.md)
 - [Sacred Anointing Oil Comparative](sacred-anointing-oil-myths-comparative.md)
 - [Sacred Spirals Mythology Comparative](sacred-spirals-mythology-comparative.md)
+- [Sacred Sexuality & Divine Erotic Mysticism Comparative](sacred-sexuality-divine-eroticism-comparative.md)
 
 ---
-*Last updated 2026-07-23*
+*Last updated 2026-07-26*
