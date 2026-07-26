@@ -11,6 +11,7 @@
 | [kasku-moon-god-falls](kasku-moon-god-falls.md) | kasku-moon-god-falls |
 | [kingship-in-heaven](kingship-in-heaven.md) | 天廷王權（Kingship in Heaven） |
 | [song-of-emergence](song-of-emergence.md) | 出現之歌（Song of Emergence） |
+| [ship-of-silver](ship-of-silver.md) | 白銀之船（The Ship of Silver） |
 
 ---
-*Auto-generated on 2026-06-26 02:07 UTC*
+*Updated 2026-07-26*

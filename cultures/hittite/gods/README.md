@@ -15,6 +15,7 @@
 | [Ea](Ea.md) | Ea（智慧之神） |
 | [Telipinu](Telipinu.md) | Telipinu（穀物之神） |
 | [Iyarri](Iyarri.md) | Iyarri（瘟疫之神） |
+| [Pirwa](Pirwa.md) | Pirwa（皮爾瓦，胡里安戰神） |
 
 ---
-*Auto-generated on 2026-06-26 02:07 UTC*
+*Updated 2026-07-26*
