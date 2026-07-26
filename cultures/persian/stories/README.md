@@ -30,6 +30,7 @@
 | [rostam-akvan-demon](rostam-akvan-demon.md) | rostam-akvan-demon |
 | [sacred-dog-legend](sacred-dog-legend.md) | sacred-dog-legend |
 | [simurgh-covenant](simurgh-covenant.md) | simurgh-covenant |
+| [siamak-death](siamak-death.md) | siamak-death |
 | [siyavash](siyavash.md) | siyavash |
 | [spenta-amesha-revelation](spenta-amesha-revelation.md) | spenta-amesha-revelation |
 | [tahmuras-daeva-binder](tahmuras-daeva-binder.md) | tahmuras-daeva-binder |
@@ -43,4 +44,4 @@
 | [frashokereti-final-renovation](frashokereti-final-renovation.md) | frashokereti-final-renovation |
 
 ---
-*Last updated: 2026-07-24 UTC*
+*Last updated: 2026-07-26 UTC*

@@ -37,10 +37,11 @@
 | [Vohu-Manah](Vohu-Manah.md) | Vohu-Manah |
 | [Zamyad](Zamyad.md) | Zamyad |
 | [Zarathustra](Zarathustra.md) | Zarathustra |
+| [xvarenah](xvarenah.md) | xvarenah |
 | [Zurvan](Zurvan.md) | Zurvan |
 | [dahaka](dahaka.md) | dahaka |
 | [jamshid](jamshid.md) | jamshid |
 | [saoshyant](saoshyant.md) | saoshyant |
 
 ---
-*Last updated: 2026-07-18 UTC*
+*Last updated: 2026-07-26 UTC*

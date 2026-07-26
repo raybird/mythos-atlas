@@ -18,6 +18,7 @@
 | [magi-brahmin-priestly-traditions](magi-brahmin-priestly-traditions.md) | magi-brahmin-priestly-traditions |
 | [mithra-across-cultures](mithra-across-cultures.md) | mithra-across-cultures |
 | [persian-abrahamic-influence](persian-abrahamic-influence.md) | persian-abrahamic-influence |
+| [persian-hindu-eschatology](persian-hindu-eschatology.md) | persian-hindu-eschatology |
 | [persian-afterlife-comparative](persian-afterlife-comparative.md) | persian-afterlife-comparative |
 | [persian-apocalyptic-eschatology](persian-apocalyptic-eschatology.md) | persian-apocalyptic-eschatology |
 | [persian-chinese-cosmic-renewal](persian-chinese-cosmic-renewal.md) | persian-chinese-cosmic-renewal |
@@ -42,4 +43,4 @@
 | [asha-truth-order-cross-culture](asha-truth-order-cross-culture.md) | asha-truth-order-cross-culture |
 
 ---
-*Last updated: 2026-07-24 UTC*
+*Last updated: 2026-07-26 UTC*
