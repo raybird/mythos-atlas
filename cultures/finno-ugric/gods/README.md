@@ -10,6 +10,7 @@
 | [Tuoni](Tuoni.md) | Tuoni |
 | [Ukko](Ukko.md) | Ukko |
 | [Väinämöinen](Väinämöinen.md) | Väinämöinen |
+| [Vellamo](Vellamo.md) | Vellamo |
 
 ---
 *Auto-generated on 2026-06-26 02:07 UTC*
