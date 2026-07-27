@@ -41,6 +41,9 @@
 | [zoroastrian-ethical-triad](zoroastrian-ethical-triad.md) | zoroastrian-ethical-triad |
 | [波斯與美索不達米亞創世比較](波斯與美索不達米亞創世比較.md) | 波斯與美索不達米亞創世比較 |
 | [asha-truth-order-cross-culture](asha-truth-order-cross-culture.md) | asha-truth-order-cross-culture |
+| [persian-japanese-fire-worship](persian-japanese-fire-worship.md) | persian-japanese-fire-worship |
+| [persian-korean-afterlife-bridge](persian-korean-afterlife-bridge.md) | persian-korean-afterlife-bridge |
+| [persian-mayan-dualism-comparison](persian-mayan-dualism-comparison.md) | persian-mayan-dualism-comparison |
 
 ---
-*Last updated: 2026-07-26 UTC*
+*Last updated: 2026-07-27 UTC*

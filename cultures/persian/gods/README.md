@@ -42,6 +42,9 @@
 | [dahaka](dahaka.md) | dahaka |
 | [jamshid](jamshid.md) | jamshid |
 | [saoshyant](saoshyant.md) | saoshyant |
+| [Aka-Manah](Aka-Manah.md) | Aka-Manah |
+| [Nasush](Nasush.md) | Nasush |
+| [Vizaresha](Vizaresha.md) | Vizaresha |
 
 ---
-*Last updated: 2026-07-26 UTC*
+*Last updated: 2026-07-27 UTC*

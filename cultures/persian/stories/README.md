@@ -27,6 +27,8 @@
 | [rostam-esfandiyar](rostam-esfandiyar.md) | rostam-esfandiyar |
 | [rostam-seven-labors](rostam-seven-labors.md) | rostam-seven-labors |
 | [rostam-sohrab](rostam-sohrab.md) | rostam-sohrab |
+| [rostam-sohrab-tragedy](rostam-sohrab-tragedy.md) | rostam-sohrab-tragedy |
+| [ardashir-divine-origin](ardashir-divine-origin.md) | ardashir-divine-origin |
 | [rostam-akvan-demon](rostam-akvan-demon.md) | rostam-akvan-demon |
 | [sacred-dog-legend](sacred-dog-legend.md) | sacred-dog-legend |
 | [simurgh-covenant](simurgh-covenant.md) | simurgh-covenant |
