@@ -2,6 +2,7 @@
 
 | 檔案 | 名稱 |
 |------|------|
+| [Atarrabi](Atarrabi.md) | Atarrabi |
 | [Eguzki](Eguzki.md) | Eguzki |
 | [Ilargi](Ilargi.md) | Ilargi |
 | [Urtzi](Urtzi.md) | Urtzi |

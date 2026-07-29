@@ -2,6 +2,7 @@
 
 | 檔案 | 名稱 |
 |------|------|
+| [basque-matriarchy-goddess-worship](basque-matriarchy-goddess-worship.md) | basque-matriarchy-goddess-worship |
 | [culture-hero](culture-hero.md) | culture-hero |
 | [earth-mother](earth-mother.md) | earth-mother |
 | [european-mother-goddess](european-mother-goddess.md) | european-mother-goddess |

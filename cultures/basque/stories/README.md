@@ -7,6 +7,7 @@
 | [basque-flood-myth](basque-flood-myth.md) | basque-flood-myth |
 | [mari-cave](mari-cave.md) | mari-cave |
 | [olentzero-akelarre](olentzero-akelarre.md) | olentzero-akelarre |
+| [orko-herensuge-battle](orko-herensuge-battle.md) | orko-herensuge-battle |
 
 ---
 *Auto-generated on 2026-06-26 02:07 UTC*
