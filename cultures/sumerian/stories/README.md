@@ -12,6 +12,7 @@
 | [inanna-descent-to-underworld](inanna-descent-to-underworld.md) | inanna-descent-to-underworld |
 | [inanna-dumuzi](inanna-dumuzi.md) | inanna-dumuzi |
 | [ninurta-return-nippur](ninurta-return-nippur.md) | 尼努爾塔返回尼普爾 |
+| [erra-ishum-epic](erra-ishum-epic.md) | 厄拉與伊舒姆史詩 |
 
 ---
-*Last updated: 2026-07-19*
+*Last updated: 2026-07-29*
