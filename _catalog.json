@@ -3096,7 +3096,8 @@
         "Pincoya海的仙女",
         "El Cuero湖中怪獸",
         "Machi療癒儀式",
-        "Admapu法則的起源"
+        "Admapu法則的起源",
+        "恩根的起源：馬普切自然之靈的誕生"
       ],
       "order": 41,
       "timeline": {
@@ -3125,7 +3126,10 @@
           "indigenous-americas"
         ]
       },
-      "_stories": 8
+      "_stories": 8,
+      "gods": [
+        "Pincoya"
+      ]
     },
     {
       "id": "sami",
