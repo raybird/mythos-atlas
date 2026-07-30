@@ -24,6 +24,7 @@
 | [jamshid-cup](jamshid-cup.md) | jamshid-cup |
 | [kay-khosrow-ascension](kay-khosrow-ascension.md) | kay-khosrow-ascension |
 | [kay-qobad-ascension](kay-qobad-ascension.md) | kay-qobad-ascension |
+| [mazdak-revolt](mazdak-revolt.md) | 馬茲達克起義 |
 | [rostam-esfandiyar](rostam-esfandiyar.md) | rostam-esfandiyar |
 | [rostam-seven-labors](rostam-seven-labors.md) | rostam-seven-labors |
 | [rostam-sohrab](rostam-sohrab.md) | rostam-sohrab |

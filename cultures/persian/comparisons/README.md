@@ -22,6 +22,7 @@
 | [persian-afterlife-comparative](persian-afterlife-comparative.md) | persian-afterlife-comparative |
 | [persian-apocalyptic-eschatology](persian-apocalyptic-eschatology.md) | persian-apocalyptic-eschatology |
 | [persian-chinese-cosmic-renewal](persian-chinese-cosmic-renewal.md) | persian-chinese-cosmic-renewal |
+| [persian-chinese-underworld-judgment](persian-chinese-underworld-judgment.md) | 波斯與中國冥界審判比較 |
 | [persian-dualism-comparison](persian-dualism-comparison.md) | persian-dualism-comparison |
 | [persian-epic-comparative](persian-epic-comparative.md) | persian-epic-comparative |
 | [persian-eschatology-comparison](persian-eschatology-comparison.md) | persian-eschatology-comparison |
