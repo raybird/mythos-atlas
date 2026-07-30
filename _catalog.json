@@ -99,7 +99,8 @@
           "minoan",
           "hittite"
         ]
-      }
+      },
+      "_stories": 11
     },
     {
       "id": "mesopotamian",
@@ -177,7 +178,8 @@
           "minoan",
           "sumerian"
         ]
-      }
+      },
+      "_stories": 4
     },
     {
       "id": "greek",
@@ -266,7 +268,8 @@
           "minoan",
           "roman"
         ]
-      }
+      },
+      "_stories": 6
     },
     {
       "id": "egyptian",
@@ -350,7 +353,8 @@
           "nubian",
           "greek"
         ]
-      }
+      },
+      "_stories": 4
     },
     {
       "id": "norse",
@@ -414,7 +418,8 @@
           "slavic",
           "finno-ugric"
         ]
-      }
+      },
+      "_stories": 4
     },
     {
       "id": "hindu",
@@ -489,7 +494,8 @@
           "greek",
           "chinese"
         ]
-      }
+      },
+      "_stories": 5
     },
     {
       "id": "mayan",
@@ -553,7 +559,8 @@
           "incan",
           "indigenous-americas"
         ]
-      }
+      },
+      "_stories": 3
     },
     {
       "id": "japanese",
@@ -625,7 +632,8 @@
           "chinese",
           "korean"
         ]
-      }
+      },
+      "_stories": 5
     },
     {
       "id": "polynesian",
@@ -690,7 +698,8 @@
           "aboriginal",
           "maori"
         ]
-      }
+      },
+      "_stories": 4
     },
     {
       "id": "aboriginal",
@@ -752,7 +761,8 @@
           "polynesian",
           "maori"
         ]
-      }
+      },
+      "_stories": 4
     },
     {
       "id": "african",
@@ -821,7 +831,8 @@
           "nubian",
           "yoruba"
         ]
-      }
+      },
+      "_stories": 4
     },
     {
       "id": "indigenous-americas",
@@ -897,7 +908,8 @@
           "mapuche",
           "tupi-guarani"
         ]
-      }
+      },
+      "_stories": 4
     },
     {
       "id": "incan",
@@ -971,7 +983,8 @@
           "indigenous-americas",
           "mapuche"
         ]
-      }
+      },
+      "_stories": 3
     },
     {
       "id": "celtic",
@@ -1040,7 +1053,8 @@
           "greek",
           "basque"
         ]
-      }
+      },
+      "_stories": 4
     },
     {
       "id": "slavic",
@@ -1104,7 +1118,8 @@
           "finno-ugric",
           "baltic"
         ]
-      }
+      },
+      "_stories": 5
     },
     {
       "id": "persian",
@@ -1173,7 +1188,8 @@
           "hindu",
           "pre-islamic-arabian"
         ]
-      }
+      },
+      "_stories": 6
     },
     {
       "id": "korean",
@@ -1239,7 +1255,8 @@
           "chinese",
           "japanese"
         ]
-      }
+      },
+      "_stories": 4
     },
     {
       "id": "finno-ugric",
@@ -1305,7 +1322,8 @@
           "siberian",
           "sami"
         ]
-      }
+      },
+      "_stories": 4
     },
     {
       "id": "tibetan",
@@ -1366,7 +1384,8 @@
           "hindu",
           "mongolian"
         ]
-      }
+      },
+      "_stories": 4
     },
     {
       "id": "sumerian",
@@ -1435,7 +1454,8 @@
           "egyptian",
           "minoan"
         ]
-      }
+      },
+      "_stories": 5
     },
     {
       "id": "phoenician",
@@ -1514,7 +1534,8 @@
           "greek",
           "pre-islamic-arabian"
         ]
-      }
+      },
+      "_stories": 5
     },
     {
       "id": "hittite",
@@ -1575,7 +1596,8 @@
           "minoan",
           "phoenician"
         ]
-      }
+      },
+      "_stories": 3
     },
     {
       "id": "yoruba",
@@ -1656,7 +1678,8 @@
           "egyptian",
           "nubian"
         ]
-      }
+      },
+      "_stories": 7
     },
     {
       "id": "mongolian",
@@ -1733,7 +1756,8 @@
           "siberian",
           "persian"
         ]
-      }
+      },
+      "_stories": 6
     },
     {
       "id": "ainu",
@@ -1806,7 +1830,8 @@
           "siberian",
           "ainu"
         ]
-      }
+      },
+      "_stories": 6
     },
     {
       "id": "etruscan",
@@ -1886,7 +1911,8 @@
           "roman",
           "phoenician"
         ]
-      }
+      },
+      "_stories": 7
     },
     {
       "id": "basque",
@@ -1961,7 +1987,8 @@
           "roman",
           "phoenician"
         ]
-      }
+      },
+      "_stories": 6
     },
     {
       "id": "baltic",
@@ -2037,7 +2064,8 @@
           "slavic",
           "finno-ugric"
         ]
-      }
+      },
+      "_stories": 6
     },
     {
       "id": "vietnamese",
@@ -2110,7 +2138,8 @@
           "chinese",
           "chinese"
         ]
-      }
+      },
+      "_stories": 6
     },
     {
       "id": "inuit",
@@ -2189,7 +2218,8 @@
           "indigenous-americas",
           "norse"
         ]
-      }
+      },
+      "_stories": 6
     },
     {
       "id": "armenian",
@@ -2266,7 +2296,8 @@
           "persian",
           "caucasian"
         ]
-      }
+      },
+      "_stories": 7
     },
     {
       "id": "philippine",
@@ -2335,7 +2366,8 @@
           "chinese",
           "indigenous-americas"
         ]
-      }
+      },
+      "_stories": 6
     },
     {
       "id": "caucasian",
@@ -2412,7 +2444,8 @@
           "persian",
           "greek"
         ]
-      }
+      },
+      "_stories": 7
     },
     {
       "id": "dacian",
@@ -2459,7 +2492,8 @@
         "Mioriţa命運的羊",
         "Meşterul Manole工匠獻祭",
         "Solomonari巫師傳說",
-        "Căluşari魔法戰舞"
+        "Căluşari魔法戰舞",
+        "聖茲亞娜的禮物：仲夏夜之花的傳說"
       ],
       "order": 34,
       "timeline": {
@@ -2489,7 +2523,12 @@
           "celtic",
           "scythian"
         ]
-      }
+      },
+      "gods": [
+        "Sânziana"
+      ],
+      "_gods": 1,
+      "_stories": 7
     },
     {
       "id": "roman",
@@ -2578,7 +2617,8 @@
           "phoenician",
           "persian"
         ]
-      }
+      },
+      "_stories": 9
     },
     {
       "id": "pre-islamic-arabian",
@@ -2658,7 +2698,8 @@
           "phoenician",
           "persian"
         ]
-      }
+      },
+      "_stories": 8
     },
     {
       "id": "maori",
@@ -2758,7 +2799,8 @@
         "overlap_with": [
           "polynesian"
         ]
-      }
+      },
+      "_stories": 10
     },
     {
       "id": "scythian",
@@ -2839,7 +2881,8 @@
           "dacian",
           "slavic"
         ]
-      }
+      },
+      "_stories": 8
     },
     {
       "id": "minoan",
@@ -2929,7 +2972,8 @@
           "mesopotamian",
           "greek"
         ]
-      }
+      },
+      "_stories": 10
     },
     {
       "id": "nubian",
@@ -3002,7 +3046,8 @@
           "yoruba",
           "african"
         ]
-      }
+      },
+      "_stories": 8
     },
     {
       "id": "mapuche",
@@ -3079,7 +3124,8 @@
           "incan",
           "indigenous-americas"
         ]
-      }
+      },
+      "_stories": 8
     },
     {
       "id": "sami",
@@ -3164,7 +3210,8 @@
           "finno-ugric",
           "slavic"
         ]
-      }
+      },
+      "_stories": 8
     },
     {
       "id": "siberian",
@@ -3254,7 +3301,8 @@
           "ainu",
           "finno-ugric"
         ]
-      }
+      },
+      "_stories": 9
     },
     {
       "id": "tupi-guarani",
@@ -3336,7 +3384,8 @@
           "incan",
           "mapuche"
         ]
-      }
+      },
+      "_stories": 10
     }
   ],
   "themes": [
