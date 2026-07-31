@@ -14,6 +14,7 @@
 | [sumerian-greek-mythological-structure](sumerian-greek-mythological-structure.md) | 蘇美與希臘神話結構比較 |
 | [sumerian-edubba-scribal-education](sumerian-edubba-scribal-education.md) | 蘇美 Edubba 抄寫教育與跨文化書寫傳統比較 |
 | [ishum-messenger-fire-divine](ishum-messenger-fire-divine.md) | 伊舒姆——火焰中的神聖信使跨文化比較 |
+| [utu-shamash-solar-justice](utu-shamash-solar-justice.md) | 太陽正義之神跨文化比較——烏圖／沙馬什 |
 
 ---
-*Last updated: 2026-07-29*
+*Last updated: 2026-07-31*

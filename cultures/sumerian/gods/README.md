@@ -15,6 +15,7 @@
 | [Utu](Utu.md) | Utu |
 | [Anzu](Anzu.md) | Anzu（安祖）— 混沌風暴之鳥 |
 | [Lulal](Lulal.md) | 拉塔拉克（Lulal）— 戰爭與忠誠之神 |
+| [Ningirsu](Ningirsu.md) | 寧吉爾蘇（Ningirsu）— 拉格什守護神、戰神兼農業神 |
 
 ---
-*Last updated: 2026-07-29*
+*Last updated: 2026-07-31*

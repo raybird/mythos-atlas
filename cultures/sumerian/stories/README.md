@@ -13,6 +13,7 @@
 | [inanna-dumuzi](inanna-dumuzi.md) | inanna-dumuzi |
 | [ninurta-return-nippur](ninurta-return-nippur.md) | 尼努爾塔返回尼普爾 |
 | [erra-ishum-epic](erra-ishum-epic.md) | 厄拉與伊舒姆史詩 |
+| [ur-namma-death](ur-namma-death.md) | 烏爾那姆之死——國王的冥界之旅 |
 
 ---
-*Last updated: 2026-07-29*
+*Last updated: 2026-07-31*
