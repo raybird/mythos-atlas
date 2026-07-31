@@ -35,6 +35,7 @@
 - [Female Deities](female-deities.md)
 - [Fire Myths](fire-myths.md)
 - [Flood Myths Geological Origins](flood-myths-geological-origins.md)
+- [Fossil Myths and Geomythology: Cross-Cultural Comparative](fossils-myth-geomythology-comparative.md)
 - [Fox Spirits Comparative](fox-spirits-comparative.md)
 - [Giant Myths Comparative](giant-myths-comparative.md)
 - [Goat and Ram in World Mythology](goat-ram-myths-comparative.md)
