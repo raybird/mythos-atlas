@@ -12,6 +12,7 @@
 | [阿修羅三連城](阿修羅三連城.md) | 阿修羅三連城 |
 | [savitri-satyavan](savitri-satyavan.md) | Savitri 與 Satyavan |
 | [hanuman-lanka](hanuman-lanka.md) | Hanuman 前往楞伽 |
+| [narasimha-man-lion](narasimha-man-lion.md) | 那羅辛訶人獅化身 |
 | [瓦摩那與巴利](瓦摩那與巴利.md) | 瓦摩那與巴利 |
 
 ---

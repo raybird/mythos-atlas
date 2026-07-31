@@ -13,6 +13,7 @@
 | [hindu-avatars-global-comparative](hindu-avatars-global-comparative.md) | 毗濕奴化身全球比較 |
 | [divine-devotion-bhakti-comparative](divine-devotion-bhakti-comparative.md) | 虔信傳統跨文化比較 |
 | [創世犧牲跨文化比較](創世犧牲跨文化比較.md) | 創世犧牲跨文化比較 |
+| [cosmic-order-deities-comparative](cosmic-order-deities-comparative.md) | 宇宙秩序之神跨文化比較 |
 
 ---
 *Updated 2026-07-16*

@@ -475,7 +475,8 @@
         "羅摩與悉多",
         "黑天Krishna神蹟",
         "杜爾迦斬魔",
-        "象神Ganesh由來"
+        "象神Ganesh由來",
+        "那羅辛訶人獅化身"
       ],
       "order": 6,
       "timeline": {
@@ -506,7 +507,13 @@
           "chinese"
         ]
       },
-      "_stories": 5
+      "_stories": 6,
+      "gods": [
+        "伐樓拿"
+      ],
+      "comparisons": [
+        "宇宙秩序之神跨文化比較"
+      ]
     },
     {
       "id": "mayan",

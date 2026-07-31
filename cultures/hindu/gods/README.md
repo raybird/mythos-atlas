@@ -15,6 +15,7 @@
 | [俱毗羅](俱毗羅.md) | 俱毗羅 |
 | [Hanuman](Hanuman.md) | Hanuman |
 | [Surya](Surya.md) | Surya |
+| [Varuna](Varuna.md) | Varuna |
 
 ---
 *Updated 2026-07-16*
