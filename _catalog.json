@@ -1109,7 +1109,8 @@
         "Baba Yaga的魔法小屋",
         "不死者Koschei",
         "Alkonost與Sirin神鳥",
-        "Kupala Night夏至祭典"
+        "Kupala Night夏至祭典",
+        "伊凡王子與灰狼"
       ],
       "order": 15,
       "timeline": {
@@ -1134,7 +1135,13 @@
           "baltic"
         ]
       },
-      "_stories": 5
+      "_stories": 5,
+      "gods": [
+        "Radegast"
+      ],
+      "comparisons": [
+        "斯拉夫騙徒神祇比較"
+      ]
     },
     {
       "id": "persian",
