@@ -2641,7 +2641,13 @@
           "persian"
         ]
       },
-      "_stories": 9
+      "_stories": 9,
+      "gods": [
+        "武爾坎努斯"
+      ],
+      "comparisons": [
+        "火與鍛造之神跨文化比較"
+      ]
     },
     {
       "id": "pre-islamic-arabian",
