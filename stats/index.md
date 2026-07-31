@@ -1,6 +1,6 @@
 # Mythos Atlas — Stats Dashboard
 
-> 自動更新於 2026-07-31 16:42 UTC
+> 自動更新於 2026-07-31 20:09 UTC
 
 ---
 
@@ -11,13 +11,13 @@
 | 文化體系 / Cultures | 44 |
 | 已充實 / Enriched | 44 (100.0%) |
 | 待充實 / To Enrich | 0 |
-| 分析文章 / Analyses | 372 |
-| 神祇頁面 / God Pages | 972 |
-| 故事頁面 / Story Pages | 851 |
-| 比較頁面 / Comparison Pages | 815 |
-| 總頁面 / Total Pages | 2638 |
-| 平均每文化頁面 / Avg Pages/Culture | 60.0 |
-| 內容總深度 / Total Lines | 139,895 |
+| 分析文章 / Analyses | 374 |
+| 神祇頁面 / God Pages | 976 |
+| 故事頁面 / Story Pages | 854 |
+| 比較頁面 / Comparison Pages | 818 |
+| 總頁面 / Total Pages | 2648 |
+| 平均每文化頁面 / Avg Pages/Culture | 60.2 |
+| 內容總深度 / Total Lines | 140,421 |
 | 執行次數 / Runs | 55 |
 
 ---
@@ -48,10 +48,11 @@
 | **約魯巴神話**<br>Yoruba Mythology | ![radar](radar/yoruba.svg) | 169 | ✅ | 22 |
 | **薩米神話**<br>Sámi Mythology | ![radar](radar/sami.svg) | 56 | ✅ | 0 |
 | **中國上古神話**<br>Chinese Mythology | ![radar](radar/chinese.svg) | 54 | ✅ | 12 |
+| **美索不達米亞神話**<br>Mesopotamian Mythology | ![radar](radar/mesopotamian.svg) | 54 | ✅ | 9 |
 | **印加神話**<br>Incan Mythology | ![radar](radar/incan.svg) | 53 | ✅ | 2 |
 | **波利尼西亞神話**<br>Polynesian Mythology | ![radar](radar/polynesian.svg) | 51 | ✅ | 11 |
 | **越南神話**<br>Vietnamese Mythology | ![radar](radar/vietnamese.svg) | 51 | ✅ | 1 |
-| **希臘神話**<br>Greek Mythology | ![radar](radar/greek.svg) | 49 | ✅ | 155 |
+| **希臘神話**<br>Greek Mythology | ![radar](radar/greek.svg) | 49 | ✅ | 156 |
 | **埃及神話**<br>Egyptian Mythology | ![radar](radar/egyptian.svg) | 49 | ✅ | 47 |
 | **印度神話**<br>Hindu Mythology | ![radar](radar/hindu.svg) | 49 | ✅ | 79 |
 | **日本神話**<br>Japanese Mythology | ![radar](radar/japanese.svg) | 49 | ✅ | 61 |
@@ -61,6 +62,7 @@
 | **韓國神話**<br>Korean Mythology | ![radar](radar/korean.svg) | 49 | ✅ | 4 |
 | **愛努神話**<br>Ainu Mythology | ![radar](radar/ainu.svg) | 49 | ✅ | 0 |
 | **菲律賓神話**<br>Philippine Mythology | ![radar](radar/philippine.svg) | 49 | ✅ | 3 |
+| **高加索神話**<br>Caucasian (Nart) Mythology | ![radar](radar/caucasian.svg) | 49 | ✅ | 0 |
 | **羅馬神話**<br>Roman Mythology | ![radar](radar/roman.svg) | 49 | ✅ | 7 |
 | **毛利神話**<br>Māori Mythology | ![radar](radar/maori.svg) | 49 | ✅ | 15 |
 | **澳洲原住民神話**<br>Aboriginal Australian Mythology | ![radar](radar/aboriginal.svg) | 48 | ✅ | 3 |
@@ -74,8 +76,7 @@
 | **米諾斯神話**<br>Minoan (Cretan) Mythology | ![radar](radar/minoan.svg) | 48 | ✅ | 0 |
 | **馬普切神話**<br>Mapuche (Araucanian) Mythology | ![radar](radar/mapuche.svg) | 48 | ✅ | 0 |
 | **圖皮-瓜拉尼神話**<br>Tupi-Guarani Mythology | ![radar](radar/tupi-guarani.svg) | 48 | ✅ | 1 |
-| **美索不達米亞神話**<br>Mesopotamian Mythology | ![radar](radar/mesopotamian.svg) | 47 | ✅ | 9 |
-| **北歐神話**<br>Norse Mythology | ![radar](radar/norse.svg) | 47 | ✅ | 134 |
+| **北歐神話**<br>Norse Mythology | ![radar](radar/norse.svg) | 47 | ✅ | 135 |
 | **凱爾特神話**<br>Celtic Mythology | ![radar](radar/celtic.svg) | 47 | ✅ | 31 |
 | **西藏神話**<br>Tibetan Mythology | ![radar](radar/tibetan.svg) | 47 | ✅ | 1 |
 | **蒙古神話**<br>Mongolian Mythology | ![radar](radar/mongolian.svg) | 47 | ✅ | 3 |
@@ -83,7 +84,6 @@
 | **前伊斯蘭阿拉伯神話**<br>Pre-Islamic Arabian Mythology | ![radar](radar/pre-islamic-arabian.svg) | 47 | ✅ | 0 |
 | **伊特魯里亞神話**<br>Etruscan Mythology | ![radar](radar/etruscan.svg) | 46 | ✅ | 0 |
 | **因紐特神話**<br>Inuit Mythology | ![radar](radar/inuit.svg) | 46 | ✅ | 5 |
-| **高加索神話**<br>Caucasian (Nart) Mythology | ![radar](radar/caucasian.svg) | 46 | ✅ | 0 |
 | **努比亞/庫什神話**<br>Nubian/Kushite Mythology | ![radar](radar/nubian.svg) | 46 | ✅ | 0 |
 | **西伯利亞神話**<br>Siberian (Tungus/Chukchi/Yakut) Mythology | ![radar](radar/siberian.svg) | 46 | ✅ | 3 |
 
@@ -99,10 +99,11 @@
 | 約魯巴神話 (Yoruba Mythology) | 56 | 55 | 58 | 169 | Y | 22 | 9017 |
 | 薩米神話 (Sámi Mythology) | 20 | 19 | 17 | 56 | Y | 0 | 2631 |
 | 中國上古神話 (Chinese Mythology) | 18 | 20 | 16 | 54 | Y | 12 | 2627 |
+| 美索不達米亞神話 (Mesopotamian Mythology) | 22 | 17 | 15 | 54 | Y | 9 | 2337 |
 | 印加神話 (Incan Mythology) | 19 | 17 | 17 | 53 | Y | 2 | 3327 |
 | 波利尼西亞神話 (Polynesian Mythology) | 20 | 16 | 15 | 51 | Y | 11 | 2921 |
 | 越南神話 (Vietnamese Mythology) | 17 | 17 | 17 | 51 | Y | 1 | 2591 |
-| 希臘神話 (Greek Mythology) | 20 | 16 | 13 | 49 | Y | 155 | 2289 |
+| 希臘神話 (Greek Mythology) | 20 | 16 | 13 | 49 | Y | 156 | 2289 |
 | 埃及神話 (Egyptian Mythology) | 20 | 15 | 14 | 49 | Y | 47 | 2463 |
 | 印度神話 (Hindu Mythology) | 18 | 15 | 16 | 49 | Y | 79 | 2719 |
 | 日本神話 (Japanese Mythology) | 19 | 16 | 14 | 49 | Y | 61 | 2386 |
@@ -112,6 +113,7 @@
 | 韓國神話 (Korean Mythology) | 18 | 16 | 15 | 49 | Y | 4 | 2199 |
 | 愛努神話 (Ainu Mythology) | 19 | 15 | 15 | 49 | Y | 0 | 2499 |
 | 菲律賓神話 (Philippine Mythology) | 18 | 16 | 15 | 49 | Y | 3 | 2572 |
+| 高加索神話 (Caucasian (Nart) Mythology) | 19 | 15 | 15 | 49 | Y | 0 | 2553 |
 | 羅馬神話 (Roman Mythology) | 21 | 14 | 14 | 49 | Y | 7 | 2620 |
 | 毛利神話 (Māori Mythology) | 20 | 15 | 14 | 49 | Y | 15 | 2839 |
 | 澳洲原住民神話 (Aboriginal Australian Mythology) | 18 | 16 | 14 | 48 | Y | 3 | 2590 |
@@ -125,8 +127,7 @@
 | 米諾斯神話 (Minoan (Cretan) Mythology) | 18 | 15 | 15 | 48 | Y | 0 | 2866 |
 | 馬普切神話 (Mapuche (Araucanian) Mythology) | 17 | 17 | 14 | 48 | Y | 0 | 2418 |
 | 圖皮-瓜拉尼神話 (Tupi-Guarani Mythology) | 17 | 16 | 15 | 48 | Y | 1 | 2968 |
-| 美索不達米亞神話 (Mesopotamian Mythology) | 19 | 15 | 13 | 47 | Y | 9 | 1960 |
-| 北歐神話 (Norse Mythology) | 19 | 15 | 13 | 47 | Y | 134 | 2515 |
+| 北歐神話 (Norse Mythology) | 19 | 15 | 13 | 47 | Y | 135 | 2515 |
 | 凱爾特神話 (Celtic Mythology) | 19 | 15 | 13 | 47 | Y | 31 | 3012 |
 | 西藏神話 (Tibetan Mythology) | 17 | 15 | 15 | 47 | Y | 1 | 2691 |
 | 蒙古神話 (Mongolian Mythology) | 18 | 15 | 14 | 47 | Y | 3 | 2172 |
@@ -134,9 +135,8 @@
 | 前伊斯蘭阿拉伯神話 (Pre-Islamic Arabian Mythology) | 18 | 14 | 15 | 47 | Y | 0 | 1884 |
 | 伊特魯里亞神話 (Etruscan Mythology) | 17 | 15 | 14 | 46 | Y | 0 | 2531 |
 | 因紐特神話 (Inuit Mythology) | 17 | 15 | 14 | 46 | Y | 5 | 2336 |
-| 高加索神話 (Caucasian (Nart) Mythology) | 18 | 14 | 14 | 46 | Y | 0 | 2404 |
 | 努比亞/庫什神話 (Nubian/Kushite Mythology) | 16 | 15 | 15 | 46 | Y | 0 | 2412 |
 | 西伯利亞神話 (Siberian (Tungus/Chukchi/Yakut) Mythology) | 17 | 17 | 12 | 46 | Y | 3 | 2579 |
 
 ---
-*Generated by `scripts/generate_stats.py` on 2026-07-31 16:42 UTC*
+*Generated by `scripts/generate_stats.py` on 2026-07-31 20:09 UTC*
