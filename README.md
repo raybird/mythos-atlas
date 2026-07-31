@@ -96,15 +96,15 @@ mythos-atlas/
 
 ## 📊 當前狀態
 
-> 自動更新於 2026-07-31 06:47 UTC
+> 自動更新於 2026-07-31 12:36 UTC
 
 | 類別 | 進度 |
 |------|------|
 | 文化體系 | 44/44 |
 | 跨文化主題 | 27/27 |
-| 分析文章 | 370 |
+| 分析文章 | 372 |
 | 已充實文化 | 44/44 |
-| 總頁面數 | 2614 |
+| 總頁面數 | 2626 |
 | 總執行次數 | 55 |
 
 <!-- STATS_END -->
@@ -216,6 +216,7 @@ mythos-atlas/
 - [Taboo Breaking Myths Comparative](analyses/taboo-breaking-myths-comparative.md)
 - [Swine Boar Myths Comparative](analyses/swine-boar-myths-comparative.md)
 - [Swan Maiden Celestial Bride](analyses/swan-maiden-celestial-bride.md)
+- [Swallow Myths Comparative](analyses/swallow-myths-comparative.md)
 - [Sun Snaring Myths Comparative](analyses/sun-snaring-myths-comparative.md)
 - [Sun Myths](analyses/sun-myths.md)
 - [Sun Moon Conflict Comparative](analyses/sun-moon-conflict-comparative.md)
@@ -446,6 +447,7 @@ mythos-atlas/
 - [Dream Mythology Comparative](analyses/dream-mythology-comparative.md)
 - [Dream Incubation Sacred Sleep](analyses/dream-incubation-sacred-sleep.md)
 - [Dragons And Serpents Global](analyses/dragons-and-serpents-global.md)
+- [Dove Pigeon Myths Comparative](analyses/dove-pigeon-myths-comparative.md)
 - [Dolphins World Mythology Comparative](analyses/dolphins-world-mythology-comparative.md)
 - [Dogs Wolves Mythology](analyses/dogs-wolves-mythology.md)
 - [Divine Weapons Armaments Comparative](analyses/divine-weapons-armaments-comparative.md)
