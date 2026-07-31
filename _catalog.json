@@ -2815,7 +2815,8 @@
         "Hinemoa與Tūtānekai的愛情",
         "Matawhero與Tinirau的鯨魚傳說",
         "Hine-ahu-one的創造",
-        "Hatupatu與鳥女"
+        "Hatupatu與鳥女",
+        "潘妮亞與暗礁"
       ],
       "order": 37,
       "timeline": {
@@ -2843,7 +2844,13 @@
           "polynesian"
         ]
       },
-      "_stories": 10
+      "_stories": 11,
+      "gods": [
+        "馬胡伊卡"
+      ],
+      "comparisons": [
+        "海洋少女與水岸精靈跨文化比較"
+      ]
     },
     {
       "id": "scythian",
