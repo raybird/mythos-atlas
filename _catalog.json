@@ -2386,7 +2386,8 @@
         "Bernardo Carpio山間巨人",
         "Mariang Makiling山靈傳說",
         "Aswang之夜",
-        "Sarimanok神鳥傳說"
+        "Sarimanok神鳥傳說",
+        "藍昂的一生"
       ],
       "order": 32,
       "timeline": {
@@ -2411,7 +2412,13 @@
           "indigenous-americas"
         ]
       },
-      "_stories": 6
+      "_stories": 6,
+      "gods": [
+        "Mapulon"
+      ],
+      "comparisons": [
+        "東南亞英雄史詩比較"
+      ]
     },
     {
       "id": "caucasian",
