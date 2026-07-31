@@ -166,8 +166,9 @@ mythos-atlas/
 
 ## 📝 分析文章
 
-> 跨文化比較神話學分析文章。共 370 篇。
+> 跨文化比較神話學分析文章。共 373 篇。
 
+- [通曉鳥語與動物之語：跨文化比較神話學研究](analyses/animal-language-bird-speech-comparative.md)
 - [聖林跨文化神聖樹林崇拜比較分析](analyses/聖林跨文化神聖樹林崇拜比較分析.md)
 - [Zodiac Astrology Myths Comparative](analyses/zodiac-astrology-myths-comparative.md)
 - [Wounded Sovereign Fisher King Comparative](analyses/wounded-sovereign-fisher-king-comparative.md)
