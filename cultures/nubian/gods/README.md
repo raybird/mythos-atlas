@@ -2,15 +2,25 @@
 
 | 檔案 | 名稱 |
 |------|------|
+| [Amesemi](Amesemi.md) | Amesemi |
 | [Amun-of-Napata](Amun-of-Napata.md) | Amun-of-Napata |
-| [Apedemak](Apedemak.md) | Apedemak |
-| [Isis-of-Philae](Isis-of-Philae.md) | Isis-of-Philae |
-| [Mandulis](Mandulis.md) | Mandulis |
-| [Nubian-Pantheon](Nubian-Pantheon.md) | Nubian-Pantheon |
-| [Royal-Cult](Royal-Cult.md) | Royal-Cult |
-| [Sebiumeker-Dedun](Sebiumeker-Dedun.md) | Sebiumeker-Dedun |
-| [Satis](Satis.md) | Satis |
+| [Anhur](Anhur.md) | Anhur |
 | [Anuket](Anuket.md) | Anuket |
+| [Apedemak](Apedemak.md) | Apedemak |
+| [Bes](Bes.md) | Bes |
+| [Horus-of-Kawa](Horus-of-Kawa.md) | Horus-of-Kawa |
+| [Isis-of-Philae](Isis-of-Philae.md) | Isis-of-Philae |
+| [Khonsu](Khonsu.md) | Khonsu |
+| [Makedeke](Makedeke.md) | Makedeke |
+| [Mandulis](Mandulis.md) | Mandulis |
+| [Menhit](Menhit.md) | Menhit |
+| [Mut](Mut.md) | Mut |
+| [Nubian-Pantheon](Nubian-Pantheon.md) | Nubian-Pantheon |
+| [Osiris-of-Nubia](Osiris-of-Nubia.md) | Osiris-of-Nubia |
+| [Royal-Cult](Royal-Cult.md) | Royal-Cult |
+| [Satis](Satis.md) | Satis |
+| [Sebiumeker-Dedun](Sebiumeker-Dedun.md) | Sebiumeker-Dedun |
+| [arensnuphis](arensnuphis.md) | arensuphis |
 
 ---
-*Last updated 2026-07-22*
+*Last updated 2026-07-31*
