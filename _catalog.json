@@ -801,12 +801,13 @@
       ],
       "creation": "約魯巴：Olorun(天之主)命Obatala下凡造地，但Obatala醉酒，Oduduwa接棒用泥土與棕櫚創造世界與人類。多貢：Amma(天神)以泥土捏製萬物，以宇宙震動開創世界。",
       "flood": "東非班圖族傳說洪水為天怒——人類不敬祖先，神降豪雨懲罰。祖魯神話中地面洪水來自宇宙蛇的憤怒。多貢知識中保存了對天狼星B的天文知識及週期性洪水記憶。",
-      "pantheon": "Olorun/Olódùmarè(至高神)、Obatala(創造)、Yemaya(海洋之母)、Shango(雷電)、Ogun(鐵/戰)、Khepri(運轉)、Anansi(蜘蛛智者)",
+      "pantheon": "Olorun/Olódùmarè(至高神)、Obatala(創造)、Yemaya(海洋之母)、Shango(雷電)、Ogun(鐵/戰)、Khepri(運轉)、Anansi(蜘蛛智者)、Nomkhubulwane(雨與豐收)",
       "stories": [
         "Obatala造人",
         "Anansi蜘蛛的智慧",
         "Orpheus式冥界之旅(非洲版本)",
-        "Mwindo史詩"
+        "Mwindo史詩",
+        "Kintu 與 Nambi：第一位人類與死亡的起源"
       ],
       "order": 11,
       "timeline": {
@@ -836,7 +837,10 @@
           "yoruba"
         ]
       },
-      "_stories": 4
+      "_stories": 5,
+      "gods": [
+        "Nomkhubulwane"
+      ]
     },
     {
       "id": "indigenous-americas",
