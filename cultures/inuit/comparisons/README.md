@@ -8,6 +8,9 @@
 | [sun-moon-myths-world](sun-moon-myths-world.md) | sun-moon-myths-world |
 | [極地薩滿跨文化比較](極地薩滿跨文化比較.md) | 極地薩滿跨文化比較 |
 | [sila-wind-consciousness-cross-culture](sila-wind-consciousness-cross-culture.md) | 風與意識：因紐特 Sila 與全球風神跨文化比較 |
+| [Akna與全球生育女神跨文化比較](Akna與全球生育女神跨文化比較.md) | Akna與全球生育女神跨文化比較 |
+| [Issitoq與禁忌守護神跨文化比較](Issitoq與禁忌守護神跨文化比較.md) | Issitoq與禁忌守護神跨文化比較 |
+| [Apanuugak與文化英雄戰巨人跨文化比較](Apanuugak與文化英雄戰巨人跨文化比較.md) | Apanuugak與文化英雄戰巨人跨文化比較 |
 
 ---
 *Auto-generated on 2026-06-26 02:07 UTC*
