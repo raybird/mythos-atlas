@@ -96,15 +96,15 @@ mythos-atlas/
 
 ## 📊 當前狀態
 
-> 自動更新於 2026-08-01 17:06 UTC
+> 自動更新於 2026-08-01 18:36 UTC
 
 | 類別 | 進度 |
 |------|------|
 | 文化體系 | 44/44 |
 | 跨文化主題 | 27/27 |
-| 分析文章 | 382 |
+| 分析文章 | 383 |
 | 已充實文化 | 44/44 |
-| 總頁面數 | 2715 |
+| 總頁面數 | 2718 |
 | 總執行次數 | 62 |
 
 <!-- STATS_END -->
@@ -387,6 +387,7 @@ mythos-atlas/
 - [Lost Continents Comparative](analyses/lost-continents-comparative.md)
 - [Living Dead Revenant Zombie Comparative](analyses/living-dead-revenant-zombie-comparative.md)
 - [Lion Myths Comparative](analyses/lion-myths-comparative.md)
+- [Lizard Gecko Myths Comparative](analyses/lizard-gecko-myths-comparative.md)
 - [Light Myths Primordial Light Enlightenment Comparative](analyses/light-myths-primordial-light-enlightenment-comparative.md)
 - [Left Right Handedness Symbolism](analyses/left-right-handedness-symbolism.md)
 - [Language Confusion Myths](analyses/language-confusion-myths.md)
@@ -428,6 +429,7 @@ mythos-atlas/
 - [Flower Myths Comparative](analyses/flower-myths-comparative.md)
 - [Flood Myths Geological Origins](analyses/flood-myths-geological-origins.md)
 - [Fish Myths Comparative](analyses/fish-myths-comparative.md)
+- [Firefly Glowworm Myths Comparative](analyses/firefly-glowworm-myths-comparative.md)
 - [First Woman Creation Comparative](analyses/first-woman-creation-comparative.md)
 - [First Murder Fratricide](analyses/first-murder-fratricide.md)
 - [Fire Theft Promethean Motif](analyses/fire-theft-promethean-motif.md)
