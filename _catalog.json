@@ -1070,7 +1070,8 @@
         "Tuatha Dé Danann登陸",
         "Cú Chulainn少年傳奇",
         "芬恩MacCool與鮭魚智慧",
-        "聖杯尋找"
+        "聖杯尋找",
+        "庫爾威赫與歐爾溫"
       ],
       "order": 14,
       "timeline": {
@@ -1101,7 +1102,13 @@
           "basque"
         ]
       },
-      "_stories": 4
+      "_stories": 4,
+      "gods": [
+        "Áine"
+      ],
+      "comparisons": [
+        "不可能的任務跨文化比較"
+      ]
     },
     {
       "id": "slavic",

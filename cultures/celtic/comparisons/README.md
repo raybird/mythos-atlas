@@ -3,6 +3,7 @@
 | 檔案 | 名稱 |
 |------|------|
 | [Otherworld仙域](Otherworld仙域.md) | Otherworld仙域 |
+| [impossible-tasks-comparative](impossible-tasks-comparative.md) | 不可能的任務跨文化比較 |
 | [大洪水(神族戰爭淹沒)](大洪水(神族戰爭淹沒).md) | 大洪水(神族戰爭淹沒) |
 | [德魯伊跨文化比較](德魯伊跨文化比較.md) | 德魯伊跨文化比較 |
 | [celtic-pantheon-comparative](celtic-pantheon-comparative.md) | celtic-pantheon-comparative |
