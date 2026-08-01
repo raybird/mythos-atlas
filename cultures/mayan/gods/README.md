@@ -22,6 +22,7 @@
 - [Hunab Ku — 胡納布庫，至高唯一的神](Hunab-Ku.md)
 - [K'awiil — 雷電、王權與王朝延續之神](kawiil.md)
 - [Wayob（瓦尤布）— 馬雅伴靈、命運守護與超自然同伴](wayob-companion-spirits.md)
+- [基尼奇·卡克莫 (Kinich Kak Mo) — 伊察馬爾的火鸚鵡太陽神](Kinich-Kak-Mo.md)
 
 ---
-*Updated on 2026-07-23*
+*Updated on 2026-08-01*

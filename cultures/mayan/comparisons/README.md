@@ -17,6 +17,7 @@
 - [馬雅與波斯宇宙循環觀比較](mayan-zoroastrian-cyclical-cosmology.md)
 - [神聖穀物與文明之根 — 跨文化穀物神祇比較](sacred-grain-deities-comparison.md)
 - [馬雅與印度「宇宙犧牲」創世比較](mayan-hindu-cosmic-sacrifice.md)
+- [太陽火鳥神祇跨文化比較 (Solar Fire-Bird Deities)](solar-fire-bird-deities-comparison.md)
 
 ---
-*Updated on 2026-07-23*
+*Updated on 2026-08-01*

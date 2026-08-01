@@ -567,7 +567,8 @@
       "stories": [
         "英雄雙子下冥界",
         "玉米神重生",
-        "創世神話"
+        "創世神話",
+        "火鸚鵡的降臨"
       ],
       "order": 7,
       "timeline": {
@@ -596,7 +597,13 @@
           "indigenous-americas"
         ]
       },
-      "_stories": 3
+      "_stories": 4,
+      "gods": [
+        "基尼奇·卡克莫"
+      ],
+      "comparisons": [
+        "太陽火鳥神祇跨文化比較"
+      ]
     },
     {
       "id": "japanese",
