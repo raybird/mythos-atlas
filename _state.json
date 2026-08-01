@@ -55,7 +55,8 @@
     "etruscan",
     "inuit",
     "mongolian",
-    "sumerian"
+    "sumerian",
+    "tibetan"
   ],
   "analysis_log": [
     "sacrificial-creation",
@@ -89,5 +90,5 @@
     "triune-deities-comparative",
     "divine-chariots-solar-vehicles-comparative"
   ],
-  "runs": 59
+  "runs": 60
 }

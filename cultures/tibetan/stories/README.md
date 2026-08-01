@@ -10,10 +10,12 @@
 - [mount-kailash](mount-kailash.md)
 - [padmasambhava-eight-manifestations](padmasambhava-eight-manifestations.md)
 - [padmasambhava-subdues-mountain-god](padmasambhava-subdues-mountain-god.md)
+- [padmasambhava-subdues-twelve-tenma](padmasambhava-subdues-twelve-tenma.md)
 - [拉薩頓悟之諍](拉薩頓悟之諍.md)
 - [松贊干布與二妃](松贊干布與二妃.md)
 - [桑耶寺建立](桑耶寺建立.md)
 - [米拉日巴苦修傳奇](米拉日巴苦修傳奇.md)
+- [曼薩羅瓦湖的洪水與重生](manasarovar-flood-rebirth.md)
 
 ---
-*Updated 2026-07-18*
+*Updated 2026-08-01*

@@ -1,11 +1,13 @@
 # 西藏神祇
 
+- [Chi-Je-Chu-Pa](Chi-Je-Chu-Pa.md)
 - [Gesar](Gesar.md)
 - [Nyenchen-Thanglha](Nyenchen-Thanglha.md)
 - [Padmasambhava](Padmasambhava.md)
 - [Shenrab-Miwo](Shenrab-Miwo.md)
 - [Tara](Tara.md)
 - [Tibetan-Pantheon](Tibetan-Pantheon.md)
+- [Twelve-Tenma](Twelve-Tenma.md)
 - [Vajrayogini](Vajrayogini.md)
 - [Yeshe-Tsogyal](Yeshe-Tsogyal.md)
 - [dorje-legpa](dorje-legpa.md)
@@ -17,4 +19,4 @@
 - [閻魔德迦](閻魔德迦.md)
 
 ---
-*Updated 2026-07-18*
+*Updated 2026-08-01*
