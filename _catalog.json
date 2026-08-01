@@ -846,7 +846,8 @@
         "Anansi蜘蛛的智慧",
         "Orpheus式冥界之旅(非洲版本)",
         "Mwindo史詩",
-        "Kintu 與 Nambi：第一位人類與死亡的起源"
+        "Kintu 與 Nambi：第一位人類與死亡的起源",
+        "蘆葦中生人：Unkulunkulu 的創世"
       ],
       "order": 11,
       "timeline": {
@@ -878,7 +879,11 @@
       },
       "_stories": 5,
       "gods": [
-        "Nomkhubulwane"
+        "Nomkhubulwane",
+        "Unkulunkulu"
+      ],
+      "comparisons": [
+        "植物生人跨文化比較：蘆葦、樹木與人類的誕生"
       ]
     },
     {
