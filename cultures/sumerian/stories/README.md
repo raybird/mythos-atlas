@@ -14,6 +14,7 @@
 | [ninurta-return-nippur](ninurta-return-nippur.md) | 尼努爾塔返回尼普爾 |
 | [erra-ishum-epic](erra-ishum-epic.md) | 厄拉與伊舒姆史詩 |
 | [ur-namma-death](ur-namma-death.md) | 烏爾那姆之死——國王的冥界之旅 |
+| [ninurta-and-the-turtle](ninurta-and-the-turtle.md) | 寧努爾塔與烏龜——智慧降伏傲慢的英雄 |
 
 ---
-*Last updated: 2026-07-31*
+*Last updated: 2026-08-01*
