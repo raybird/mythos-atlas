@@ -1,6 +1,6 @@
 # Mythos Atlas — Stats Dashboard
 
-> 自動更新於 2026-08-01 00:45 UTC
+> 自動更新於 2026-08-01 02:09 UTC
 
 ---
 
@@ -11,13 +11,13 @@
 | 文化體系 / Cultures | 44 |
 | 已充實 / Enriched | 44 (100.0%) |
 | 待充實 / To Enrich | 0 |
-| 分析文章 / Analyses | 376 |
-| 神祇頁面 / God Pages | 980 |
-| 故事頁面 / Story Pages | 857 |
-| 比較頁面 / Comparison Pages | 822 |
-| 總頁面 / Total Pages | 2659 |
-| 平均每文化頁面 / Avg Pages/Culture | 60.4 |
-| 內容總深度 / Total Lines | 140,931 |
+| 分析文章 / Analyses | 377 |
+| 神祇頁面 / God Pages | 984 |
+| 故事頁面 / Story Pages | 860 |
+| 比較頁面 / Comparison Pages | 825 |
+| 總頁面 / Total Pages | 2669 |
+| 平均每文化頁面 / Avg Pages/Culture | 60.7 |
+| 內容總深度 / Total Lines | 141,296 |
 | 執行次數 / Runs | 55 |
 
 ---
@@ -46,6 +46,7 @@
 | **波斯神話**<br>Persian (Zoroastrian) Mythology | ![radar](radar/persian.svg) | 171 | ✅ | 9 |
 | **馬雅神話**<br>Mayan Mythology | ![radar](radar/mayan.svg) | 169 | ✅ | 11 |
 | **約魯巴神話**<br>Yoruba Mythology | ![radar](radar/yoruba.svg) | 169 | ✅ | 22 |
+| **伊特魯里亞神話**<br>Etruscan Mythology | ![radar](radar/etruscan.svg) | 56 | ✅ | 0 |
 | **薩米神話**<br>Sámi Mythology | ![radar](radar/sami.svg) | 56 | ✅ | 0 |
 | **中國上古神話**<br>Chinese Mythology | ![radar](radar/chinese.svg) | 54 | ✅ | 12 |
 | **美索不達米亞神話**<br>Mesopotamian Mythology | ![radar](radar/mesopotamian.svg) | 54 | ✅ | 9 |
@@ -53,7 +54,7 @@
 | **印加神話**<br>Incan Mythology | ![radar](radar/incan.svg) | 53 | ✅ | 2 |
 | **波利尼西亞神話**<br>Polynesian Mythology | ![radar](radar/polynesian.svg) | 51 | ✅ | 11 |
 | **越南神話**<br>Vietnamese Mythology | ![radar](radar/vietnamese.svg) | 51 | ✅ | 1 |
-| **希臘神話**<br>Greek Mythology | ![radar](radar/greek.svg) | 49 | ✅ | 157 |
+| **希臘神話**<br>Greek Mythology | ![radar](radar/greek.svg) | 49 | ✅ | 158 |
 | **埃及神話**<br>Egyptian Mythology | ![radar](radar/egyptian.svg) | 49 | ✅ | 47 |
 | **印度神話**<br>Hindu Mythology | ![radar](radar/hindu.svg) | 49 | ✅ | 79 |
 | **日本神話**<br>Japanese Mythology | ![radar](radar/japanese.svg) | 49 | ✅ | 61 |
@@ -65,7 +66,7 @@
 | **菲律賓神話**<br>Philippine Mythology | ![radar](radar/philippine.svg) | 49 | ✅ | 3 |
 | **高加索神話**<br>Caucasian (Nart) Mythology | ![radar](radar/caucasian.svg) | 49 | ✅ | 0 |
 | **羅馬神話**<br>Roman Mythology | ![radar](radar/roman.svg) | 49 | ✅ | 7 |
-| **毛利神話**<br>Māori Mythology | ![radar](radar/maori.svg) | 49 | ✅ | 15 |
+| **毛利神話**<br>Māori Mythology | ![radar](radar/maori.svg) | 49 | ✅ | 16 |
 | **西伯利亞神話**<br>Siberian (Tungus/Chukchi/Yakut) Mythology | ![radar](radar/siberian.svg) | 49 | ✅ | 3 |
 | **澳洲原住民神話**<br>Aboriginal Australian Mythology | ![radar](radar/aboriginal.svg) | 48 | ✅ | 3 |
 | **芬蘭-烏戈爾神話**<br>Finno-Ugric Mythology | ![radar](radar/finno-ugric.svg) | 48 | ✅ | 1 |
@@ -84,7 +85,6 @@
 | **蒙古神話**<br>Mongolian Mythology | ![radar](radar/mongolian.svg) | 47 | ✅ | 3 |
 | **巴斯克神話**<br>Basque Mythology | ![radar](radar/basque.svg) | 47 | ✅ | 1 |
 | **前伊斯蘭阿拉伯神話**<br>Pre-Islamic Arabian Mythology | ![radar](radar/pre-islamic-arabian.svg) | 47 | ✅ | 0 |
-| **伊特魯里亞神話**<br>Etruscan Mythology | ![radar](radar/etruscan.svg) | 46 | ✅ | 0 |
 | **因紐特神話**<br>Inuit Mythology | ![radar](radar/inuit.svg) | 46 | ✅ | 5 |
 
 ---
@@ -97,6 +97,7 @@
 | 波斯神話 (Persian (Zoroastrian) Mythology) | 57 | 54 | 60 | 171 | Y | 9 | 10924 |
 | 馬雅神話 (Mayan Mythology) | 61 | 55 | 53 | 169 | Y | 11 | 9545 |
 | 約魯巴神話 (Yoruba Mythology) | 56 | 55 | 58 | 169 | Y | 22 | 9017 |
+| 伊特魯里亞神話 (Etruscan Mythology) | 21 | 18 | 17 | 56 | Y | 0 | 2896 |
 | 薩米神話 (Sámi Mythology) | 20 | 19 | 17 | 56 | Y | 0 | 2631 |
 | 中國上古神話 (Chinese Mythology) | 18 | 20 | 16 | 54 | Y | 12 | 2627 |
 | 美索不達米亞神話 (Mesopotamian Mythology) | 22 | 17 | 15 | 54 | Y | 9 | 2337 |
@@ -104,7 +105,7 @@
 | 印加神話 (Incan Mythology) | 19 | 17 | 17 | 53 | Y | 2 | 3327 |
 | 波利尼西亞神話 (Polynesian Mythology) | 20 | 16 | 15 | 51 | Y | 11 | 2921 |
 | 越南神話 (Vietnamese Mythology) | 17 | 17 | 17 | 51 | Y | 1 | 2591 |
-| 希臘神話 (Greek Mythology) | 20 | 16 | 13 | 49 | Y | 157 | 2289 |
+| 希臘神話 (Greek Mythology) | 20 | 16 | 13 | 49 | Y | 158 | 2289 |
 | 埃及神話 (Egyptian Mythology) | 20 | 15 | 14 | 49 | Y | 47 | 2463 |
 | 印度神話 (Hindu Mythology) | 18 | 15 | 16 | 49 | Y | 79 | 2719 |
 | 日本神話 (Japanese Mythology) | 19 | 16 | 14 | 49 | Y | 61 | 2386 |
@@ -116,7 +117,7 @@
 | 菲律賓神話 (Philippine Mythology) | 18 | 16 | 15 | 49 | Y | 3 | 2572 |
 | 高加索神話 (Caucasian (Nart) Mythology) | 19 | 15 | 15 | 49 | Y | 0 | 2553 |
 | 羅馬神話 (Roman Mythology) | 21 | 14 | 14 | 49 | Y | 7 | 2620 |
-| 毛利神話 (Māori Mythology) | 20 | 15 | 14 | 49 | Y | 15 | 2839 |
+| 毛利神話 (Māori Mythology) | 20 | 15 | 14 | 49 | Y | 16 | 2839 |
 | 西伯利亞神話 (Siberian (Tungus/Chukchi/Yakut) Mythology) | 18 | 18 | 13 | 49 | Y | 3 | 2741 |
 | 澳洲原住民神話 (Aboriginal Australian Mythology) | 18 | 16 | 14 | 48 | Y | 3 | 2590 |
 | 芬蘭-烏戈爾神話 (Finno-Ugric Mythology) | 18 | 15 | 15 | 48 | Y | 1 | 2378 |
@@ -135,8 +136,7 @@
 | 蒙古神話 (Mongolian Mythology) | 18 | 15 | 14 | 47 | Y | 3 | 2172 |
 | 巴斯克神話 (Basque Mythology) | 17 | 15 | 15 | 47 | Y | 1 | 2286 |
 | 前伊斯蘭阿拉伯神話 (Pre-Islamic Arabian Mythology) | 18 | 14 | 15 | 47 | Y | 0 | 1884 |
-| 伊特魯里亞神話 (Etruscan Mythology) | 17 | 15 | 14 | 46 | Y | 0 | 2531 |
 | 因紐特神話 (Inuit Mythology) | 17 | 15 | 14 | 46 | Y | 5 | 2336 |
 
 ---
-*Generated by `scripts/generate_stats.py` on 2026-08-01 00:45 UTC*
+*Generated by `scripts/generate_stats.py` on 2026-08-01 02:09 UTC*
