@@ -96,15 +96,15 @@ mythos-atlas/
 
 ## 📊 當前狀態
 
-> 自動更新於 2026-07-31 20:16 UTC
+> 自動更新於 2026-08-01 00:36 UTC
 
 | 類別 | 進度 |
 |------|------|
 | 文化體系 | 44/44 |
 | 跨文化主題 | 27/27 |
-| 分析文章 | 374 |
+| 分析文章 | 375 |
 | 已充實文化 | 44/44 |
-| 總頁面數 | 2656 |
+| 總頁面數 | 2659 |
 | 總執行次數 | 55 |
 
 <!-- STATS_END -->
@@ -166,8 +166,9 @@ mythos-atlas/
 
 ## 📝 分析文章
 
-> 跨文化比較神話學分析文章。共 373 篇。
+> 跨文化比較神話學分析文章。共 374 篇。
 
+- [Wild Man Myths Comparative](analyses/wild-man-myths-comparative.md)
 - [通曉鳥語與動物之語：跨文化比較神話學研究](analyses/animal-language-bird-speech-comparative.md)
 - [聖林跨文化神聖樹林崇拜比較分析](analyses/聖林跨文化神聖樹林崇拜比較分析.md)
 - [Zodiac Astrology Myths Comparative](analyses/zodiac-astrology-myths-comparative.md)
