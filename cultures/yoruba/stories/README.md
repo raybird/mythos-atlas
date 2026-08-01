@@ -18,5 +18,7 @@
 
 | [the-sacred-iroko-tree](the-sacred-iroko-tree.md) | 聖伊羅科樹的傳說 (Itàn Igbo Iroko) |
 
+| [ela-descent-of-gentle-character](ela-descent-of-gentle-character.md) | 埃拉的降臨：溫良品格的起源 (The Descent of Ela) |
+
 ---
-*Updated 2026-07-22*
+*Updated 2026-08-01*

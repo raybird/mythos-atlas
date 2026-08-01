@@ -18,5 +18,7 @@
 
 | [yoruba-fon-vodun-comparison](yoruba-fon-vodun-comparison.md) | 約魯巴奧里沙與豐（Fon）沃敦體系跨文化比較 |
 
+| [ela-divine-light-character-gods](ela-divine-light-character-gods.md) | 溫良品格之神與神聖之光：埃拉 (Èlà) 與跨文化善靈比較 |
+
 ---
-*Updated 2026-07-22*
+*Updated 2026-08-01*

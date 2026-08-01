@@ -1737,7 +1737,8 @@
         "Yemaya的海洋王國",
         "Eshu的惡作劇",
         "Orunmila與Ifá占卜的起源",
-        "Ogun打開通往人間的路"
+        "Ogun打開通往人間的路",
+        "埃拉的降臨：溫良品格的起源"
       ],
       "order": 23,
       "timeline": {
@@ -1767,7 +1768,13 @@
           "nubian"
         ]
       },
-      "_stories": 7
+      "_stories": 8,
+      "gods": [
+        "埃拉"
+      ],
+      "comparisons": [
+        "溫良品格之神與神聖之光跨文化比較"
+      ]
     },
     {
       "id": "mongolian",

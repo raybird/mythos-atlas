@@ -19,6 +19,7 @@
 | [iyami-aje](iyami-aje.md) | 眾母之巫 (Ìyámi Aje) — 巫術、命運、財富、女性神秘力量 |
 | [egbe](egbe.md) | 厄格貝 (Egbe / Ẹgbẹ́) — 童年同伴、靈魂雙胞胎、社交紐帶 |
 | [oro](oro.md) | 奧羅 (Oro) — 神聖正義、森林、天譴、社群秩序 |
+| [ela](ela.md) | 埃拉 (Èlà) — 溫良品格、神聖之光、秩序與純潔 |
 
 ---
-*Updated 2026-07-29*
+*Updated 2026-08-01*
