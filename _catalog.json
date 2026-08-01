@@ -2750,7 +2750,8 @@
         "Jinn的誘惑與詩人的靈感",
         "也門水壩崩潰傳說(Marib大壩)",
         "Ad族與Thamud族的毀滅",
-        "Zarqaa al-Yamama女先知"
+        "Zarqaa al-Yamama女先知",
+        "撒立哈的母駝"
       ],
       "order": 36,
       "timeline": {
@@ -2781,7 +2782,13 @@
           "persian"
         ]
       },
-      "_stories": 8
+      "_stories": 8,
+      "gods": [
+        "Manaf"
+      ],
+      "comparisons": [
+        "神聖供養動物跨文化比較"
+      ]
     },
     {
       "id": "maori",
