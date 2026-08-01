@@ -96,15 +96,15 @@ mythos-atlas/
 
 ## 📊 當前狀態
 
-> 自動更新於 2026-08-01 10:41 UTC
+> 自動更新於 2026-08-01 12:39 UTC
 
 | 類別 | 進度 |
 |------|------|
 | 文化體系 | 44/44 |
 | 跨文化主題 | 27/27 |
-| 分析文章 | 380 |
+| 分析文章 | 381 |
 | 已充實文化 | 44/44 |
-| 總頁面數 | 2700 |
+| 總頁面數 | 2703 |
 | 總執行次數 | 60 |
 
 <!-- STATS_END -->
@@ -166,7 +166,7 @@ mythos-atlas/
 
 ## 📝 分析文章
 
-> 跨文化比較神話學分析文章。共 379 篇。
+> 跨文化比較神話學分析文章。共 381 篇。
 
 - [Octopus Cephalopod Myths Comparative](analyses/octopus-cephalopod-myths-comparative.md)
 - [Vulture Myths Comparative](analyses/vulture-myths-comparative.md)
@@ -457,6 +457,7 @@ mythos-atlas/
 - [Dove Pigeon Myths Comparative](analyses/dove-pigeon-myths-comparative.md)
 - [Dolphins World Mythology Comparative](analyses/dolphins-world-mythology-comparative.md)
 - [Dogs Wolves Mythology](analyses/dogs-wolves-mythology.md)
+- [Donkey Myths Comparative](analyses/donkey-myths-comparative.md)
 - [Divine Weapons Armaments Comparative](analyses/divine-weapons-armaments-comparative.md)
 - [Divine Wager Cosmic Bet Comparative](analyses/divine-wager-cosmic-bet-comparative.md)
 - [Divine Twins Comparative](analyses/divine-twins-comparative.md)
@@ -486,6 +487,7 @@ mythos-atlas/
 - [Crown Diadem Myths](analyses/crown-diadem-myths.md)
 - [Crossroads Sacred Space Comparative](analyses/crossroads-sacred-space-comparative.md)
 - [Crocodile Myths Comparative](analyses/crocodile-myths-comparative.md)
+- [Cricket Myths Comparative](analyses/cricket-myths-comparative.md)
 - [Creative Word Logos Comparative](analyses/creative-word-logos-comparative.md)
 - [Creation Of Humans](analyses/creation-of-humans.md)
 - [Crane Heron Stork Myths Comparative](analyses/crane-heron-stork-myths-comparative.md)
