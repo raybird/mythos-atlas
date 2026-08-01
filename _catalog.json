@@ -3009,7 +3009,8 @@
         "Anacharsis的悲劇",
         "Scyles的狄奧尼索斯崇拜衝突",
         "帕茲里克冰凍公主",
-        "Ares聖劍的祭祀儀式"
+        "Ares聖劍的祭祀儀式",
+        "托米麗司與居魯士：血囊之誓"
       ],
       "order": 38,
       "timeline": {
@@ -3041,7 +3042,13 @@
           "slavic"
         ]
       },
-      "_stories": 8
+      "_stories": 8,
+      "gods": [
+        "Heracles Scythicus"
+      ],
+      "comparisons": [
+        "殺死君王的女性跨文化比較"
+      ]
     },
     {
       "id": "minoan",
