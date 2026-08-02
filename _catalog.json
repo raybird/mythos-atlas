@@ -3168,7 +3168,13 @@
      "greek"
     ]
    },
-   "_stories": 10
+   "_stories": 10,
+   "gods": [
+    "阿斯特里翁"
+   ],
+   "comparisons": [
+    "王者與工匠的謎題競技跨文化比較"
+   ]
   },
   {
    "id": "nubian",
