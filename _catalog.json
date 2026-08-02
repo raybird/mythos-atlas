@@ -2689,10 +2689,14 @@
     ]
    },
    "gods": [
-    "Sânziana"
+    "Sânziana",
+    "Iele"
    ],
    "_gods": 1,
-   "_stories": 7
+   "_stories": 7,
+   "comparisons": [
+    "狂舞女靈跨文化比較"
+   ]
   },
   {
    "id": "roman",
