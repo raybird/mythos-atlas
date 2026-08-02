@@ -96,15 +96,15 @@ mythos-atlas/
 
 ## 📊 當前狀態
 
-> 自動更新於 2026-08-01 18:36 UTC
+> 自動更新於 2026-08-02 00:45 UTC
 
 | 類別 | 進度 |
 |------|------|
 | 文化體系 | 44/44 |
 | 跨文化主題 | 27/27 |
-| 分析文章 | 383 |
+| 分析文章 | 386 |
 | 已充實文化 | 44/44 |
-| 總頁面數 | 2718 |
+| 總頁面數 | 2721 |
 | 總執行次數 | 62 |
 
 <!-- STATS_END -->
@@ -346,7 +346,9 @@ mythos-atlas/
 - [Peacock Myths Comparative](analyses/peacock-myths-comparative.md)
 - [Owl Myths Comparative](analyses/owl-myths-comparative.md)
 - [Ouroboros Eternal Return](analyses/ouroboros-eternal-return.md)
+- [Otter Myths Comparative](analyses/otter-myths-comparative.md)
 - [Orphan Exposed Hero Comparative](analyses/orphan-exposed-hero-comparative.md)
+- [Orion Constellation Myths Comparative](analyses/orion-constellation-myths-comparative.md)
 - [Origin Of Writing Myths](analyses/origin-of-writing-myths.md)
 - [Origin Of Death](analyses/origin-of-death.md)
 - [Oracle Prophecy Divination Myths](analyses/oracle-prophecy-divination-myths.md)
@@ -456,6 +458,7 @@ mythos-atlas/
 - [Dream Mythology Comparative](analyses/dream-mythology-comparative.md)
 - [Dream Incubation Sacred Sleep](analyses/dream-incubation-sacred-sleep.md)
 - [Dragons And Serpents Global](analyses/dragons-and-serpents-global.md)
+- [Dragonfly Myths Comparative](analyses/dragonfly-myths-comparative.md)
 - [Dove Pigeon Myths Comparative](analyses/dove-pigeon-myths-comparative.md)
 - [Dolphins World Mythology Comparative](analyses/dolphins-world-mythology-comparative.md)
 - [Dogs Wolves Mythology](analyses/dogs-wolves-mythology.md)
