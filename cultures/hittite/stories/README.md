@@ -12,6 +12,9 @@
 | [kingship-in-heaven](kingship-in-heaven.md) | 天廷王權（Kingship in Heaven） |
 | [song-of-emergence](song-of-emergence.md) | 出現之歌（Song of Emergence） |
 | [ship-of-silver](ship-of-silver.md) | 白銀之船（The Ship of Silver） |
+| [nerik-storm-god-disappearance](nerik-storm-god-disappearance.md) | 奈里克風暴神的失蹤（The Disappearance of the Storm God of Nerik） |
+| [song-of-release](song-of-release.md) | 釋放之歌（The Song of Release） |
+| [tale-of-zalpa](tale-of-zalpa.md) | 札爾帕的故事（The Tale of Zalpa） |
 
 ---
-*Updated 2026-07-26*
+*Updated 2026-08-02*
