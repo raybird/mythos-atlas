@@ -52,6 +52,7 @@
 - [Lost Continents Comparative](lost-continents-comparative.md)
 - [Lunar Calendars In Myth](lunar-calendars-in-myth.md)
 - [Maize Myths Comparative](maize-myths-comparative.md)
+- [Mantis Praying Insect Myths Comparative](mantis-praying-insect-myths-comparative.md)
 - [Mermaid Aquatic Humanoids](mermaid-aquatic-humanoids.md)
 - [Metamorphosis Shapeshifting](metamorphosis-shapeshifting.md)
 - [Miraculous Birth Virgin Conception](miraculous-birth-virgin-conception.md)

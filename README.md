@@ -96,13 +96,13 @@ mythos-atlas/
 
 ## 📊 當前狀態
 
-> 自動更新於 2026-08-02 00:45 UTC
+> 自動更新於 2026-08-02 00:49 UTC
 
 | 類別 | 進度 |
 |------|------|
 | 文化體系 | 44/44 |
 | 跨文化主題 | 27/27 |
-| 分析文章 | 386 |
+| 分析文章 | 387 |
 | 已充實文化 | 44/44 |
 | 總頁面數 | 2721 |
 | 總執行次數 | 62 |
@@ -379,6 +379,7 @@ mythos-atlas/
 - [Master Of Animals Comparative](analyses/master-of-animals-comparative.md)
 - [Mana Supernatural Power Comparative](analyses/mana-supernatural-power-comparative.md)
 - [Maize Myths Comparative](analyses/maize-myths-comparative.md)
+- [Mantis Praying Insect Myths Comparative](analyses/mantis-praying-insect-myths-comparative.md)
 - [Magnetic Pole Shift Comparative](analyses/magnetic-pole-shift-comparative.md)
 - [Magic Witchcraft Comparative](analyses/magic-witchcraft-comparative.md)
 - [Magic Flight Obstacle Pursuit Comparative](analyses/magic-flight-obstacle-pursuit-comparative.md)
