@@ -2193,7 +2193,14 @@
           "finno-ugric"
         ]
       },
-      "_stories": 6
+      "_stories": 6,
+      "gods": [
+        "奧絲泰亞",
+        "瓦卡琳涅"
+      ],
+      "comparisons": [
+        "晨星與暮星雙星之神跨文化比較"
+      ]
     },
     {
       "id": "vietnamese",

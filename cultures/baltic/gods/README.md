@@ -1,15 +1,27 @@
 # 波羅的神話 — 神祇
 
+
 | 檔案 | 名稱 |
 |------|------|
+| [Austēja](Austēja.md) | Austēja |
+| [Aušrinė](Aušrinė.md) | Aušrinė |
+| [Ašvieniai](Ašvieniai.md) | Ašvieniai |
 | [Dievas](Dievas.md) | Dievas |
+| [Gabija](Gabija.md) | Gabija |
+| [Jumis](Jumis.md) | Jumis |
+| [Jūras-māte](Jūras-māte.md) | Jūras-māte |
 | [Laima](Laima.md) | Laima |
+| [Laumė](Laumė.md) | Laumė |
+| [Medeina](Medeina.md) | Medeina |
+| [Māra](Māra.md) | Māra |
 | [Mēness](Mēness.md) | Mēness |
 | [Perkūnas](Perkūnas.md) | Perkūnas |
 | [Saulė](Saulė.md) | Saulė |
+| [Teperūbas](Teperūbas.md) | Teperūbas |
+| [Vakarinė](Vakarinė.md) | Vakarinė |
+| [Velnias](Velnias.md) | Velnias |
 | [Žemyna](Žemyna.md) | Žemyna |
-| [Ašvieniai](Ašvieniai.md) | Ašvieniai（神馬雙子） |
-| [Aušrinė](Aušrinė.md) | Aušrinė（晨星女神） |
+| [奧什琳涅](奧什琳涅.md) | 奧什琳涅 |
 
 ---
-*Updated 2026-07-12*
+*Auto-generated on 2026-08-02 02:15 UTC*
