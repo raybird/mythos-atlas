@@ -1,16 +1,27 @@
 # 芬蘭-烏戈爾神話 — 神祇
 
+
 | 檔案 | 名稱 |
 |------|------|
+| [Ahti](Ahti.md) | Ahti |
 | [Akka](Akka.md) | Akka |
+| [Hiisi](Hiisi.md) | Hiisi |
 | [Ilmatar](Ilmatar.md) | Ilmatar |
+| [Joukahainen](Joukahainen.md) | Joukahainen |
+| [Kuu](Kuu.md) | Kuu |
 | [Lemminkäinen](Lemminkäinen.md) | Lemminkäinen |
 | [Louhi](Louhi.md) | Louhi |
+| [Mielikki](Mielikki.md) | Mielikki |
+| [Otava](Otava.md) | Otava |
+| [PellonPekko](PellonPekko.md) | PellonPekko |
+| [Päivätär](Päivätär.md) | Päivätär |
 | [SeppoIlmarinen](SeppoIlmarinen.md) | SeppoIlmarinen |
+| [Surma](Surma.md) | Surma |
+| [Tapio](Tapio.md) | Tapio |
 | [Tuoni](Tuoni.md) | Tuoni |
 | [Ukko](Ukko.md) | Ukko |
-| [Väinämöinen](Väinämöinen.md) | Väinämöinen |
 | [Vellamo](Vellamo.md) | Vellamo |
+| [Väinämöinen](Väinämöinen.md) | Väinämöinen |
 
 ---
-*Auto-generated on 2026-06-26 02:07 UTC*
+*Auto-generated on 2026-08-02 02:20 UTC*
