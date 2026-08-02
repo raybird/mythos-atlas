@@ -96,13 +96,13 @@ mythos-atlas/
 
 ## 📊 當前狀態
 
-> 自動更新於 2026-08-02 02:21 UTC
+> 自動更新於 2026-08-02 06:35 UTC
 
 | 類別 | 進度 |
 |------|------|
 | 文化體系 | 44/44 |
 | 跨文化主題 | 27/27 |
-| 分析文章 | 387 |
+| 分析文章 | 388 |
 | 已充實文化 | 44/44 |
 | 總頁面數 | 2732 |
 | 總執行次數 | 62 |
@@ -166,8 +166,9 @@ mythos-atlas/
 
 ## 📝 分析文章
 
-> 跨文化比較神話學分析文章。共 381 篇。
+> 跨文化比較神話學分析文章。共 382 篇。
 
+- [天極之輪：北斗七星（大熊座）跨文化神話比較](analyses/big-dipper-constellation-myths-comparative.md)
 - [Octopus Cephalopod Myths Comparative](analyses/octopus-cephalopod-myths-comparative.md)
 - [Vulture Myths Comparative](analyses/vulture-myths-comparative.md)
 - [Echo Myths Comparative](analyses/echo-myths-comparative.md)
