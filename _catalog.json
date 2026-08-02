@@ -1628,7 +1628,14 @@
           "pre-islamic-arabian"
         ]
       },
-      "_stories": 5
+      "_stories": 5,
+      "gods": [
+        "荷龍",
+        "阿西拉特"
+      ],
+      "comparisons": [
+        "屠龍英雄跨文化比較"
+      ]
     },
     {
       "id": "hittite",
