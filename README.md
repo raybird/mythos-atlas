@@ -166,8 +166,9 @@ mythos-atlas/
 
 ## 📝 分析文章
 
-> 跨文化比較神話學分析文章。共 390 篇。
+> 跨文化比較神話學分析文章。共 391 篇。
 
+- [蛻殼與長鳴：蟬神話跨文化比較](analyses/cicada-myths-comparative.md)
 - [橫行之甲：螃蟹神話跨文化比較](analyses/crab-myths-comparative.md)
 - [天極之輪：北斗七星（大熊座）跨文化神話比較](analyses/big-dipper-constellation-myths-comparative.md)
 - [Octopus Cephalopod Myths Comparative](analyses/octopus-cephalopod-myths-comparative.md)
