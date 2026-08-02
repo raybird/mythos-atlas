@@ -4,13 +4,22 @@
 |------|------|
 | [Anhanga](Anhanga.md) | Anhanga |
 | [Boitata](Boitata.md) | Boitata |
+| [Caipora](Caipora.md) | Caipora |
+| [Ceuci](Ceuci.md) | Ceuci |
 | [Curupira-Saci](Curupira-Saci.md) | Curupira-Saci |
 | [Jaci-Guaraci](Jaci-Guaraci.md) | Jaci-Guaraci |
-| [Nhanderuvucu](Nhanderuvucu.md) | Nhanderuvucu |
-| [Tupa](Tupa.md) | Tupa |
-| [Yara](Yara.md) | Yara |
+| [Jurupari](Jurupari.md) | Jurupari |
 | [Karai](Karai.md) | Karai |
-| [Jurupari](Jurupari.md) | 尤魯帕里 (Jurupari) |
+| [Kurupi](Kurupi.md) | Kurupi |
+| [Mair](Mair.md) | Mair |
+| [Monan](Monan.md) | Monan |
+| [Nhanderuvucu](Nhanderuvucu.md) | Nhanderuvucu |
+| [Pajé](Pajé.md) | Pajé |
+| [Ruda](Ruda.md) | Ruda |
+| [Sumé](Sumé.md) | Sumé |
+| [Tupa](Tupa.md) | Tupa |
+| [Tupajara](Tupajara.md) | Tupajara |
+| [Yara](Yara.md) | Yara |
 
 ---
-*Auto-generated on 2026-06-26 02:07 UTC*
+*Auto-generated on 2026-08-02 14:05 UTC*
