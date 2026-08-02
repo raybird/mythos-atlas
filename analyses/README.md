@@ -72,6 +72,7 @@
 - [Psychopomp Comparative](psychopomp-comparative.md)
 - [Psychostasia Judgment Of The Dead](psychostasia-judgment-of-the-dead.md)
 - [Rainbow Myths](rainbow-myths.md)
+- [Rat Mouse Myths Comparative](rat-mouse-myths-comparative.md)
 - [Ravens Crows Mythology](ravens-crows-mythology.md)
 - [Reincarnation Metempsychosis](reincarnation-metempsychosis.md)
 - [Rice Myths Comparative](rice-myths-comparative.md)

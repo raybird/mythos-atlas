@@ -96,13 +96,13 @@ mythos-atlas/
 
 ## 📊 當前狀態
 
-> 自動更新於 2026-08-02 06:35 UTC
+> 自動更新於 2026-08-02 06:40 UTC
 
 | 類別 | 進度 |
 |------|------|
 | 文化體系 | 44/44 |
 | 跨文化主題 | 27/27 |
-| 分析文章 | 388 |
+| 分析文章 | 389 |
 | 已充實文化 | 44/44 |
 | 總頁面數 | 2732 |
 | 總執行次數 | 62 |
@@ -328,6 +328,7 @@ mythos-atlas/
 - [Rainbow Myths](analyses/rainbow-myths.md)
 - [Rain Gods Rainmaking Comparative](analyses/rain-gods-rainmaking-comparative.md)
 - [Rabbit Hare Myths Comparative](analyses/rabbit-hare-myths-comparative.md)
+- [Rat Mouse Myths Comparative](analyses/rat-mouse-myths-comparative.md)
 - [Quest For Lost Wife Comparative](analyses/quest-for-lost-wife-comparative.md)
 - [Quest For Immortality Comparative](analyses/quest-for-immortality-comparative.md)
 - [Purification Rites Comparative](analyses/purification-rites-comparative.md)
