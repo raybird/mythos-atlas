@@ -58,7 +58,8 @@
     "sumerian",
     "tibetan",
     "mayan",
-    "yoruba"
+    "yoruba",
+    "greek"
   ],
   "analysis_log": [
     "sacrificial-creation",
@@ -92,5 +93,5 @@
     "triune-deities-comparative",
     "divine-chariots-solar-vehicles-comparative"
   ],
-  "runs": 62
+  "runs": 63
 }
