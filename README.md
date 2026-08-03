@@ -96,13 +96,13 @@ mythos-atlas/
 
 ## 📊 當前狀態
 
-> 自動更新於 2026-08-03 12:36 UTC
+> 自動更新於 2026-08-03 12:43 UTC
 
 | 類別 | 進度 |
 |------|------|
 | 文化體系 | 44/44 |
 | 跨文化主題 | 27/27 |
-| 分析文章 | 394 |
+| 分析文章 | 395 |
 | 已充實文化 | 44/44 |
 | 總頁面數 | 2786 |
 | 總執行次數 | 68 |
@@ -166,8 +166,10 @@ mythos-atlas/
 
 ## 📝 分析文章
 
-> 跨文化比較神話學分析文章。共 394 篇。
+> 跨文化比較神話學分析文章。共 395 篇。
 
+- [依依垂枝，仙凡之木：柳樹神話跨文化比較](analyses/willow-mythology-comparative.md)
+- [推著太陽的蟲：糞金龜與聖甲蟲神話跨文化比較](analyses/scarab-dung-beetle-myths-comparative.md)
 - [雷鳴之鳥與樹木之言：啄木鳥神話跨文化比較](analyses/woodpecker-myths-comparative.md)
 - [飛越眾神與人間：鵝與大雁神話跨文化比較](analyses/goose-myths-comparative.md)
 - [蛻殼與長鳴：蟬神話跨文化比較](analyses/cicada-myths-comparative.md)
