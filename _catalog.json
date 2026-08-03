@@ -2599,7 +2599,8 @@
     "Soslan與戰士之死",
     "Nart大洪水",
     "蛇戰傳說",
-    "阿特薩馬茲的魔笛"
+    "阿特薩馬茲的魔笛",
+    "Khamyts與青蛙新娘"
    ],
    "order": 33,
    "timeline": {
@@ -2630,12 +2631,14 @@
      "greek"
     ]
    },
-   "_stories": 7,
+   "_stories": 9,
    "gods": [
-    "Uryzmag"
+    "Uryzmag",
+    "Khamyts"
    ],
    "comparisons": [
-    "音樂英雄跨文化比較"
+    "音樂英雄跨文化比較",
+    "動物新娘母題跨文化比較"
    ]
   },
   {
