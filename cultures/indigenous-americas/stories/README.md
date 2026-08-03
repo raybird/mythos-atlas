@@ -11,6 +11,8 @@
 | [雙子英雄](雙子英雄.md) | 雙子英雄 |
 | [monster-slayer-and-born-for-water](monster-slayer-and-born-for-water.md) | monster-slayer-and-born-for-water |
 | [hopi-four-worlds-emergence](hopi-four-worlds-emergence.md) | 霍皮四個世界的湧現 |
+| [sedna-ocean-mother](sedna-ocean-mother.md) | 塞德娜的手指——海洋動物的起源 |
+| [iktomi-and-the-boulder](iktomi-and-the-boulder.md) | 伊克托米與巨石 |
 
 ---
-*Auto-generated on 2026-06-26 02:07 UTC*
+*Auto-generated on 2026-08-03 16:30 UTC*

@@ -67,7 +67,8 @@
   "hindu",
   "roman",
   "philippine",
-  "siberian"
+  "siberian",
+  "indigenous-americas"
  ],
  "analysis_log": [
   "sacrificial-creation",
@@ -101,5 +102,5 @@
   "triune-deities-comparative",
   "divine-chariots-solar-vehicles-comparative"
  ],
- "runs": 71
+ "runs": 72
 }

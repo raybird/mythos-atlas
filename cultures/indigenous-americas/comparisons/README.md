@@ -9,6 +9,8 @@
 | [navajo-dine-southwest-creation-comparative](navajo-dine-southwest-creation-comparative.md) | navajo-dine-southwest-creation-comparative |
 | [sacred-pipe-cross-cultural](sacred-pipe-cross-cultural.md) | 神聖煙斗跨文化比較 |
 | [peacemaker-founding-myths-comparative](peacemaker-founding-myths-comparative.md) | 和平締造者與建國神話跨文化比較 |
+| [horned-serpent-cross-cultural](horned-serpent-cross-cultural.md) | 有角蛇神跨文化比較 |
+| [ocean-mother-goddesses-comparative](ocean-mother-goddesses-comparative.md) | 海洋之母跨文化比較 |
 
 ---
-*Auto-generated on 2026-06-26 02:07 UTC*
+*Auto-generated on 2026-08-03 16:30 UTC*
