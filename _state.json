@@ -65,7 +65,8 @@
   "ainu",
   "caucasian",
   "hindu",
-  "roman"
+  "roman",
+  "philippine"
  ],
  "analysis_log": [
   "sacrificial-creation",
@@ -99,5 +100,5 @@
   "triune-deities-comparative",
   "divine-chariots-solar-vehicles-comparative"
  ],
- "runs": 69
+ "runs": 70
 }

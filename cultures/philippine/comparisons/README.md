@@ -6,6 +6,7 @@
 | [bamboo-birth-comparison](bamboo-birth-comparison.md) | bamboo-birth-comparison |
 | [月食神話的跨文化比較](月食神話的跨文化比較.md) | 月食神話的跨文化比較 |
 | [竹生人神話的跨文化比較](竹生人神話的跨文化比較.md) | 竹生人神話的跨文化比較 |
+| [soul-ferry-psychopomp](soul-ferry-psychopomp.md) | 靈魂渡者：跨文化冥河擺渡比較 |
 
 ---
-*Auto-generated on 2026-06-26 02:07 UTC*
+*Auto-generated on 2026-08-03 14:11 UTC*

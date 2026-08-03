@@ -2522,7 +2522,8 @@
     "Mariang Makiling山靈傳說",
     "Aswang之夜",
     "Sarimanok神鳥傳說",
-    "藍昂的一生"
+    "藍昂的一生",
+    "伊巴隆史詩:Handiong與蛇女Oryol"
    ],
    "order": 32,
    "timeline": {
@@ -2547,12 +2548,14 @@
      "indigenous-americas"
     ]
    },
-   "_stories": 6,
+   "_stories": 7,
    "gods": [
-    "Mapulon"
+    "Mapulon",
+    "麥圭延"
    ],
    "comparisons": [
-    "東南亞英雄史詩比較"
+    "東南亞英雄史詩比較",
+    "靈魂渡者跨文化比較"
    ]
   },
   {

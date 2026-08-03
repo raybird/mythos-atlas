@@ -9,6 +9,7 @@
 | [MalakasMaganda](MalakasMaganda.md) | MalakasMaganda |
 | [Mayari](Mayari.md) | Mayari |
 | [Sidapa](Sidapa.md) | Sidapa |
+| [Magwayen](Magwayen.md) | Magwayen（麥圭延） |
 
 ---
-*Auto-generated on 2026-06-26 02:07 UTC*
+*Auto-generated on 2026-08-03 14:11 UTC*
