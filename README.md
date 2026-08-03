@@ -96,13 +96,13 @@ mythos-atlas/
 
 ## 📊 當前狀態
 
-> 自動更新於 2026-08-03 18:46 UTC
+> 自動更新於 2026-08-03 18:49 UTC
 
 | 類別 | 進度 |
 |------|------|
 | 文化體系 | 44/44 |
 | 跨文化主題 | 27/27 |
-| 分析文章 | 397 |
+| 分析文章 | 398 |
 | 已充實文化 | 44/44 |
 | 總頁面數 | 2812 |
 | 總執行次數 | 74 |
@@ -166,8 +166,9 @@ mythos-atlas/
 
 ## 📝 分析文章
 
-> 跨文化比較神話學分析文章。共 397 篇。
+> 跨文化比較神話學分析文章。共 398 篇。
 
+- [文明之樹：橄欖樹神話跨文化比較](analyses/olive-tree-myths-comparative.md)
 - [黑白雙面的報喜之鳥：喜鵲神話跨文化比較](analyses/magpie-myths-comparative.md)
 - [螺音迴盪山海：海螺與子安貝神話跨文化比較](analyses/conch-cowrie-shell-myths-comparative.md)
 - [依依垂枝，仙凡之木：柳樹神話跨文化比較](analyses/willow-mythology-comparative.md)
