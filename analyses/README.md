@@ -2,6 +2,7 @@
 
 > 跨文化比較神話學分析文章，探討各文明之間的深層連結。
 
+- [雷鳴之鳥與樹木之言：啄木鳥神話跨文化比較](woodpecker-myths-comparative.md)
 - [The Sacred Goose: Cross-Cultural Study of Goose and Wild Goose Mythology](goose-myths-comparative.md)
 - [Agriculture Origin Myths](agriculture-origin-myths.md)
 - [Ancestor Worship Comparative](ancestor-worship-comparative.md)
