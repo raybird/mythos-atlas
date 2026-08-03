@@ -2,6 +2,7 @@
 
 > 跨文化比較神話學分析文章，探討各文明之間的深層連結。
 
+- [黑白雙面的報喜之鳥：喜鵲神話跨文化比較](magpie-myths-comparative.md)
 - [螺音迴盪山海：海螺與子安貝神話跨文化比較](conch-cowrie-shell-myths-comparative.md)
 - [依依垂枝，仙凡之木：柳樹神話跨文化比較](willow-mythology-comparative.md)
 - [推著太陽的蟲：糞金龜與聖甲蟲神話跨文化比較](scarab-dung-beetle-myths-comparative.md)
