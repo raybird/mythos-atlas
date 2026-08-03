@@ -61,7 +61,8 @@
   "yoruba",
   "greek",
   "korean",
-  "egyptian"
+  "egyptian",
+  "ainu"
  ],
  "analysis_log": [
   "sacrificial-creation",
@@ -95,5 +96,5 @@
   "triune-deities-comparative",
   "divine-chariots-solar-vehicles-comparative"
  ],
- "runs": 65
+ "runs": 66
 }

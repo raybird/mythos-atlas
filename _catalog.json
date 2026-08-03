@@ -1947,7 +1947,8 @@
     "Okikurumi英雄傳說",
     "狐狸娶親",
     "貓頭鷹與人類的約定",
-    "火女神的契約：家竈之火的規則"
+    "火女神的契約：家竈之火的規則",
+    "蜘蛛女神與邪魔求婚者"
    ],
    "order": 25,
    "timeline": {
@@ -1977,9 +1978,13 @@
      "ainu"
     ]
    },
-   "_stories": 6,
+   "_stories": 8,
    "gods": [
-    "Okikurmi"
+    "Okikurmi",
+    "Yushkep-kamuy"
+   ],
+   "comparisons": [
+    "蜘蛛女神跨文化比較"
    ]
   },
   {
