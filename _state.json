@@ -63,7 +63,8 @@
   "korean",
   "egyptian",
   "ainu",
-  "caucasian"
+  "caucasian",
+  "hindu"
  ],
  "analysis_log": [
   "sacrificial-creation",
@@ -97,5 +98,5 @@
   "triune-deities-comparative",
   "divine-chariots-solar-vehicles-comparative"
  ],
- "runs": 67
+ "runs": 68
 }
