@@ -96,15 +96,15 @@ mythos-atlas/
 
 ## 📊 當前狀態
 
-> 自動更新於 2026-08-02 14:14 UTC
+> 自動更新於 2026-08-03 11:30 UTC
 
 | 類別 | 進度 |
 |------|------|
 | 文化體系 | 44/44 |
 | 跨文化主題 | 27/27 |
-| 分析文章 | 392 |
+| 分析文章 | 393 |
 | 已充實文化 | 44/44 |
-| 總頁面數 | 2765 |
+| 總頁面數 | 2768 |
 | 總執行次數 | 62 |
 
 <!-- STATS_END -->
@@ -122,7 +122,7 @@ mythos-atlas/
 | [北歐神話](cultures/norse/) | 北歐—日耳曼 | 10 | 8 | 6 |
 | [印度神話](cultures/hindu/) | 南亞—印度河流域 | 11 | 8 | 7 |
 | [馬雅神話](cultures/mayan/) | 中美洲 | 21 | 16 | 14 |
-| [日本神話](cultures/japanese/) | 東亞—日本列島 | 10 | 7 | 5 |
+| [日本神話](cultures/japanese/) | 東亞—日本列島 | 20 | 17 | 15 |
 | [波利尼西亞神話](cultures/polynesian/) | 太平洋島嶼 | 11 | 8 | 8 |
 | [澳洲原住民神話](cultures/aboriginal/) | 大洋洲—澳洲 | 10 | 8 | 6 |
 | [非洲諸神話](cultures/african/) | 撒哈拉以南非洲 | 19 | 16 | 14 |
@@ -166,8 +166,9 @@ mythos-atlas/
 
 ## 📝 分析文章
 
-> 跨文化比較神話學分析文章。共 391 篇。
+> 跨文化比較神話學分析文章。共 392 篇。
 
+- [飛越眾神與人間：鵝與大雁神話跨文化比較](analyses/goose-myths-comparative.md)
 - [蛻殼與長鳴：蟬神話跨文化比較](analyses/cicada-myths-comparative.md)
 - [橫行之甲：螃蟹神話跨文化比較](analyses/crab-myths-comparative.md)
 - [天極之輪：北斗七星（大熊座）跨文化神話比較](analyses/big-dipper-constellation-myths-comparative.md)

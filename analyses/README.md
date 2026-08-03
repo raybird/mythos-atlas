@@ -2,6 +2,7 @@
 
 > 跨文化比較神話學分析文章，探討各文明之間的深層連結。
 
+- [The Sacred Goose: Cross-Cultural Study of Goose and Wild Goose Mythology](goose-myths-comparative.md)
 - [Agriculture Origin Myths](agriculture-origin-myths.md)
 - [Ancestor Worship Comparative](ancestor-worship-comparative.md)
 - [Animal Symbolism](animal-symbolism.md)
@@ -126,4 +127,4 @@
 - [Sacred Sexuality & Divine Erotic Mysticism Comparative](sacred-sexuality-divine-eroticism-comparative.md)
 
 ---
-*Last updated 2026-07-26*
+*Last updated 2026-08-03*
