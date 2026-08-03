@@ -2,6 +2,7 @@
 
 | 檔案 | 名稱 |
 |------|------|
+| [capitoline-geese](capitoline-geese.md) | 卡庇托利聖鵝 |
 | [Aeneas-journey](Aeneas-journey.md) | Aeneas-journey |
 | [Romulus-and-Remus](Romulus-and-Remus.md) | Romulus-and-Remus |
 | [Sabine-women](Sabine-women.md) | Sabine-women |

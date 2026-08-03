@@ -2,6 +2,7 @@
 
 | 檔案 | 名稱 |
 |------|------|
+| [Terminus](Terminus.md) | 特米努斯（Terminus） |
 | [Janus](Janus.md) | Janus |
 | [Juno](Juno.md) | Juno |
 | [Jupiter](Jupiter.md) | Jupiter |
