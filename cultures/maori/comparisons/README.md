@@ -9,13 +9,16 @@
 | [maui-across-polynesia](maui-across-polynesia.md) | maui-across-polynesia |
 | [ocean-deities-global](ocean-deities-global.md) | ocean-deities-global |
 | [rainbow-deities-comparison](rainbow-deities-comparison.md) | rainbow-deities-comparison |
+| [sacred-tree-felling-taboos-comparative](sacred-tree-felling-taboos-comparative.md) | 神聖之樹與砍伐禁忌跨文化比較 |
 | [sea-maiden-water-spirits-comparative](sea-maiden-water-spirits-comparative.md) | sea-maiden-water-spirits-comparative |
+| [shark-deities-comparative](shark-deities-comparative.md) | 鯊魚神祇跨文化比較 |
 | [trickster-heroes-comparison](trickster-heroes-comparison.md) | trickster-heroes-comparison |
 | [underworld-journeys-comparison](underworld-journeys-comparison.md) | underworld-journeys-comparison |
+| [weaving-goddesses-comparative](weaving-goddesses-comparative.md) | 紡織與工藝女神跨文化比較 |
 | [人類起源神話跨文化比較](人類起源神話跨文化比較.md) | 人類起源神話跨文化比較 |
 | [天地分離神話跨文化比較](天地分離神話跨文化比較.md) | 天地分離神話跨文化比較 |
 | [神鯨跨文化比較](神鯨跨文化比較.md) | 神鯨跨文化比較 |
 | [風暴雷神跨文化比較](風暴雷神跨文化比較.md) | 風暴雷神跨文化比較 |
 
 ---
-*Auto-generated on 2026-06-26 02:07 UTC*
+*Auto-generated on 2026-08-03 17:05 UTC*

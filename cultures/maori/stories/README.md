@@ -13,10 +13,12 @@
 | [maui-slows-sun](maui-slows-sun.md) | maui-slows-sun |
 | [maui-steals-fire-full](maui-steals-fire-full.md) | maui-steals-fire-full |
 | [maui-steals-fire](maui-steals-fire.md) | maui-steals-fire |
+| [ngatoroirangi-fire](ngatoroirangi-fire.md) | Ngātoroirangi 與來自 Hawaiki 的火 |
+| [rata-and-the-great-canoe](rata-and-the-great-canoe.md) | Rātā 與巨舟 |
 | [rona-moon](rona-moon.md) | rona-moon |
 | [tane-retrieves-knowledge](tane-retrieves-knowledge.md) | tane-retrieves-knowledge |
 | [tawhirimaea-aftermath](tawhirimaea-aftermath.md) | tawhirimaea-aftermath |
 | [te-kore-te-po-te-ao](te-kore-te-po-te-ao.md) | te-kore-te-po-te-ao |
 
 ---
-*Auto-generated on 2026-06-26 02:07 UTC*
+*Auto-generated on 2026-08-03 17:05 UTC*

@@ -2999,7 +2999,9 @@
     "Matawhero與Tinirau的鯨魚傳說",
     "Hine-ahu-one的創造",
     "Hatupatu與鳥女",
-    "潘妮亞與暗礁"
+    "潘妮亞與暗礁",
+    "Rātā 與巨舟",
+    "Ngātoroirangi 與來自 Hawaiki 的火"
    ],
    "order": 37,
    "timeline": {
@@ -3027,12 +3029,17 @@
      "polynesian"
     ]
    },
-   "_stories": 11,
+   "_stories": 13,
    "gods": [
-    "馬胡伊卡"
+    "馬胡伊卡",
+    "Hine-te-iwaiwa",
+    "Punga"
    ],
    "comparisons": [
-    "海洋少女與水岸精靈跨文化比較"
+    "海洋少女與水岸精靈跨文化比較",
+    "紡織與工藝女神跨文化比較",
+    "鯊魚神祇跨文化比較",
+    "神聖之樹與砍伐禁忌跨文化比較"
    ]
   },
   {

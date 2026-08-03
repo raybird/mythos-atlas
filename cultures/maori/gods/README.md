@@ -5,12 +5,14 @@
 | [Haumia-tiketike](Haumia-tiketike.md) | Haumia-tiketike |
 | [Hine-ahu-one](Hine-ahu-one.md) | Hine-ahu-one |
 | [Hine-nui-te-po](Hine-nui-te-po.md) | Hine-nui-te-po |
+| [Hine-te-iwaiwa](Hine-te-iwaiwa.md) | Hine-te-iwaiwa |
 | [Io-matua-kore](Io-matua-kore.md) | Io-matua-kore |
 | [Mahuika](Mahuika.md) | Mahuika |
 | [Maru](Maru.md) | Maru |
 | [Maui](Maui.md) | Maui |
 | [Pakea](Pakea.md) | Pakea |
 | [Papatūānuku](Papatūānuku.md) | Papatūānuku |
+| [Punga](Punga.md) | Punga |
 | [Rangi-Papa](Rangi-Papa.md) | Rangi-Papa |
 | [Rehua](Rehua.md) | Rehua |
 | [Rongo-mā-Tāne](Rongo-mā-Tāne.md) | Rongo-mā-Tāne |
@@ -24,4 +26,4 @@
 | [Whiro](Whiro.md) | Whiro |
 
 ---
-*Auto-generated on 2026-06-26 02:07 UTC*
+*Auto-generated on 2026-08-03 17:05 UTC*
