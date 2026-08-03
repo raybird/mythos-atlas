@@ -2888,7 +2888,8 @@
     "也門水壩崩潰傳說(Marib大壩)",
     "Ad族與Thamud族的毀滅",
     "Zarqaa al-Yamama女先知",
-    "撒立哈的母駝"
+    "撒立哈的母駝",
+    "懺悔青銅板：女僕與天之主"
    ],
    "order": 36,
    "timeline": {
@@ -2919,12 +2920,14 @@
      "persian"
     ]
    },
-   "_stories": 8,
+   "_stories": 10,
    "gods": [
-    "Manaf"
+    "Manaf",
+    "Dhu-Samawi"
    ],
    "comparisons": [
-    "神聖供養動物跨文化比較"
+    "神聖供養動物跨文化比較",
+    "天之主跨文化比較"
    ]
   },
   {

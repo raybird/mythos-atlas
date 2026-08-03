@@ -11,6 +11,7 @@
 | [Manat](Manat.md) | Manat |
 | [Nasr](Nasr.md) | Nasr |
 | [Wadd](Wadd.md) | Wadd |
+| [Dhu-Samawi](Dhu-Samawi.md) | Dhu-Samawi（都·薩馬維） |
 
 ---
-*Auto-generated on 2026-06-26 02:07 UTC*
+*Auto-generated on 2026-08-03 14:45 UTC*
