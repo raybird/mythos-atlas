@@ -334,7 +334,8 @@
     "荷魯斯之眼",
     "巴神廟的創造",
     "拉神的神秘名",
-    "流浪的女神：拉之眼的回歸"
+    "流浪的女神：拉之眼的回歸",
+    "凱普里與太陽的重生"
    ],
    "order": 4,
    "timeline": {
@@ -376,9 +377,10 @@
      "greek"
     ]
    },
-   "_stories": 4,
+   "_stories": 6,
    "gods": [
-    "Bastet"
+    "Bastet",
+    "Khepri"
    ]
   },
   {
@@ -1165,47 +1167,47 @@
    "creation": "混沌中生出Rod(創世神)，Rod生世界、眾神與人類。宇宙由世界樹支撐，樹根通地下世界，樹冠達天國。Belobog(白神)與Chernobog(黑神)共同維持平衡。",
    "flood": "斯拉夫傳說中洪水與龍(Zmei)相關——Perun與Veles的永恆鬥爭引發風暴、降雨與洪水。部分民間傳說保留「上帝以洪水懲罰人類」的後基督教版本。",
    "pantheon": "Perun(雷電)、Veles(冥界/牛)、Svarog(天火)、Dazhbog(太陽)、Stribog(風)、Mokosh(土地)",
-    "stories": [
-     "Perun戰Veles",
-     "Baba Yaga的魔法小屋",
-     "不死者Koschei",
-     "Alkonost與Sirin神鳥",
-     "Kupala Night夏至祭典",
-     "伊凡王子與灰狼",
-     "庫帕拉與科斯特羅馬：溺亡雙生的禁忌之愛"
+   "stories": [
+    "Perun戰Veles",
+    "Baba Yaga的魔法小屋",
+    "不死者Koschei",
+    "Alkonost與Sirin神鳥",
+    "Kupala Night夏至祭典",
+    "伊凡王子與灰狼",
+    "庫帕拉與科斯特羅馬：溺亡雙生的禁忌之愛"
+   ],
+   "order": 15,
+   "timeline": {
+    "precision": "century",
+    "start_year": 400,
+    "end_year": 1200,
+    "periods": [
+     {
+      "name": "早期斯拉夫",
+      "start": 400,
+      "end": 800
+     },
+     {
+      "name": "基輔羅斯",
+      "start": 882,
+      "end": 1200
+     }
     ],
-    "order": 15,
-    "timeline": {
-     "precision": "century",
-     "start_year": 400,
-     "end_year": 1200,
-     "periods": [
-      {
-       "name": "早期斯拉夫",
-       "start": 400,
-       "end": 800
-      },
-      {
-       "name": "基輔羅斯",
-       "start": 882,
-       "end": 1200
-      }
-     ],
-     "overlap_with": [
-      "norse",
-      "finno-ugric",
-      "baltic"
-     ]
-    },
-    "_stories": 7,
-    "gods": [
-     "Radegast",
-     "庫帕拉"
-    ],
-    "comparisons": [
-     "斯拉夫騙徒神祇比較",
-     "孿生兄妹神婚跨文化比較"
+    "overlap_with": [
+     "norse",
+     "finno-ugric",
+     "baltic"
     ]
+   },
+   "_stories": 7,
+   "gods": [
+    "Radegast",
+    "庫帕拉"
+   ],
+   "comparisons": [
+    "斯拉夫騙徒神祇比較",
+    "孿生兄妹神婚跨文化比較"
+   ]
   },
   {
    "id": "persian",
