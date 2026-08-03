@@ -12,6 +12,7 @@
 | [siberian-multiple-suns-comparative](siberian-multiple-suns-comparative.md) | siberian-multiple-suns-comparative |
 | [siberian-sky-gods-comparative](siberian-sky-gods-comparative.md) | siberian-sky-gods-comparative |
 | [shamanic-drum-cross-cultural](shamanic-drum-cross-cultural.md) | 薩滿鼓作為宇宙樂器：跨文化比較 |
+| [地母神話跨文化比較](地母神話跨文化比較.md) | 地母神話跨文化比較 |
 
 ---
-*Updated 2026-07-20*
+*Updated 2026-08-03*

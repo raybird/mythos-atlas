@@ -11,6 +11,7 @@
 | [狐狸欺騙巨靈](狐狸欺騙巨靈.md) | 狐狸欺騙巨靈 |
 | [薩滿入冥界取魂](薩滿入冥界取魂.md) | 薩滿入冥界取魂 |
 | [origin-of-shaman-drum](origin-of-shaman-drum.md) | origin-of-shaman-drum |
+| [地母與古樺樹](地母與古樺樹.md) | 地母與古樺樹 |
 
 ---
-*Auto-generated on 2026-06-26 02:07 UTC*
+*Auto-generated on 2026-08-03 14:30 UTC*

@@ -11,6 +11,7 @@
 | [Umai](Umai.md) | Umai |
 | [Yryn-Ajy](Yryn-Ajy.md) | Yryn-Ajy |
 | [Ajysyt](Ajysyt.md) | Ajysyt |
+| [安·阿拉赫欽·霍屯](安·阿拉赫欽·霍屯.md) | 安·阿拉赫欽·霍屯（Aan Alakhchyn Khotun） |
 
 ---
-*Auto-generated on 2026-06-26 02:07 UTC*
+*Auto-generated on 2026-08-03 14:30 UTC*
