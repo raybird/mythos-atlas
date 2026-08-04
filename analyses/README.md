@@ -2,6 +2,7 @@
 
 > 跨文化比較神話學分析文章，探討各文明之間的深層連結。
 
+- [根在上方的樹：無花果／菩提樹神話跨文化比較](sacred-fig-bodhi-tree-myths-comparative.md)
 - [文明之樹：橄欖樹神話跨文化比較](olive-tree-myths-comparative.md)
 - [黑白雙面的報喜之鳥：喜鵲神話跨文化比較](magpie-myths-comparative.md)
 - [螺音迴盪山海：海螺與子安貝神話跨文化比較](conch-cowrie-shell-myths-comparative.md)
