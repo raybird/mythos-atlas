@@ -96,13 +96,13 @@ mythos-atlas/
 
 ## 📊 當前狀態
 
-> 自動更新於 2026-08-04 00:49 UTC
+> 自動更新於 2026-08-04 00:52 UTC
 
 | 類別 | 進度 |
 |------|------|
 | 文化體系 | 44/44 |
 | 跨文化主題 | 27/27 |
-| 分析文章 | 400 |
+| 分析文章 | 401 |
 | 已充實文化 | 44/44 |
 | 總頁面數 | 2817 |
 | 總執行次數 | 75 |
@@ -166,8 +166,9 @@ mythos-atlas/
 
 ## 📝 分析文章
 
-> 跨文化比較神話學分析文章。共 400 篇。
+> 跨文化比較神話學分析文章。共 401 篇。
 
+- [常青之永恆：松樹與松果神話跨文化比較](analyses/pine-tree-cone-myths-comparative.md)
 - [雷霆之樹：橡樹／聖櫟神話跨文化比較](analyses/oak-tree-myths-comparative.md)
 - [根在上方的樹：無花果／菩提樹神話跨文化比較](analyses/sacred-fig-bodhi-tree-myths-comparative.md)
 - [文明之樹：橄欖樹神話跨文化比較](analyses/olive-tree-myths-comparative.md)
