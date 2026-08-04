@@ -2,6 +2,7 @@
 
 > 跨文化比較神話學分析文章，探討各文明之間的深層連結。
 
+- [變色龍：遲到的永生信使——死亡起源與變形母題的跨文化比較分析](chameleon-myths-comparative.md)
 - [常青之永恆：松樹與松果神話跨文化比較](pine-tree-cone-myths-comparative.md)
 - [雷霆之樹：橡樹／聖櫟神話跨文化比較](oak-tree-myths-comparative.md)
 - [根在上方的樹：無花果／菩提樹神話跨文化比較](sacred-fig-bodhi-tree-myths-comparative.md)
