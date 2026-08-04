@@ -71,7 +71,8 @@
   "indigenous-americas",
   "maori",
   "pre-islamic-arabian",
-  "polynesian"
+  "polynesian",
+  "celtic"
  ],
  "analysis_log": [
   "sacrificial-creation",
@@ -105,5 +106,5 @@
   "triune-deities-comparative",
   "divine-chariots-solar-vehicles-comparative"
  ],
- "runs": 76
+ "runs": 77
 }
