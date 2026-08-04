@@ -14,6 +14,8 @@
 | [Zalmoxis地下居所三千年](Zalmoxis地下居所三千年.md) | Zalmoxis地下居所三千年 |
 | [balaur-and-the-sun](balaur-and-the-sun.md) | balaur-and-the-sun |
 | [dacian-serpent-battle](dacian-serpent-battle.md) | dacian-serpent-battle |
+| [decenaeus-astronomer-priest](decenaeus-astronomer-priest.md) | decenaeus-astronomer-priest |
+| [derzelas-and-the-serpent](derzelas-and-the-serpent.md) | derzelas-and-the-serpent |
 | [dochia-transformation](dochia-transformation.md) | dochia-transformation |
 | [sanziene-legend](sanziene-legend.md) | sanziene-legend |
 | [巴貝勒的傳說](巴貝勒的傳說.md) | 巴貝勒的傳說 |

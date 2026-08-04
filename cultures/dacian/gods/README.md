@@ -18,8 +18,10 @@
 | [Pleistoros](Pleistoros.md) | Pleistoros |
 | [Sabazios](Sabazios.md) | Sabazios |
 | [Sânziana](Sânziana.md) | Sânziana |
+| [Ursitoare](Ursitoare.md) | Ursitoare |
 | [Zalmoxis](Zalmoxis.md) | Zalmoxis |
 | [Zbaldia](Zbaldia.md) | Zbaldia |
+| [Zibelthiurdos](Zibelthiurdos.md) | Zibelthiurdos |
 
 ---
 *Auto-generated on 2026-08-02 10:44 UTC*

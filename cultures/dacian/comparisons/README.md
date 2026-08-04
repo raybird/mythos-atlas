@@ -2,6 +2,8 @@
 
 | 檔案 | 名稱 |
 |------|------|
+| [horseman-hero-gods-comparative](horseman-hero-gods-comparative.md) | 神聖騎士：達基亞騎士英雄神跨文化比較 |
+| [fate-goddesses-comparative](fate-goddesses-comparative.md) | 命運女神跨文化比較：烏爾西托亞蕾與紡織命定的三姊妹 |
 | [dacian-serpent-mythology](dacian-serpent-mythology.md) | dacian-serpent-mythology |
 | [foundation-sacrifice-comparative](foundation-sacrifice-comparative.md) | foundation-sacrifice-comparative |
 | [狂舞女靈跨文化比較](狂舞女靈跨文化比較.md) | 狂舞女靈跨文化比較 |
