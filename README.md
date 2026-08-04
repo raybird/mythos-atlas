@@ -96,13 +96,13 @@ mythos-atlas/
 
 ## 📊 當前狀態
 
-> 自動更新於 2026-08-04 10:39 UTC
+> 自動更新於 2026-08-04 10:42 UTC
 
 | 類別 | 進度 |
 |------|------|
 | 文化體系 | 44/44 |
 | 跨文化主題 | 27/27 |
-| 分析文章 | 403 |
+| 分析文章 | 404 |
 | 已充實文化 | 44/44 |
 | 總頁面數 | 2835 |
 | 總執行次數 | 78 |
@@ -166,8 +166,9 @@ mythos-atlas/
 
 ## 📝 分析文章
 
-> 跨文化比較神話學分析文章。共 403 篇。
+> 跨文化比較神話學分析文章。共 404 篇。
 
+- [血與刺中的永恆：玫瑰神話跨文化比較](analyses/rose-myths-comparative.md)
 - [會說話的使者與虛假之光：鸚鵡／金剛鸚鵡神話跨文化比較分析](analyses/parrot-macaw-myths-comparative.md)
 - [變色龍：遲到的永生信使——死亡起源與變形母題的跨文化比較分析](analyses/chameleon-myths-comparative.md)
 - [常青之永恆：松樹與松果神話跨文化比較](analyses/pine-tree-cone-myths-comparative.md)
