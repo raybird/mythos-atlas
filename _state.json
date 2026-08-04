@@ -73,7 +73,8 @@
   "pre-islamic-arabian",
   "polynesian",
   "celtic",
-  "dacian"
+  "dacian",
+  "armenian"
  ],
  "analysis_log": [
   "sacrificial-creation",
@@ -107,5 +108,5 @@
   "triune-deities-comparative",
   "divine-chariots-solar-vehicles-comparative"
  ],
- "runs": 78
+ "runs": 79
 }

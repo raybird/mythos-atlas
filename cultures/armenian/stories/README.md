@@ -1,20 +1,25 @@
 # 亞美尼亞神話 — 故事
 
-- [阿赫塔馬爾——凡湖上的火炬與絕望的愛](akhtamar.md)
-- [Anahit 的七座聖殿](anahit-seven-temples.md)
-- [Ara the Beautiful 與 Semiramis（Արա Գեղեցիկ և Շամիրամ）](ara-semiramis.md)
-- [Ara the Beautiful 的故事（Արdelays Գեdelays）](ara-the-beautiful.md)
-- [太陽之子：亞美尼亞童話中的太陽英雄](arevamanuk-sun-child.md)
-- [Artashes 與 Satenik 的故事（Արdelays Շdelays）](artashes-satenik.md)
-- [Artavazd 受困於 Mashtots 山（Արտավազդի անեծքը）](artavazd.md)
-- [埃瑞布尼的建立：凡湖之王的沙漠誓言（Erebuni，Էրեբունի）](erebuni-founding.md)
-- [凡城的建立與 Shamiram 的運河（Վանի հիմնադրումը և Շամիրամի ջրանցքը）](founding-of-van.md)
-- [Hayk 射殺巨人 Bel（Հայկ և Բել）](hayk-bel.md)
-- [薩遜的大衛（Սասունցի Դավիթ）](sasuntsi-davit.md)
-- [Semiramis 傳奇（Շամիրdelays）](semiramis-legend.md)
-- [Tork Angegh 的大力傳說（Տորք Անգեղ）](tork-angegh.md)
-- [瓦哈格恩的誕生：蘆葦中的火焰](vahagn-dragon-slayer-birth.md)
-- [Vahagn 取草戰龍（Վահագն վիշապաքաղ）](vahagn-dragon.md)
+| 檔案 | 名稱 |
+|------|------|
+| [akhtamar](akhtamar.md) | akhtamar |
+| [anahit-seven-temples](anahit-seven-temples.md) | anahit-seven-temples |
+| [ara-semiramis](ara-semiramis.md) | ara-semiramis |
+| [ara-the-beautiful](ara-the-beautiful.md) | ara-the-beautiful |
+| [arevamanuk-sun-child](arevamanuk-sun-child.md) | arevamanuk-sun-child |
+| [artashes-satenik](artashes-satenik.md) | artashes-satenik |
+| [artavazd](artavazd.md) | artavazd |
+| [erebuni-founding](erebuni-founding.md) | erebuni-founding |
+| [founding-of-van](founding-of-van.md) | founding-of-van |
+| [gregory-tiridates-boar](gregory-tiridates-boar.md) | gregory-tiridates-boar |
+| [hayk-bel](hayk-bel.md) | hayk-bel |
+| [lusin-moon-origin](lusin-moon-origin.md) | lusin-moon-origin |
+| [noahs-vineyard](noahs-vineyard.md) | noahs-vineyard |
+| [sasuntsi-davit](sasuntsi-davit.md) | sasuntsi-davit |
+| [semiramis-legend](semiramis-legend.md) | semiramis-legend |
+| [tork-angegh](tork-angegh.md) | tork-angegh |
+| [vahagn-dragon-slayer-birth](vahagn-dragon-slayer-birth.md) | vahagn-dragon-slayer-birth |
+| [vahagn-dragon](vahagn-dragon.md) | vahagn-dragon |
 
 ---
-*Auto-generated on 2026-07-31 02:08 UTC*
+*Auto-generated on 2026-08-04 10:50 UTC*

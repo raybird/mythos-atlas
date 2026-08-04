@@ -1,22 +1,27 @@
 # 亞美尼亞神話 — 神祇
 
-- [阿拉列茲 (Aralez) — 亞美尼亞的復生神犬](Aralez.md)
-- [阿雷格 (Areg / Arev) — 亞美尼亞太陽神](Areg.md)
-- [Anahit (Անահիտ)](anahit.md)
-- [Aram (Արամ)](aram.md)
-- [Aramazd (Արամազդ)](aramazd.md)
-- [Aray (Արdelays)](aray.md)
-- [Arev (Արև)](arev.md)
-- [Astghik (Աստղիկ)](astghik.md)
-- [Gisane (Գիսանե)](gisane.md)
-- [Hayk (Հայկ)](hayk.md)
-- [Mihr（Միհր）](mihr.md)
-- [Nane（Նանե）](nane.md)
-- [Spandaramet（Սպանդարամետ）](spandaramet.md)
-- [Tir (Տիր)](tir.md)
-- [佐維納爾 (Tsovinar / Nar /  ծովինար)](tsovinar.md)
-- [Vahagn (Վահագն)](vahagn.md)
-- [Vanatur / Amanor (Վանատուր / Ամանոր)](vanatur.md)
+| 檔案 | 名稱 |
+|------|------|
+| [Aralez](Aralez.md) | Aralez |
+| [Areg](Areg.md) | Areg |
+| [Grogh](Grogh.md) | Grogh |
+| [Khaldi](Khaldi.md) | Khaldi |
+| [Theispas](Theispas.md) | Theispas |
+| [anahit](anahit.md) | anahit |
+| [aram](aram.md) | aram |
+| [aramazd](aramazd.md) | aramazd |
+| [aray](aray.md) | aray |
+| [arev](arev.md) | arev |
+| [astghik](astghik.md) | astghik |
+| [gisane](gisane.md) | gisane |
+| [hayk](hayk.md) | hayk |
+| [mihr](mihr.md) | mihr |
+| [nane](nane.md) | nane |
+| [spandaramet](spandaramet.md) | spandaramet |
+| [tir](tir.md) | tir |
+| [tsovinar](tsovinar.md) | tsovinar |
+| [vahagn](vahagn.md) | vahagn |
+| [vanatur](vanatur.md) | vanatur |
 
 ---
-*Auto-generated on 2026-07-31 02:08 UTC*
+*Auto-generated on 2026-08-04 10:50 UTC*

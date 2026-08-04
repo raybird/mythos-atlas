@@ -1,21 +1,26 @@
 # 亞美尼亞神話 — 跨文化比較
 
-- [愛與豐饒女神比較：Anahit、Ishtar、Lakshmi 與 Venus](anahit-ishtar-lakshmi-venus.md)
-- [復活神犬：Aralez 的跨文化對應](aralez-resurrection-dogs.md)
-- [眾神之父：Aramazd、Ahura Mazda 與 Zeus 比較](aramazd-ahura-mazda-zeus.md)
-- [天父神比較：Aramazd、Zeus、Jupiter、Indra 與 Thor](aramazd-zeus-jupiter-indra-thor.md)
-- [聖山與洪水：Ararat 與跨文化洪水停泊傳說](ararat-flood-mountains.md)
-- [亞美尼亞萬神殿的層累結構：跨文化融合比較](armenian-pantheon-syncretism.md)
-- [跨文化比較：亞美尼亞冥界與來世審判](armenian-underworld-comparative.md)
-- [亞美尼亞與烏拉爾圖神話的延續性](armenian-urartian-continuity.md)
-- [印歐語系太陽神的跨文化比較——從亞美尼亞 Areg 出發](indo-european-solar-deities.md)
-- [戰爭與智慧之母：Nane、Athena、Isis 與 Cybele 比較](mother-goddesses-comparison.md)
-- [民族史詩的結構與精神：David of Sassoun、Beowulf 與 Iliad 比較](national-epics-comparison.md)
-- [新年與初果之神：跨文化比較](new-year-harvest-gods.md)
-- [太陽之神：Mihr、Mithra、Apollo 與 Ra 比較](sun-gods-comparison.md)
-- [書寫與預言之神：Tir、Nabu、Thoth 與世界書記之神比較](tir-nabu-thoth-writing-gods.md)
-- [水女神 Tsovinar 與跨文化水界女神比較](tsovinar-water-goddess.md)
-- [屠龍英雄：Vahagn、Indra、Thor 與 Marduk 比較](vishap-dragon-slayer.md)
+| 檔案 | 名稱 |
+|------|------|
+| [anahit-ishtar-lakshmi-venus](anahit-ishtar-lakshmi-venus.md) | anahit-ishtar-lakshmi-venus |
+| [aralez-resurrection-dogs](aralez-resurrection-dogs.md) | aralez-resurrection-dogs |
+| [aramazd-ahura-mazda-zeus](aramazd-ahura-mazda-zeus.md) | aramazd-ahura-mazda-zeus |
+| [aramazd-zeus-jupiter-indra-thor](aramazd-zeus-jupiter-indra-thor.md) | aramazd-zeus-jupiter-indra-thor |
+| [ararat-flood-mountains](ararat-flood-mountains.md) | ararat-flood-mountains |
+| [armenian-pantheon-syncretism](armenian-pantheon-syncretism.md) | armenian-pantheon-syncretism |
+| [armenian-underworld-comparative](armenian-underworld-comparative.md) | armenian-underworld-comparative |
+| [armenian-urartian-continuity](armenian-urartian-continuity.md) | armenian-urartian-continuity |
+| [fate-recorders-comparative](fate-recorders-comparative.md) | fate-recorders-comparative |
+| [indo-european-solar-deities](indo-european-solar-deities.md) | indo-european-solar-deities |
+| [mother-goddesses-comparison](mother-goddesses-comparison.md) | mother-goddesses-comparison |
+| [national-epics-comparison](national-epics-comparison.md) | national-epics-comparison |
+| [national-gods-kingdom-patronage-comparative](national-gods-kingdom-patronage-comparative.md) | national-gods-kingdom-patronage-comparative |
+| [new-year-harvest-gods](new-year-harvest-gods.md) | new-year-harvest-gods |
+| [sun-gods-comparison](sun-gods-comparison.md) | sun-gods-comparison |
+| [tir-nabu-thoth-writing-gods](tir-nabu-thoth-writing-gods.md) | tir-nabu-thoth-writing-gods |
+| [tsovinar-water-goddess](tsovinar-water-goddess.md) | tsovinar-water-goddess |
+| [urartu-storm-god-comparative](urartu-storm-god-comparative.md) | urartu-storm-god-comparative |
+| [vishap-dragon-slayer](vishap-dragon-slayer.md) | vishap-dragon-slayer |
 
 ---
-*Auto-generated on 2026-07-31 02:08 UTC*
+*Auto-generated on 2026-08-04 10:50 UTC*
