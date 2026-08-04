@@ -723,41 +723,51 @@
    "creation": "Ranginui(天父)與Papatūānuku(地母)緊密擁抱，黑暗中生諸神。諸神決定分離父母，Tāne(森林神)以雙腳頂開天地。",
    "flood": "波利尼西亞洪水神話多與海平面變化有關——Māui以魚鉤釣起島嶼後，曾試圖使人類不朽但失敗。部分傳說提到上古大浪淹沒祖先家園，呼應南島語族遷徙過程中的海嘯記憶。",
    "pantheon": "Tāne(森林)、Tangaroa(海洋)、Tū(戰神)、Rongo(和平)、Māui(文化英雄)",
-   "stories": [
-    "Māui釣魚",
-    "Māui取火",
-    "Māui阻攔太陽",
-    "半神英雄傳奇"
-   ],
-   "order": 9,
-   "timeline": {
-    "precision": "century",
-    "start_year": -1500,
-    "end_year": 1800,
-    "periods": [
-     {
-      "name": "拉皮塔時期",
-      "start": -1500,
-      "end": -500
-     },
-     {
-      "name": "波利尼西亞大遷徙",
-      "start": -500,
-      "end": 1200
-     },
-     {
-      "name": "古典波利尼西亞",
-      "start": 1200,
-      "end": 1800
-     }
+    "stories": [
+     "Māui釣魚",
+     "Māui取火",
+     "Māui阻攔太陽",
+     "半神英雄傳奇",
+     "圖馬圖恩加的復仇",
+     "希伊阿卡與洛希奧"
     ],
-    "overlap_with": [
-     "aboriginal",
-     "maori"
+    "order": 9,
+    "timeline": {
+     "precision": "century",
+     "start_year": -1500,
+     "end_year": 1800,
+     "periods": [
+      {
+       "name": "拉皮塔時期",
+       "start": -1500,
+       "end": -500
+      },
+      {
+       "name": "波利尼西亞大遷徙",
+       "start": -500,
+       "end": 1200
+      },
+      {
+       "name": "古典波利尼西亞",
+       "start": 1200,
+       "end": 1800
+      }
+     ],
+     "overlap_with": [
+      "aboriginal",
+      "maori"
+     ]
+    },
+    "_stories": 6,
+    "gods": [
+     "圖馬圖恩加",
+     "希伊阿卡"
+    ],
+    "comparisons": [
+     "海神與海洋王國跨文化比較",
+     "月神跨文化比較"
     ]
    },
-   "_stories": 4
-  },
   {
    "id": "aboriginal",
    "name": "澳洲原住民神話",

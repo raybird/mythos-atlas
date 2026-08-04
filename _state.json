@@ -70,7 +70,8 @@
   "siberian",
   "indigenous-americas",
   "maori",
-  "pre-islamic-arabian"
+  "pre-islamic-arabian",
+  "polynesian"
  ],
  "analysis_log": [
   "sacrificial-creation",
@@ -104,5 +105,5 @@
   "triune-deities-comparative",
   "divine-chariots-solar-vehicles-comparative"
  ],
-  "runs": 75
+ "runs": 76
 }
