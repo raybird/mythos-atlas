@@ -45,9 +45,9 @@
 
 ## 相關主題
 
-- [創世神話 (Creation Myths)](../../themes/creation-myths.md)
-- [文化英雄 (Culture Hero)](../../themes/culture-hero.md)
-- [世界秩序奠定 (Chaoskampf)](../../themes/chaoskampf.md)
+- [創世神話 (Creation Myths)](../../../themes/creation-myths.md)
+- [文化英雄 (Culture Hero)](../../../themes/culture-hero.md)
+- [世界秩序奠定 (Chaoskampf)](../../../themes/chaoskampf.md)
 
 ## 參考來源
 

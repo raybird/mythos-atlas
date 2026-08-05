@@ -53,9 +53,9 @@
 
 ## 相關主題
 
-- [英雄旅程 (Hero's Journey)](../../themes/hero-journey.md)
-- [犧牲與奉獻](../../themes/cosmic-sacrifice.md)
-- [死而復生之神 (Dying and Rising God)](../../themes/great-flood.md)
+- [英雄旅程 (Hero's Journey)](../../../themes/hero-journey.md)
+- [犧牲與奉獻](../../../themes/cosmic-sacrifice.md)
+- [死而復生之神 (Dying and Rising God)](../../../themes/great-flood.md)
 - [烈火試煉 (Fire Ordeal)]
 
 ## 參考來源

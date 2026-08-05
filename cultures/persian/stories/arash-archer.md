@@ -35,9 +35,9 @@
 
 ## 相關主題
 
-- [文化英雄 (Culture Hero)](../../themes/culture-hero.md)
-- [犧牲與奉獻](../../themes/cosmic-sacrifice.md)
-- [英雄旅程 (Hero's Journey)](../../themes/hero-journey.md)
+- [文化英雄 (Culture Hero)](../../../themes/culture-hero.md)
+- [犧牲與奉獻](../../../themes/cosmic-sacrifice.md)
+- [英雄旅程 (Hero's Journey)](../../../themes/hero-journey.md)
 
 ## 參考來源
 

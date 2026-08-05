@@ -13,6 +13,7 @@ Checks:
 
 import json, os, re, sys, subprocess, glob
 from pathlib import Path
+from urllib.parse import unquote
 
 ROOT = Path(__file__).resolve().parent.parent
 CATALOG = ROOT / '_catalog.json'
@@ -38,6 +39,11 @@ def err(msg):
 def warn(msg):
     WARNINGS.append(msg)
     print(f'  [WARN] {msg}')
+
+
+# Markdown inline link. The destination may itself contain one level of
+# balanced parentheses (e.g. 大洪水(神族戰爭淹沒).md), which CommonMark allows.
+MD_LINK = re.compile(r'\[([^\]]*)\]\(((?:[^()\s]|\([^()]*\))+)\)')
 
 
 # ── 1. Format Validation ───────────────────────────────────────────
@@ -84,9 +90,11 @@ def check_broken_links(filepath, all_md_files):
     except Exception:
         return
 
-    internal_links = re.findall(r'\[([^\]]+)\]\(([^)]+\.md[^)]*)\)', text)
+    internal_links = MD_LINK.findall(text)
     for link_text, target in internal_links:
         target_clean = target.split('#')[0].split('?')[0]
+        # Markdown links may percent-encode spaces etc.; decode before hitting the FS
+        target_clean = unquote(target_clean)
         if not target_clean.endswith('.md'):
             continue
         target_path = (filepath.parent / target_clean).resolve()
@@ -113,8 +121,8 @@ def get_indexed_entries(index_file):
         return set()
     text = index_file.read_text(encoding='utf-8')
     refs = set()
-    for m in re.finditer(r'\[([^\]]+)\]\(([^)]+)\)', text):
-        target = m.group(2).split('#')[0].split('?')[0]
+    for m in MD_LINK.finditer(text):
+        target = unquote(m.group(2).split('#')[0].split('?')[0])
         if target.endswith('.md') or '/' in target:
             refs.add(target)
     return refs

@@ -53,8 +53,8 @@
 
 ## 相關主題
 
-- [火神話 (Fire Myths)](../../themes/sacred-waters.md)
-- [宇宙犧牲 (Cosmic Sacrifice)](../../themes/cosmic-sacrifice.md)
+- [火神話 (Fire Myths)](../../../themes/sacred-waters.md)
+- [宇宙犧牲 (Cosmic Sacrifice)](../../../themes/cosmic-sacrifice.md)
 
 ## 參考來源
 

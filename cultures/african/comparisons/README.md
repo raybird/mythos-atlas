@@ -3,6 +3,7 @@
 - [Ifá占卜系統比較](Ifá占卜系統比較.md)
 - [african-moon-origin-of-death](african-moon-origin-of-death.md)
 - [african-trickster-figures](african-trickster-figures.md)
+- [plant-born-humanity-comparative](plant-born-humanity-comparative.md)
 - [remote-supreme-deity-pattern](remote-supreme-deity-pattern.md)
 - [west-african-creation-four-traditions](west-african-creation-four-traditions.md)
 - [洪水神話遍及各地](洪水神話遍及各地.md)

@@ -52,7 +52,7 @@
 - [善惡二元論跨文化比較](../../themes/)：更廣泛的二元宇宙觀研究
 - [創世原水神話](../../themes/)：兩種傳統都以水作為創世起點
 - [ dying and rising deities](../../themes/)：死亡與重生的神聖模式
-- [Zoroastrian-Judeo-Christian Eschatology](../zoroastrian-judeochristian-eschatology.md)：波斯二元論對一神教的影響
+- [Zoroastrian-Judeo-Christian Eschatology](zoroastrian-judeochristian-eschatology.md)：波斯二元論對一神教的影響
 
 ## 參考來源
 

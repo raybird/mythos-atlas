@@ -3,7 +3,7 @@
 | 檔案 | 名稱 |
 |------|------|
 | [Aeshma](Aeshma.md) | Aeshma |
-| [Ahura Mazda](Ahura Mazda.md) | Ahura Mazda |
+| [Ahura Mazda](Ahura%20Mazda.md) | Ahura Mazda |
 | [Az](Az.md) | Az（貪婪之魔） |
 | [Amesha-Spenta](Amesha-Spenta.md) | Amesha-Spenta |
 | [Anahita](Anahita.md) | Anahita |

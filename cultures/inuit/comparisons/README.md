@@ -11,6 +11,14 @@
 | [Akna與全球生育女神跨文化比較](Akna與全球生育女神跨文化比較.md) | Akna與全球生育女神跨文化比較 |
 | [Issitoq與禁忌守護神跨文化比較](Issitoq與禁忌守護神跨文化比較.md) | Issitoq與禁忌守護神跨文化比較 |
 | [Apanuugak與文化英雄戰巨人跨文化比較](Apanuugak與文化英雄戰巨人跨文化比較.md) | Apanuugak與文化英雄戰巨人跨文化比較 |
+| [arctic-animal-spirits-comparison](arctic-animal-spirits-comparison.md) | 北極圈動物神靈跨文化比較 (Arctic Animal Spirits: A Cross-Cultural Comparison) |
+| [aurora-borealis-cross-cultural](aurora-borealis-cross-cultural.md) | 極光跨文化神話比較：北極光下的人類想像 |
+| [earth-diver-creation-comparative](earth-diver-creation-comparative.md) | 大地潛水者：因紐特與跨文化創世神話比較 |
+| [hunting-goddesses-comparison](hunting-goddesses-comparison.md) | 狩獵女神跨文化比較：因紐特 Pinga、希臘 Artemis、北歐 Skadi、日本木花開耶姬 |
+| [inuit-creation-comparative](inuit-creation-comparative.md) | 因紐特創世神話與跨文化比較 |
+| [polar-bear-arctic-comparison](polar-bear-arctic-comparison.md) | 北極熊在環北極原住民神話中的跨文化比較 |
+| [trickster-raven-comparison](trickster-raven-comparison.md) | 渡鴉騙子神跨文化比較：因紐特 Raven、西北海岸 Raven、北歐 Odin、非洲 Anansi |
+| [winter-blizzard-deities-comparative](winter-blizzard-deities-comparative.md) | 風雪之神——嚴寒與暴風雪的跨文化比較 |
 
 ---
 *Auto-generated on 2026-06-26 02:07 UTC*

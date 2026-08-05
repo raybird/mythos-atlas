@@ -15,6 +15,10 @@
 | [divine-devotion-bhakti-comparative](divine-devotion-bhakti-comparative.md) | 虔信傳統跨文化比較 |
 | [創世犧牲跨文化比較](創世犧牲跨文化比較.md) | 創世犧牲跨文化比較 |
 | [cosmic-order-deities-comparative](cosmic-order-deities-comparative.md) | 宇宙秩序之神跨文化比較 |
+| [Shakti神聖女性力量跨文化比較](Shakti神聖女性力量跨文化比較.md) | Shakti（神聖女性力量）的跨文化比較 |
+| [化身Avatara原則跨文化比較](化身Avatara原則跨文化比較.md) | 化身（Avatāra）原則的跨文化比較 |
+| [印度雷神跨文化比較](印度雷神跨文化比較.md) | 因陀羅與全球雷神跨文化比較 |
+| [輪迴轉世跨文化比較](輪迴轉世跨文化比較.md) | 輪迴轉世（Saṃsāra）的跨文化比較 |
 
 ---
 *Updated 2026-07-16*

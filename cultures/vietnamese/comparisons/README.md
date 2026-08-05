@@ -12,6 +12,13 @@
 | [mountain-worship-cross-cultural](mountain-worship-cross-cultural.md) | 山嶽崇拜的跨文化比較 |
 | [afterlife-underworld-cross-cultural](afterlife-underworld-cross-cultural.md) | 冥界與來世信仰的跨文化比較 |
 | [dragon-worship-global](dragon-worship-global.md) | 龍崇拜的全球跨文化比較 |
+| [ancestor-worship](ancestor-worship.md) | 祖先崇拜比較：越南、中國、韓國與日本的跨文化對話 |
+| [childbirth-deities-comparative](childbirth-deities-comparative.md) | 生育女神與分娩護神跨文化比較：從越南婆姆到全球產房神靈 |
+| [founding-kings](founding-kings.md) | 建國君王比較：雄王、羅慕路斯、神武天皇與炎黃始祖 |
+| [mother-goddess-worship](mother-goddess-worship.md) | 母神信仰比較：越南 Mẫu Thượng Ngàn 與跨文化大地母親 |
+| [rice-agriculture](rice-agriculture.md) | 稻作農業神話比較：越南、中國、菲律賓與印尼的稻靈傳說 |
+| [vietnamese-mother-goddess-global-comparative](vietnamese-mother-goddess-global-comparative.md) | 越南母道教與世界聖母信仰比較 |
+| [water-deities-comparative](water-deities-comparative.md) | 水神信仰跨文化比較：越南水域神靈與世界水神 |
 
 ---
 *Updated 2026-07-25*

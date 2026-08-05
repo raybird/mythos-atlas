@@ -45,6 +45,23 @@
 | [persian-japanese-fire-worship](persian-japanese-fire-worship.md) | persian-japanese-fire-worship |
 | [persian-korean-afterlife-bridge](persian-korean-afterlife-bridge.md) | persian-korean-afterlife-bridge |
 | [persian-mayan-dualism-comparison](persian-mayan-dualism-comparison.md) | persian-mayan-dualism-comparison |
+| [asha-truth-order-comparison](asha-truth-order-comparison.md) | 真理與秩序：阿莎（Asha）的跨文化比較 |
+| [chaos-monster-cross-cultural](chaos-monster-cross-cultural.md) | 混沌巨獸：從提亞瑪特到安格拉·曼紐的跨文化比較 |
+| [duzakh-helheim-underworld-comparison](duzakh-helheim-underworld-comparison.md) | 波斯冥界 Duzakh 與北歐冥界 Helheim 的結構比較 |
+| [fire-worship-zoroastrian-vedic](fire-worship-zoroastrian-vedic.md) | 火的神聖性：瑣羅亞斯德教與吠陀宗教的聖火崇拜比較 |
+| [nowruz-new-year-festivals](nowruz-new-year-festivals.md) | 跨文化比較：納吾魯孜與全球新年／春季慶典 |
+| [persian-egyptian-creation-comparison](persian-egyptian-creation-comparison.md) | 波斯與埃及創世神話比較：原水、秩序與神聖光輝 |
+| [persian-egyptian-solar-journey](persian-egyptian-solar-journey.md) | 跨文化比較：波斯與埃及的太陽神話與天界旅程 |
+| [persian-greek-heroic-ethos](persian-greek-heroic-ethos.md) | 波斯與希臘英雄精神比較：王權、契約與命運 |
+| [persian-hindu-mythology-parallels](persian-hindu-mythology-parallels.md) | 波斯與印度神話的深層結構平行：從語源到宇宙論的系統比較 |
+| [persian-islamic-eschatology](persian-islamic-eschatology.md) | 瑣羅亞斯德教與伊斯蘭教來世觀——跨越信仰的靈魂之旅 |
+| [persian-mesoamerican-dualism](persian-mesoamerican-dualism.md) | 波斯—中美洲二元論神話比較 (Persian-Mesoamerican Dualism) |
+| [persian-mesopotamian-kingship-comparison](persian-mesopotamian-kingship-comparison.md) | 波斯與美索不達米亞神性王權比較：從 Xvarenah 到 Me 的權力神話 |
+| [persian-mithraism-mystery-cults](persian-mithraism-mystery-cults.md) | 波斯密特拉與羅馬神秘宗教 (Persian Mithraism and Roman Mystery Cults) |
+| [zoroastrian-dreams-prophecy](zoroastrian-dreams-prophecy.md) | 瑣羅亞斯德教的夢境與預言——跨文化比較 |
+| [zoroastrian-judeochristian-eschatology](zoroastrian-judeochristian-eschatology.md) | 瑣羅亞斯德教與猶太-基督教末日論的跨文化比較 |
+| [zoroastrian-manichaean-eschatology](zoroastrian-manichaean-eschatology.md) | 瑣羅亞斯德教與摩尼教末世論比較 (Zoroastrian and Manichaean Eschatology) |
+| [zurvanism-eternal-time](zurvanism-eternal-time.md) | 瑣羅亞斯德教 Zurvanism 與永恆時間觀——跨文化比較 |
 
 ---
 *Last updated: 2026-07-27 UTC*

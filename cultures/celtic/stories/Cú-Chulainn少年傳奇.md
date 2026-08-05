@@ -45,6 +45,6 @@ Cú Chulainn 在 Emain Macha 宣誓成為阿爾斯特戰士團成員。德魯伊
 
 ## 相關主題
 
-- [英雄旅程 (The Hero's Journey)](../../themes/hero-journey.md)
+- [英雄旅程 (The Hero's Journey)](../../../themes/hero-journey.md)
 - [悲劇英雄](../../themes/tragic-hero.md)
 - [變形/變身 (Shapeshifting)](../../themes/shapeshifting.md)

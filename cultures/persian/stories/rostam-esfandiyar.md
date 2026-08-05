@@ -48,7 +48,7 @@
 
 ## 相關主題
 
-- [英雄的悲劇 (Heroic Tragedy)](../../themes/hero-journey.md)
+- [英雄的悲劇 (Heroic Tragedy)](../../../themes/hero-journey.md)
 - [父子衝突與王權焦慮 (Father-Son Conflict and Royal Anxiety)](../../themes/divine-kingship.md)
 - [刀槍不入的英雄 (Invulnerable Hero)](../../themes/invulnerability.md)
 - [宿命與自由意志 (Fate vs Free Will)](../../themes/fate-destiny.md)

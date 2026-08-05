@@ -60,8 +60,8 @@
 
 ## 相關主題
 
-- [文化英雄](../../themes/culture-hero.md)
-- [社會正義與革命](../../themes/cosmic-sacrifice.md)
+- [文化英雄](../../../themes/culture-hero.md)
+- [社會正義與革命](../../../themes/cosmic-sacrifice.md)
 - [殉道者的原型] (Martyr archetype)
 - [二元論異端] (Dualist heresies)
 

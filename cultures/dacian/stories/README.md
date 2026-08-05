@@ -8,7 +8,7 @@
 | [Gebeleizis懲罰不義](Gebeleizis懲罰不義.md) | Gebeleizis懲罰不義 |
 | [Iele的午夜之舞](Iele的午夜之舞.md) | Iele的午夜之舞 |
 | [Kogaionon聖山的奧秘](Kogaionon聖山的奧秘.md) | Kogaionon聖山的奧秘 |
-| [Meșterul Manole工匠獻祭](Meșterul Manole工匠獻祭.md) | Meșterul Manole工匠獻祭 |
+| [Meșterul Manole工匠獻祭](Meșterul%20Manole工匠獻祭.md) | Meșterul Manole工匠獻祭 |
 | [Miorița命運的羊](Miorița命運的羊.md) | Miorița命運的羊 |
 | [Solomonari巫師傳說](Solomonari巫師傳說.md) | Solomonari巫師傳說 |
 | [Zalmoxis地下居所三千年](Zalmoxis地下居所三千年.md) | Zalmoxis地下居所三千年 |

@@ -35,10 +35,10 @@
 
 ## 相關主題
 
-- [日月神話 (Solar & Lunar Deities)](../../themes/solar-deities.md)
-- [兄妹神祇](../../themes/divine-twins.md)
+- [日月神話 (Solar & Lunar Deities)](../../../themes/solar-deities.md)
+- [兄妹神祇](../../../themes/divine-twins.md)
 - [競爭與秩序建立](../../themes/war-of-the-gods.md)
-- [世界秩序奠定](../../themes/chaoskampf.md)
+- [世界秩序奠定](../../../themes/chaoskampf.md)
 
 ## 參考來源
 
