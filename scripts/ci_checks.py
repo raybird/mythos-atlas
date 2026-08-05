@@ -44,8 +44,6 @@ def warn(msg):
 
 def check_heading_hierarchy(filepath):
     """Check each .md file has proper heading structure."""
-    if filepath.name == 'README.md':
-        return
     try:
         text = filepath.read_text(encoding='utf-8')
     except Exception as e:
