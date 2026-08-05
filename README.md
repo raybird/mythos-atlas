@@ -96,15 +96,15 @@ mythos-atlas/
 
 ## 📊 當前狀態
 
-> 自動更新於 2026-08-05 00:22 UTC
+> 自動更新於 2026-08-05 23:42 UTC
 
 | 類別 | 進度 |
 |------|------|
 | 文化體系 | 44/44 |
 | 跨文化主題 | 27/27 |
-| 分析文章 | 406 |
+| 分析文章 | 408 |
 | 已充實文化 | 44/44 |
-| 總頁面數 | 2865 |
+| 總頁面數 | 2869 |
 | 總執行次數 | 82 |
 
 <!-- STATS_END -->
@@ -166,8 +166,9 @@ mythos-atlas/
 
 ## 📝 分析文章
 
-> 跨文化比較神話學分析文章。共 407 篇。
+> 跨文化比較神話學分析文章。共 408 篇。
 
+- [石頭裡的天穹：綠松石神話跨文化比較](analyses/turquoise-myths-comparative.md)
 - [凝結的生命之息：玉神話跨文化比較](analyses/jade-myths-comparative.md)
 - [沙漠之舟與天啟之駝：駱駝神話跨文化比較](analyses/camel-myths-comparative.md)
 - [生於泥土的無根之靈：鰻魚神話跨文化比較](analyses/eel-myths-comparative.md)

@@ -2,6 +2,7 @@
 
 > 跨文化比較神話學分析文章，探討各文明之間的深層連結。
 
+- [石頭裡的天穹：綠松石神話跨文化比較](turquoise-myths-comparative.md)
 - [凝結的生命之息：玉神話跨文化比較](jade-myths-comparative.md)
 - [沙漠之舟與天啟之駝：駱駝神話跨文化比較](camel-myths-comparative.md)
 - [生於泥土的無根之靈：鰻魚神話跨文化比較](eel-myths-comparative.md)
