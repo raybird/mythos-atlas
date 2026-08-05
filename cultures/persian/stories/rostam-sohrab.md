@@ -50,7 +50,7 @@
 ## 相關主題
 
 - [英雄旅程 (Hero's Journey)](../../../themes/hero-journey.md)
-- [悲劇與宿命 (Fate and Tragedy)](../../themes/fate-destiny.md)
+- 悲劇與宿命 (Fate and Tragedy)
 - [父子衝突 (Father-Son Conflict)](../../../themes/cosmic-sacrifice.md)
 - [古波斯文化與《王書》傳統]
 

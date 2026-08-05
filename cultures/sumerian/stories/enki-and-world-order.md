@@ -46,9 +46,9 @@
 
 ## 相關主題
 
-- [文明法則（Me）](/projects/mythos-atlas/themes/divine-law.md)
+- 文明法則（Me）
 - [神聖王權](../../../themes/sacred-kingship.md)
-- [人類的創造](/projects/mythos-atlas/themes/creation-of-humans.md)
+- 人類的創造
 
 ## 參考來源
 

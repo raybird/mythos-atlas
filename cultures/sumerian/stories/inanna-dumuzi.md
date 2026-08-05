@@ -25,9 +25,9 @@
 
 ## 相關主題
 
-- [生死與重生](/themes/death-rebirth.md)
-- [神聖婚姻](/themes/hieros-gamos.md)
-- [冥界之旅](/themes/underworld-journey.md)
+- 生死與重生
+- 神聖婚姻
+- 冥界之旅
 
 ## 參考來源
 

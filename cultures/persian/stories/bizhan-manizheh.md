@@ -41,9 +41,9 @@
 
 ## 相關主題
 
-- [跨國愛情](/themes/cross-cultural-marriage.md)
-- [地牢與救贖](/themes/imprisonment-and-rescue.md)
-- [羅斯塔姆的冒險](/themes/rostam-heroic-cycle.md)
+- 跨國愛情
+- 地牢與救贖
+- 羅斯塔姆的冒險
 
 ## 參考來源
 

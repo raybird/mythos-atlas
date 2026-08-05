@@ -28,9 +28,9 @@
 
 ## 相關主題
 
-- [創世與樂園](/themes/creation-paradise.md)
-- [疾病與治癒](/themes/illness-healing.md)
-- [神聖婚姻](/themes/hieros-gamos.md)
+- 創世與樂園
+- 疾病與治癒
+- 神聖婚姻
 
 ## 參考來源
 

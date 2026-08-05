@@ -44,10 +44,10 @@
 
 ## 相關主題
 
-- [英雄的黃昏 (Hero's Twilight)](../../themes/hero-twilight.md)
+- 英雄的黃昏 (Hero's Twilight)
 - [文化英雄 (Culture Hero)](../../../themes/culture-hero.md)
-- [命運與宿命 (Fate and Destiny)](../../themes/fate-destiny.md)
-- [獵人與獵物 (Hunter and Prey)](../../themes/hunter-prey.md)
+- 命運與宿命 (Fate and Destiny)
+- 獵人與獵物 (Hunter and Prey)
 
 ## 參考來源
 

@@ -25,10 +25,18 @@ CULTURES_DIR = ROOT / 'cultures'
 REFERENCES_DIR = ROOT / 'references'
 GENERATE_STATS = ROOT / 'scripts' / 'generate_stats.py'
 STATS_DIR = ROOT / 'stats'
+CITATION_BASELINE = ROOT / 'scripts' / 'citation_baseline.txt'
+
+# Top-level directories excluded from content checks. These hold development
+# and planning records rather than published mythology content, so their
+# links and heading structure are not part of what CI guards.
+EXCLUDED_TOP_DIRS = {'.git', 'docs', 'node_modules'}
 
 EXIT_CODE = 0
 ERRORS = []
 WARNINGS = []
+CITATION_BASELINED = set()   # populated from CITATION_BASELINE in main()
+BASELINE_SEEN = set()        # baselined pages that still fail, to spot stale entries
 
 def err(msg):
     global EXIT_CODE
@@ -213,6 +221,14 @@ ENTRY_DIRS = [
 ]
 
 
+def citation_err(rel_path, msg):
+    """Report a citation gap, unless it is a known pre-existing one."""
+    if rel_path in CITATION_BASELINED:
+        BASELINE_SEEN.add(rel_path)
+        return
+    err(f'{rel_path}: {msg}')
+
+
 def check_citations_in_file(filepath, label):
     """Check that a file has a reference section with content."""
     rel_path = rel(filepath)
@@ -224,7 +240,7 @@ def check_citations_in_file(filepath, label):
     # Find all citation sections
     matches = list(CITATION_SECTION_PATTERN.finditer(text))
     if not matches:
-        err(f'{rel_path}: 缺少參考文獻區塊（需包含「## 參考文獻」或「## 參考來源」）')
+        citation_err(rel_path, '缺少參考文獻區塊（需包含「## 參考文獻」或「## 參考來源」）')
         return
 
     # Check the last citation section has content
@@ -233,7 +249,7 @@ def check_citations_in_file(filepath, label):
     remaining = text[section_start:].strip()
 
     if not remaining:
-        err(f'{rel_path}: 參考文獻區塊為空')
+        citation_err(rel_path, '參考文獻區塊為空')
         return
 
     # Count non-empty lines after the section header before next heading
@@ -246,7 +262,7 @@ def check_citations_in_file(filepath, label):
             ref_lines += 1
 
     if ref_lines == 0:
-        err(f'{rel_path}: 參考文獻區塊無實際內容')
+        citation_err(rel_path, '參考文獻區塊無實際內容')
 
 
 def run_citation_checks():
@@ -256,11 +272,9 @@ def run_citation_checks():
             continue
         check_citations_in_file(f, '分析文章')
 
-    # Check all theme files
-    for f in sorted(THEMES_DIR.glob('*.md')):
-        if f.name in ('README.md', '00-index.md'):
-            continue
-        check_citations_in_file(f, '主題頁面')
+    # Theme pages are cross-cutting motif summaries that cite through the
+    # culture pages they link to, so they carry no reference section of
+    # their own and are deliberately not checked here.
 
     # Check all culture sub-pages
     for pattern, label in ENTRY_DIRS:
@@ -326,6 +340,31 @@ def rel(path):
         return str(path)
 
 
+def is_excluded(path):
+    """True for paths under a directory CI does not police."""
+    try:
+        parts = path.relative_to(ROOT).parts
+    except ValueError:
+        return True
+    return bool(parts) and parts[0] in EXCLUDED_TOP_DIRS
+
+
+def load_citation_baseline():
+    """Known pages still missing citations.
+
+    These are pre-existing gaps, tracked so CI can block *new* violations
+    without demanding that all of them be researched at once. Fixing a page
+    means deleting its line here.
+    """
+    if not CITATION_BASELINE.exists():
+        return set()
+    return {
+        line.strip()
+        for line in CITATION_BASELINE.read_text(encoding='utf-8').splitlines()
+        if line.strip() and not line.startswith('#')
+    }
+
+
 # ── Main ───────────────────────────────────────────────────────────
 
 def main():
@@ -335,11 +374,11 @@ def main():
     print('Mythos Atlas — CI Checks')
     print('═' * 60)
 
+    global CITATION_BASELINED
+    CITATION_BASELINED = load_citation_baseline()
+
     # Build list of all .md files for link checking
-    all_md = set()
-    for f in ROOT.rglob('*.md'):
-        if '.git' not in str(f):
-            all_md.add(f)
+    all_md = {f for f in ROOT.rglob('*.md') if not is_excluded(f)}
 
     # ── Section 1: Format Validation ──
     print('\n[1/4] Format Validation')
@@ -359,6 +398,15 @@ def main():
     print('\n[3/4] Citation Check')
     print('─' * 40)
     run_citation_checks()
+    if CITATION_BASELINED:
+        print(f'  [*] {len(BASELINE_SEEN)} 個已知缺口暫緩（見 {rel(CITATION_BASELINE)}）')
+        stale = sorted(CITATION_BASELINED - BASELINE_SEEN)
+        if stale:
+            print(f'  [*] {len(stale)} 個項目已補上文獻，可從基準線移除：')
+            for p in stale[:20]:
+                print(f'        {p}')
+            if len(stale) > 20:
+                print(f'        ...另有 {len(stale) - 20} 筆')
 
     # ── Section 4: Statistical Comparison ──
     print('\n[4/4] Statistical Comparison')

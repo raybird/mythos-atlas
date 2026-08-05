@@ -55,6 +55,6 @@ Fianna 在芬恩領導下成為愛爾蘭的保護者——獵殺野豬、抵禦�
 
 ## 相關主題
 
-- [智慧獲取 (Acquisition of Wisdom)](../../themes/wisdom-acquisition.md)
-- [獵人與採集者 (Hunter-Gatherer)](../../themes/hunter-gatherer.md)
-- [英雄的童年](../../themes/hero-childhood.md)
+- 智慧獲取 (Acquisition of Wisdom)
+- 獵人與採集者 (Hunter-Gatherer)
+- 英雄的童年

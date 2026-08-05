@@ -61,9 +61,9 @@ Oisín 的傳說在 12 世紀「芬尼亞故事」書面化後流傳全歐。18�
 ## 相關主題
 
 - [英雄旅程 (The Hero's Journey)](../../../themes/hero-journey.md)
-- [異世界/仙界 (Otherworld)](../../themes/otherworld.md)
-- [時間膨脹神話 (Time Distortion in Myth)](../../themes/time-distortion.md)
-- [悲劇英雄 (Tragic Hero)](../../themes/tragic-hero.md)
+- 異世界/仙界 (Otherworld)
+- 時間膨脹神話 (Time Distortion in Myth)
+- 悲劇英雄 (Tragic Hero)
 
 ## 參考文獻
 

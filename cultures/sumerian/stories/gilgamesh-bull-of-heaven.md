@@ -25,9 +25,9 @@
 
 ## 相關主題
 
-- [英雄對抗怪物](/themes/hero-vs-monster.md)
-- [死亡與哀悼](/themes/death-mourning.md)
-- [永生追求](/themes/quest-for-immortality.md)
+- 英雄對抗怪物
+- 死亡與哀悼
+- 永生追求
 
 ## 參考來源
 

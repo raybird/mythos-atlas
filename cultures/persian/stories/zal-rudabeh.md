@@ -41,9 +41,9 @@
 
 ## 相關主題
 
-- [Rostam 英雄史詩](/themes/epic-hero.md)
-- [異族聯姻](/themes/cross-cultural-marriage.md)
-- [神獸指引](/themes/sacred-animals.md)
+- Rostam 英雄史詩
+- 異族聯姻
+- 神獸指引
 
 ## 參考來源
 

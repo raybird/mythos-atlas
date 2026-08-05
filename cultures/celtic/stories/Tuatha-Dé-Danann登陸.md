@@ -60,6 +60,6 @@ Fir Bolg 國王 Eochaid mac Eirc 拒絕交出愛爾蘭，雙方在 Moytura 平�
 
 ## 相關主題
 
-- [神族入侵序列 (Invasion Cycle)](../../themes/invasion-cycle.md)
-- [隱退的神 (Departed Gods)](../../themes/departed-gods.md)
-- [聖器與神器](../../themes/sacred-artifacts.md)
+- 神族入侵序列 (Invasion Cycle)
+- 隱退的神 (Departed Gods)
+- 聖器與神器
