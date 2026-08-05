@@ -2,6 +2,7 @@
 
 > 跨文化比較神話學分析文章，探討各文明之間的深層連結。
 
+- [凝結的生命之息：玉神話跨文化比較](jade-myths-comparative.md)
 - [沙漠之舟與天啟之駝：駱駝神話跨文化比較](camel-myths-comparative.md)
 - [生於泥土的無根之靈：鰻魚神話跨文化比較](eel-myths-comparative.md)
 - [血與刺中的永恆：玫瑰神話跨文化比較](rose-myths-comparative.md)
@@ -141,4 +142,4 @@
 - [Sacred Sexuality & Divine Erotic Mysticism Comparative](sacred-sexuality-divine-eroticism-comparative.md)
 
 ---
-*Last updated 2026-08-04*
+*Last updated 2026-08-05*

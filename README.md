@@ -166,8 +166,9 @@ mythos-atlas/
 
 ## 📝 分析文章
 
-> 跨文化比較神話學分析文章。共 406 篇。
+> 跨文化比較神話學分析文章。共 407 篇。
 
+- [凝結的生命之息：玉神話跨文化比較](analyses/jade-myths-comparative.md)
 - [沙漠之舟與天啟之駝：駱駝神話跨文化比較](analyses/camel-myths-comparative.md)
 - [生於泥土的無根之靈：鰻魚神話跨文化比較](analyses/eel-myths-comparative.md)
 - [血與刺中的永恆：玫瑰神話跨文化比較](analyses/rose-myths-comparative.md)
