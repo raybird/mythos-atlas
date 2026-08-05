@@ -72,11 +72,12 @@
   "maori",
   "pre-islamic-arabian",
   "polynesian",
-  "celtic",
-  "dacian",
-  "armenian",
-  "scythian"
- ],
+   "celtic",
+   "dacian",
+   "armenian",
+   "scythian",
+   "finno-ugric"
+  ],
  "analysis_log": [
   "sacrificial-creation",
   "origin-of-death",
@@ -109,5 +110,5 @@
   "triune-deities-comparative",
   "divine-chariots-solar-vehicles-comparative"
  ],
- "runs": 80
+  "runs": 81
 }

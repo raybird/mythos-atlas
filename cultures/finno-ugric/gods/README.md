@@ -11,8 +11,11 @@
 | [Kuu](Kuu.md) | Kuu |
 | [Lemminkäinen](Lemminkäinen.md) | Lemminkäinen |
 | [Louhi](Louhi.md) | Louhi |
+| [Loviatar](Loviatar.md) | Loviatar |
 | [Mielikki](Mielikki.md) | Mielikki |
+| [Nyyrikki](Nyyrikki.md) | Nyyrikki |
 | [Otava](Otava.md) | Otava |
+| [Otso](Otso.md) | Otso |
 | [PellonPekko](PellonPekko.md) | PellonPekko |
 | [Päivätär](Päivätär.md) | Päivätär |
 | [SeppoIlmarinen](SeppoIlmarinen.md) | SeppoIlmarinen |
