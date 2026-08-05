@@ -72,12 +72,13 @@
   "maori",
   "pre-islamic-arabian",
   "polynesian",
-   "celtic",
-   "dacian",
-   "armenian",
-   "scythian",
-   "finno-ugric"
-  ],
+    "celtic",
+    "dacian",
+    "armenian",
+    "scythian",
+    "finno-ugric",
+    "tupi-guarani"
+   ],
  "analysis_log": [
   "sacrificial-creation",
   "origin-of-death",
@@ -107,8 +108,8 @@
   "solstice-equinox-rituals",
   "planetary-cycles-and-deities",
   "mythological-catastrophe-timeline",
-  "triune-deities-comparative",
-  "divine-chariots-solar-vehicles-comparative"
- ],
-  "runs": 81
+   "triune-deities-comparative",
+   "divine-chariots-solar-vehicles-comparative"
+  ],
+  "runs": 82
 }
