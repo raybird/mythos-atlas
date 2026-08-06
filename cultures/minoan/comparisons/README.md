@@ -3,6 +3,7 @@
 | 檔案 | 名稱 |
 |------|------|
 | [automated-guardians-comparative](automated-guardians-comparative.md) | automated-guardians-comparative |
+| [bird-goddess-wings-global](bird-goddess-wings-global.md) | bird-goddess-wings-global |
 | [bull-cult-mediterranean](bull-cult-mediterranean.md) | bull-cult-mediterranean |
 | [goddess-religion-global](goddess-religion-global.md) | goddess-religion-global |
 | [horns-of-consecration-cross-cultural](horns-of-consecration-cross-cultural.md) | horns-of-consecration-cross-cultural |

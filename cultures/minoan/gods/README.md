@@ -20,6 +20,7 @@
 | [Rhea-Kourotrophos](Rhea-Kourotrophos.md) | Rhea-Kourotrophos |
 | [Snake-Goddess](Snake-Goddess.md) | Snake-Goddess |
 | [Talos](Talos.md) | Talos |
+| [Velchanos](Velchanos.md) | Velchanos |
 | [diktynna](diktynna.md) | diktynna |
 
 ---

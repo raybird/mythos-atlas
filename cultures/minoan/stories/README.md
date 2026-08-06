@@ -14,6 +14,7 @@
 | [kouretes-zeus-birth-cave](kouretes-zeus-birth-cave.md) | kouretes-zeus-birth-cave |
 | [minos-and-knossos](minos-and-knossos.md) | minos-and-knossos |
 | [minos-spiral-shell](minos-spiral-shell.md) | minos-spiral-shell |
+| [nisus-scylla-megara](nisus-scylla-megara.md) | nisus-scylla-megara |
 | [pasiphae-bull](pasiphae-bull.md) | pasiphae-bull |
 | [rhadamanthys-judge](rhadamanthys-judge.md) | rhadamanthys-judge |
 | [talos-medea-argonauts](talos-medea-argonauts.md) | talos-medea-argonauts |
