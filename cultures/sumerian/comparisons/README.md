@@ -65,6 +65,7 @@
 | [underworld-queens-comparison](underworld-queens-comparison.md) | 跨文化冥界女王比較 (Queens of the Underworld in Global Mythology) |
 | [writing-deities-cross-culture](writing-deities-cross-culture.md) | 跨文化比較：書寫與智慧之神 (Deities of Writing and Wisdom Across Cultures) |
 | [yoruba-norse-fate-weavers](yoruba-norse-fate-weavers.md) | 約魯巴 Ori 與北歐命運紡織：跨文化命運觀念比較 (Yoruba Ori and Norse Fate-Weaving: A Cross-Cultural Comparison of Destiny Concepts) |
+| [magic-contest-transformation](magic-contest-transformation.md) | 跨文化比較：魔術對決與變形競賽——薩格布魯、摩西與孫悟空 (Magician Duels and Transformation Contests Across Cultures) |
 
 ---
 *Last updated: 2026-08-01*

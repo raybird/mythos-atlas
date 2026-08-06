@@ -17,6 +17,7 @@
 | [Lulal](Lulal.md) | 拉塔拉克（Lulal）— 戰爭與忠誠之神 |
 | [Ningirsu](Ningirsu.md) | 寧吉爾蘇（Ningirsu）— 拉格什守護神、戰神兼農業神 |
 | [Ninisina](Ninisina.md) | 妮妮西娜（Ninisina）— 伊辛的治癒女神、神犬之主 |
+| [Sakkan](Sakkan.md) | 薩坎（Sakkan/Sumugan）— 原野與牲畜之神、烏圖之子 |
 
 ---
 *Last updated: 2026-08-01*

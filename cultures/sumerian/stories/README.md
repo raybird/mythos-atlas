@@ -15,6 +15,7 @@
 | [erra-ishum-epic](erra-ishum-epic.md) | 厄拉與伊舒姆史詩 |
 | [ur-namma-death](ur-namma-death.md) | 烏爾那姆之死——國王的冥界之旅 |
 | [ninurta-and-the-turtle](ninurta-and-the-turtle.md) | 寧努爾塔與烏龜——智慧降伏傲慢的英雄 |
+| [enmerkar-ensuhkeshdanna](enmerkar-ensuhkeshdanna.md) | 恩麥卡爾與恩蘇赫什丹納——阿拉塔術士之敗（魔術對決） |
 
 ---
 *Last updated: 2026-08-01*
