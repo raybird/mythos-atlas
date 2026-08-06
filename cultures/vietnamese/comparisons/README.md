@@ -19,6 +19,9 @@
 | [rice-agriculture](rice-agriculture.md) | 稻作農業神話比較：越南、中國、菲律賓與印尼的稻靈傳說 |
 | [vietnamese-mother-goddess-global-comparative](vietnamese-mother-goddess-global-comparative.md) | 越南母道教與世界聖母信仰比較 |
 | [water-deities-comparative](water-deities-comparative.md) | 水神信仰跨文化比較：越南水域神靈與世界水神 |
+| [cinderella-type-cross-cultural](cinderella-type-cross-cultural.md) | 灰姑娘型故事跨文化比較：阿嬌、葉限與辛德瑞拉 |
+| [swan-maiden-snail-maiden-comparison](swan-maiden-snail-maiden-comparison.md) | 螺女與天鵝處女型跨文化比較：異類之妻的祕密與離去 |
+| [turtle-deities-comparison](turtle-deities-comparison.md) | 神龜跨文化比較：撐天、背地與授劍的宇宙靈獸 |
 
 ---
-*Updated 2026-07-25*
+*Updated 2026-08-05*

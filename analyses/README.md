@@ -2,6 +2,7 @@
 
 > 跨文化比較神話學分析文章，探討各文明之間的深層連結。
 
+- [海面之下的另一重天空：海底王國與水下世界神話跨文化比較](underwater-kingdoms-undersea-worlds-comparative.md)
 - [石頭裡的天穹：綠松石神話跨文化比較](turquoise-myths-comparative.md)
 - [凝結的生命之息：玉神話跨文化比較](jade-myths-comparative.md)
 - [沙漠之舟與天啟之駝：駱駝神話跨文化比較](camel-myths-comparative.md)

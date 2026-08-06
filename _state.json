@@ -77,9 +77,10 @@
     "armenian",
     "scythian",
     "finno-ugric",
-    "tupi-guarani"
+    "tupi-guarani",
+    "vietnamese"
    ],
- "analysis_log": [
+  "analysis_log": [
   "sacrificial-creation",
   "origin-of-death",
   "shamanism-in-myth",
@@ -111,5 +112,5 @@
    "triune-deities-comparative",
    "divine-chariots-solar-vehicles-comparative"
   ],
-  "runs": 82
+  "runs": 83
 }

@@ -2309,15 +2309,18 @@
    "creation": "最初天地混沌未分，Thần Trụ Trời(撐天神)以頭頂天、腳踏地，將天地分開。天如傘蓋、地如方盤。神以泥土與石柱撐天，天越高越遠，形成今日的天空。另一版本：Lạc Long Quân(龍君)娶Âu Cơ(仙妻)，Âu Cơ生百卵化百子——50子隨父下海、50子隨母上山，成為越南54民族的始祖。",
    "flood": "越南洪水神話以Sơn Tinh(山神)與Thủy Tinh(水神)之戰為代表——每年雨季水神掀起洪水與山神爭奪公主，山神以山巒抵擋。此神話反映紅河三角洲的年度洪水循環。部分傳說記載上古大洪水毀滅萬物，僅少數人在高山避難倖存。",
    "pantheon": "Ông Trời/Ngọc Hoàng(玉皇/天帝)、Lạc Long Quân(龍君)、Âu Cơ(仙母)、Sơn Tinh(山神)、Thủy Tinh(水神)、Thần Trụ Trời(撐天神)、Tản Viên Sơn Thánh(傘圓山聖)、Phù Đổng Thiên Vương(扶董天王)、Chử Đồng Tử(褚童子)、Liễu Hạnh(柳杏公主)、Mười Hai Bà Mụ(十二助產婆)",
-   "stories": [
-    "Lạc Long Quân斬妖(木精/魚精/狐精)",
-    "Âu Cơ生百卵",
-    "Sơn Tinh vs Thủy Tinh",
-    "Thánh Gióng(扶董)滅敵",
-    "Trọng Thủy與Mỵ Châu",
-    "Chử Đồng Tử遇仙"
-   ],
-   "order": 29,
+    "stories": [
+     "Lạc Long Quân斬妖(木精/魚精/狐精)",
+     "Âu Cơ生百卵",
+     "Sơn Tinh vs Thủy Tinh",
+     "Thánh Gióng(扶董)滅敵",
+     "Trọng Thủy與Mỵ Châu",
+     "Chử Đồng Tử遇仙",
+     "阿嬌與阿糠(Tấm Cám)",
+     "百節竹(Cây Tre Trăm Đốt)",
+     "螺女(Nàng Tiên Ốc)"
+    ],
+    "order": 29,
    "timeline": {
     "precision": "century",
     "start_year": -2879,
@@ -2344,10 +2347,20 @@
      "chinese"
     ]
    },
-   "_stories": 6
-  },
-  {
-   "id": "inuit",
+    "_stories": 9,
+    "gods": [
+     "二徵夫人",
+     "天母",
+     "金龜"
+    ],
+    "comparisons": [
+     "灰姑娘型故事跨文化比較",
+     "螺女與天鵝處女型跨文化比較",
+     "神龜跨文化比較"
+    ]
+   },
+   {
+    "id": "inuit",
    "name": "因紐特神話",
    "name_en": "Inuit Mythology",
    "region": "北極—阿拉斯加/加拿大/格陵蘭",
