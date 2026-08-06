@@ -1,6 +1,5 @@
 # 波羅的神話 — 神祇
 
-
 | 檔案 | 名稱 |
 |------|------|
 | [Austēja](Austēja.md) | Austēja |
@@ -20,8 +19,9 @@
 | [Teperūbas](Teperūbas.md) | Teperūbas |
 | [Vakarinė](Vakarinė.md) | Vakarinė |
 | [Velnias](Velnias.md) | Velnias |
+| [Ūsiņš](Ūsiņš.md) | Ūsiņš |
 | [Žemyna](Žemyna.md) | Žemyna |
 | [奧什琳涅](奧什琳涅.md) | 奧什琳涅 |
 
 ---
-*Auto-generated on 2026-08-02 02:15 UTC*
+*Auto-generated on 2026-08-06 08:03 UTC*

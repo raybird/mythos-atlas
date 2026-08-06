@@ -1,6 +1,5 @@
 # 波羅的神話 — 故事
 
-
 | 檔案 | 名稱 |
 |------|------|
 | [Ašvieniai拉太陽車](Ašvieniai拉太陽車.md) | Ašvieniai拉太陽車 |
@@ -8,9 +7,10 @@
 | [Egle蛇王后](Egle蛇王后.md) | Egle蛇王后 |
 | [Jūratė與Kastytis琥珀傳說](Jūratė與Kastytis琥珀傳說.md) | Jūratė與Kastytis琥珀傳說 |
 | [Laima決定嬰兒命運](Laima決定嬰兒命運.md) | Laima決定嬰兒命運 |
+| [Lāčplēsis熊殺者](Lāčplēsis熊殺者.md) | Lāčplēsis熊殺者 |
 | [Perkūnas懲罰月神不忠](Perkūnas懲罰月神不忠.md) | Perkūnas懲罰月神不忠 |
 | [Perkūnas解救太陽](Perkūnas解救太陽.md) | Perkūnas解救太陽 |
-| [Saulės dukterys（太陽的女兒們）](Saulės%20dukterys（太陽的女兒們）.md) | Saulės dukterys（太陽的女兒們） |
+| [Saulės dukterys（太陽的女兒們）](Saulės dukterys（太陽的女兒們）.md) | Saulės dukterys（太陽的女兒們） |
 | [Saulės-vestuvės](Saulės-vestuvės.md) | Saulės-vestuvės |
 | [Saulė的婚禮](Saulė的婚禮.md) | Saulė的婚禮 |
 | [Velnias與Dievas造地](Velnias與Dievas造地.md) | Velnias與Dievas造地 |
@@ -22,4 +22,4 @@
 | [蜜蜂的誕生](蜜蜂的誕生.md) | 蜜蜂的誕生 |
 
 ---
-*Auto-generated on 2026-08-02 02:15 UTC*
+*Auto-generated on 2026-08-06 08:03 UTC*
