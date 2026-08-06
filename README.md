@@ -96,13 +96,13 @@ mythos-atlas/
 
 ## 📊 當前狀態
 
-> 自動更新於 2026-08-06 10:38 UTC
+> 自動更新於 2026-08-06 12:36 UTC
 
 | 類別 | 進度 |
 |------|------|
 | 文化體系 | 44/44 |
 | 跨文化主題 | 27/27 |
-| 分析文章 | 411 |
+| 分析文章 | 412 |
 | 已充實文化 | 44/44 |
 | 總頁面數 | 2890 |
 | 總執行次數 | 83 |
@@ -166,8 +166,9 @@ mythos-atlas/
 
 ## 📝 分析文章
 
-> 跨文化比較神話學分析文章。共 411 篇。
+> 跨文化比較神話學分析文章。共 412 篇。
 
+- [微小即宇宙：螞蟻神話的跨文化比較](analyses/ant-myths-microcosm-comparative.md)
 - [聖林跨文化神聖樹林崇拜比較分析](analyses/聖林跨文化神聖樹林崇拜比較分析.md)
 - [Zodiac Astrology Myths Comparative](analyses/zodiac-astrology-myths-comparative.md)
 - [Wounded Sovereign Fisher King Comparative](analyses/wounded-sovereign-fisher-king-comparative.md)
