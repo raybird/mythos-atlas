@@ -20,6 +20,7 @@
 - [玉米神的冥界之旅 (The Maize God's Journey Through Xibalba)](maize-god-xibalba.md)
 - [玉米神的斬首 — 西巴爾巴的六重考驗與枯樹上的葫蘆](maize-god-beheading.md)
 - [火鸚鵡的降臨 — 伊察馬爾的祭品 (The Fire Macaw's Descent at Izamal)](kinich-kak-mo-descent-izamal.md)
+- [四百少年與昴宿星 (The Four Hundred Boys and the Pleiades)](four-hundred-boys-pleiades.md)
 
 ---
-*Updated on 2026-08-01*
+*Updated on 2026-08-06*

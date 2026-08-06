@@ -23,6 +23,7 @@
 - [K'awiil — 雷電、王權與王朝延續之神](kawiil.md)
 - [Wayob（瓦尤布）— 馬雅伴靈、命運守護與超自然同伴](wayob-companion-spirits.md)
 - [基尼奇·卡克莫 (Kinich Kak Mo) — 伊察馬爾的火鸚鵡太陽神](Kinich-Kak-Mo.md)
+- [Ix Chebel Yax — 織繪與色彩的女神](Ix-Chebel-Yax.md)
 
 ---
-*Updated on 2026-08-01*
+*Updated on 2026-08-06*
