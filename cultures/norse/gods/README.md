@@ -10,6 +10,7 @@
 | [芙蕾雅](芙蕾雅.md) | 芙蕾雅 |
 | [霍德](霍德.md) | 霍德 |
 | [Freyr](Freyr.md) | Freyr |
+| [克瓦希爾](克瓦希爾.md) | 克瓦希爾 |
 
 ---
-*Auto-generated on 2026-06-26 02:07 UTC*
+*Auto-generated on 2026-08-07 02:10 UTC*
