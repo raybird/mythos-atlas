@@ -12,6 +12,7 @@
 | [薩滿入冥界取魂](薩滿入冥界取魂.md) | 薩滿入冥界取魂 |
 | [origin-of-shaman-drum](origin-of-shaman-drum.md) | origin-of-shaman-drum |
 | [地母與古樺樹](地母與古樺樹.md) | 地母與古樺樹 |
+| [伊瑟赫節的起源](伊瑟赫節的起源.md) | 伊瑟赫節的起源——艾雷·布圖爾與天上的第一個盛夏 |
 
 ---
-*Auto-generated on 2026-08-03 14:30 UTC*
+*Auto-generated on 2026-08-07 UTC*

@@ -16,6 +16,7 @@
 | [divine-smiths-forge-gods-comparative](divine-smiths-forge-gods-comparative.md) | 鍛造之神與鐵匠文化英雄跨文化比較 |
 | [shamanic-initiation-cross-cultural](shamanic-initiation-cross-cultural.md) | 薩滿入門疾病跨文化比較：靈性召喚的身體劇場 |
 | [薩滿入冥界跨文化比較](薩滿入冥界跨文化比較.md) | 薩滿入冥界：西伯利亞與歐亞冥界之旅神話比較 |
+| [火神與灶火崇拜跨文化比較](火神與灶火崇拜跨文化比較.md) | 火神與灶火崇拜跨文化比較：從雅庫特烏特·伊契特出發 |
 
 ---
-*Updated 2026-08-03*
+*Updated 2026-08-07*
