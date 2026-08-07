@@ -96,13 +96,13 @@ mythos-atlas/
 
 ## 📊 當前狀態
 
-> 自動更新於 2026-08-07 10:48 UTC
+> 自動更新於 2026-08-07 12:43 UTC
 
 | 類別 | 進度 |
 |------|------|
 | 文化體系 | 44/44 |
 | 跨文化主題 | 27/27 |
-| 分析文章 | 418 |
+| 分析文章 | 419 |
 | 已充實文化 | 44/44 |
 | 總頁面數 | 2914 |
 | 總執行次數 | 83 |
@@ -166,8 +166,9 @@ mythos-atlas/
 
 ## 📝 分析文章
 
-> 跨文化比較神話學分析文章。共 413 篇。
+> 跨文化比較神話學分析文章。共 419 篇。
 
+- [福運與財富之神：跨文化「求財」神祇比較研究](analyses/fortune-wealth-deities-comparative.md)
 - [葫蘆孕天：葫蘆與瓠瓜神話的跨文化比較](analyses/gourd-calabash-cosmic-womb-comparative.md)
 - [微小即宇宙：螞蟻神話的跨文化比較](analyses/ant-myths-microcosm-comparative.md)
 - [聖林跨文化神聖樹林崇拜比較分析](analyses/聖林跨文化神聖樹林崇拜比較分析.md)
@@ -191,7 +192,7 @@ mythos-atlas/
 - [Water Of Life Myths Comparative](analyses/water-of-life-myths-comparative.md)
 - [Warrior Women Amazons Comparative](analyses/warrior-women-amazons-comparative.md)
 
-... 及另外 391 篇
+... 及另外 396 篇
 
 <!-- ANALYSES_END -->
 
