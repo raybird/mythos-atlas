@@ -17,6 +17,7 @@
 | [roman-vs-egyptian-death-judgment](roman-vs-egyptian-death-judgment.md) | 跨文化比較：羅馬與埃及的死後審判神話 |
 | [vestal-virgins-cross-cultural](vestal-virgins-cross-cultural.md) | 維斯塔貞女與跨文化聖火守護者 (Vestal Virgins Cross-Cultural Comparison) |
 | [火與鍛造之神跨文化比較](火與鍛造之神跨文化比較.md) | 火與鍛造之神跨文化比較：從武爾坎努斯到奧貢 |
+| [太陽神與王權跨文化比較](太陽神與王權跨文化比較.md) | 太陽神與王權神聖化跨文化比較：從無敵太陽神到拉、因蒂與天照大神 |
 
 ---
 *Auto-generated on 2026-06-26 02:07 UTC*

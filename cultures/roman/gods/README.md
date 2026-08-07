@@ -10,6 +10,7 @@
 | [Neptune](Neptune.md) | Neptune |
 | [Pluto](Pluto.md) | Pluto |
 | [Saturn](Saturn.md) | Saturn |
+| [Sol-Invictus](Sol-Invictus.md) | 索爾·因維克圖斯（無敵太陽神） |
 | [Venus](Venus.md) | Venus |
 
 ---
