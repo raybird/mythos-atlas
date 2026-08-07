@@ -16,6 +16,7 @@
 - [spider goddess global](spider-goddess-global.md)
 - [sun moon global](sun-moon-global.md)
 - [water deity global](water-deity-global.md)
+- [地震與世界負載者跨文化比較](地震與世界負載者跨文化比較.md)
 
 ---
 *Generated on 2026-08-03 12:45 UTC*

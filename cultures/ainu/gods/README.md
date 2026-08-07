@@ -16,6 +16,7 @@
 - [Nusa kor kamuy](Nusa-kor-kamuy.md)
 - [Okikurmi](Okikurmi.md)
 - [Pokna moshiri kamuy](Pokna-moshiri-kamuy.md)
+- [Rera kamuy](Rera-kamuy.md)
 - [Rep un kamuy](Rep-un-kamuy.md)
 - [Turu kamuy](Turu-kamuy.md)
 - [Waka ush Kamuy](Waka-ush-Kamuy.md)
