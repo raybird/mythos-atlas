@@ -13,6 +13,7 @@
 - [mawu-lisa-creation](mawu-lisa-creation.md)
 - [sundiata-epic](sundiata-epic.md)
 - [吉庫尤與蒙比創世](吉庫尤與蒙比創世.md)
+- [狗與烏龜的訊息](狗與烏龜的訊息.md)
 - [太陽月亮住在天空](太陽月亮住在天空.md)
 - [桑人創世與螳螂](桑人創世與螳螂.md)
 - [死亡降臨世界](死亡降臨世界.md)

@@ -6,6 +6,7 @@
 - [plant-born-humanity-comparative](plant-born-humanity-comparative.md)
 - [remote-supreme-deity-pattern](remote-supreme-deity-pattern.md)
 - [west-african-creation-four-traditions](west-african-creation-four-traditions.md)
+- [大地母神與道德秩序跨文化比較](大地母神與道德秩序跨文化比較.md)
 - [洪水神話遍及各地](洪水神話遍及各地.md)
 - [祖先崇拜比較](祖先崇拜比較.md)
 - [造物主將語言分散](造物主將語言分散.md)

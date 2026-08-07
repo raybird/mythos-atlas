@@ -15,6 +15,7 @@
 - [Oya](Oya.md)
 - [Shango](Shango.md)
 - [Yemaya](Yemaya.md)
+- [阿拉 (Ala)](Ala.md)
 - [埃舒](埃舒.md)
 - [尼亞美](尼亞美.md)
 - [恩贊比姆彭古](恩贊比姆彭古.md)
