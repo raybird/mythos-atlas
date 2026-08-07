@@ -2585,7 +2585,8 @@
     "Aswang之夜",
     "Sarimanok神鳥傳說",
     "藍昂的一生",
-    "伊巴隆史詩:Handiong與蛇女Oryol"
+    "伊巴隆史詩:Handiong與蛇女Oryol",
+    "印達拉帕特拉與蘇萊曼"
    ],
    "order": 32,
    "timeline": {
@@ -2610,14 +2611,16 @@
      "indigenous-americas"
     ]
    },
-   "_stories": 7,
+   "_stories": 8,
    "gods": [
     "Mapulon",
-    "麥圭延"
+    "麥圭延",
+    "拉昂"
    ],
    "comparisons": [
     "東南亞英雄史詩比較",
-    "靈魂渡者跨文化比較"
+    "靈魂渡者跨文化比較",
+    "生命信物跨文化比較"
    ]
   },
   {

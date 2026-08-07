@@ -8,6 +8,7 @@
 | [mayari-apolaki-battle](mayari-apolaki-battle.md) | mayari-apolaki-battle |
 | [philippine-creation](philippine-creation.md) | philippine-creation |
 | [ibalong-handiong-oryol](ibalong-handiong-oryol.md) | 伊巴隆史詩：Handiong 與 Oryol |
+| [indarapatra-and-sulayman](indarapatra-and-sulayman.md) | 印達拉帕特拉與蘇萊曼：四怪獸的征服 |
 
 ---
 *Auto-generated on 2026-08-03 14:11 UTC*

@@ -18,6 +18,7 @@
 | [se-asian-heroic-epics-comparative](se-asian-heroic-epics-comparative.md) | 東南亞英雄史詩比較：Lam-ang、Thạch Sanh 與 Hang Tuah |
 | [supreme-creator-philippine](supreme-creator-philippine.md) | 至高創世神跨文化比較——巴塔拉與全球最高神 |
 | [東南亞至高神比較](東南亞至高神比較.md) | 東南亞至高神比較——Bathala、Phra Phrom 與 Yang di-Pertuan |
+| [life-token-comparative](life-token-comparative.md) | 生命信物跨文化比較——樹苗、火炬與外在靈魂 |
 
 ---
 *Auto-generated on 2026-08-03 14:11 UTC*
