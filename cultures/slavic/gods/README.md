@@ -23,6 +23,7 @@
 | [佐莉亞](佐莉亞.md) | 佐莉亞 |
 | [斯瓦羅日奇](斯瓦羅日奇.md) | 斯瓦羅日奇 |
 | [霍爾斯](霍爾斯.md) | 霍爾斯 |
+| [Svetovid](Svetovid.md) | Svetovid |
 
 ---
 *Auto-generated on 2026-08-02 14:14 UTC*

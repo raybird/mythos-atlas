@@ -18,6 +18,7 @@
 | [火鳥的羽毛](火鳥的羽毛.md) | 火鳥的羽毛 |
 | [科謝伊不死者](科謝伊不死者.md) | 科謝伊不死者 |
 | [青蛙公主](青蛙公主.md) | 青蛙公主 |
+| [svyatogor](svyatogor.md) | svyatogor |
 
 ---
 *Auto-generated on 2026-08-02 14:14 UTC*
