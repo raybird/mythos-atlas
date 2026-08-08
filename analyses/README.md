@@ -2,6 +2,7 @@
 
 > 跨文化比較神話學分析文章，探討各文明之間的深層連結。
 
+- [以智取勝：謎語對決與智慧競賽的跨文化神話學比較](riddle-duels-wisdom-contests-comparative.md)
 - [海面之下的另一重天空：海底王國與水下世界神話跨文化比較](underwater-kingdoms-undersea-worlds-comparative.md)
 - [石頭裡的天穹：綠松石神話跨文化比較](turquoise-myths-comparative.md)
 - [凝結的生命之息：玉神話跨文化比較](jade-myths-comparative.md)
@@ -144,4 +145,4 @@
 - [Sacred Sexuality & Divine Erotic Mysticism Comparative](sacred-sexuality-divine-eroticism-comparative.md)
 
 ---
-*Last updated 2026-08-05*
+*Last updated 2026-08-08*

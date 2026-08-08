@@ -96,13 +96,13 @@ mythos-atlas/
 
 ## 📊 當前狀態
 
-> 自動更新於 2026-08-07 20:13 UTC
+> 自動更新於 2026-08-08 00:39 UTC
 
 | 類別 | 進度 |
 |------|------|
 | 文化體系 | 44/44 |
 | 跨文化主題 | 27/27 |
-| 分析文章 | 421 |
+| 分析文章 | 422 |
 | 已充實文化 | 44/44 |
 | 總頁面數 | 2929 |
 | 總執行次數 | 83 |
@@ -166,8 +166,9 @@ mythos-atlas/
 
 ## 📝 分析文章
 
-> 跨文化比較神話學分析文章。共 421 篇。
+> 跨文化比較神話學分析文章。共 422 篇。
 
+- [以智取勝：謎語對決與智慧競賽的跨文化神話學比較](analyses/riddle-duels-wisdom-contests-comparative.md)
 - [囤水之魔：吞水、堵水與竊水母題的跨文化神話學比較](analyses/water-hoarding-motif-comparative.md)
 - [十三：完整之外的那一位——跨文化「數十三」神話與象徵比較研究](analyses/thirteen-number-boundary-myths-comparative.md)
 - [福運與財富之神：跨文化「求財」神祇比較研究](analyses/fortune-wealth-deities-comparative.md)
