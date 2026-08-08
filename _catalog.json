@@ -2156,7 +2156,8 @@
     "Akelarre女巫集會",
     "Tartalo與牧羊人",
     "聖馬丁奇基與魔鬼",
-    "摩爾人與巨石墓"
+    "摩爾人與巨石墓",
+    "巴約訥的木盒與紅褲精靈"
    ],
    "order": 27,
    "timeline": {
@@ -2186,14 +2187,16 @@
      "phoenician"
     ]
    },
-   "_stories": 6,
+   "_stories": 7,
    "gods": [
     "Inguma",
-    "Mairuak"
+    "Mairuak",
+    "Galtzagorriak"
    ],
    "comparisons": [
     "夜襲者跨文化比較",
-    "巨石建造者巨人跨文化比較"
+    "巨石建造者巨人跨文化比較",
+    "僕役精靈跨文化比較"
    ]
   },
   {

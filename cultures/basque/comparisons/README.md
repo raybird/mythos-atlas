@@ -19,6 +19,7 @@
 | [tartalo-cyclops](tartalo-cyclops.md) | tartalo-cyclops |
 | [wild-man-forest-guardian-comparison](wild-man-forest-guardian-comparison.md) | 森林主人：Basajaun 與全球野人／森林守護者比較 |
 | [witch-figures-european](witch-figures-european.md) | 歐洲神話中的女巫形象比較——從巴斯克 Sorgin 出發 |
+| [helper-spirits-labour-comparative](helper-spirits-labour-comparative.md) | 僕役精靈與勞務契約：紅褲精靈與跨文化家宅幫手比較 |
 
 ---
-*Auto-generated on 2026-06-26 02:07 UTC*
+*Last updated: 2026-08-08*
