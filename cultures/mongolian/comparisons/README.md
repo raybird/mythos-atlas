@@ -18,6 +18,7 @@
 | [薩滿宇宙三界跨文化比較](薩滿宇宙三界跨文化比較.md) | 薩滿宇宙三界跨文化比較 |
 | [薩滿教跨文化宇宙觀比較](薩滿教跨文化宇宙觀比較.md) | 薩滿教跨文化宇宙觀比較 |
 | [長生天與跨文化天神比較](長生天與跨文化天神比較.md) | 長生天與跨文化天神比較 |
+| [water-spirits-river-gods-comparative](water-spirits-river-gods-comparative.md) | 水靈與河神跨文化比較（蘆斯、龍王、那伽、克魯與希臘河神） |
 
 ---
-*Auto-generated on 2026-08-01*
+*Last updated: 2026-08-08*
