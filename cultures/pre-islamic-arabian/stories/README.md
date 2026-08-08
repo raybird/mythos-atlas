@@ -9,6 +9,7 @@
 | [ZarqaaAlYamama女先知](ZarqaaAlYamama女先知.md) | ZarqaaAlYamama女先知 |
 | [三女神與塔伊夫聖地](三女神與塔伊夫聖地.md) | 三女神與塔伊夫聖地 |
 | [懺悔青銅板：女僕與天之主](懺悔青銅板：女僕與天之主.md) | 懺悔青銅板：女僕與天之主 |
+| [isaf-na-ila](isaf-na-ila.md) | 以薩夫與納伊拉：聖所淫行與石化的雙像 |
 
 ---
-*Auto-generated on 2026-08-03 14:45 UTC*
+*Last updated: 2026-08-08*
