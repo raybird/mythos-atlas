@@ -10,6 +10,7 @@
 | [Supay](Supay.md) | Supay |
 | [Viracocha](Viracocha.md) | Viracocha |
 | [Kon](Kon.md) | Kon |
+| [阿馬魯](阿馬魯.md) | 阿馬魯 (Amaru) |
 
 ---
 *Auto-generated on 2026-06-26 02:07 UTC*

@@ -80,7 +80,8 @@
   "tupi-guarani",
   "vietnamese",
   "egyptian",
-  "greek"
+  "greek",
+  "incan"
  ],
  "analysis_log": [
   "sacrificial-creation",
@@ -114,5 +115,5 @@
   "triune-deities-comparative",
   "divine-chariots-solar-vehicles-comparative"
  ],
- "runs": 83
+ "runs": 84
 }
