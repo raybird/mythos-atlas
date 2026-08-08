@@ -102,7 +102,7 @@ mythos-atlas/
 |------|------|
 | 文化體系 | 44/44 |
 | 跨文化主題 | 27/27 |
-| 分析文章 | 422 |
+| 分析文章 | 423 |
 | 已充實文化 | 44/44 |
 | 總頁面數 | 2929 |
 | 總執行次數 | 83 |
@@ -166,8 +166,9 @@ mythos-atlas/
 
 ## 📝 分析文章
 
-> 跨文化比較神話學分析文章。共 422 篇。
+> 跨文化比較神話學分析文章。共 423 篇。
 
+- [土裡長出的祖先：塊根作物作為神聖主食與肉身轉化的跨文化神話比較](analyses/root-crops-tuber-sacred-staple-comparative.md)
 - [以智取勝：謎語對決與智慧競賽的跨文化神話學比較](analyses/riddle-duels-wisdom-contests-comparative.md)
 - [囤水之魔：吞水、堵水與竊水母題的跨文化神話學比較](analyses/water-hoarding-motif-comparative.md)
 - [十三：完整之外的那一位——跨文化「數十三」神話與象徵比較研究](analyses/thirteen-number-boundary-myths-comparative.md)
