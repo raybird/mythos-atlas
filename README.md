@@ -96,13 +96,13 @@ mythos-atlas/
 
 ## 📊 當前狀態
 
-> 自動更新於 2026-08-08 06:38 UTC
+> 自動更新於 2026-08-08 06:43 UTC
 
 | 類別 | 進度 |
 |------|------|
 | 文化體系 | 44/44 |
 | 跨文化主題 | 27/27 |
-| 分析文章 | 424 |
+| 分析文章 | 425 |
 | 已充實文化 | 44/44 |
 | 總頁面數 | 2932 |
 | 總執行次數 | 83 |
@@ -166,8 +166,9 @@ mythos-atlas/
 
 ## 📝 分析文章
 
-> 跨文化比較神話學分析文章。共 424 篇。
+> 跨文化比較神話學分析文章。共 425 篇。
 
+- [蟠桃與桃木：長生之果與驅邪之木的跨文化神話比較](analyses/peach-fruit-tree-myths-comparative.md)
 - [來自幽冥的豆粒：豆類的生死象徵與跨文化神話比較](analyses/bean-legume-myths-comparative.md)
 - [土裡長出的祖先：塊根作物作為神聖主食與肉身轉化的跨文化神話比較](analyses/root-crops-tuber-sacred-staple-comparative.md)
 - [以智取勝：謎語對決與智慧競賽的跨文化神話學比較](analyses/riddle-duels-wisdom-contests-comparative.md)
