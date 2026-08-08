@@ -82,7 +82,8 @@
   "egyptian",
   "greek",
   "incan",
-  "pre-islamic-arabian"
+  "pre-islamic-arabian",
+  "tibetan"
  ],
  "analysis_log": [
   "sacrificial-creation",
@@ -116,5 +117,5 @@
   "triune-deities-comparative",
   "divine-chariots-solar-vehicles-comparative"
  ],
- "runs": 84
+ "runs": 85
 }
