@@ -96,13 +96,13 @@ mythos-atlas/
 
 ## 📊 當前狀態
 
-> 自動更新於 2026-08-08 12:35 UTC
+> 自動更新於 2026-08-08 12:44 UTC
 
 | 類別 | 進度 |
 |------|------|
 | 文化體系 | 44/44 |
 | 跨文化主題 | 27/27 |
-| 分析文章 | 426 |
+| 分析文章 | 427 |
 | 已充實文化 | 44/44 |
 | 總頁面數 | 2941 |
 | 總執行次數 | 84 |
@@ -166,8 +166,9 @@ mythos-atlas/
 
 ## 📝 分析文章
 
-> 跨文化比較神話學分析文章。共 426 篇。
+> 跨文化比較神話學分析文章。共 427 篇。
 
+- [守護者與天堂花園：香料起源神話與「香料之路」的跨文化想像](analyses/spice-origin-myths-trade-route-comparative.md)
 - [白色聖獸：跨文化神話中的白獸母題與祥瑞邏輯](analyses/white-sacred-animals-comparative.md)
 - [蟠桃與桃木：長生之果與驅邪之木的跨文化神話比較](analyses/peach-fruit-tree-myths-comparative.md)
 - [來自幽冥的豆粒：豆類的生死象徵與跨文化神話比較](analyses/bean-legume-myths-comparative.md)
