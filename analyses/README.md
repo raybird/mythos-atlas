@@ -144,6 +144,7 @@
 - [Sacred Anointing Oil Comparative](sacred-anointing-oil-myths-comparative.md)
 - [Sacred Spirals Mythology Comparative](sacred-spirals-mythology-comparative.md)
 - [Sacred Sexuality & Divine Erotic Mysticism Comparative](sacred-sexuality-divine-eroticism-comparative.md)
+- [白色聖獸：跨文化神話中的白獸母題與祥瑞邏輯](white-sacred-animals-comparative.md)
 
 ---
 *Last updated 2026-08-08*
