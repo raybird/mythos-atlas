@@ -22,6 +22,7 @@
 | [Underworld-Deities](Underworld-Deities.md) | 冥界諸神 |
 | [Uryzmag](Uryzmag.md) | Uryzmag — 納爾特智者領袖 |
 | [Xwycau](Xwycau.md) | Xwycau — 至高造物主 |
+| [Kurdalagon](Kurdalagon.md) | Kurdalagon — 天界鐵匠 |
 
 ---
 *Last updated: 2026-08-03*

@@ -18,6 +18,7 @@
 | [Sosruko 與 Balsag 之輪](sosruko-wheel-balsag.md) | Sosruko 與 Balsag 之輪 |
 | [Sosruko 之死](sosruko-death.md) | Sosruko 之死 |
 | [敘爾東偷太陽](syrdon-steals-sun.md) | 敘爾東偷太陽 |
+| [庫爾達拉貢的熔爐](kurdalagon-forge-batradz-blade.md) | 庫爾達拉貢的熔爐：巴特拉德的鋼刃 |
 
 ---
 *Last updated: 2026-08-03*
