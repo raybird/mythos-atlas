@@ -145,8 +145,9 @@
 - [Sacred Spirals Mythology Comparative](sacred-spirals-mythology-comparative.md)
 - [Sacred Sexuality & Divine Erotic Mysticism Comparative](sacred-sexuality-divine-eroticism-comparative.md)
 - [守護者與天堂花園：香料起源神話與「香料之路」的跨文化想像](spice-origin-myths-trade-route-comparative.md)
+- [諸神之木：雪松／香柏作為天界之樹與神聖建材的跨文化神話比較](cedar-sacred-tree-myths-comparative.md)
 - [桂冠與折桂：月桂／桂樹作為榮譽與功名之樹的跨文化神話比較](laurel-moon-cassia-honor-tree-comparative.md)
 - [白色聖獸：跨文化神話中的白獸母題與祥瑞邏輯](white-sacred-animals-comparative.md)
 
 ---
-*Last updated 2026-08-08*
+*Last updated 2026-08-09*
