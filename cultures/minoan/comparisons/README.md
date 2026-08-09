@@ -12,6 +12,7 @@
 | [minoan-afterlife-cross-cultural](minoan-afterlife-cross-cultural.md) | minoan-afterlife-cross-cultural |
 | [minoan-female-religion-matrilineal](minoan-female-religion-matrilineal.md) | minoan-female-religion-matrilineal |
 | [minoan-sacred-caves-comparative](minoan-sacred-caves-comparative.md) | minoan-sacred-caves-comparative |
+| [mountain-peak-sanctuaries](mountain-peak-sanctuaries.md) | mountain-peak-sanctuaries |
 | [palace-religion-egyptian-comparative](palace-religion-egyptian-comparative.md) | palace-religion-egyptian-comparative |
 | [palace-temple-economy-comparison](palace-temple-economy-comparison.md) | palace-temple-economy-comparison |
 | [riddle-thread-puzzle-comparative](riddle-thread-puzzle-comparative.md) | riddle-thread-puzzle-comparative |
@@ -21,4 +22,4 @@
 | [雙斧聖器跨文化比較](雙斧聖器跨文化比較.md) | 雙斧聖器跨文化比較 |
 
 ---
-*Auto-generated on 2026-08-02 10:52 UTC*
+*Auto-generated on 2026-08-09 02:30 UTC*

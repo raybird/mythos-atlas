@@ -6,6 +6,7 @@
 | [birth-of-zeus-crete](birth-of-zeus-crete.md) | birth-of-zeus-crete |
 | [birth-of-zeus](birth-of-zeus.md) | birth-of-zeus |
 | [bull-leaping](bull-leaping.md) | bull-leaping |
+| [cretan-tomb-of-zeus](cretan-tomb-of-zeus.md) | cretan-tomb-of-zeus |
 | [daedalus-and-icarus](daedalus-and-icarus.md) | daedalus-and-icarus |
 | [daedalus-labyrinth](daedalus-labyrinth.md) | daedalus-labyrinth |
 | [dionysus-honey-crete](dionysus-honey-crete.md) | dionysus-honey-crete |
@@ -21,4 +22,4 @@
 | [theseus-minotaur](theseus-minotaur.md) | theseus-minotaur |
 
 ---
-*Auto-generated on 2026-08-02 10:52 UTC*
+*Auto-generated on 2026-08-09 02:30 UTC*

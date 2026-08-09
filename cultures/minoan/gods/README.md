@@ -9,6 +9,7 @@
 | [Europa](Europa.md) | Europa |
 | [Karmas](Karmas.md) | Karmas |
 | [Minoan-Deities](Minoan-Deities.md) | Minoan-Deities |
+| [Minoan-Genius](Minoan-Genius.md) | Minoan-Genius |
 | [Minoan-Pillar-Gods](Minoan-Pillar-Gods.md) | Minoan-Pillar-Gods |
 | [Minoan-Sea-Deities](Minoan-Sea-Deities.md) | Minoan-Sea-Deities |
 | [Minoan-Tree-Goddess](Minoan-Tree-Goddess.md) | Minoan-Tree-Goddess |
@@ -24,4 +25,4 @@
 | [diktynna](diktynna.md) | diktynna |
 
 ---
-*Auto-generated on 2026-08-02 10:52 UTC*
+*Auto-generated on 2026-08-09 02:30 UTC*
