@@ -2,6 +2,7 @@
 
 > 跨文化比較神話學分析文章，探討各文明之間的深層連結。
 
+- [風平浪靜與笑聲破曉：翠鳥跨文化神話比較](kingfisher-halcyon-myths-comparative.md)
 - [南天極的指針：南十字座跨文化神話比較](southern-cross-constellation-myths-comparative.md)
 - [虹橋與虹蛇：彩虹作為天地通道的跨文化神話比較](rainbow-myths-comparative.md)
 - [倒反即神聖：跨文化神話中的神聖小丑與儀式逆反](sacred-clowns-ritual-inversion-comparative.md)
