@@ -83,13 +83,14 @@
   "greek",
   "incan",
   "pre-islamic-arabian",
-   "tibetan",
-   "chinese",
-   "mesopotamian",
-   "nubian",
-   "minoan"
-  ],
-  "analysis_log": [
+  "tibetan",
+  "chinese",
+  "mesopotamian",
+  "nubian",
+  "minoan",
+  "mapuche"
+ ],
+ "analysis_log": [
   "sacrificial-creation",
   "origin-of-death",
   "shamanism-in-myth",
@@ -121,5 +122,5 @@
   "triune-deities-comparative",
   "divine-chariots-solar-vehicles-comparative"
  ],
- "runs": 88
+ "runs": 89
 }

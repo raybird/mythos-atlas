@@ -11,6 +11,7 @@
 | [El-Cuero湖中怪獸](El-Cuero湖中怪獸.md) | El-Cuero湖中怪獸 |
 | [Küyen七日之瘡](Küyen七日之瘡.md) | Küyen七日之瘡 |
 | [Lautaro智取西班牙人](Lautaro智取西班牙人.md) | Lautaro智取西班牙人 |
+| [Machi降伏水狐蛇](Machi降伏水狐蛇.md) | Machi降伏水狐蛇 |
 | [Trauco森林矮人](Trauco森林矮人.md) | Trauco森林矮人 |
 | [Trentren與Kai-Kai大戰](Trentren與Kai-Kai大戰.md) | Trentren與Kai-Kai大戰 |
 | [Wünelfe的贈火](Wünelfe的贈火.md) | Wünelfe的贈火 |
@@ -23,4 +24,4 @@
 | [創世神話](創世神話.md) | 創世神話 |
 
 ---
-*Auto-generated on 2026-08-02 08:24 UTC*
+*Auto-generated on 2026-08-09 08:09 UTC*

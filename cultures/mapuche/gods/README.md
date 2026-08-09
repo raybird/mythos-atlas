@@ -13,6 +13,7 @@
 | [Machi](Machi.md) | Machi |
 | [Ngen](Ngen.md) | Ngen |
 | [Ngenechén](Ngenechén.md) | Ngenechén |
+| [Nguruvilu](Nguruvilu.md) | Nguruvilu |
 | [Peripillán](Peripillán.md) | Peripillán |
 | [Pillán](Pillán.md) | Pillán |
 | [Pincoya](Pincoya.md) | Pincoya |
@@ -23,4 +24,4 @@
 | [küyen](küyen.md) | küyen |
 
 ---
-*Auto-generated on 2026-08-02 08:24 UTC*
+*Auto-generated on 2026-08-09 08:09 UTC*
