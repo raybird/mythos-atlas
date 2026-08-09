@@ -20,6 +20,7 @@
 | [solar-youth-deities](solar-youth-deities.md) | solar-youth-deities |
 | [war-goddesses-comparative](war-goddesses-comparative.md) | war-goddesses-comparative |
 | [warrior-queens-global](warrior-queens-global.md) | warrior-queens-global |
+| [god-wives-temple-women-comparative](god-wives-temple-women-comparative.md) | god-wives-temple-women-comparative |
 
 ---
-*Last updated 2026-07-31*
+*Last updated 2026-08-09*
