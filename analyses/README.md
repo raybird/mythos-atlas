@@ -2,6 +2,7 @@
 
 > 跨文化比較神話學分析文章，探討各文明之間的深層連結。
 
+- [倒反即神聖：跨文化神話中的神聖小丑與儀式逆反](sacred-clowns-ritual-inversion-comparative.md)
 - [以智取勝：謎語對決與智慧競賽的跨文化神話學比較](riddle-duels-wisdom-contests-comparative.md)
 - [蟠桃與桃木：長生之果與驅邪之木的跨文化神話比較](peach-fruit-tree-myths-comparative.md)
 - [海面之下的另一重天空：海底王國與水下世界神話跨文化比較](underwater-kingdoms-undersea-worlds-comparative.md)
