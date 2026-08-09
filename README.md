@@ -96,13 +96,13 @@ mythos-atlas/
 
 ## 📊 當前狀態
 
-> 自動更新於 2026-08-09 02:16 UTC
+> 自動更新於 2026-08-09 06:44 UTC
 
 | 類別 | 進度 |
 |------|------|
 | 文化體系 | 44/44 |
 | 跨文化主題 | 27/27 |
-| 分析文章 | 431 |
+| 分析文章 | 432 |
 | 已充實文化 | 44/44 |
 | 總頁面數 | 2959 |
 | 總執行次數 | 88 |
@@ -166,8 +166,9 @@ mythos-atlas/
 
 ## 📝 分析文章
 
-> 跨文化比較神話學分析文章。共 431 篇。
+> 跨文化比較神話學分析文章。共 432 篇。
 
+- [南天極的指針：南十字座跨文化神話比較](analyses/southern-cross-constellation-myths-comparative.md)
 - [倒反即神聖：跨文化神話中的神聖小丑與儀式逆反](analyses/sacred-clowns-ritual-inversion-comparative.md)
 - [虹橋與虹蛇：彩虹作為天地通道的跨文化神話比較](analyses/rainbow-myths-comparative.md)
 - [聖林跨文化神聖神祇崇拜比較](analyses/聖林跨文化神聖樹林崇拜比較分析.md)
