@@ -153,9 +153,9 @@ mythos-atlas/
 | [前伊斯蘭阿拉伯神話](cultures/pre-islamic-arabian/) | 阿拉伯半島 | 21 | 17 | 18 |
 | [毛利神話](cultures/maori/) | 紐西蘭—玻里尼西亞三角 | 22 | 17 | 17 |
 | [斯基泰神話](cultures/scythian/) | 歐亞草原—黑海北岸至阿爾泰 | 23 | 16 | 18 |
-| [米諾斯神話](cultures/minoan/) | 愛琴海—克里特島 | 20 | 17 | 17 |
-| [努比亞/庫什神話](cultures/nubian/) | 東北非—尼羅河上游/蘇丹 | 19 | 17 | 18 |
-| [馬普切神話](cultures/mapuche/) | 南美洲—智利/阿根廷 | 20 | 20 | 15 |
+| [米諾斯神話](cultures/minoan/) | 愛琴海—克里特島 | 21 | 18 | 18 |
+| [努比亞/庫什神話](cultures/nubian/) | 東北非—尼羅河上游/蘇丹 | 20 | 18 | 19 |
+| [馬普切神話](cultures/mapuche/) | 南美洲—智利/阿根廷 | 21 | 21 | 16 |
 | [薩米神話](cultures/sami/) | 北歐—芬諾斯堪的亞 | 20 | 19 | 17 |
 | [西伯利亞神話](cultures/siberian/) | 西伯利亞—通古斯/雅庫特/楚科奇 | 20 | 20 | 15 |
 | [圖皮-瓜拉尼神話](cultures/tupi-guarani/) | 南美洲—巴西/巴拉圭/玻利維亞 | 21 | 20 | 19 |
