@@ -18,6 +18,7 @@
 | [巴力與摩特](巴力與摩特.md) | 巴力與摩特 |
 | [阿喀特史詩](阿喀特史詩.md) | 阿喀特史詩 |
 | [阿斯塔特尋夫](阿斯塔特尋夫.md) | 阿斯塔特尋夫 |
+| [皮格馬利翁與伽拉忒亞](pygmalion-and-galatea.md) | 皮格馬利翁與伽拉忒亞 (Pygmalion and Galatea) |
 
 ---
 *Auto-generated on 2026-08-02 02:08 UTC*

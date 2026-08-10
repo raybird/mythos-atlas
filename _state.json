@@ -90,7 +90,8 @@
   "minoan",
   "mapuche",
   "greek",
-  "egyptian"
+  "egyptian",
+  "phoenician"
  ],
  "analysis_log": [
   "sacrificial-creation",
@@ -124,5 +125,5 @@
   "triune-deities-comparative",
   "divine-chariots-solar-vehicles-comparative"
  ],
- "runs": 91
+ "runs": 92
 }
