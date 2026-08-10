@@ -96,7 +96,7 @@ mythos-atlas/
 
 ## 📊 當前狀態
 
-> 自動更新於 2026-08-10 00:41 UTC
+> 自動更新於 2026-08-10 00:49 UTC
 
 | 類別 | 進度 |
 |------|------|
@@ -174,6 +174,7 @@ mythos-atlas/
 - [倒反即神聖：跨文化神話中的神聖小丑與儀式逆反](analyses/sacred-clowns-ritual-inversion-comparative.md)
 - [虹橋與虹蛇：彩虹作為天地通道的跨文化神話比較](analyses/rainbow-myths-comparative.md)
 - [聖林跨文化神聖神祇崇拜比較](analyses/聖林跨文化神聖樹林崇拜比較分析.md)
+- [神聖之笛：跨文化神話中的管樂禁忌、誘惑與吹禪](analyses/sacred-flutes-wind-instruments-comparative.md)
 - [Zodiac Astrology Myths Comparative](analyses/zodiac-astrology-myths-comparative.md)
 - [Wounded Sovereign Fisher King Comparative](analyses/wounded-sovereign-fisher-king-comparative.md)
 - [Wounded Healer Comparative](analyses/wounded-healer-comparative.md)
