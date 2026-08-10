@@ -19,5 +19,6 @@
 | [Surya](Surya.md) | Surya |
 | [Varuna](Varuna.md) | Varuna |
 
+| [維斯瓦卡爾曼](維斯瓦卡爾曼.md) | 維斯瓦卡爾曼 |
 ---
-*Updated 2026-07-16*
+*Updated 2026-08-11

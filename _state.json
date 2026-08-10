@@ -95,7 +95,8 @@
   "norse",
   "sumerian",
   "japanese",
-  "mayan"
+  "mayan",
+  "hindu"
  ],
  "analysis_log": [
   "sacrificial-creation",
@@ -129,5 +130,5 @@
   "triune-deities-comparative",
   "divine-chariots-solar-vehicles-comparative"
  ],
- "runs": 96
+ "runs": 97
 }
