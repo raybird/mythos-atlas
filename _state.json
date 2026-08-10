@@ -91,7 +91,8 @@
   "mapuche",
   "greek",
   "egyptian",
-  "phoenician"
+  "phoenician",
+  "norse"
  ],
  "analysis_log": [
   "sacrificial-creation",
@@ -125,5 +126,5 @@
   "triune-deities-comparative",
   "divine-chariots-solar-vehicles-comparative"
  ],
- "runs": 92
+ "runs": 93
 }

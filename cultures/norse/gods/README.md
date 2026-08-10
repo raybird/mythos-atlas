@@ -11,6 +11,7 @@
 | [霍德](霍德.md) | 霍德 |
 | [Freyr](Freyr.md) | Freyr |
 | [克瓦希爾](克瓦希爾.md) | 克瓦希爾 |
+| [耶夢加得](耶夢加得.md) | 耶夢加得 (Jörmungandr) |
 
 ---
 *Auto-generated on 2026-08-07 02:10 UTC*

@@ -8,6 +8,7 @@
 | [諸神黃昏預言與應驗](諸神黃昏預言與應驗.md) | 諸神黃昏預言與應驗 |
 | [skirnir-gerd-freyr-love](skirnir-gerd-freyr-love.md) | skirnir-gerd-freyr-love |
 | [阿斯克與恩布拉](阿斯克與恩布拉.md) | 阿斯克與恩布拉 |
+| [索爾的烏特迦洛奇之旅](索爾的烏特迦洛奇之旅.md) | 索爾的烏特迦洛奇之旅 (Thor's Journey to Útgarða-Loki) |
 
 ---
 *Auto-generated on 2026-08-07 02:10 UTC*
