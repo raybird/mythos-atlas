@@ -24,6 +24,7 @@
 - [Wayob（瓦尤布）— 馬雅伴靈、命運守護與超自然同伴](wayob-companion-spirits.md)
 - [基尼奇·卡克莫 (Kinich Kak Mo) — 伊察馬爾的火鸚鵡太陽神](Kinich-Kak-Mo.md)
 - [Ix Chebel Yax — 織繪與色彩的女神](Ix-Chebel-Yax.md)
+- [阿坎 (Acan) — 醉態、烈酒、死亡與疾病之神](阿坎.md)
 
 ---
-*Updated on 2026-08-06*
+*Updated on 2026-08-10*

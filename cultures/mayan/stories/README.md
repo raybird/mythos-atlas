@@ -21,6 +21,7 @@
 - [玉米神的斬首 — 西巴爾巴的六重考驗與枯樹上的葫蘆](maize-god-beheading.md)
 - [火鸚鵡的降臨 — 伊察馬爾的祭品 (The Fire Macaw's Descent at Izamal)](kinich-kak-mo-descent-izamal.md)
 - [四百少年與昴宿星 (The Four Hundred Boys and the Pleiades)](four-hundred-boys-pleiades.md)
+- [蘇尤亞謎語 — 卡特恩輪替的王權試煉 (The Zuyua Riddles)](zuyua-riddles.md)
 
 ---
-*Updated on 2026-08-06*
+*Updated on 2026-08-10*
