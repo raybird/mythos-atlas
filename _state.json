@@ -93,7 +93,8 @@
   "egyptian",
   "phoenician",
   "norse",
-  "sumerian"
+  "sumerian",
+  "japanese"
  ],
  "analysis_log": [
   "sacrificial-creation",
@@ -127,5 +128,5 @@
   "triune-deities-comparative",
   "divine-chariots-solar-vehicles-comparative"
  ],
- "runs": 94
+ "runs": 95
 }
