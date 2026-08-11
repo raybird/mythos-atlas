@@ -12,6 +12,7 @@
 | [Saturn](Saturn.md) | Saturn |
 | [Sol-Invictus](Sol-Invictus.md) | 索爾·因維克圖斯（無敵太陽神） |
 | [Venus](Venus.md) | Venus |
+| [Pietas](Pietas.md) | 皮埃塔斯（Pietas，虔敬女神） |
 
 ---
 *Auto-generated on 2026-06-26 02:07 UTC*
