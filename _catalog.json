@@ -2284,7 +2284,8 @@
     "Velnias與Dievas造地",
     "Laima決定嬰兒命運",
     "Egle蛇王后",
-    "Jūratė與Kastytis(琥珀傳說)"
+    "Jūratė與Kastytis(琥珀傳說)",
+    "死神作教母(Mirtis kūma)"
    ],
    "order": 28,
    "timeline": {
@@ -2314,13 +2315,15 @@
      "finno-ugric"
     ]
    },
-   "_stories": 6,
+   "_stories": 7,
    "gods": [
     "奧絲泰亞",
-    "瓦卡琳涅"
+    "瓦卡琳涅",
+    "Giltinė"
    ],
    "comparisons": [
-    "晨星與暮星雙星之神跨文化比較"
+    "晨星與暮星雙星之神跨文化比較",
+    "Giltinė死亡女神與跨文化死亡擬人比較"
    ]
   },
   {

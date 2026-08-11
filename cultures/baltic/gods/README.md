@@ -7,6 +7,7 @@
 | [Ašvieniai](Ašvieniai.md) | Ašvieniai |
 | [Dievas](Dievas.md) | Dievas |
 | [Gabija](Gabija.md) | Gabija |
+| [Giltinė](Giltinė.md) | Giltinė |
 | [Jumis](Jumis.md) | Jumis |
 | [Jūras-māte](Jūras-māte.md) | Jūras-māte |
 | [Laima](Laima.md) | Laima |
@@ -24,4 +25,4 @@
 | [奧什琳涅](奧什琳涅.md) | 奧什琳涅 |
 
 ---
-*Auto-generated on 2026-08-06 08:03 UTC*
+*Updated 2026-08-11*
