@@ -96,13 +96,13 @@ mythos-atlas/
 
 ## 📊 當前狀態
 
-> 自動更新於 2026-08-11 08:37 UTC
+> 自動更新於 2026-08-11 12:42 UTC
 
 | 類別 | 進度 |
 |------|------|
 | 文化體系 | 44/44 |
 | 跨文化主題 | 27/27 |
-| 分析文章 | 441 |
+| 分析文章 | 442 |
 | 已充實文化 | 44/44 |
 | 總頁面數 | 2998 |
 | 總執行次數 | 102 |
@@ -166,8 +166,9 @@ mythos-atlas/
 
 ## 📝 分析文章
 
-> 跨文化比較神話學分析文章。共 441 篇。
+> 跨文化比較神話學分析文章。共 442 篇。
 
+- [柏樹：死亡與不朽的常青之樹——跨文化比較神話研究](analyses/cypress-tree-death-immortality-comparative.md)
 - [逐蠅之神與蒼蠅之王：蒼蠅作為驅疫、神罰與榮耀的跨文化神話比較](analyses/fly-averter-and-lord-of-flies-comparative.md)
 - [神聖友誼：跨文化神話與史詩中的英雄同儕母題](analyses/sacred-friendship-heroic-companion-comparative.md)
 - [時間的神格化：Chronos、Zurvān、Kāla 與 Neheh-Djet 的跨文化比較研究](analyses/deified-time-chronos-zurvan-kala-comparative.md)
