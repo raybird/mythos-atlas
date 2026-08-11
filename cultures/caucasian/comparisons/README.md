@@ -19,6 +19,7 @@
 | [雙胞胎相殘比較](twin-fratricide-comparative.md) | 雙胞胎相殘比較 |
 | [狼神跨文化比較](wolf-gods-cross-culture.md) | 狼神跨文化比較 |
 | [天界鐵匠比較](divine-smith-comparative.md) | 天界鐵匠跨文化比較 |
+| [會說話的神馬跨文化比較](talking-horse-cross-cultural.md) | 會說話的神馬跨文化比較 |
 
 ---
 *Last updated: 2026-08-03*
