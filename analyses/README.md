@@ -153,6 +153,7 @@
 - [諸神之木：雪松／香柏作為天界之樹與神聖建材的跨文化神話比較](cedar-sacred-tree-myths-comparative.md)
 - [桂冠與折桂：月桂／桂樹作為榮譽與功名之樹的跨文化神話比較](laurel-moon-cassia-honor-tree-comparative.md)
 - [白色聖獸：跨文化神話中的白獸母題與祥瑞邏輯](white-sacred-animals-comparative.md)
+- [驅蝗之神與蝗蟲天軍：蝗災在跨文化神話中的神格化與象徵比較](locust-plagues-myths-comparative.md)
 
 ---
-*Last updated 2026-08-09*
+*Last updated 2026-08-12*
