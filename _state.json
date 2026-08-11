@@ -98,7 +98,8 @@
     "mayan",
     "hindu",
     "siberian",
-    "baltic"
+    "baltic",
+    "korean"
   ],
   "analysis_log": [
     "sacrificial-creation",
@@ -135,5 +136,5 @@
     "sacred-friendship-heroic-companion-comparative",
     "fly-averter-and-lord-of-flies-comparative"
   ],
-  "runs": 101
+  "runs": 102
 }
