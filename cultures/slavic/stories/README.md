@@ -19,6 +19,7 @@
 | [科謝伊不死者](科謝伊不死者.md) | 科謝伊不死者 |
 | [青蛙公主](青蛙公主.md) | 青蛙公主 |
 | [svyatogor](svyatogor.md) | svyatogor |
+| [vodyanoy-miller-pact](vodyanoy-miller-pact.md) | 磨坊主與水靈的契約：黑公雞的價碼 |
 
 ---
 *Auto-generated on 2026-08-02 14:14 UTC*

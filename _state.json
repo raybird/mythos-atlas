@@ -100,7 +100,8 @@
     "siberian",
     "baltic",
     "korean",
-    "roman"
+    "roman",
+    "slavic"
   ],
   "analysis_log": [
     "sacrificial-creation",
@@ -138,5 +139,5 @@
     "fly-averter-and-lord-of-flies-comparative",
     "cypress-tree-death-immortality-comparative"
   ],
-  "runs": 106
+  "runs": 107
 }
