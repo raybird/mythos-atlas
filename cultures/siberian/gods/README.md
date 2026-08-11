@@ -13,6 +13,7 @@
 | [Ajysyt](Ajysyt.md) | Ajysyt |
 | [安·阿拉赫欽·霍屯](安·阿拉赫欽·霍屯.md) | 安·阿拉赫欽·霍屯（Aan Alakhchyn Khotun） |
 | [烏特·伊契特](烏特·伊契特.md) | 烏特·伊契特（Uot Iččite）— 雅庫特火神／爐火之主 |
+| [Kheglen](Kheglen.md) | Kheglen / Heglen（宇宙麋鹿） |
 
 ---
-*Auto-generated on 2026-08-07 UTC*
+*Updated 2026-08-11*

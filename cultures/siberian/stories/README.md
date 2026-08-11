@@ -13,6 +13,7 @@
 | [origin-of-shaman-drum](origin-of-shaman-drum.md) | origin-of-shaman-drum |
 | [地母與古樺樹](地母與古樺樹.md) | 地母與古樺樹 |
 | [伊瑟赫節的起源](伊瑟赫節的起源.md) | 伊瑟赫節的起源——艾雷·布圖爾與天上的第一個盛夏 |
+| [宇宙麋鹿與天獵](cosmic-hunt-siberian.md) | 天獵：宇宙麋鹿與天空獵人的追逐 |
 
 ---
-*Auto-generated on 2026-08-07 UTC*
+*Updated 2026-08-11*

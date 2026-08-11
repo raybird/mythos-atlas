@@ -17,6 +17,7 @@
 | [shamanic-initiation-cross-cultural](shamanic-initiation-cross-cultural.md) | 薩滿入門疾病跨文化比較：靈性召喚的身體劇場 |
 | [薩滿入冥界跨文化比較](薩滿入冥界跨文化比較.md) | 薩滿入冥界：西伯利亞與歐亞冥界之旅神話比較 |
 | [火神與灶火崇拜跨文化比較](火神與灶火崇拜跨文化比較.md) | 火神與灶火崇拜跨文化比較：從雅庫特烏特·伊契特出發 |
+| [宇宙獵的西伯利亞變體](siberian-cosmic-hunt-variants.md) | 宇宙獵的西伯利亞變體：通古斯、雅庫特、楚科奇與薩米的天獵比較 |
 
 ---
-*Updated 2026-08-07*
+*Updated 2026-08-11*
