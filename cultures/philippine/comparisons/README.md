@@ -19,6 +19,7 @@
 | [supreme-creator-philippine](supreme-creator-philippine.md) | 至高創世神跨文化比較——巴塔拉與全球最高神 |
 | [東南亞至高神比較](東南亞至高神比較.md) | 東南亞至高神比較——Bathala、Phra Phrom 與 Yang di-Pertuan |
 | [life-token-comparative](life-token-comparative.md) | 生命信物跨文化比較——樹苗、火炬與外在靈魂 |
+| [sacred-grain-cross-cultural](sacred-grain-cross-cultural.md) | 神聖穀物與稻米起源跨文化比較——稻、麥、玉米與大麥 |
 
 ---
 *Auto-generated on 2026-08-03 14:11 UTC*

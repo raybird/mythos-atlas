@@ -11,6 +11,7 @@
 | [Sidapa](Sidapa.md) | Sidapa |
 | [Magwayen](Magwayen.md) | Magwayen（麥圭延） |
 | [Laon](Laon.md) | Laon（拉昂／拉勞恩） |
+| [Lakambini](Lakambini.md) | Lakambini（拉坎比尼，純潔／宴饗／抗貪食之神） |
 
 ---
 *Auto-generated on 2026-08-03 14:11 UTC*
