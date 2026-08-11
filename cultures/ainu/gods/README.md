@@ -12,6 +12,7 @@
 - [Kanna Kamuy](Kanna-Kamuy.md)
 - [Kim un kamuy](Kim-un-kamuy.md)
 - [Kotan kar kamuy](Kotan-kar-kamuy.md)
+- [Kotan kor kamuy](Kotan-kor-kamuy.md)
 - [Kunnecup kamuy](Kunnecup-kamuy.md)
 - [Nusa kor kamuy](Nusa-kor-kamuy.md)
 - [Okikurmi](Okikurmi.md)

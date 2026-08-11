@@ -13,6 +13,7 @@
 - [owl and humans promise](owl-and-humans-promise.md)
 - [rep un kamuy saves village](rep-un-kamuy-saves-village.md)
 - [salmon journey](salmon-journey.md)
+- [samayunkur hero cycle](samayunkur-hero-cycle.md)
 - [star girl crane](star-girl-crane.md)
 - [sun moon swap](sun-moon-swap.md)
 - [yushkep kamuy and the demonic suitor](yushkep-kamuy-and-the-demonic-suitor.md)
