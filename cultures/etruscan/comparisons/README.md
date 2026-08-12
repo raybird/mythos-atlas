@@ -19,6 +19,7 @@
 | [Apulu-預言之神跨文化比較](Apulu-預言之神跨文化比較.md) | Apulu-預言之神跨文化比較 |
 | [Hercle-英雄成神跨文化比較](Hercle-英雄成神跨文化比較.md) | Hercle-英雄成神跨文化比較 |
 | [Culsans-與-Selvans-門檻與邊界之神跨文化比較](Culsans-與-Selvans-門檻與邊界之神跨文化比較.md) | Culsans-與-Selvans-門檻與邊界之神跨文化比較 |
+| [fire-walking-wolf-priests-comparative](fire-walking-wolf-priests-comparative.md) | 火行祭司與狼神崇拜跨文化比較 |
 
 ---
 *Auto-generated on 2026-06-26 02:07 UTC*

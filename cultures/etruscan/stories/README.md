@@ -20,6 +20,7 @@
 | [the-judgment-of-morta](the-judgment-of-morta.md) | the-judgment-of-morta |
 | [the-lymphoma-oracle](the-lymphoma-oracle.md) | the-lymphoma-oracle |
 | [vegoia-prophecy](vegoia-prophecy.md) | vegoia-prophecy |
+| [hirpi-sorani-fire-walking](hirpi-sorani-fire-walking.md) | 希爾皮·索拉尼的狼祭火行 — 索拉克特山踏火祭司的起源 |
 
 ---
 *Auto-generated on 2026-06-26 02:07 UTC*

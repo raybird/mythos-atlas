@@ -105,7 +105,8 @@
   "caucasian",
   "philippine",
   "sami",
-  "inuit"
+  "inuit",
+  "etruscan"
  ],
  "analysis_log": [
   "sacrificial-creation",
@@ -146,5 +147,5 @@
   "divine-incest-sibling-marriage-comparative",
   "merchants-markets-trade-gods-comparative"
  ],
- "runs": 114
+ "runs": 115
 }

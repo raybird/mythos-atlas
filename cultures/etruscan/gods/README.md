@@ -17,6 +17,7 @@
 | [Phersipnai](Phersipnai.md) | Phersipnai |
 | [Selvans](Selvans.md) | Selvans |
 | [Sethlans](Sethlans.md) | Sethlans |
+| [Suri-Soranus](Suri-Soranus.md) | Śuri / Soranus — 冥界火狼神 |
 | [Tinia](Tinia.md) | Tinia |
 | [Turan](Turan.md) | Turan |
 | [Turms](Turms.md) | Turms |
