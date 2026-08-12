@@ -8,6 +8,7 @@
 | [northern-lights-origin](northern-lights-origin.md) | northern-lights-origin |
 | [stalo-giant](stalo-giant.md) | stalo-giant |
 | [reindeer-origin](reindeer-origin.md) | reindeer-origin |
+| [ruohtta-plague-arrival](ruohtta-plague-arrival.md) | 魯奧塔的馬蹄聲：薩米瘟疫傳說 |
 
 ---
 *Auto-generated on 2026-06-26 02:07 UTC*

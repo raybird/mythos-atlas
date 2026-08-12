@@ -103,7 +103,8 @@
   "roman",
   "slavic",
   "caucasian",
-  "philippine"
+  "philippine",
+  "sami"
  ],
  "analysis_log": [
   "sacrificial-creation",
@@ -143,5 +144,5 @@
   "locust-plagues-myths-comparative",
   "divine-incest-sibling-marriage-comparative"
  ],
- "runs": 111
+ "runs": 112
 }

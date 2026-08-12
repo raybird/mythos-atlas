@@ -15,6 +15,7 @@
 | [Sarakhkka](Sarakhkka.md) | Sarakhkka |
 | [Uksáhkká](Uksáhkká.md) | Uksáhkká |
 | [Väralden Olmai](Väralden%20Olmai.md) | Väralden Olmai |
+| [Ruohtta](Ruohtta.md) | Ruohtta（魯奧塔，疾病／瘟疫／死亡之神） |
 
 ---
 *Auto-generated on 2026-06-26 02:07 UTC*

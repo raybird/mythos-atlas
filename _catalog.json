@@ -3598,7 +3598,8 @@
     "Sáivu樂園的狩獵",
     "Sieidi神石的供奉儀式",
     "馴鹿的起源神話",
-    "Joik的誕生(音樂與魔法)"
+    "Joik的誕生(音樂與魔法)",
+    "魯奧塔的馬蹄聲"
    ],
    "order": 42,
    "timeline": {
@@ -3628,7 +3629,13 @@
      "slavic"
     ]
    },
-   "_stories": 8
+   "_stories": 8,
+   "gods": [
+    "Ruohtta"
+   ],
+   "comparisons": [
+    "瘟疫之神跨文化比較"
+   ]
   },
   {
    "id": "siberian",
