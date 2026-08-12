@@ -10,6 +10,7 @@
 | [children-of-tuireann](children-of-tuireann.md) | children-of-tuireann |
 | [second-battle-of-mag-tuired](second-battle-of-mag-tuired.md) | 莫伊圖拉第二戰 |
 | [balor-of-the-evil-eye](balor-of-the-evil-eye.md) | Balor 的邪眼 |
+| [ces-noiden-ulad](ces-noiden-ulad.md) | 阿爾斯特人的虛弱：Macha 的賽馬詛咒 |
 
 ---
 *Updated on 2026-07-13*

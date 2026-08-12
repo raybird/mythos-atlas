@@ -16,6 +16,7 @@
 | [sacred-springs-cross-cultural](sacred-springs-cross-cultural.md) | 聖泉崇拜跨文化比較 |
 | [sovereignty-goddess-comparative](sovereignty-goddess-comparative.md) | 主權女神跨文化比較 |
 | [winter-crone-goddesses-comparative](winter-crone-goddesses-comparative.md) | 冬之老婦女神跨文化比較 |
+| [war-goddess-triads-comparative](war-goddess-triads-comparative.md) | 三重戰爭—命運女神跨文化比較 |
 | [凱爾特英雄原型跨文化比較](凱爾特英雄原型跨文化比較.md) | 凱爾特英雄原型跨文化比較 |
 | [魔法大鍋跨文化比較](魔法大鍋跨文化比較.md) | 魔法大鍋跨文化比較 |
 

@@ -13,6 +13,7 @@
 | [Arawn](Arawn.md) | Arawn |
 | [Bres](Bres.md) | Bres |
 | [Danu](Danu.md) | Danu |
+| [Macha](Macha.md) | Macha |
 | [Taranis](Taranis.md) | Taranis |
 
 ---

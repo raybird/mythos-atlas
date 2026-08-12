@@ -104,10 +104,11 @@
   "slavic",
   "caucasian",
   "philippine",
-   "sami",
-   "inuit",
-   "etruscan",
-   "maori"
+  "sami",
+    "inuit",
+    "etruscan",
+    "maori",
+    "celtic"
   ],
   "analysis_log": [
   "sacrificial-creation",
@@ -148,5 +149,5 @@
   "divine-incest-sibling-marriage-comparative",
   "merchants-markets-trade-gods-comparative"
  ],
-  "runs": 116
+  "runs": 117
 }
