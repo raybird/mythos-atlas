@@ -18,6 +18,7 @@
 | [玉米女神跨文化比較](玉米女神跨文化比較.md) | 玉米女神跨文化比較——Selu、Chicomecoatl 與 Demeter 的農業神性對話 |
 | [美洲原住民騙子神比較](美洲原住民騙子神比較.md) | 美洲原住民騙子神四大體系比較——Coyote、Iktomi、Raven 與 Nanabozho |
 | [騙子神跨文化比較](騙子神跨文化比較.md) | 騙子神跨文化比較 — 從 Coyote 到 Anansi 的全球欺騙者原型 |
+| [clay-creation-cross-cultural](clay-creation-cross-cultural.md) | 以土造人跨文化比較——黏土、泥土與生命的原質 |
 
 ---
 *Auto-generated on 2026-08-03 16:30 UTC*

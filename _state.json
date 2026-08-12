@@ -105,12 +105,13 @@
   "caucasian",
   "philippine",
   "sami",
-    "inuit",
-    "etruscan",
-    "maori",
-    "celtic"
-  ],
-  "analysis_log": [
+  "inuit",
+  "etruscan",
+  "maori",
+  "celtic",
+  "indigenous-americas"
+ ],
+ "analysis_log": [
   "sacrificial-creation",
   "origin-of-death",
   "shamanism-in-myth",
@@ -150,5 +151,5 @@
   "merchants-markets-trade-gods-comparative",
   "sortilege-sacred-lots-cleromancy-comparative"
  ],
-  "runs": 118
+ "runs": 119
 }

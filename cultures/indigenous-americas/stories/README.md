@@ -13,6 +13,7 @@
 | [hopi-four-worlds-emergence](hopi-four-worlds-emergence.md) | 霍皮四個世界的湧現 |
 | [sedna-ocean-mother](sedna-ocean-mother.md) | 塞德娜的手指——海洋動物的起源 |
 | [iktomi-and-the-boulder](iktomi-and-the-boulder.md) | 伊克托米與巨石 |
+| [napi-creates-humanity](napi-creates-humanity.md) | 納皮造人與野牛的誕生——黑腳族的黏土創世 |
 
 ---
 *Auto-generated on 2026-08-03 16:30 UTC*
