@@ -96,16 +96,16 @@ mythos-atlas/
 
 ## 📊 當前狀態
 
-> 自動更新於 2026-08-12 02:17 UTC
+> 自動更新於 2026-08-12 06:40 UTC
 
 | 類別 | 進度 |
 |------|------|
 | 文化體系 | 44/44 |
 | 跨文化主題 | 27/27 |
-| 分析文章 | 444 |
+| 分析文章 | 445 |
 | 已充實文化 | 44/44 |
 | 總頁面數 | 3019 |
-| 總執行次數 | 113 |
+| 總執行次數 | 114 |
 
 <!-- STATS_END -->
 
@@ -166,8 +166,9 @@ mythos-atlas/
 
 ## 📝 分析文章
 
-> 跨文化比較神話學分析文章。共 444 篇。
+> 跨文化比較神話學分析文章。共 445 篇。
 
+- [市集與商旅之神：跨文化神話中的貿易、交換與商業秩序](analyses/merchants-markets-trade-gods-comparative.md)
 - [神聖的亂倫：跨文化神話中的兄妹婚與近親婚姻母題](analyses/divine-incest-sibling-marriage-comparative.md)
 - [驅蝗之神與蝗蟲天軍：蝗災在跨文化神話中的神格化與象徵比較](analyses/locust-plagues-myths-comparative.md)
 - [柏樹：死亡與不朽的常青之樹——跨文化比較神話研究](analyses/cypress-tree-death-immortality-comparative.md)
