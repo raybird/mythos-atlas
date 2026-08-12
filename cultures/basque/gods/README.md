@@ -22,6 +22,7 @@
 | [jentilak-tartalo](jentilak-tartalo.md) | 亨蒂拉克與塔塔洛 — 巨人與獨眼怪物 |
 | [mari-sugaar](mari-sugaar.md) | 瑪麗與蘇加爾 — 大地女神與雷蛇 |
 | [Galtzagorriak](Galtzagorriak.md) | 加爾查戈里亞克 (Galtzagorriak) — 紅褲家宅精靈 |
+| [JaunZuria](JaunZuria.md) | 豪恩·蘇里亞 (Jaun Zuria) — 白色領主、比斯開傳說始祖 |
 
 ---
-*Last updated: 2026-08-08*
+*Last updated: 2026-08-12*

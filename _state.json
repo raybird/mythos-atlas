@@ -109,7 +109,8 @@
   "etruscan",
   "maori",
   "celtic",
-  "indigenous-americas"
+  "indigenous-americas",
+  "basque"
  ],
  "analysis_log": [
   "sacrificial-creation",
@@ -151,5 +152,5 @@
   "merchants-markets-trade-gods-comparative",
   "sortilege-sacred-lots-cleromancy-comparative"
  ],
- "runs": 119
+ "runs": 120
 }

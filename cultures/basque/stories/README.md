@@ -20,6 +20,7 @@
 | [sugaar-first-council](sugaar-first-council.md) | 蘇加爾的第一次議會：巴斯克律法的神聖起源 |
 | [tartalo-shepherd](tartalo-shepherd.md) | 塔塔洛與牧羊人：巴斯克的獨眼巨人傳說 |
 | [galtzagorriak-bayonne-box](galtzagorriak-bayonne-box.md) | 巴約訥的木盒：買回來的紅褲精靈 |
+| [scottish-princess-sea-serpent](scottish-princess-sea-serpent.md) | 蘇格蘭公主與海蛇：白色領主的誕生 |
 
 ---
-*Last updated: 2026-08-08*
+*Last updated: 2026-08-12*

@@ -2206,7 +2206,7 @@
    ],
    "creation": "巴斯克神話中無統一書面創世文本。原始信仰中大地女神Mari為中心存在——她居住在山洞中，掌管天氣與自然力量。太陽Eki為Mari之女，月亮Ilargi也為其女。世界由Mari與其配偶Sugaar(雷蛇)共同維持平衡。巴斯克人的先祖Aitor傳說為19世紀建構的現代起源神話。",
    "flood": "巴斯克洪水傳說與Sugaar/龍相關——部分傳說中雨水過多時Mari與Sugaar的爭鬥引發暴風雨與洪水。基督教化後，洪水傳說與聖經挪亞方舟融合。巴斯克沿海村莊保留海平面變化的古老記憶。",
-   "pantheon": "Mari(大地/自然之母)、Sugaar(雷/蛇神)、Eki(太陽女神)、Ilargi(月神)、Amalur(大地之母)、Eguzki(太陽)、Ortzi/Urtzi(天空神)、Orko(雷神)、Odei(暴風雲)、Aide(風神)、Basajaun(森林守護者)、Lamiak(水仙女)、Jentilak(巨人)、Tartalo(獨眼巨人)",
+   "pantheon": "Mari(大地/自然之母)、Sugaar(雷/蛇神)、Eki(太陽女神)、Ilargi(月神)、Amalur(大地之母)、Eguzki(太陽)、Ortzi/Urtzi(天空神)、Orko(雷神)、Odei(暴風雲)、Aide(風神)、Basajaun(森林守護者)、Lamiak(水仙女)、Jentilak(巨人)、Tartalo(獨眼巨人)、Jaun Zuria(白色領主,比斯開傳說始祖)",
    "stories": [
     "Mari的洞穴",
     "Basajaun教人農耕與製鐵",
@@ -2216,7 +2216,8 @@
     "Tartalo與牧羊人",
     "聖馬丁奇基與魔鬼",
     "摩爾人與巨石墓",
-    "巴約訥的木盒與紅褲精靈"
+    "巴約訥的木盒與紅褲精靈",
+    "蘇格蘭公主與海蛇：白色領主的誕生"
    ],
    "order": 27,
    "timeline": {
@@ -2246,16 +2247,18 @@
      "phoenician"
     ]
    },
-   "_stories": 7,
+   "_stories": 8,
    "gods": [
     "Inguma",
     "Mairuak",
-    "Galtzagorriak"
+    "Galtzagorriak",
+    "JaunZuria"
    ],
    "comparisons": [
     "夜襲者跨文化比較",
     "巨石建造者巨人跨文化比較",
-    "僕役精靈跨文化比較"
+    "僕役精靈跨文化比較",
+    "海獸之父與神異血統跨文化比較"
    ]
   },
   {
