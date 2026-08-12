@@ -8,6 +8,7 @@
 | [Pania-of-the-Reef](Pania-of-the-Reef.md) | Pania-of-the-Reef |
 | [Tāwhirimātea的復仇之戰](Tāwhirimātea的復仇之戰.md) | Tāwhirimātea的復仇之戰 |
 | [matawhero-tinirau-whale](matawhero-tinirau-whale.md) | matawhero-tinirau-whale |
+| [matariki-new-year-stars](matariki-new-year-stars.md) | 昂宿升空——毛利新年與歲首星象 |
 | [maui-fishes-north-island](maui-fishes-north-island.md) | maui-fishes-north-island |
 | [maui-seeks-immortality](maui-seeks-immortality.md) | maui-seeks-immortality |
 | [maui-slows-sun](maui-slows-sun.md) | maui-slows-sun |

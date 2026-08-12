@@ -4,6 +4,7 @@
 |------|------|
 | [Haumia-tiketike](Haumia-tiketike.md) | Haumia-tiketike |
 | [Hine-ahu-one](Hine-ahu-one.md) | Hine-ahu-one |
+| [Matariki](Matariki.md) | Matariki |
 | [Hine-nui-te-po](Hine-nui-te-po.md) | Hine-nui-te-po |
 | [Hine-te-iwaiwa](Hine-te-iwaiwa.md) | Hine-te-iwaiwa |
 | [Io-matua-kore](Io-matua-kore.md) | Io-matua-kore |

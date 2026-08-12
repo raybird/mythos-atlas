@@ -3,6 +3,7 @@
 | 檔案 | 名稱 |
 |------|------|
 | [creation-myths-global](creation-myths-global.md) | creation-myths-global |
+| [new-year-stars-calendars-comparative](new-year-stars-calendars-comparative.md) | 歲首星象與新年曆法跨文化比較 |
 | [death-goddess-global](death-goddess-global.md) | death-goddess-global |
 | [flood-myths-global](flood-myths-global.md) | flood-myths-global |
 | [hero-trickster-maui-global](hero-trickster-maui-global.md) | hero-trickster-maui-global |

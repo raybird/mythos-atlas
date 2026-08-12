@@ -104,11 +104,12 @@
   "slavic",
   "caucasian",
   "philippine",
-  "sami",
-  "inuit",
-  "etruscan"
- ],
- "analysis_log": [
+   "sami",
+   "inuit",
+   "etruscan",
+   "maori"
+  ],
+  "analysis_log": [
   "sacrificial-creation",
   "origin-of-death",
   "shamanism-in-myth",
@@ -147,5 +148,5 @@
   "divine-incest-sibling-marriage-comparative",
   "merchants-markets-trade-gods-comparative"
  ],
- "runs": 115
+  "runs": 116
 }
