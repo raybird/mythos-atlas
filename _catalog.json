@@ -2462,7 +2462,8 @@
     "Kiviuq英雄之旅",
     "烏鴉盜光",
     "Qallupilluit冰下妖怪",
-    "Amarok巨狼傳說"
+    "Amarok巨狼傳說",
+    "卡格薩蘇克與阿馬洛克"
    ],
    "order": 30,
    "timeline": {
@@ -2497,7 +2498,13 @@
      "norse"
     ]
    },
-   "_stories": 6
+   "_stories": 6,
+   "gods": [
+    "Pukkeenegak"
+   ],
+   "comparisons": [
+    "動物配偶與動物祖先跨文化比較"
+   ]
   },
   {
    "id": "armenian",

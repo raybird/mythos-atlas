@@ -19,6 +19,7 @@
 | [polar-bear-arctic-comparison](polar-bear-arctic-comparison.md) | 北極熊在環北極原住民神話中的跨文化比較 |
 | [trickster-raven-comparison](trickster-raven-comparison.md) | 渡鴉騙子神跨文化比較：因紐特 Raven、西北海岸 Raven、北歐 Odin、非洲 Anansi |
 | [winter-blizzard-deities-comparative](winter-blizzard-deities-comparative.md) | 風雪之神——嚴寒與暴風雪的跨文化比較 |
+| [animal-spouse-animal-ancestor](animal-spouse-animal-ancestor.md) | 人獸婚與動物祖先：動物配偶神話跨文化比較 |
 
 ---
 *Auto-generated on 2026-06-26 02:07 UTC*

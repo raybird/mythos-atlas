@@ -12,6 +12,7 @@
 | [Apanuugak-與巨人之戰](Apanuugak-與巨人之戰.md) | Apanuugak 與巨人之戰 — 銅因紐特的文化英雄 |
 | [與狗結婚的女子](與狗結婚的女子.md) | 與狗結婚的女子 — 格陵蘭人類起源故事 |
 | [Qivittoq-棄土流浪者](Qivittoq-棄土流浪者.md) | Qivittoq — 棄土流浪者 |
+| [kagsagsuk-amarok](kagsagsuk-amarok.md) | 卡格薩蘇克與阿馬洛克 — 巨狼的摔跤試煉 |
 
 ---
 *Auto-generated on 2026-06-26 02:07 UTC*

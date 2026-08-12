@@ -15,6 +15,7 @@
 | [Ataksak](Ataksak.md) | Ataksak — 格陵蘭天空創造女神 |
 | [Irdlirvirisissong](Irdlirvirisissong.md) | Irdlirvirisissong — 月神之女與吞噬罪人的冥界存在 |
 | [Issitoq](Issitoq.md) | Issitoq — 格陵蘭禁忌守護者 |
+| [Pukkeenegak](Pukkeenegak.md) | Pukkeenegak — 家宅、針線與孩童女神 |
 
 ---
 *Auto-generated on 2026-06-26 02:07 UTC*
