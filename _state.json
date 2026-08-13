@@ -116,9 +116,11 @@
   "pre-islamic-arabian",
   "sumerian",
   "aboriginal",
-  "mesopotamian",
-  "chinese"
- ],
+"mesopotamian",
+   "chinese",
+   "scythian",
+   "hittite"
+  ],
  "analysis_log": [
   "sacrificial-creation",
   "origin-of-death",
@@ -164,5 +166,5 @@
   "broom-myths-sacred-sweeping-comparative",
   "tobacco-myths-sacred-smoke-comparative"
  ],
- "runs": 134
+ "runs": 136
 }
