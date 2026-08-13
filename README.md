@@ -166,8 +166,9 @@ mythos-atlas/
 
 ## 📝 分析文章
 
-> 跨文化比較神話學分析文章。共 448 篇。
+> 跨文化比較神話學分析文章。共 449 篇。
 
+- [傳奇名劍：王權、犧牲與命運的跨文化比較神話學](analyses/legendary-named-swords-comparative.md)
 - [穀靈與首果祭：跨文化收割神話比較分析](analyses/harvest-corn-spirit-first-fruits-comparative.md)
 - [亡者的年度歸訪：跨文化亡靈節慶比較分析](analyses/festivals-of-the-dead-comparative.md)
 - [神籤定命：跨文化神話與儀式中的抽籤、擲骰與神意之兆](analyses/sortilege-sacred-lots-cleromancy-comparative.md)
