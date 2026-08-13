@@ -19,6 +19,7 @@
 | [sacred-bulls-cross-cultural](sacred-bulls-cross-cultural.md) | 神聖公牛跨文化比較：舍里、胡里到南迪與阿匹斯 |
 | [underworld-goddess-comparative](underworld-goddess-comparative.md) | 冥界女王跨文化比較：阿拉尼、艾蕾什基伽勒與波瑟芬妮 |
 | [bilingual-literary-transmission](bilingual-literary-transmission.md) | 雙語文學與神話傳播：從釋放之歌到吉爾伽美什 |
+| [plague-divine-punishment-comparative](plague-divine-punishment-comparative.md) | 瘟疫作為神罰：降疫、診因與修復的跨文化比較 |
 
 ---
-*Updated 2026-08-02*
+*Updated 2026-08-14*

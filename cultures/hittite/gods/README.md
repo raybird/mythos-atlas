@@ -19,6 +19,7 @@
 | [Anu](Anu.md) | Anu（安努，天空之神） |
 | [Seri-Hurri](Seri-Hurri.md) | Šeri 與 Ḫurri（舍里與胡里，風暴神聖牛） |
 | [Allani](Allani.md) | Allani（阿拉尼，冥界女王） |
+| [Ishara](Ishara.md) | Išḫara（伊什哈拉，誓言之主與蠍之女神） |
 
 ---
-*Updated 2026-08-02*
+*Updated 2026-08-14*

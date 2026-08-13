@@ -15,6 +15,7 @@
 | [nerik-storm-god-disappearance](nerik-storm-god-disappearance.md) | 奈里克風暴神的失蹤（The Disappearance of the Storm God of Nerik） |
 | [song-of-release](song-of-release.md) | 釋放之歌（The Song of Release） |
 | [tale-of-zalpa](tale-of-zalpa.md) | 札爾帕的故事（The Tale of Zalpa） |
+| [mursili-plague-prayers](mursili-plague-prayers.md) | 穆爾西里二世的瘟疫祈禱（CTH 378） |
 
 ---
-*Updated 2026-08-02*
+*Updated 2026-08-14*
