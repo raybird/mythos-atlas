@@ -6,9 +6,9 @@
 ## 目錄
 
 - [文化總覽](index.md) — 該文化的完整神話介紹
-- [神祇列表](gods/) — 17 位神祇
-- [故事列表](stories/) — 14 則故事
-- [跨文化比較](comparisons/) — 13 篇比較
+- [神祇列表](gods/) — 71 位神祇
+- [故事列表](stories/) — 66 則故事
+- [跨文化比較](comparisons/) — 67 篇比較
 
 ---
-*Auto-generated on 2026-06-28 12:29 UTC*
+*Auto-generated on 2026-08-13 12:00 UTC*

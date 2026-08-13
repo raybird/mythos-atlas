@@ -17,6 +17,7 @@
 | [ninurta-and-the-turtle](ninurta-and-the-turtle.md) | 寧努爾塔與烏龜——智慧降伏傲慢的英雄 |
 | [enmerkar-ensuhkeshdanna](enmerkar-ensuhkeshdanna.md) | 恩麥卡爾與恩蘇赫什丹納——阿拉塔術士之敗（魔術對決） |
 | [date-palm-tamarisk-debate](date-palm-tamarisk-debate.md) | 棗椰樹與檉柳之辯——蘇美爭辯文學中的兩樹之爭 |
+| [man-and-his-god-dialogue](man-and-his-god-dialogue.md) | 人神對話：受苦者的哀歌——蘇美版《約伯記》 |
 
 ---
-*Last updated: 2026-08-10*
+*Last updated: 2026-08-13*

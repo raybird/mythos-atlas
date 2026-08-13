@@ -113,7 +113,8 @@
   "basque",
   "mongolian",
   "tibetan",
-  "pre-islamic-arabian"
+  "pre-islamic-arabian",
+  "sumerian"
  ],
  "analysis_log": [
   "sacrificial-creation",
@@ -158,5 +159,5 @@
   "harvest-corn-spirit-first-fruits-comparative",
   "legendary-named-swords-comparative"
  ],
- "runs": 127
+ "runs": 128
 }
