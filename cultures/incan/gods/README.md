@@ -3,6 +3,7 @@
 | 檔案 | 名稱 |
 |------|------|
 | [Apus](Apus.md) | Apus |
+| [Catequil](Catequil.md) | Catequil |
 | [Illapa](Illapa.md) | Illapa |
 | [Inti](Inti.md) | Inti |
 | [Mama-Quilla](Mama-Quilla.md) | Mama-Quilla |

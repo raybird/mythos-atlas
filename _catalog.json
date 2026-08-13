@@ -1069,11 +1069,12 @@
    ],
    "creation": "Viracocha從的的喀喀湖中升起，以言創造光、天地、日月星辰與人類。第一批人類為巨人族，因不敬而被洪水毀滅。Viracocha從湖中再次創造人類，分散各地並行走人間教導文明。",
    "flood": "Viracocha以洪水毀滅第一代巨人人類。僅兩人倖存，後Viracocha以石頭雕刻新人類。洪水消退後萬物重生。",
-   "pantheon": "Viracocha(創世神)、Inti(太陽)、Mama Quilla(月)、Pachamama(大地之母)、Illapa(雷電)",
+   "pantheon": "Viracocha(創世神)、Inti(太陽)、Mama Quilla(月)、Pachamama(大地之母)、Illapa(雷電)、卡特基爾Catequil(雷電/神諭之神/華馬丘科)",
    "stories": [
     "Viracocha的流浪",
     "Inkarri傳說",
-    "Mama Huaco建立庫斯科"
+    "Mama Huaco建立庫斯科",
+    "卡特基爾神諭與阿塔瓦爾帕的怒火"
    ],
    "order": 13,
    "timeline": {
@@ -1113,7 +1114,7 @@
      "mapuche"
     ]
    },
-   "_stories": 3
+   "_stories": 4
   },
   {
    "id": "celtic",
