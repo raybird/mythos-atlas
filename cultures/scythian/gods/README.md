@@ -8,6 +8,7 @@
 | [Arpoxais](Arpoxais.md) | Arpoxais |
 | [Artimpasa](Artimpasa.md) | Artimpasa（豐收與動物女神） |
 | [Aspandios](Aspandios.md) | Aspandios（雷電戰神） |
+| [Borysthenes](Borysthenes.md) | Borysthenes（第聶伯河神） |
 | [Colaxais](Colaxais.md) | Colaxais（科拉克賽） |
 | [Don](Don.md) | Don（河神） |
 | [Goitosyros](Goitosyros.md) | Goitosyros |
