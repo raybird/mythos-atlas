@@ -13,6 +13,7 @@
 | [Wadd](Wadd.md) | Wadd |
 | [Dhu-Samawi](Dhu-Samawi.md) | Dhu-Samawi（都·薩馬維） |
 | [Salm](Salm.md) | Salm（薩爾姆）— 泰馬月神 |
+| [庫札](庫札Quzah.md) | 庫札（Quzah）— 穆茲達里法天氣神，彩虹＝庫札之弓 |
 
 ---
-*Last updated: 2026-08-08*
+*Last updated: 2026-08-13*

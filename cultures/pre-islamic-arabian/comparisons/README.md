@@ -20,6 +20,7 @@
 | [阿拉伯日月金星三一崇拜與跨文化比較](阿拉伯日月金星三一崇拜與跨文化比較.md) | 阿拉伯日月金星三位一體崇拜與跨文化天文宗教比較 (The Sun-Moon-Venus Trinity in Pre-Islamic Arabia and Global Parallels) |
 | [阿拉伯部落盟誓與跨文化神聖契約](阿拉伯部落盟誓與跨文化神聖契約.md) | 阿拉伯部落盟誓與跨文化神聖契約 (Arabian Tribal Oaths and Cross-Cultural Sacred Covenants) |
 | [petrification-punishment-comparative](petrification-punishment-comparative.md) | 石化懲罰與「石中新生」跨文化比較（以薩夫與納伊拉、羅得之妻、美杜莎、尼俄柏、阿哈利婭、望夫石、啟母石） |
+| [天氣神與彩虹之弓跨文化比較](天氣神與彩虹之弓跨文化比較.md) | 天氣神與彩虹之弓跨文化比較（庫札、Baal-Hadad、Zeus、Thor、Indra、Tishtrya、Oshumare、彩虹蛇） |
 
 ---
-*Last updated: 2026-08-08*
+*Last updated: 2026-08-13*

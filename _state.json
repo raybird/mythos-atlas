@@ -112,7 +112,8 @@
     "indigenous-americas",
     "basque",
     "mongolian",
-    "tibetan"
+    "tibetan",
+    "pre-islamic-arabian"
   ],
   "analysis_log": [
     "sacrificial-creation",
@@ -157,5 +158,5 @@
     "harvest-corn-spirit-first-fruits-comparative",
     "legendary-named-swords-comparative"
   ],
-  "runs": 125
+  "runs": 126
 }
