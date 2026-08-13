@@ -111,7 +111,8 @@
   "celtic",
   "indigenous-americas",
   "basque",
-  "mongolian"
+  "mongolian",
+  "tibetan"
  ],
  "analysis_log": [
   "sacrificial-creation",
@@ -155,5 +156,5 @@
   "festivals-of-the-dead-comparative",
   "harvest-corn-spirit-first-fruits-comparative"
  ],
- "runs": 123
+ "runs": 124
 }
