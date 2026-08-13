@@ -2,6 +2,8 @@
 
 > 跨文化比較神話學分析文章，探討各文明之間的深層連結。
 
+- [神聖煙草：獻祭之霧與幻視之門——跨文化神話中的煙草](tobacco-myths-sacred-smoke-comparative.md)
+- [掃帚之謎：淨化、飛昇與界線——跨文化神話中的掃帚](broom-myths-sacred-sweeping-comparative.md)
 - [傳奇名劍：王權、犧牲與命運的跨文化比較神話學](legendary-named-swords-comparative.md)
 - [穀靈與首果祭：跨文化收割神話比較分析](harvest-corn-spirit-first-fruits-comparative.md)
 - [亡者的年度歸訪：跨文化亡靈節慶比較分析](festivals-of-the-dead-comparative.md)
