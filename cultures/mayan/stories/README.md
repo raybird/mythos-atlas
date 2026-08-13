@@ -22,6 +22,7 @@
 - [火鸚鵡的降臨 — 伊察馬爾的祭品 (The Fire Macaw's Descent at Izamal)](kinich-kak-mo-descent-izamal.md)
 - [四百少年與昴宿星 (The Four Hundred Boys and the Pleiades)](four-hundred-boys-pleiades.md)
 - [蘇尤亞謎語 — 卡特恩輪替的王權試煉 (The Zuyua Riddles)](zuyua-riddles.md)
+- [齊普之禮 — 馬雅獵人的神聖狩獵祭典 (The Rite of the Zip)](rite-of-the-zip.md)
 
 ---
-*Updated on 2026-08-10*
+*Updated on 2026-08-13*

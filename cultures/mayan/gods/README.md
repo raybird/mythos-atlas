@@ -25,6 +25,7 @@
 - [基尼奇·卡克莫 (Kinich Kak Mo) — 伊察馬爾的火鸚鵡太陽神](Kinich-Kak-Mo.md)
 - [Ix Chebel Yax — 織繪與色彩的女神](Ix-Chebel-Yax.md)
 - [阿坎 (Acan) — 醉態、烈酒、死亡與疾病之神](阿坎.md)
+- [阿·塔拜 (Ah Tabai) — 狩獵之神與「動物之主」西普 (Sip)](ah-tabai.md)
 
 ---
-*Updated on 2026-08-10*
+*Updated on 2026-08-13*

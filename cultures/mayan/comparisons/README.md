@@ -56,6 +56,7 @@
 - [馬雅與美索不達米亞洪水神話跨文化比較](馬雅與美索不達米亞洪水神話跨文化比較.md)
 - [書寫與繪畫之神的跨文化比較](scribal-painted-gods-comparison.md)
 - [謎語與王權考驗的跨文化比較](riddle-kingship-test-comparative.md)
+- [狩獵之神的跨文化比較 (Hunting Deities)](hunting-deities-comparison.md)
 
 ---
-*Updated on 2026-08-10*
+*Updated on 2026-08-13*
