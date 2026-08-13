@@ -9,6 +9,7 @@
 | [emu-in-the-sky](emu-in-the-sky.md) | 天空中的鴯鶓 |
 | [how-fire-came-to-earth](how-fire-came-to-earth.md) | 火如何來到人間 |
 | [how-kangaroo-got-its-pouch](how-kangaroo-got-its-pouch.md) | 袋鼠如何獲得育兒袋 |
+| [how-the-platypus-came-to-be](how-the-platypus-came-to-be.md) | 鴨嘴獸的起源 |
 | [kirrkirr-moon-dingo](kirrkirr-moon-dingo.md) | 月亮與野犬 |
 | [mamaragan-lightning-war](mamaragan-lightning-war.md) | Mamaragan與彩虹蛇之戰—雨季的起源 |
 | [mirrabooka-southern-cross](mirrabooka-southern-cross.md) | 南十字星的故事 |
@@ -23,4 +24,4 @@
 | [yhi-creates-life](yhi-creates-life.md) | 伊喚醒生命 |
 
 ---
-*Updated 2026-08-02*
+*Updated 2026-08-13*

@@ -14,6 +14,7 @@
 | [miraculous-birth-comparative](miraculous-birth-comparative.md) | 非凡誕生比較：腋下、頭頂與大腿的神性出生 |
 | [serpent-deities](serpent-deities.md) | 蛇神信仰比較 |
 | [sky-father-comparison](sky-father-comparison.md) | 天父神比較 |
+| [sacred-lawgivers-comparative](sacred-lawgivers-comparative.md) | 立法祖靈與神聖律法的起源 |
 | [songlines-world](songlines-world.md) | 歌路與世界神話地理 |
 | [sun-women-comparative](sun-women-comparative.md) | 太陽女神的全球圖譜 |
 | [thunder-gods-comparative](thunder-gods-comparative.md) | 雷電神祇的全球譜系 |
@@ -21,4 +22,4 @@
 | [trickster-figures](trickster-figures.md) | 騙子（Trickster）角色比較 |
 
 ---
-*Updated 2026-08-02*
+*Updated 2026-08-13*

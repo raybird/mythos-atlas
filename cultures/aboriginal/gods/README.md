@@ -6,6 +6,7 @@
 | [Altjira](Altjira.md) | Altjira（阿爾提拉，天空神） |
 | [Ancestral-Journeys](Ancestral-Journeys.md) | 祖先之旅 |
 | [Baiame-All-Father](Baiame-All-Father.md) | Baiame（拜阿梅，天父） |
+| [Barama-Yirritja-Lawgiver](Barama-Yirritja-Lawgiver.md) | Barama（巴拉瑪，立法祖靈） |
 | [Bamapana-Trickster](Bamapana-Trickster.md) | Bamapana（巴馬帕納，騙子神） |
 | [Bunjil](Bunjil.md) | Bunjil（邦吉爾，鷹隼造物主） |
 | [Daramulum-Keeper-of-Secrets](Daramulum-Keeper-of-Secrets.md) | Daramulum（達拉穆魯姆，秘密保管者） |
@@ -25,4 +26,4 @@
 | [Yhi-Sun-Goddess](Yhi-Sun-Goddess.md) | Yhi（伊，太陽女神） |
 
 ---
-*Updated 2026-08-02*
+*Updated 2026-08-13*

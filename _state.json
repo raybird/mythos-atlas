@@ -114,7 +114,8 @@
   "mongolian",
   "tibetan",
   "pre-islamic-arabian",
-  "sumerian"
+  "sumerian",
+  "aboriginal"
  ],
  "analysis_log": [
   "sacrificial-creation",
@@ -159,5 +160,5 @@
   "harvest-corn-spirit-first-fruits-comparative",
   "legendary-named-swords-comparative"
  ],
- "runs": 129
+ "runs": 130
 }

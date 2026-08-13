@@ -834,12 +834,13 @@
    ],
    "creation": "夢世紀 (Dreamtime / Tjukurpa) 不是「過去」而是永恆的時空——先祖存在穿行無形世界，創造山川河流、動植物與律法，後化為地貌或回歸地下。",
    "flood": "澳洲北部沿海部落保存海平面上升的集體記憶——大堡礁曾是陸地平原，被祖先稱為「洪水時代」。部分傳說描述彩虹蛇引發大水重塑地貌。",
-   "pantheon": "彩虹蛇(創世/創造水資源)、Baiame(天父)、Darumulum(雷神)、Yhi(太陽女神)、Bamapana(麻煩精)",
+   "pantheon": "彩虹蛇(創世/創造水資源)、Baiame(天父)、Darumulum(雷神)、Yhi(太陽女神)、Bamapana(麻煩精)、Barama(立法祖靈/Yirritja半族)",
    "stories": [
     "彩虹蛇創造河流",
     "Tiddalik青蛙與乾旱",
     "七星姊妹",
-    "Songlines追蹤祖先足跡"
+    "Songlines追蹤祖先足跡",
+    "鴨嘴獸的起源"
    ],
    "order": 10,
    "timeline": {
@@ -868,7 +869,13 @@
      "maori"
     ]
    },
-   "_stories": 4
+   "_stories": 5,
+   "gods": [
+    "Barama（巴拉瑪，立法祖靈）"
+   ],
+   "comparisons": [
+    "立法祖靈與神聖律法的起源"
+   ]
   },
   {
    "id": "african",
