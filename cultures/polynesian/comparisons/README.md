@@ -19,6 +19,7 @@
 | [tane-forest-god-comparative](tane-forest-god-comparative.md) | 森林之神 Tāne 跨文化比較 |
 | [world-parent-separation-global](world-parent-separation-global.md) | 天父地母分離跨文化比較 |
 | [波利尼西亞風神跨文化比較](波利尼西亞風神跨文化比較.md) | 波利尼西亞風神跨文化比較 |
+| [boar-gods-shape-shifters-global](boar-gods-shape-shifters-global.md) | 豬形神與變形神跨文化比較 |
 
 ---
-*Auto-generated on 2026-06-26 02:07 UTC*
+*Auto-generated on 2026-08-14 UTC*

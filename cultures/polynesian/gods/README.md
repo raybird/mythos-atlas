@@ -9,6 +9,7 @@
 | [Polynesian-Pantheon](Polynesian-Pantheon.md) | Polynesian-Pantheon |
 | [Tane](Tane.md) | Tane |
 | [Tangaroa](Tangaroa.md) | Tangaroa |
+| [Kamapuaa](Kamapuaa.md) | Kamapuaʻa |
 
 ---
-*Auto-generated on 2026-06-26 02:07 UTC*
+*Auto-generated on 2026-08-14 UTC*
