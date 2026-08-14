@@ -8,6 +8,7 @@
 | [Eileithyia](Eileithyia.md) | Eileithyia |
 | [Europa](Europa.md) | Europa |
 | [Karmas](Karmas.md) | Karmas |
+| [Lady-of-the-Labyrinth](Lady-of-the-Labyrinth.md) | Lady-of-the-Labyrinth |
 | [Minoan-Deities](Minoan-Deities.md) | Minoan-Deities |
 | [Minoan-Genius](Minoan-Genius.md) | Minoan-Genius |
 | [Minoan-Pillar-Gods](Minoan-Pillar-Gods.md) | Minoan-Pillar-Gods |
@@ -25,4 +26,4 @@
 | [diktynna](diktynna.md) | diktynna |
 
 ---
-*Auto-generated on 2026-08-09 02:30 UTC*
+*Auto-generated on 2026-08-14 22:11 UTC*

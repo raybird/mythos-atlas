@@ -12,6 +12,7 @@
 | [dionysus-honey-crete](dionysus-honey-crete.md) | dionysus-honey-crete |
 | [europa-and-the-bull](europa-and-the-bull.md) | europa-and-the-bull |
 | [glaukos-resurrection](glaukos-resurrection.md) | glaukos-resurrection |
+| [katreus-curse](katreus-curse.md) | katreus-curse |
 | [kouretes-zeus-birth-cave](kouretes-zeus-birth-cave.md) | kouretes-zeus-birth-cave |
 | [minos-and-knossos](minos-and-knossos.md) | minos-and-knossos |
 | [minos-spiral-shell](minos-spiral-shell.md) | minos-spiral-shell |
@@ -22,4 +23,4 @@
 | [theseus-minotaur](theseus-minotaur.md) | theseus-minotaur |
 
 ---
-*Auto-generated on 2026-08-09 02:30 UTC*
+*Auto-generated on 2026-08-14 22:11 UTC*

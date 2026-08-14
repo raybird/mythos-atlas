@@ -15,6 +15,7 @@
 | [mountain-peak-sanctuaries](mountain-peak-sanctuaries.md) | mountain-peak-sanctuaries |
 | [palace-religion-egyptian-comparative](palace-religion-egyptian-comparative.md) | palace-religion-egyptian-comparative |
 | [palace-temple-economy-comparison](palace-temple-economy-comparison.md) | palace-temple-economy-comparison |
+| [parricide-prophecy-comparative](parricide-prophecy-comparative.md) | parricide-prophecy-comparative |
 | [riddle-thread-puzzle-comparative](riddle-thread-puzzle-comparative.md) | riddle-thread-puzzle-comparative |
 | [snake-goddess-global-comparative](snake-goddess-global-comparative.md) | snake-goddess-global-comparative |
 | [thalassocracy-sea-myths](thalassocracy-sea-myths.md) | thalassocracy-sea-myths |
@@ -22,4 +23,4 @@
 | [雙斧聖器跨文化比較](雙斧聖器跨文化比較.md) | 雙斧聖器跨文化比較 |
 
 ---
-*Auto-generated on 2026-08-09 02:30 UTC*
+*Auto-generated on 2026-08-14 22:11 UTC*
