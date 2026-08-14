@@ -121,9 +121,10 @@
   "scythian",
   "hittite",
   "dacian",
-  "polynesian"
+  "polynesian",
+  "armenian"
  ],
-  "analysis_log": [
+ "analysis_log": [
   "sacrificial-creation",
   "origin-of-death",
   "shamanism-in-myth",
@@ -167,9 +168,9 @@
   "legendary-named-swords-comparative",
   "broom-myths-sacred-sweeping-comparative",
   "tobacco-myths-sacred-smoke-comparative",
-"number-forty-sacred-cycle-comparative",
+  "number-forty-sacred-cycle-comparative",
   "cattle-raiding-myths-comparative",
   "date-palm-sacred-tree-comparative"
  ],
-  "runs": 141
+ "runs": 142
 }

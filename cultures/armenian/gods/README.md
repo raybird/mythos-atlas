@@ -4,6 +4,7 @@
 |------|------|
 | [Aralez](Aralez.md) | Aralez |
 | [Areg](Areg.md) | Areg |
+| [barsamin](barsamin.md) | barsamin |
 | [Grogh](Grogh.md) | Grogh |
 | [Khaldi](Khaldi.md) | Khaldi |
 | [Theispas](Theispas.md) | Theispas |

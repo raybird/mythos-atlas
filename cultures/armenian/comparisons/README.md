@@ -20,6 +20,7 @@
 | [tir-nabu-thoth-writing-gods](tir-nabu-thoth-writing-gods.md) | tir-nabu-thoth-writing-gods |
 | [tsovinar-water-goddess](tsovinar-water-goddess.md) | tsovinar-water-goddess |
 | [urartu-storm-god-comparative](urartu-storm-god-comparative.md) | urartu-storm-god-comparative |
+| [vardavar-water-festivals-comparative](vardavar-water-festivals-comparative.md) | vardavar-water-festivals-comparative |
 | [vishap-dragon-slayer](vishap-dragon-slayer.md) | vishap-dragon-slayer |
 
 ---

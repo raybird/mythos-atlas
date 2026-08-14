@@ -19,6 +19,7 @@
 | [semiramis-legend](semiramis-legend.md) | semiramis-legend |
 | [tork-angegh](tork-angegh.md) | tork-angegh |
 | [vahagn-dragon-slayer-birth](vahagn-dragon-slayer-birth.md) | vahagn-dragon-slayer-birth |
+| [vardavar-astghik](vardavar-astghik.md) | vardavar-astghik |
 | [vahagn-dragon](vahagn-dragon.md) | vahagn-dragon |
 
 ---
