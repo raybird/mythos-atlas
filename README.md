@@ -96,16 +96,16 @@ mythos-atlas/
 
 ## 📊 當前狀態
 
-> 自動更新於 2026-08-14 12:40 UTC
+> 自動更新於 2026-08-14 12:58 UTC
 
 | 類別 | 進度 |
 |------|------|
 | 文化體系 | 44/44 |
 | 跨文化主題 | 27/27 |
-| 分析文章 | 456 |
+| 分析文章 | 457 |
 | 已充實文化 | 44/44 |
 | 總頁面數 | 3079 |
-| 總執行次數 | 145 |
+| 總執行次數 | 146 |
 
 <!-- STATS_END -->
 
@@ -166,8 +166,10 @@ mythos-atlas/
 
 ## 📝 分析文章
 
-> 跨文化比較神話學分析文章。共 455 篇。
+> 跨文化比較神話學分析文章。共 457 篇。
 
+- [死亡的化身：死神與收割者的跨文化神話比較](analyses/personifications-of-death-comparative.md)
+- [愚者之火與亡魂之光：鬼火／幽靈火球的跨文化神話比較](analyses/phantom-lights-ghost-fires-comparative.md)
 - [神明裁判：以火、水與毒驗證真理的跨文化神判神話](analyses/trial-by-ordeal-divine-judgement-comparative.md)
 - [椰棗與棕櫚：庇蔭、計時與勝利的聖樹——跨文化比較神話分析](analyses/date-palm-sacred-tree-comparative.md)
 - [牛群奪還神話：掠奪、單挑與印歐宇宙秩序的修復——跨文化比較神話學分析](analyses/cattle-raiding-myths-comparative.md)
