@@ -2,6 +2,7 @@
 
 > 跨文化比較神話學分析文章，探討各文明之間的深層連結。
 
+- [死亡的化身：死神與收割者的跨文化神話比較](personifications-of-death-comparative.md)
 - [愚者之火與亡魂之光：鬼火／幽靈火球的跨文化神話比較](phantom-lights-ghost-fires-comparative.md)
 - [神明裁判：以火、水與毒驗證真理的跨文化神判神話](trial-by-ordeal-divine-judgement-comparative.md)
 - [椰棗與棕櫚：庇蔭、計時與勝利的聖樹——跨文化比較神話分析](date-palm-sacred-tree-comparative.md)
