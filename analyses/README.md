@@ -2,6 +2,7 @@
 
 > 跨文化比較神話學分析文章，探討各文明之間的深層連結。
 
+- [神明裁判：以火、水與毒驗證真理的跨文化神判神話](trial-by-ordeal-divine-judgement-comparative.md)
 - [椰棗與棕櫚：庇蔭、計時與勝利的聖樹——跨文化比較神話分析](date-palm-sacred-tree-comparative.md)
 - [牛群奪還神話：掠奪、單挑與印歐宇宙秩序的修復——跨文化比較神話學分析](cattle-raiding-myths-comparative.md)
 

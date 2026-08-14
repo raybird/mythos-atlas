@@ -96,16 +96,16 @@ mythos-atlas/
 
 ## 📊 當前狀態
 
-> 自動更新於 2026-08-14 08:07 UTC
+> 自動更新於 2026-08-14 08:14 UTC
 
 | 類別 | 進度 |
 |------|------|
 | 文化體系 | 44/44 |
 | 跨文化主題 | 27/27 |
-| 分析文章 | 454 |
+| 分析文章 | 455 |
 | 已充實文化 | 44/44 |
 | 總頁面數 | 3076 |
-| 總執行次數 | 142 |
+| 總執行次數 | 143 |
 
 <!-- STATS_END -->
 
@@ -166,8 +166,9 @@ mythos-atlas/
 
 ## 📝 分析文章
 
-> 跨文化比較神話學分析文章。共 454 篇。
+> 跨文化比較神話學分析文章。共 455 篇。
 
+- [神明裁判：以火、水與毒驗證真理的跨文化神判神話](analyses/trial-by-ordeal-divine-judgement-comparative.md)
 - [椰棗與棕櫚：庇蔭、計時與勝利的聖樹——跨文化比較神話分析](analyses/date-palm-sacred-tree-comparative.md)
 - [牛群奪還神話：掠奪、單挑與印歐宇宙秩序的修復——跨文化比較神話學分析](analyses/cattle-raiding-myths-comparative.md)
 - [四十日與四十年：數字四十的試煉、淨化與重生週期——跨文化神話比較研究](analyses/number-forty-sacred-cycle-comparative.md)
