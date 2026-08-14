@@ -2,6 +2,9 @@
 
 > 跨文化比較神話學分析文章，探討各文明之間的深層連結。
 
+- [椰棗與棕櫚：庇蔭、計時與勝利的聖樹——跨文化比較神話分析](date-palm-sacred-tree-comparative.md)
+- [牛群奪還神話：掠奪、單挑與印歐宇宙秩序的修復——跨文化比較神話學分析](cattle-raiding-myths-comparative.md)
+
 - [四十日與四十年：數字四十的試煉、淨化與重生週期——跨文化神話比較研究](number-forty-sacred-cycle-comparative.md)
 - [神聖煙草：獻祭之霧與幻視之門——跨文化神話中的煙草](tobacco-myths-sacred-smoke-comparative.md)
 - [掃帚之謎：淨化、飛昇與界線——跨文化神話中的掃帚](broom-myths-sacred-sweeping-comparative.md)
