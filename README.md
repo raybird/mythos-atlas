@@ -96,13 +96,13 @@ mythos-atlas/
 
 ## 📊 當前狀態
 
-> 自動更新於 2026-08-14 02:14 UTC
+> 自動更新於 2026-08-14 06:41 UTC
 
 | 類別 | 進度 |
 |------|------|
 | 文化體系 | 44/44 |
 | 跨文化主題 | 27/27 |
-| 分析文章 | 452 |
+| 分析文章 | 453 |
 | 已充實文化 | 44/44 |
 | 總頁面數 | 3073 |
 | 總執行次數 | 139 |
@@ -166,8 +166,9 @@ mythos-atlas/
 
 ## 📝 分析文章
 
-> 跨文化比較神話學分析文章。共 452 篇。
+> 跨文化比較神話學分析文章。共 453 篇。
 
+- [牛群奪還神話：掠奪、單挑與印歐宇宙秩序的修復——跨文化比較神話學分析](analyses/cattle-raiding-myths-comparative.md)
 - [四十日與四十年：數字四十的試煉、淨化與重生週期——跨文化神話比較研究](analyses/number-forty-sacred-cycle-comparative.md)
 - [神聖煙草：獻祭之霧與幻視之門——跨文化神話中的煙草](analyses/tobacco-myths-sacred-smoke-comparative.md)
 - [掃帚之謎：淨化、飛昇與界線——跨文化神話中的掃帚](analyses/broom-myths-sacred-sweeping-comparative.md)
@@ -212,7 +213,7 @@ mythos-atlas/
 - [Whale Leviathan Great Fish Comparative](analyses/whale-leviathan-great-fish-comparative.md)
 - [Water Of Life Myths Comparative](analyses/water-of-life-myths-comparative.md)
 
-... 及另外 410 篇
+... 及另外 409 篇
 
 <!-- ANALYSES_END -->
 
