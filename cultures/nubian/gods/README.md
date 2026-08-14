@@ -22,6 +22,7 @@
 | [Sebiumeker-Dedun](Sebiumeker-Dedun.md) | Sebiumeker-Dedun |
 | [arensnuphis](arensnuphis.md) | arensuphis |
 | [Hapy](Hapy.md) | Hapy |
+| [Horus-of-Buhen](Horus-of-Buhen.md) | 布亨的荷魯斯 |
 
 ---
-*Last updated 2026-08-09*
+*Last updated 2026-08-14*

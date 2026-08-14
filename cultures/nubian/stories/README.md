@@ -20,6 +20,7 @@
 | [taharqa-assyria](taharqa-assyria.md) | taharqa-assyria |
 | [taharqa-sphinx-dream](taharqa-sphinx-dream.md) | taharqa-sphinx-dream |
 | [kashta-gods-wife-thebes](kashta-gods-wife-thebes.md) | kashta-gods-wife-thebes |
+| [irike-amanote-election](irike-amanote-election.md) | irike-amanote-election |
 
 ---
-*Last updated 2026-08-09*
+*Last updated 2026-08-14*

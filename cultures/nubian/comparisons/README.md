@@ -21,6 +21,7 @@
 | [war-goddesses-comparative](war-goddesses-comparative.md) | war-goddesses-comparative |
 | [warrior-queens-global](warrior-queens-global.md) | warrior-queens-global |
 | [god-wives-temple-women-comparative](god-wives-temple-women-comparative.md) | god-wives-temple-women-comparative |
+| [frontier-fortress-gods-global](frontier-fortress-gods-global.md) | frontier-fortress-gods-global |
 
 ---
-*Last updated 2026-08-09*
+*Last updated 2026-08-14*
