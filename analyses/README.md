@@ -415,6 +415,7 @@
 - [Thunder Gods](thunder-gods.md)
 - [Thunderbird Lightning Bird Comparative](thunderbird-lightning-bird-comparative.md)
 - [Tidal Wave Myths Comparative](tidal-wave-myths-comparative.md)
+- [Tides Tidal Bore Myths Comparative](tides-tidal-bore-myths-comparative.md)
 - [Tiger Myths Comparative](tiger-myths-comparative.md)
 - [Time Distortion Otherworld Comparative](time-distortion-otherworld-comparative.md)
 - [Tobacco Myths Sacred Smoke Comparative](tobacco-myths-sacred-smoke-comparative.md)
@@ -465,4 +466,4 @@
 - [聖林跨文化神聖樹林崇拜比較分析](聖林跨文化神聖樹林崇拜比較分析.md)
 
 ---
-*Auto-generated on 2026-08-15 12:42 UTC*
+*Auto-generated on 2026-08-15 12:54 UTC*
