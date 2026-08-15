@@ -64,6 +64,7 @@
 | [shuruppak-instructions](shuruppak-instructions.md) | shuruppak-instructions |
 | [sumerian-king-list](sumerian-king-list.md) | sumerian-king-list |
 | [timi-of-ede](timi-of-ede.md) | timi-of-ede |
+| [ur-namma-code](ur-nammu-code.md) | ur-nammu-code |
 | [ur-namma-death](ur-namma-death.md) | ur-namma-death |
 | [uruk-lament](uruk-lament.md) | uruk-lament |
 | [ziusudra-flood-narrative](ziusudra-flood-narrative.md) | ziusudra-flood-narrative |

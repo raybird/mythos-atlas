@@ -52,6 +52,7 @@
 | [Ninsun](Ninsun.md) | Ninsun |
 | [Ninurta](Ninurta.md) | Ninurta |
 | [Nisaba](Nisaba.md) | Nisaba |
+| [Neti](Neti.md) | Neti |
 | [Nungal](Nungal.md) | Nungal |
 | [Pabilsag](Pabilsag.md) | Pabilsag |
 | [Pazuzu](Pazuzu.md) | Pazuzu |

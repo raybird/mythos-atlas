@@ -62,6 +62,7 @@
 | [temple-cosmic-mountain-comparison](temple-cosmic-mountain-comparison.md) | temple-cosmic-mountain-comparison |
 | [theodicy-suffering-comparative](theodicy-suffering-comparative.md) | theodicy-suffering-comparative |
 | [underworld-descent](underworld-descent.md) | underworld-descent |
+| [冥界守門人跨文化比較](冥界守門人跨文化比較.md) | 冥界守門人跨文化比較 |
 | [underworld-geography-comparison](underworld-geography-comparison.md) | underworld-geography-comparison |
 | [underworld-geography-detailed](underworld-geography-detailed.md) | underworld-geography-detailed |
 | [underworld-queens-comparison](underworld-queens-comparison.md) | underworld-queens-comparison |
