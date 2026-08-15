@@ -3,6 +3,7 @@
 | 檔案 | 名稱 |
 |------|------|
 | [Ala](Ala.md) | Ala |
+| [Amadioha](Amadioha.md) | Amadioha |
 | [Amma](Amma.md) | Amma |
 | [Anansi](Anansi.md) | Anansi |
 | [Khepri](Khepri.md) | Khepri |
@@ -26,4 +27,4 @@
 | [瑪巫麗莎](瑪巫麗莎.md) | 瑪巫麗莎 |
 
 ---
-*Auto-generated on 2026-08-15 16:10 UTC*
+*Auto-generated on 2026-08-15 18:42 UTC*

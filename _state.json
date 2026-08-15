@@ -126,7 +126,8 @@
   "nubian",
   "minoan",
   "korean",
-  "siberian"
+  "siberian",
+  "african"
  ],
  "analysis_log": [
   "sacrificial-creation",
@@ -182,5 +183,5 @@
   "divine-mounts-vahana-comparative",
   "board-games-fate-myths-comparative"
  ],
- "runs": 152
+ "runs": 153
 }
