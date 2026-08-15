@@ -96,16 +96,16 @@ mythos-atlas/
 
 ## 📊 當前狀態
 
-> 自動更新於 2026-08-15 06:31 UTC
+> 自動更新於 2026-08-15 06:44 UTC
 
 | 類別 | 進度 |
 |------|------|
 | 文化體系 | 44/44 |
 | 跨文化主題 | 27/27 |
-| 分析文章 | 459 |
+| 分析文章 | 460 |
 | 已充實文化 | 44/44 |
 | 總頁面數 | 3085 |
-| 總執行次數 | 150 |
+| 總執行次數 | 151 |
 
 <!-- STATS_END -->
 
@@ -166,8 +166,9 @@ mythos-atlas/
 
 ## 📝 分析文章
 
-> 跨文化比較神話學分析文章。共 459 篇。
+> 跨文化比較神話學分析文章。共 460 篇。
 
+- [棋局神話：宇宙為盤、命運為局——跨文化神話中的棋戲與神聖遊戲](analyses/board-games-fate-myths-comparative.md)
 - [神之坐騎：印度瓦哈納傳統與跨文化神聖座騎比較](analyses/divine-mounts-vahana-comparative.md)
 - [以人為祭：跨文化神話中的宇宙債務、替代邏輯與廢止敘事](analyses/human-sacrifice-comparative.md)
 - [死亡的化身：死神與收割者的跨文化神話比較](analyses/personifications-of-death-comparative.md)

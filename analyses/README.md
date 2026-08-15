@@ -27,6 +27,7 @@
 - [Big Dipper Constellation Myths Comparative](big-dipper-constellation-myths-comparative.md)
 - [Blindness Inner Vision Comparative](blindness-inner-vision-comparative.md)
 - [Blood Covenant Myths Comparative](blood-covenant-myths-comparative.md)
+- [Board Games Fate Myths Comparative](board-games-fate-myths-comparative.md)
 - [Bog Swamp Marsh Mythology Comparative](bog-swamp-marsh-mythology-comparative.md)
 - [Bones Mythology Comparative](bones-mythology-comparative.md)
 - [Bound Gods Divine Imprisonment Comparative](bound-gods-divine-imprisonment-comparative.md)
@@ -463,4 +464,4 @@
 - [聖林跨文化神聖樹林崇拜比較分析](聖林跨文化神聖樹林崇拜比較分析.md)
 
 ---
-*Auto-generated on 2026-08-15 14:26 UTC*
+*Auto-generated on 2026-08-15 14:41 UTC*
