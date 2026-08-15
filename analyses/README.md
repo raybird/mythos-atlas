@@ -419,6 +419,7 @@
 - [Time Distortion Otherworld Comparative](time-distortion-otherworld-comparative.md)
 - [Tobacco Myths Sacred Smoke Comparative](tobacco-myths-sacred-smoke-comparative.md)
 - [Tornado Whirlwind Myths Comparative](tornado-whirlwind-myths-comparative.md)
+- [Tree Forest Spirits Comparative](tree-forest-spirits-comparative.md)
 - [Trial By Ordeal Divine Judgement Comparative](trial-by-ordeal-divine-judgement-comparative.md)
 - [Trickster Across Cultures](trickster-across-cultures.md)
 - [Trickster Archetype Comparative](trickster-archetype-comparative.md)
@@ -464,4 +465,4 @@
 - [聖林跨文化神聖樹林崇拜比較分析](聖林跨文化神聖樹林崇拜比較分析.md)
 
 ---
-*Auto-generated on 2026-08-15 16:10 UTC*
+*Auto-generated on 2026-08-15 12:42 UTC*

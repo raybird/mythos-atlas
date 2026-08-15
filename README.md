@@ -96,13 +96,13 @@ mythos-atlas/
 
 ## 📊 當前狀態
 
-> 自動更新於 2026-08-15 11:01 UTC
+> 自動更新於 2026-08-15 12:43 UTC
 
 | 類別 | 進度 |
 |------|------|
 | 文化體系 | 44/44 |
 | 跨文化主題 | 27/27 |
-| 分析文章 | 460 |
+| 分析文章 | 461 |
 | 已充實文化 | 44/44 |
 | 總頁面數 | 3094 |
 | 總執行次數 | 154 |
@@ -166,8 +166,9 @@ mythos-atlas/
 
 ## 📝 分析文章
 
-> 跨文化比較神話學分析文章。共 460 篇。
+> 跨文化比較神話學分析文章。共 461 篇。
 
+- [樹靈與森林精靈：荒野之心的人格化跨文化比較分析](analyses/tree-forest-spirits-comparative.md)
 - [棋局神話：宇宙為盤、命運為局——跨文化神話中的棋戲與神聖遊戲](analyses/board-games-fate-myths-comparative.md)
 - [神之坐騎：印度瓦哈納傳統與跨文化神聖座騎比較](analyses/divine-mounts-vahana-comparative.md)
 - [以人為祭：跨文化神話中的宇宙債務、替代邏輯與廢止敘事](analyses/human-sacrifice-comparative.md)
