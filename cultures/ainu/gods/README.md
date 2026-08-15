@@ -11,6 +11,7 @@
 | [Horkew-Kamuy](Horkew-Kamuy.md) | Horkew-Kamuy |
 | [Inau-Kamuy](Inau-Kamuy.md) | Inau-Kamuy |
 | [Kamuy-huci](Kamuy-huci.md) | Kamuy-huci |
+| [Kandakoro-kamuy](Kandakoro-kamuy.md) | Kandakoro-kamuy |
 | [Kanna-Kamuy](Kanna-Kamuy.md) | Kanna-Kamuy |
 | [Kim-un-kamuy](Kim-un-kamuy.md) | Kim-un-kamuy |
 | [Kotan-kar-kamuy](Kotan-kar-kamuy.md) | Kotan-kar-kamuy |

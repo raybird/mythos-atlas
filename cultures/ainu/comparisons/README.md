@@ -8,6 +8,7 @@
 | [ainu-ramat-soul-afterlife-comparative](ainu-ramat-soul-afterlife-comparative.md) | ainu-ramat-soul-afterlife-comparative |
 | [ainu-shamanism-comparative](ainu-shamanism-comparative.md) | ainu-shamanism-comparative |
 | [bear-cult-global](bear-cult-global.md) | bear-cult-global |
+| [deus-otiosus-global](deus-otiosus-global.md) | deus-otiosus-global |
 | [earth-diver-ainu-global](earth-diver-ainu-global.md) | earth-diver-ainu-global |
 | [fire-goddess-global](fire-goddess-global.md) | fire-goddess-global |
 | [hunt-goddess-global](hunt-goddess-global.md) | hunt-goddess-global |

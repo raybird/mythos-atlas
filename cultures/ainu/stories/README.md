@@ -5,6 +5,7 @@
 | [ae-oyna-kamuy-teaches-humans](ae-oyna-kamuy-teaches-humans.md) | ae-oyna-kamuy-teaches-humans |
 | [ainu-flood-legend](ainu-flood-legend.md) | ainu-flood-legend |
 | [cuckoo-fire](cuckoo-fire.md) | cuckoo-fire |
+| [fire-drill-origin](fire-drill-origin.md) | fire-drill-origin |
 | [fire-theft-rera](fire-theft-rera.md) | fire-theft-rera |
 | [fox-wedding](fox-wedding.md) | fox-wedding |
 | [iyomante-bear-festival](iyomante-bear-festival.md) | iyomante-bear-festival |
