@@ -17,10 +17,10 @@
 | [south-american-culture-heroes](south-american-culture-heroes.md) | south-american-culture-heroes |
 | [south-american-forest-spirits-comparison](south-american-forest-spirits-comparison.md) | south-american-forest-spirits-comparison |
 | [tupa-thunder-gods](tupa-thunder-gods.md) | tupa-thunder-gods |
-| [食人宇宙論跨文化比較](食人宇宙論跨文化比較.md) | 食人宇宙論跨文化比較 |
-| [跛足神與單足神跨文化比較](跛足神與單足神跨文化比較.md) | 跛足神與單足神跨文化比較 |
-| [洪水攀樹逃生母題跨文化比較](洪水攀樹逃生母題跨文化比較.md) | 洪水攀樹逃生母題跨文化比較 |
 | [少女化身神聖植物跨文化比較](少女化身神聖植物跨文化比較.md) | 少女化身神聖植物跨文化比較 |
+| [洪水攀樹逃生母題跨文化比較](洪水攀樹逃生母題跨文化比較.md) | 洪水攀樹逃生母題跨文化比較 |
+| [跛足神與單足神跨文化比較](跛足神與單足神跨文化比較.md) | 跛足神與單足神跨文化比較 |
+| [食人宇宙論跨文化比較](食人宇宙論跨文化比較.md) | 食人宇宙論跨文化比較 |
 
 ---
-*Auto-generated on 2026-08-05 00:20 UTC*
+*Auto-generated on 2026-08-15 14:26 UTC*

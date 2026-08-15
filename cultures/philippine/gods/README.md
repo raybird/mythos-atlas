@@ -2,16 +2,27 @@
 
 | 檔案 | 名稱 |
 |------|------|
+| [AmanSinaya](AmanSinaya.md) | AmanSinaya |
+| [Anitun-Tabu](Anitun-Tabu.md) | Anitun-Tabu |
 | [Apolaki](Apolaki.md) | Apolaki |
 | [Bakunawa](Bakunawa.md) | Bakunawa |
 | [Bathala](Bathala.md) | Bathala |
+| [Dalikamata](Dalikamata.md) | Dalikamata |
+| [Dian-Masalanta](Dian-Masalanta.md) | Dian-Masalanta |
+| [Gugurang](Gugurang.md) | Gugurang |
+| [Idiyanale](Idiyanale.md) | Idiyanale |
+| [Kaptan](Kaptan.md) | Kaptan |
+| [Lakambini](Lakambini.md) | Lakambini |
 | [Lakapati](Lakapati.md) | Lakapati |
+| [Laon](Laon.md) | Laon |
+| [Magwayen](Magwayen.md) | Magwayen |
 | [MalakasMaganda](MalakasMaganda.md) | MalakasMaganda |
+| [Mapulon](Mapulon.md) | Mapulon |
+| [Mariang-Makiling](Mariang-Makiling.md) | Mariang-Makiling |
 | [Mayari](Mayari.md) | Mayari |
 | [Sidapa](Sidapa.md) | Sidapa |
-| [Magwayen](Magwayen.md) | Magwayen（麥圭延） |
-| [Laon](Laon.md) | Laon（拉昂／拉勞恩） |
-| [Lakambini](Lakambini.md) | Lakambini（拉坎比尼，純潔／宴饗／抗貪食之神） |
+| [Tala](Tala.md) | Tala |
+| [haliya](haliya.md) | haliya |
 
 ---
-*Auto-generated on 2026-08-03 14:11 UTC*
+*Auto-generated on 2026-08-15 14:26 UTC*

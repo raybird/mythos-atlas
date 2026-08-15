@@ -1,6 +1,5 @@
 # 馬普切神話 — 故事
 
-
 | 檔案 | 名稱 |
 |------|------|
 | [Admapu法則的起源](Admapu法則的起源.md) | Admapu法則的起源 |
@@ -18,10 +17,12 @@
 | [copihue-legend](copihue-legend.md) | copihue-legend |
 | [first-machi-origin](first-machi-origin.md) | first-machi-origin |
 | [galvarino](galvarino.md) | galvarino |
+| [gunelve-and-the-stars](gunelve-and-the-stars.md) | gunelve-and-the-stars |
 | [la-pincoya-sea-spirit](la-pincoya-sea-spirit.md) | la-pincoya-sea-spirit |
+| [lituche-first-man](lituche-first-man.md) | lituche-first-man |
 | [origin-of-ngen](origin-of-ngen.md) | origin-of-ngen |
 | [pehuen-miracle](pehuen-miracle.md) | pehuen-miracle |
 | [創世神話](創世神話.md) | 創世神話 |
 
 ---
-*Auto-generated on 2026-08-09 08:09 UTC*
+*Auto-generated on 2026-08-15 14:26 UTC*

@@ -4,7 +4,6 @@
 |------|------|
 | [Aralez](Aralez.md) | Aralez |
 | [Areg](Areg.md) | Areg |
-| [barsamin](barsamin.md) | barsamin |
 | [Grogh](Grogh.md) | Grogh |
 | [Khaldi](Khaldi.md) | Khaldi |
 | [Theispas](Theispas.md) | Theispas |
@@ -14,6 +13,7 @@
 | [aray](aray.md) | aray |
 | [arev](arev.md) | arev |
 | [astghik](astghik.md) | astghik |
+| [barsamin](barsamin.md) | barsamin |
 | [gisane](gisane.md) | gisane |
 | [hayk](hayk.md) | hayk |
 | [mihr](mihr.md) | mihr |
@@ -25,4 +25,4 @@
 | [vanatur](vanatur.md) | vanatur |
 
 ---
-*Auto-generated on 2026-08-04 10:50 UTC*
+*Auto-generated on 2026-08-15 14:26 UTC*

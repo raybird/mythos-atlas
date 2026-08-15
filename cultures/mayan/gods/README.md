@@ -1,31 +1,72 @@
-# 馬雅神祇
+# 馬雅神話 — 神祇
 
-- [Ah-Puch](Ah-Puch.md)
-- [Bacab](Bacab.md)
-- [Chaac](Chaac.md)
-- [Hero-Twins](Hero-Twins.md)
-- [Huracan](Huracan.md)
-- [Itzamna](Itzamna.md)
-- [Ix-Chel](Ix-Chel.md)
-- [Ix-Tab](Ix-Tab.md)
-- [Kinich-Ahau](Kinich-Ahau.md)
-- [Kukulkan](Kukulkan.md)
-- [Yum-Kaax](Yum-Kaax.md)
-- [查克切爾 (Chac-Chel)](Chac-Chel.md)
-- [卡瑪佐茲](卡瑪佐茲.md)
-- [渾渾阿普](渾渾阿普.md)
-- [艾克楚亞](艾克楚亞.md)
-- [伊克斯皮亞科克 (Ixpiyacoc)](Ixpiyacoc.md)
-- [帕瓦頓 (Pawahtun)](pawahtun.md)
-- [Ixazaluoh — 女性創世原力與虛空女神](Ixazaluoh-feminine-creation.md)
-- [Noh Ek — 金星神、戰爭與時間的天體主宰](Noh-Ek.md)
-- [Hunab Ku — 胡納布庫，至高唯一的神](Hunab-Ku.md)
-- [K'awiil — 雷電、王權與王朝延續之神](kawiil.md)
-- [Wayob（瓦尤布）— 馬雅伴靈、命運守護與超自然同伴](wayob-companion-spirits.md)
-- [基尼奇·卡克莫 (Kinich Kak Mo) — 伊察馬爾的火鸚鵡太陽神](Kinich-Kak-Mo.md)
-- [Ix Chebel Yax — 織繪與色彩的女神](Ix-Chebel-Yax.md)
-- [阿坎 (Acan) — 醉態、烈酒、死亡與疾病之神](阿坎.md)
-- [阿·塔拜 (Ah Tabai) — 狩獵之神與「動物之主」西普 (Sip)](ah-tabai.md)
+| 檔案 | 名稱 |
+|------|------|
+| [Ah-Puch](Ah-Puch.md) | Ah-Puch |
+| [Akna](Akna.md) | Akna |
+| [Alux](Alux.md) | Alux |
+| [Bacab](Bacab.md) | Bacab |
+| [Bolon-Yokte-Ku](Bolon-Yokte-Ku.md) | Bolon-Yokte-Ku |
+| [Buluc-Chabtan](Buluc-Chabtan.md) | Buluc-Chabtan |
+| [Chaac](Chaac.md) | Chaac |
+| [Chac-Chel](Chac-Chel.md) | Chac-Chel |
+| [Chac-Uayab-Xoc](Chac-Uayab-Xoc.md) | Chac-Uayab-Xoc |
+| [Chac-Xib-Chac](Chac-Xib-Chac.md) | Chac-Xib-Chac |
+| [God-L](God-L.md) | God-L |
+| [Hero-Twins](Hero-Twins.md) | Hero-Twins |
+| [Hun-Pic-Tok](Hun-Pic-Tok.md) | Hun-Pic-Tok |
+| [Hunab Ku](Hunab Ku.md) | Hunab Ku |
+| [Hunab-Ku](Hunab-Ku.md) | Hunab-Ku |
+| [Hunahpu](Hunahpu.md) | Hunahpu |
+| [Huracan](Huracan.md) | Huracan |
+| [Itzamna](Itzamna.md) | Itzamna |
+| [Ix-Chebel-Yax](Ix-Chebel-Yax.md) | Ix-Chebel-Yax |
+| [Ix-Chel](Ix-Chel.md) | Ix-Chel |
+| [Ix-Tab](Ix-Tab.md) | Ix-Tab |
+| [Ixazaluoh-feminine-creation](Ixazaluoh-feminine-creation.md) | Ixazaluoh-feminine-creation |
+| [Ixazaluoh](Ixazaluoh.md) | Ixazaluoh |
+| [Ixik-Kab](Ixik-Kab.md) | Ixik-Kab |
+| [Ixpiyacoc](Ixpiyacoc.md) | Ixpiyacoc |
+| [Kinich-Ahau](Kinich-Ahau.md) | Kinich-Ahau |
+| [Kinich-Kak-Mo](Kinich-Kak-Mo.md) | Kinich-Kak-Mo |
+| [Kisin](Kisin.md) | Kisin |
+| [Kukulkan](Kukulkan.md) | Kukulkan |
+| [Mam](Mam.md) | Mam |
+| [Noh-Ek](Noh-Ek.md) | Noh-Ek |
+| [Paddler-Gods](Paddler-Gods.md) | Paddler-Gods |
+| [Tepeu](Tepeu.md) | Tepeu |
+| [Uayeb](Uayeb.md) | Uayeb |
+| [Vucub-Caquix](Vucub-Caquix.md) | Vucub-Caquix |
+| [Wacah-Chan](Wacah-Chan.md) | Wacah-Chan |
+| [Wakah-Chan](Wakah-Chan.md) | Wakah-Chan |
+| [Xaman-Ek](Xaman-Ek.md) | Xaman-Ek |
+| [Xbalanque](Xbalanque.md) | Xbalanque |
+| [Xibalba-Lords](Xibalba-Lords.md) | Xibalba-Lords |
+| [Xmucane](Xmucane.md) | Xmucane |
+| [Xquic](Xquic.md) | Xquic |
+| [Yum-Kaax](Yum-Kaax.md) | Yum-Kaax |
+| [Zipacna](Zipacna.md) | Zipacna |
+| [ah-muzen-cab](ah-muzen-cab.md) | ah-muzen-cab |
+| [ah-tabai](ah-tabai.md) | ah-tabai |
+| [cabrakan](cabrakan.md) | cabrakan |
+| [cit-bolon-tum](cit-bolon-tum.md) | cit-bolon-tum |
+| [ek-chuaj](ek-chuaj.md) | ek-chuaj |
+| [hun-batz](hun-batz.md) | hun-batz |
+| [hun-hunahpu-maize-lord](hun-hunahpu-maize-lord.md) | hun-hunahpu-maize-lord |
+| [hun-hunahpu](hun-hunahpu.md) | hun-hunahpu |
+| [jacawitz](jacawitz.md) | jacawitz |
+| [kawiil](kawiil.md) | kawiil |
+| [kawil-god-of-lightning](kawil-god-of-lightning.md) | kawil-god-of-lightning |
+| [kawil](kawil.md) | kawil |
+| [pawahtun](pawahtun.md) | pawahtun |
+| [wayob-companion-spirits](wayob-companion-spirits.md) | wayob-companion-spirits |
+| [九夜主Bolon-Ti-Ku](九夜主Bolon-Ti-Ku.md) | 九夜主Bolon-Ti-Ku |
+| [卡瑪佐茲](卡瑪佐茲.md) | 卡瑪佐茲 |
+| [托希爾](托希爾.md) | 托希爾 |
+| [渾渾阿普](渾渾阿普.md) | 渾渾阿普 |
+| [瓦約伯——瑪雅守護靈伴](瓦約伯——瑪雅守護靈伴.md) | 瓦約伯——瑪雅守護靈伴 |
+| [艾克楚亞](艾克楚亞.md) | 艾克楚亞 |
+| [阿坎](阿坎.md) | 阿坎 |
 
 ---
-*Updated on 2026-08-13*
+*Auto-generated on 2026-08-15 14:26 UTC*

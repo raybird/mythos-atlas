@@ -2,24 +2,24 @@
 
 | 檔案 | 名稱 |
 |------|------|
-| [Akhsar & Akhsartag 雙胞胎](akhsar-akhsartag-twins.md) | 雙胞胎的衝突 |
-| [Atsamaz 的魔笛](atsamaz-magic-flute.md) | 以音樂贏得天女 |
-| [Batradz 的永恆戰鬥](batradz-eternal-battle.md) | Batradz 的永恆戰鬥 |
-| [Batradz 的鋼鐵身軀](batradz-steel-body.md) | Batradz 的鋼鐵身軀 |
-| [Dzerassa 與納爾特之誕生](dzerassa-nart-birth.md) | Dzerassa 與納爾特之誕生 |
-| [Khamyts 與青蛙新娘](khamyts-and-the-frog-bride.md) | 海神之女與巴特拉茲的誕生 |
-| [納爾特的金蘋果樹](nart-apple-tree.md) | 青春之果與孤獨的守望者 |
-| [納爾特大洪水](nart-great-flood.md) | 納爾特大洪水 |
-| [納爾特的起源](nart-origin-creation.md) | 天界的十七次宴會 |
-| [納爾特蛇戰](nart-serpent-war.md) | 納爾特蛇戰 |
-| [Safa 爐灶誓言](safa-hearth-oath.md) | Safa 爐灶誓言 |
-| [Sosruko 盜火](sosruko-steals-fire.md) | Sosruko 盜火 |
-| [Sosruko 從石中誕生](sosruko-stone-birth.md) | 納爾特人的文化英雄 |
-| [Sosruko 與 Balsag 之輪](sosruko-wheel-balsag.md) | Sosruko 與 Balsag 之輪 |
-| [Sosruko 之死](sosruko-death.md) | Sosruko 之死 |
-| [敘爾東偷太陽](syrdon-steals-sun.md) | 敘爾東偷太陽 |
-| [庫爾達拉貢的熔爐](kurdalagon-forge-batradz-blade.md) | 庫爾達拉貢的熔爐：巴特拉德的鋼刃 |
-| [納爾特盛宴與烏阿茨蒙加聖杯](nart-great-feast-uatsamonga.md) | 納爾特盛宴與烏阿茨蒙加聖杯 |
+| [akhsar-akhsartag-twins](akhsar-akhsartag-twins.md) | akhsar-akhsartag-twins |
+| [atsamaz-magic-flute](atsamaz-magic-flute.md) | atsamaz-magic-flute |
+| [batradz-eternal-battle](batradz-eternal-battle.md) | batradz-eternal-battle |
+| [batradz-steel-body](batradz-steel-body.md) | batradz-steel-body |
+| [dzerassa-nart-birth](dzerassa-nart-birth.md) | dzerassa-nart-birth |
+| [khamyts-and-the-frog-bride](khamyts-and-the-frog-bride.md) | khamyts-and-the-frog-bride |
+| [kurdalagon-forge-batradz-blade](kurdalagon-forge-batradz-blade.md) | kurdalagon-forge-batradz-blade |
+| [nart-apple-tree](nart-apple-tree.md) | nart-apple-tree |
+| [nart-great-feast-uatsamonga](nart-great-feast-uatsamonga.md) | nart-great-feast-uatsamonga |
+| [nart-great-flood](nart-great-flood.md) | nart-great-flood |
+| [nart-origin-creation](nart-origin-creation.md) | nart-origin-creation |
+| [nart-serpent-war](nart-serpent-war.md) | nart-serpent-war |
+| [safa-hearth-oath](safa-hearth-oath.md) | safa-hearth-oath |
+| [sosruko-death](sosruko-death.md) | sosruko-death |
+| [sosruko-steals-fire](sosruko-steals-fire.md) | sosruko-steals-fire |
+| [sosruko-stone-birth](sosruko-stone-birth.md) | sosruko-stone-birth |
+| [sosruko-wheel-balsag](sosruko-wheel-balsag.md) | sosruko-wheel-balsag |
+| [syrdon-steals-sun](syrdon-steals-sun.md) | syrdon-steals-sun |
 
 ---
-*Last updated: 2026-08-03*
+*Auto-generated on 2026-08-15 14:26 UTC*

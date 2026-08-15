@@ -12,18 +12,18 @@
 | [Itugen](Itugen.md) | Itugen |
 | [Jamsaran](Jamsaran.md) | Jamsaran |
 | [Khoormusta](Khoormusta.md) | Khoormusta |
+| [Lus](Lus.md) | Lus |
 | [Ot](Ot.md) | Ot |
 | [Sakia](Sakia.md) | Sakia |
 | [Tengri](Tengri.md) | Tengri |
 | [Umay](Umay.md) | Umay |
 | [Zayagachi](Zayagachi.md) | Zayagachi |
 | [molon-teyin](molon-teyin.md) | molon-teyin |
+| [南斯拉伊](南斯拉伊.md) | 南斯拉伊 |
 | [太陽神納蘭](太陽神納蘭.md) | 太陽神納蘭 |
 | [月神薩蘭](月神薩蘭.md) | 月神薩蘭 |
 | [白老翁](白老翁.md) | 白老翁 |
 | [蒼狼神](蒼狼神.md) | 蒼狼神 |
-| [Lus](Lus.md) | 蘆斯 (Lus) — 水主／水靈 |
-| [南斯拉伊](南斯拉伊.md) | 南斯拉伊 (Namsarai) — 財富與福佑之神 |
 
 ---
-*Last updated: 2026-08-08*
+*Auto-generated on 2026-08-15 14:26 UTC*

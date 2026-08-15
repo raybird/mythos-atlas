@@ -4,12 +4,12 @@
 |------|------|
 | [Haumia-tiketike](Haumia-tiketike.md) | Haumia-tiketike |
 | [Hine-ahu-one](Hine-ahu-one.md) | Hine-ahu-one |
-| [Matariki](Matariki.md) | Matariki |
 | [Hine-nui-te-po](Hine-nui-te-po.md) | Hine-nui-te-po |
 | [Hine-te-iwaiwa](Hine-te-iwaiwa.md) | Hine-te-iwaiwa |
 | [Io-matua-kore](Io-matua-kore.md) | Io-matua-kore |
 | [Mahuika](Mahuika.md) | Mahuika |
 | [Maru](Maru.md) | Maru |
+| [Matariki](Matariki.md) | Matariki |
 | [Maui](Maui.md) | Maui |
 | [Pakea](Pakea.md) | Pakea |
 | [Papatūānuku](Papatūānuku.md) | Papatūānuku |
@@ -27,4 +27,4 @@
 | [Whiro](Whiro.md) | Whiro |
 
 ---
-*Auto-generated on 2026-08-03 17:05 UTC*
+*Auto-generated on 2026-08-15 14:26 UTC*

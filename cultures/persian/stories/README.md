@@ -7,9 +7,13 @@
 | [Keresaspa-dragon](Keresaspa-dragon.md) | Keresaspa-dragon |
 | [Yima-Vara](Yima-Vara.md) | Yima-Vara |
 | [Zarathustra-revelation](Zarathustra-revelation.md) | Zarathustra-revelation |
+| [adur-burzin-mihr](adur-burzin-mihr.md) | adur-burzin-mihr |
 | [arash-archer](arash-archer.md) | arash-archer |
+| [ardashir-divine-origin](ardashir-divine-origin.md) | ardashir-divine-origin |
 | [ardashir-sassanian-rise](ardashir-sassanian-rise.md) | ardashir-sassanian-rise |
 | [ardaviraf-heaven-journey](ardaviraf-heaven-journey.md) | ardaviraf-heaven-journey |
+| [bahram-gur-final-hunt](bahram-gur-final-hunt.md) | bahram-gur-final-hunt |
+| [birth-of-rostam](birth-of-rostam.md) | birth-of-rostam |
 | [bizhan-manizheh](bizhan-manizheh.md) | bizhan-manizheh |
 | [creation-bundahishn](creation-bundahishn.md) | creation-bundahishn |
 | [esfandiyar-seven-labors](esfandiyar-seven-labors.md) | esfandiyar-seven-labors |
@@ -22,18 +26,25 @@
 | [haoma-discovery](haoma-discovery.md) | haoma-discovery |
 | [hushang-fire-discovery](hushang-fire-discovery.md) | hushang-fire-discovery |
 | [jamshid-cup](jamshid-cup.md) | jamshid-cup |
+| [kay-kavus-demons](kay-kavus-demons.md) | kay-kavus-demons |
 | [kay-khosrow-ascension](kay-khosrow-ascension.md) | kay-khosrow-ascension |
 | [kay-qobad-ascension](kay-qobad-ascension.md) | kay-qobad-ascension |
-| [mazdak-revolt](mazdak-revolt.md) | 馬茲達克起義 |
+| [manuchehr-revenge](manuchehr-revenge.md) | manuchehr-revenge |
+| [mashya-mashyana](mashya-mashyana.md) | mashya-mashyana |
+| [mazdak-revolt](mazdak-revolt.md) | mazdak-revolt |
+| [mithra-covenant](mithra-covenant.md) | mithra-covenant |
+| [mithra-frashokereti](mithra-frashokereti.md) | mithra-frashokereti |
+| [nush-zad](nush-zad.md) | nush-zad |
+| [rostam-akvan-demon](rostam-akvan-demon.md) | rostam-akvan-demon |
 | [rostam-esfandiyar](rostam-esfandiyar.md) | rostam-esfandiyar |
 | [rostam-seven-labors](rostam-seven-labors.md) | rostam-seven-labors |
-| [rostam-sohrab](rostam-sohrab.md) | rostam-sohrab |
 | [rostam-sohrab-tragedy](rostam-sohrab-tragedy.md) | rostam-sohrab-tragedy |
-| [ardashir-divine-origin](ardashir-divine-origin.md) | ardashir-divine-origin |
-| [rostam-akvan-demon](rostam-akvan-demon.md) | rostam-akvan-demon |
+| [rostam-sohrab](rostam-sohrab.md) | rostam-sohrab |
+| [rostam-white-demon](rostam-white-demon.md) | rostam-white-demon |
 | [sacred-dog-legend](sacred-dog-legend.md) | sacred-dog-legend |
-| [simurgh-covenant](simurgh-covenant.md) | simurgh-covenant |
 | [siamak-death](siamak-death.md) | siamak-death |
+| [simurgh-covenant](simurgh-covenant.md) | simurgh-covenant |
+| [simurgh-king-sinuhe](simurgh-king-sinuhe.md) | simurgh-king-sinuhe |
 | [siyavash](siyavash.md) | siyavash |
 | [spenta-amesha-revelation](spenta-amesha-revelation.md) | spenta-amesha-revelation |
 | [tahmuras-daeva-binder](tahmuras-daeva-binder.md) | tahmuras-daeva-binder |
@@ -41,10 +52,10 @@
 | [yima-golden-age](yima-golden-age.md) | yima-golden-age |
 | [zahhak-serpent-king](zahhak-serpent-king.md) | zahhak-serpent-king |
 | [zal-rudabeh](zal-rudabeh.md) | zal-rudabeh |
+| [zarathustra-birth](zarathustra-birth.md) | zarathustra-birth |
 | [zarathustra-good-evil](zarathustra-good-evil.md) | zarathustra-good-evil |
 | [zarathustra-temptation](zarathustra-temptation.md) | zarathustra-temptation |
 | [卡韋鐵匠起義](卡韋鐵匠起義.md) | 卡韋鐵匠起義 |
-| [frashokereti-final-renovation](frashokereti-final-renovation.md) | frashokereti-final-renovation |
 
 ---
-*Last updated: 2026-07-26 UTC*
+*Auto-generated on 2026-08-15 14:26 UTC*

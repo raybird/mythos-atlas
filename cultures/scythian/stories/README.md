@@ -3,22 +3,22 @@
 | 檔案 | 名稱 |
 |------|------|
 | [Anacharsis的悲劇](Anacharsis的悲劇.md) | Anacharsis的悲劇 |
+| [Ares聖劍的祭祀儀式](Ares聖劍的祭祀儀式.md) | Ares聖劍的祭祀儀式 |
 | [Scyles王的悲劇](Scyles王的悲劇.md) | Scyles王的悲劇 |
 | [Tabiti的永恆聖火](Tabiti的永恆聖火.md) | Tabiti的永恆聖火 |
-| [tomyris-cyrus](tomyris-cyrus.md) | 托米麗司與居魯士：血囊之誓 |
-| [scythian-amazons-sauromatae](scythian-amazons-sauromatae.md) | 亞馬遜與斯基泰青年：薩洛馬泰人的誕生 |
+| [scythian-amazons-sauromatae](scythian-amazons-sauromatae.md) | scythian-amazons-sauromatae |
+| [tomyris-cyrus](tomyris-cyrus.md) | tomyris-cyrus |
 | [大流士入侵斯基泰](大流士入侵斯基泰.md) | 大流士入侵斯基泰 |
+| [奴隸之戰與馬鞭](奴隸之戰與馬鞭.md) | 奴隸之戰與馬鞭 |
 | [希臘殖民者與斯基泰人的黑海衝突](希臘殖民者與斯基泰人的黑海衝突.md) | 希臘殖民者與斯基泰人的黑海衝突 |
 | [帕茲里克冰凍公主](帕茲里克冰凍公主.md) | 帕茲里克冰凍公主 |
 | [斯基泰人起源雙版本](斯基泰人起源雙版本.md) | 斯基泰人起源雙版本 |
 | [王族葬儀與四十日靈魂之旅](王族葬儀與四十日靈魂之旅.md) | 王族葬儀與四十日靈魂之旅 |
-| [蛇足女神與Heracles](蛇足女神與Heracles.md) | 蛇足女神與Heracles |
 | [薩烏洛馬泰人起源](薩烏洛馬泰人起源.md) | 薩烏洛馬泰人起源 |
+| [蛇足女神與Heracles](蛇足女神與Heracles.md) | 蛇足女神與Heracles |
 | [金器天降與三兄弟](金器天降與三兄弟.md) | 金器天降與三兄弟 |
-| [Ares聖劍的祭祀儀式](Ares聖劍的祭祀儀式.md) | Ares聖劍的祭祀儀式 |
-| [頭骨杯](頭骨杯.md) | 頭骨杯：斯基泰戰士的戰利品飲宴 |
-| [飲血誓盟](飲血誓盟.md) | 飲血誓盟：斯基泰人的結義之誓 |
-| [奴隸之戰與馬鞭](奴隸之戰與馬鞭.md) | 奴隸之戰與馬鞭：歸鄉武士的支配之戰 |
+| [頭骨杯](頭骨杯.md) | 頭骨杯 |
+| [飲血誓盟](飲血誓盟.md) | 飲血誓盟 |
 
 ---
-*Updated 2026-08-14*
+*Auto-generated on 2026-08-15 14:26 UTC*

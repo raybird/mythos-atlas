@@ -6,8 +6,10 @@
 | [Tanit](Tanit.md) | Tanit |
 | [eshmun](eshmun.md) | eshmun |
 | [pumay](pumay.md) | pumay |
+| [qetesh](qetesh.md) | qetesh |
 | [shahar-shalim](shahar-shalim.md) | shahar-shalim |
 | [亞姆](亞姆.md) | 亞姆 |
+| [亞里施](亞里施.md) | 亞里施 |
 | [埃爾](埃爾.md) | 埃爾 |
 | [巴力](巴力.md) | 巴力 |
 | [巴力哈蒙](巴力哈蒙.md) | 巴力哈蒙 |
@@ -22,7 +24,6 @@
 | [阿斯塔蒂](阿斯塔蒂.md) | 阿斯塔蒂 |
 | [阿西拉特](阿西拉特.md) | 阿西拉特 |
 | [麥勒卡特](麥勒卡特.md) | 麥勒卡特 |
-| [蓋緹什](qetesh.md) | 蓋緹什 (Qetesh/Qudshu) |
 
 ---
-*Auto-generated on 2026-08-02 02:08 UTC*
+*Auto-generated on 2026-08-15 14:26 UTC*

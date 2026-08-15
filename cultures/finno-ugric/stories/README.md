@@ -1,6 +1,5 @@
 # 芬蘭-烏戈爾神話 — 故事
 
-
 | 檔案 | 名稱 |
 |------|------|
 | [Aino的悲劇](Aino的悲劇.md) | Aino的悲劇 |
@@ -17,11 +16,11 @@
 | [hiisi-elk-chase](hiisi-elk-chase.md) | hiisi-elk-chase |
 | [kantele-pike-origin](kantele-pike-origin.md) | kantele-pike-origin |
 | [vainamoinen-vs-youkahainen](vainamoinen-vs-youkahainen.md) | vainamoinen-vs-youkahainen |
+| [太陽與月亮被竊](太陽與月亮被竊.md) | 太陽與月亮被竊 |
 | [巨橡傳說](巨橡傳說.md) | 巨橡傳說 |
 | [波赫尤拉的遠征](波赫尤拉的遠征.md) | 波赫尤拉的遠征 |
 | [火的起源](火的起源.md) | 火的起源 |
 | [鐵的起源](鐵的起源.md) | 鐵的起源 |
-| [太陽與月亮被竊](太陽與月亮被竊.md) | 太陽與月亮被竊 |
 
 ---
-*Auto-generated on 2026-08-02 02:20 UTC*
+*Auto-generated on 2026-08-15 14:26 UTC*

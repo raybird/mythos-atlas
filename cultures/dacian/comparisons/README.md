@@ -2,11 +2,12 @@
 
 | 檔案 | 名稱 |
 |------|------|
-| [horseman-hero-gods-comparative](horseman-hero-gods-comparative.md) | 神聖騎士：達基亞騎士英雄神跨文化比較 |
-| [fate-goddesses-comparative](fate-goddesses-comparative.md) | 命運女神跨文化比較：烏爾西托亞蕾與紡織命定的三姊妹 |
 | [dacian-serpent-mythology](dacian-serpent-mythology.md) | dacian-serpent-mythology |
+| [fate-goddesses-comparative](fate-goddesses-comparative.md) | fate-goddesses-comparative |
 | [foundation-sacrifice-comparative](foundation-sacrifice-comparative.md) | foundation-sacrifice-comparative |
+| [horseman-hero-gods-comparative](horseman-hero-gods-comparative.md) | horseman-hero-gods-comparative |
 | [狂舞女靈跨文化比較](狂舞女靈跨文化比較.md) | 狂舞女靈跨文化比較 |
+| [狼祖與狼戰士跨文化比較](狼祖與狼戰士跨文化比較.md) | 狼祖與狼戰士跨文化比較 |
 | [達基亞Bendis月神與跨文化月亮女神比較](達基亞Bendis月神與跨文化月亮女神比較.md) | 達基亞Bendis月神與跨文化月亮女神比較 |
 | [達基亞Căluşari儀式與跨文化治療舞蹈比較](達基亞Căluşari儀式與跨文化治療舞蹈比較.md) | 達基亞Căluşari儀式與跨文化治療舞蹈比較 |
 | [達基亞仲夏節與跨文化仲夏儀式比較](達基亞仲夏節與跨文化仲夏儀式比較.md) | 達基亞仲夏節與跨文化仲夏儀式比較 |
@@ -18,7 +19,6 @@
 | [達基亞聖火崇拜與跨文化火崇拜比較](達基亞聖火崇拜與跨文化火崇拜比較.md) | 達基亞聖火崇拜與跨文化火崇拜比較 |
 | [達基亞雷神Gebeleizis與印歐雷神比較](達基亞雷神Gebeleizis與印歐雷神比較.md) | 達基亞雷神Gebeleizis與印歐雷神比較 |
 | [達基亞靈魂旅程跨文化比較](達基亞靈魂旅程跨文化比較.md) | 達基亞靈魂旅程跨文化比較 |
-| [狼祖與狼戰士跨文化比較](狼祖與狼戰士跨文化比較.md) | 狼祖與狼戰士跨文化比較 |
 
 ---
-*Auto-generated on 2026-08-14 UTC*
+*Auto-generated on 2026-08-15 14:26 UTC*

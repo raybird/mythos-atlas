@@ -1,28 +1,66 @@
-# 馬雅故事
+# 馬雅神話 — 故事
 
-- [Alux精靈傳說](Alux精靈傳說.md)
-- [Chaac與玉米之神](Chaac與玉米之神.md)
-- [hero-twins-xibalba-trial](hero-twins-xibalba-trial.md)
-- [hero-twins-xibalba](hero-twins-xibalba.md)
-- [maize-people-creation](maize-people-creation.md)
-- [popol-vuh-creation](popol-vuh-creation.md)
-- [vucub-caquix](vucub-caquix.md)
-- [創世之初](創世之初.md)
-- [月亮上的兔子](月亮上的兔子.md)
-- [英雄雙子化日月](英雄雙子化日月.md)
-- [西帕克納與卡布拉坎](西帕克納與卡布拉坎.md)
-- [拉比納爾武士 (Rabinal Achí)](rabinal-achi.md)
-- [可可的起源](origin-of-cacao.md)
-- [庫庫爾坎的東去與歸來的承諾](kukulkan-departure.md)
-- [撐船者之神與冥河渡航](paddler-gods-underworld-crossing.md)
-- [五個世界紀元 (Five World Ages / Five Suns)](five-world-ages.md)
-- [神聖球賽的起源與宇宙秩序 (The Origin of the Sacred Ballgame)](sacred-ballgame-origin.md)
-- [玉米神的冥界之旅 (The Maize God's Journey Through Xibalba)](maize-god-xibalba.md)
-- [玉米神的斬首 — 西巴爾巴的六重考驗與枯樹上的葫蘆](maize-god-beheading.md)
-- [火鸚鵡的降臨 — 伊察馬爾的祭品 (The Fire Macaw's Descent at Izamal)](kinich-kak-mo-descent-izamal.md)
-- [四百少年與昴宿星 (The Four Hundred Boys and the Pleiades)](four-hundred-boys-pleiades.md)
-- [蘇尤亞謎語 — 卡特恩輪替的王權試煉 (The Zuyua Riddles)](zuyua-riddles.md)
-- [齊普之禮 — 馬雅獵人的神聖狩獵祭典 (The Rite of the Zip)](rite-of-the-zip.md)
+| 檔案 | 名稱 |
+|------|------|
+| [Alux精靈傳說](Alux精靈傳說.md) | Alux精靈傳說 |
+| [Chaac與玉米之神](Chaac與玉米之神.md) | Chaac與玉米之神 |
+| [bacabs-sky-bearers](bacabs-sky-bearers.md) | bacabs-sky-bearers |
+| [chilam-balam-prophecies](chilam-balam-prophecies.md) | chilam-balam-prophecies |
+| [defeat-of-xibalba-lords](defeat-of-xibalba-lords.md) | defeat-of-xibalba-lords |
+| [ek-chuaj-cacao-origin-maya](ek-chuaj-cacao-origin-maya.md) | ek-chuaj-cacao-origin-maya |
+| [first-dawn-maize-people](first-dawn-maize-people.md) | first-dawn-maize-people |
+| [five-world-ages](five-world-ages.md) | five-world-ages |
+| [four-hundred-boys-pleiades](four-hundred-boys-pleiades.md) | four-hundred-boys-pleiades |
+| [hero-twins-ballgame-xibalba](hero-twins-ballgame-xibalba.md) | hero-twins-ballgame-xibalba |
+| [hero-twins-xibalba-trial](hero-twins-xibalba-trial.md) | hero-twins-xibalba-trial |
+| [hero-twins-xibalba](hero-twins-xibalba.md) | hero-twins-xibalba |
+| [hummingbird-creation](hummingbird-creation.md) | hummingbird-creation |
+| [hun-hunahpu-xibalba](hun-hunahpu-xibalba.md) | hun-hunahpu-xibalba |
+| [itzam-cab-ain](itzam-cab-ain.md) | itzam-cab-ain |
+| [itzamna-writing-calendar](itzamna-writing-calendar.md) | itzamna-writing-calendar |
+| [ixchel-moon-mirror](ixchel-moon-mirror.md) | ixchel-moon-mirror |
+| [jealous-brothers-become-monkeys](jealous-brothers-become-monkeys.md) | jealous-brothers-become-monkeys |
+| [kinich-kak-mo-descent-izamal](kinich-kak-mo-descent-izamal.md) | kinich-kak-mo-descent-izamal |
+| [kisin-earthquake-legend](kisin-earthquake-legend.md) | kisin-earthquake-legend |
+| [kukulkan-departure](kukulkan-departure.md) | kukulkan-departure |
+| [legend-of-maya-blue](legend-of-maya-blue.md) | legend-of-maya-blue |
+| [maize-god-beheading](maize-god-beheading.md) | maize-god-beheading |
+| [maize-god-resurrection](maize-god-resurrection.md) | maize-god-resurrection |
+| [maize-god-xibalba](maize-god-xibalba.md) | maize-god-xibalba |
+| [maize-people-creation](maize-people-creation.md) | maize-people-creation |
+| [maximon-rilaj-mam](maximon-rilaj-mam.md) | maximon-rilaj-mam |
+| [mayan-flood-fourth-world](mayan-flood-fourth-world.md) | mayan-flood-fourth-world |
+| [mountain-of-sustenance](mountain-of-sustenance.md) | mountain-of-sustenance |
+| [origin-maya-ballgame](origin-maya-ballgame.md) | origin-maya-ballgame |
+| [origin-of-cacao](origin-of-cacao.md) | origin-of-cacao |
+| [origin-of-cenotes](origin-of-cenotes.md) | origin-of-cenotes |
+| [origin-of-the-maya-calendar](origin-of-the-maya-calendar.md) | origin-of-the-maya-calendar |
+| [paddler-gods-underworld-crossing](paddler-gods-underworld-crossing.md) | paddler-gods-underworld-crossing |
+| [popol-vuh-creation](popol-vuh-creation.md) | popol-vuh-creation |
+| [rabinal-achi](rabinal-achi.md) | rabinal-achi |
+| [rite-of-the-zip](rite-of-the-zip.md) | rite-of-the-zip |
+| [sacred-ballgame-origin](sacred-ballgame-origin.md) | sacred-ballgame-origin |
+| [sun-moon-creation](sun-moon-creation.md) | sun-moon-creation |
+| [the-blood-letter-xquic](the-blood-letter-xquic.md) | the-blood-letter-xquic |
+| [the-creation-of-animals-popol-vuh](the-creation-of-animals-popol-vuh.md) | the-creation-of-animals-popol-vuh |
+| [the-thirteen-baktun](the-thirteen-baktun.md) | the-thirteen-baktun |
+| [three-hearths-creation](three-hearths-creation.md) | three-hearths-creation |
+| [tohil-fire-origin](tohil-fire-origin.md) | tohil-fire-origin |
+| [uayeb-the-five-days](uayeb-the-five-days.md) | uayeb-the-five-days |
+| [vucub-caquix](vucub-caquix.md) | vucub-caquix |
+| [wakah-chan-world-tree](wakah-chan-world-tree.md) | wakah-chan-world-tree |
+| [xtabay-utz-colel](xtabay-utz-colel.md) | xtabay-utz-colel |
+| [zuyua-riddles](zuyua-riddles.md) | zuyua-riddles |
+| [七胡納胡普的隕落](七胡納胡普的隕落.md) | 七胡納胡普的隕落 |
+| [創世之初](創世之初.md) | 創世之初 |
+| [奇琴伊察聖井傳說](奇琴伊察聖井傳說.md) | 奇琴伊察聖井傳說 |
+| [帕倫克巴加爾大帝的冥界之旅](帕倫克巴加爾大帝的冥界之旅.md) | 帕倫克巴加爾大帝的冥界之旅 |
+| [幻象蛇——瑪雅王室的祖先召喚](幻象蛇——瑪雅王室的祖先召喚.md) | 幻象蛇——瑪雅王室的祖先召喚 |
+| [月亮上的兔子](月亮上的兔子.md) | 月亮上的兔子 |
+| [木人世界](木人世界.md) | 木人世界 |
+| [烏斯馬爾的矮人傳說](烏斯馬爾的矮人傳說.md) | 烏斯馬爾的矮人傳說 |
+| [英雄雙子化日月](英雄雙子化日月.md) | 英雄雙子化日月 |
+| [西帕克納與卡布拉坎](西帕克納與卡布拉坎.md) | 西帕克納與卡布拉坎 |
 
 ---
-*Updated on 2026-08-13*
+*Auto-generated on 2026-08-15 14:26 UTC*

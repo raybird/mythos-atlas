@@ -3,23 +3,75 @@
 | 檔案 | 名稱 |
 |------|------|
 | [Anu](Anu.md) | Anu |
+| [Anunnaki](Anunnaki.md) | Anunnaki |
+| [Anzu](Anzu.md) | Anzu |
+| [Aruru](Aruru.md) | Aruru |
+| [Asalluhi](Asalluhi.md) | Asalluhi |
+| [Ashnan](Ashnan.md) | Ashnan |
+| [Baba](Baba.md) | Baba |
+| [Belili](Belili.md) | Belili |
+| [Damgalnun](Damgalnun.md) | Damgalnun |
+| [Damu](Damu.md) | Damu |
 | [Dumuzi](Dumuzi.md) | Dumuzi |
+| [Enbilulu](Enbilulu.md) | Enbilulu |
 | [Enki](Enki.md) | Enki |
+| [Enkimdu](Enkimdu.md) | Enkimdu |
 | [Enlil](Enlil.md) | Enlil |
+| [Enmesharra](Enmesharra.md) | Enmesharra |
+| [Ereshkigal](Ereshkigal.md) | Ereshkigal |
+| [Erra](Erra.md) | Erra |
+| [Geshtinanna](Geshtinanna.md) | Geshtinanna |
+| [Gibil](Gibil.md) | Gibil |
+| [Gilgamesh](Gilgamesh.md) | Gilgamesh |
+| [Gugalanna](Gugalanna.md) | Gugalanna |
+| [Gula](Gula.md) | Gula |
+| [Haya](Haya.md) | Haya |
+| [Hendursag](Hendursag.md) | Hendursag |
 | [Inanna](Inanna.md) | Inanna |
+| [Ishkur](Ishkur.md) | Ishkur |
+| [Lahar](Lahar.md) | Lahar |
+| [Lama](Lama.md) | Lama |
+| [Lulal](Lulal.md) | Lulal |
+| [Mami](Mami.md) | Mami |
+| [Mushdamma](Mushdamma.md) | Mushdamma |
 | [Nammu](Nammu.md) | Nammu |
+| [Namtar](Namtar.md) | Namtar |
+| [Nanaya](Nanaya.md) | Nanaya |
 | [Nanna](Nanna.md) | Nanna |
 | [Nergal](Nergal.md) | Nergal |
+| [Nidaba](Nidaba.md) | Nidaba |
+| [Ninazu](Ninazu.md) | Ninazu |
+| [Ningal](Ningal.md) | Ningal |
+| [Ningirsu](Ningirsu.md) | Ningirsu |
+| [Ningishzida](Ningishzida.md) | Ningishzida |
 | [Ninhursag](Ninhursag.md) | Ninhursag |
-| [Nungal](Nungal.md) | 寧加爾 |
+| [Ninisina](Ninisina.md) | Ninisina |
+| [Ninlil](Ninlil.md) | Ninlil |
+| [Ninsar](Ninsar.md) | Ninsar |
+| [Ninshubur](Ninshubur.md) | Ninshubur |
+| [Ninsun](Ninsun.md) | Ninsun |
+| [Ninurta](Ninurta.md) | Ninurta |
+| [Nisaba](Nisaba.md) | Nisaba |
+| [Nungal](Nungal.md) | Nungal |
+| [Pabilsag](Pabilsag.md) | Pabilsag |
+| [Pazuzu](Pazuzu.md) | Pazuzu |
+| [Sakkan](Sakkan.md) | Sakkan |
+| [Shul-pa-e](Shul-pa-e.md) | Shul-pa-e |
 | [Utu](Utu.md) | Utu |
-| [Anzu](Anzu.md) | Anzu（安祖）— 混沌風暴之鳥 |
-| [Lulal](Lulal.md) | 拉塔拉克（Lulal）— 戰爭與忠誠之神 |
-| [Ningirsu](Ningirsu.md) | 寧吉爾蘇（Ningirsu）— 拉格什守護神、戰神兼農業神 |
-| [Ninisina](Ninisina.md) | 妮妮西娜（Ninisina）— 伊辛的治癒女神、神犬之主 |
-| [Sakkan](Sakkan.md) | 薩坎（Sakkan/Sumugan）— 原野與牲畜之神、烏圖之子 |
-| [Haya](Haya.md) | 哈亞（Haya）— 書吏之神與神之檔案庫 |
-| [dingir-personal-god](dingir-personal-god.md) | 丁吉爾（Diĝir/Dingir）— 個人守護神、代禱者與神義論的核心 |
+| [Zababa](Zababa.md) | Zababa |
+| [Ziusudra](Ziusudra.md) | Ziusudra |
+| [abzu](abzu.md) | abzu |
+| [anshar-kishar](anshar-kishar.md) | anshar-kishar |
+| [dingir-personal-god](dingir-personal-god.md) | dingir-personal-god |
+| [ki](ki.md) | ki |
+| [lisin](lisin.md) | lisin |
+| [lugalbanda](lugalbanda.md) | lugalbanda |
+| [nanshe](nanshe.md) | nanshe |
+| [ninkasi](ninkasi.md) | ninkasi |
+| [nuska](nuska.md) | nuska |
+| [shulgi](shulgi.md) | shulgi |
+| [uttu](uttu.md) | uttu |
+| [Šara](Šara.md) | Šara |
 
 ---
-*Last updated: 2026-08-13*
+*Auto-generated on 2026-08-15 14:26 UTC*

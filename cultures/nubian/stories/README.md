@@ -12,15 +12,15 @@
 | [aspelta-coronation](aspelta-coronation.md) | aspelta-coronation |
 | [candace-alexander](candace-alexander.md) | candace-alexander |
 | [candace-queen-meroe](candace-queen-meroe.md) | candace-queen-meroe |
+| [irike-amanote-election](irike-amanote-election.md) | irike-amanote-election |
 | [jebel-barkal-origin](jebel-barkal-origin.md) | jebel-barkal-origin |
+| [kashta-gods-wife-thebes](kashta-gods-wife-thebes.md) | kashta-gods-wife-thebes |
 | [kerma-rise-fall](kerma-rise-fall.md) | kerma-rise-fall |
 | [meroe-pyramids](meroe-pyramids.md) | meroe-pyramids |
 | [napata-founding](napata-founding.md) | napata-founding |
 | [piye-conquest](piye-conquest.md) | piye-conquest |
 | [taharqa-assyria](taharqa-assyria.md) | taharqa-assyria |
 | [taharqa-sphinx-dream](taharqa-sphinx-dream.md) | taharqa-sphinx-dream |
-| [kashta-gods-wife-thebes](kashta-gods-wife-thebes.md) | kashta-gods-wife-thebes |
-| [irike-amanote-election](irike-amanote-election.md) | irike-amanote-election |
 
 ---
-*Last updated 2026-08-14*
+*Auto-generated on 2026-08-15 14:26 UTC*

@@ -1,62 +1,64 @@
-# 馬雅跨文化比較
+# 馬雅神話 — 跨文化比較
 
-- [Xibalba冥界跨文化比較](Xibalba冥界跨文化比較.md)
-- [maize-deities](maize-deities.md)
-- [popol-vuh-creation-comparison](popol-vuh-creation-comparison.md)
-- [popol-vuh-creation-parallels](popol-vuh-creation-parallels.md)
-- [xibalba-underworld-comparison](xibalba-underworld-comparison.md)
-- [中美洲創世神話比較](中美洲創世神話比較.md)
-- [冥界考驗比較](冥界考驗比較.md)
-- [英雄雙子比較](英雄雙子比較.md)
-- [雨神比較](雨神比較.md)
-- [馬雅世界樹與跨文化宇宙軸比較](maya-world-tree-comparison.md)
-- [瑪雅血祭與宇宙循環跨文化比較](maya-blood-sacrifice-cosmic-renewal.md)
-- [馬雅長曆法與跨文化宇宙循環比較](maya-baktun-cycle-comparison.md)
-- [英雄雙子騙子策略與全球騙子原型跨文化比較](trickster-archetype-cross-culture.md)
-- [中美洲與全球文明的宇宙毀滅循環比較](mesoamerican-cyclical-destruction-comparison.md)
-- [馬雅與波斯宇宙循環觀比較](mayan-zoroastrian-cyclical-cosmology.md)
-- [神聖穀物與文明之根 — 跨文化穀物神祇比較](sacred-grain-deities-comparison.md)
-- [馬雅與印度「宇宙犧牲」創世比較](mayan-hindu-cosmic-sacrifice.md)
-- [太陽火鳥神祇跨文化比較 (Solar Fire-Bird Deities)](solar-fire-bird-deities-comparison.md)
-- [bacabs-cosmic-pillars](bacabs-cosmic-pillars.md)
-- [calendar-cycles-comparison](calendar-cycles-comparison.md)
-- [cave-cenote-symbolism](cave-cenote-symbolism.md)
-- [creator-word-comparison](creator-word-comparison.md)
-- [divine-kingship-comparison](divine-kingship-comparison.md)
-- [divine-twins-world-comparison](divine-twins-world-comparison.md)
-- [jade-mythology-comparative](jade-mythology-comparative.md)
-- [jaguar-symbolism-cross-culture](jaguar-symbolism-cross-culture.md)
-- [maize-creation-comparison](maize-creation-comparison.md)
-- [maya-aboriginal-dreamtime](maya-aboriginal-dreamtime.md)
-- [maya-ballgame-cross-cultural](maya-ballgame-cross-cultural.md)
-- [maya-cosmic-levels-comparison](maya-cosmic-levels-comparison.md)
-- [maya-dying-rising-deity-comparison](maya-dying-rising-deity-comparison.md)
-- [maya-earth-diver-comparison](maya-earth-diver-comparison.md)
-- [maya-norse-cosmic-tree](maya-norse-cosmic-tree.md)
-- [maya-shinto-nature-spirits](maya-shinto-nature-spirits.md)
-- [mayan-chinese-cosmic-structure](mayan-chinese-cosmic-structure.md)
-- [mayan-chinese-flood-cycles](mayan-chinese-flood-cycles.md)
-- [mayan-egyptian-cosmic-pillars](mayan-egyptian-cosmic-pillars.md)
-- [mayan-egyptian-primordial-waters](mayan-egyptian-primordial-waters.md)
-- [mayan-flood-global-comparison](mayan-flood-global-comparison.md)
-- [mayan-four-first-fathers-comparison](mayan-four-first-fathers-comparison.md)
-- [mayan-incan-cosmology-comparison](mayan-incan-cosmology-comparison.md)
-- [mayan-korean-shamanic-middle-world](mayan-korean-shamanic-middle-world.md)
-- [mesoamerican-ballgame](mesoamerican-ballgame.md)
-- [monkey-deities-comparison](monkey-deities-comparison.md)
-- [rainbow-deities-comparative](rainbow-deities-comparative.md)
-- [serpent-deities-comparison](serpent-deities-comparison.md)
-- [soul-concepts-cross-culture](soul-concepts-cross-culture.md)
-- [uayeb-liminal-days-cross-cultural](uayeb-liminal-days-cross-cultural.md)
-- [venus-gods-comparison](venus-gods-comparison.md)
-- [world-ages-comparative](world-ages-comparative.md)
-- [火種起源比較](火種起源比較.md)
-- [瑪雅世界週期與印度宇宙循環比較](瑪雅世界週期與印度宇宙循環比較.md)
-- [瑪雅與阿茲特克宇宙觀比較](瑪雅與阿茲特克宇宙觀比較.md)
-- [馬雅與美索不達米亞洪水神話跨文化比較](馬雅與美索不達米亞洪水神話跨文化比較.md)
-- [書寫與繪畫之神的跨文化比較](scribal-painted-gods-comparison.md)
-- [謎語與王權考驗的跨文化比較](riddle-kingship-test-comparative.md)
-- [狩獵之神的跨文化比較 (Hunting Deities)](hunting-deities-comparison.md)
+| 檔案 | 名稱 |
+|------|------|
+| [Xibalba冥界跨文化比較](Xibalba冥界跨文化比較.md) | Xibalba冥界跨文化比較 |
+| [bacabs-cosmic-pillars](bacabs-cosmic-pillars.md) | bacabs-cosmic-pillars |
+| [calendar-cycles-comparison](calendar-cycles-comparison.md) | calendar-cycles-comparison |
+| [cave-cenote-symbolism](cave-cenote-symbolism.md) | cave-cenote-symbolism |
+| [creator-word-comparison](creator-word-comparison.md) | creator-word-comparison |
+| [divine-kingship-comparison](divine-kingship-comparison.md) | divine-kingship-comparison |
+| [divine-twins-world-comparison](divine-twins-world-comparison.md) | divine-twins-world-comparison |
+| [hunting-deities-comparison](hunting-deities-comparison.md) | hunting-deities-comparison |
+| [jade-mythology-comparative](jade-mythology-comparative.md) | jade-mythology-comparative |
+| [jaguar-symbolism-cross-culture](jaguar-symbolism-cross-culture.md) | jaguar-symbolism-cross-culture |
+| [maize-creation-comparison](maize-creation-comparison.md) | maize-creation-comparison |
+| [maize-deities](maize-deities.md) | maize-deities |
+| [maya-aboriginal-dreamtime](maya-aboriginal-dreamtime.md) | maya-aboriginal-dreamtime |
+| [maya-baktun-cycle-comparison](maya-baktun-cycle-comparison.md) | maya-baktun-cycle-comparison |
+| [maya-ballgame-cross-cultural](maya-ballgame-cross-cultural.md) | maya-ballgame-cross-cultural |
+| [maya-blood-sacrifice-cosmic-renewal](maya-blood-sacrifice-cosmic-renewal.md) | maya-blood-sacrifice-cosmic-renewal |
+| [maya-cosmic-levels-comparison](maya-cosmic-levels-comparison.md) | maya-cosmic-levels-comparison |
+| [maya-dying-rising-deity-comparison](maya-dying-rising-deity-comparison.md) | maya-dying-rising-deity-comparison |
+| [maya-earth-diver-comparison](maya-earth-diver-comparison.md) | maya-earth-diver-comparison |
+| [maya-norse-cosmic-tree](maya-norse-cosmic-tree.md) | maya-norse-cosmic-tree |
+| [maya-shinto-nature-spirits](maya-shinto-nature-spirits.md) | maya-shinto-nature-spirits |
+| [maya-world-tree-comparison](maya-world-tree-comparison.md) | maya-world-tree-comparison |
+| [mayan-chinese-cosmic-structure](mayan-chinese-cosmic-structure.md) | mayan-chinese-cosmic-structure |
+| [mayan-chinese-flood-cycles](mayan-chinese-flood-cycles.md) | mayan-chinese-flood-cycles |
+| [mayan-egyptian-cosmic-pillars](mayan-egyptian-cosmic-pillars.md) | mayan-egyptian-cosmic-pillars |
+| [mayan-egyptian-primordial-waters](mayan-egyptian-primordial-waters.md) | mayan-egyptian-primordial-waters |
+| [mayan-flood-global-comparison](mayan-flood-global-comparison.md) | mayan-flood-global-comparison |
+| [mayan-four-first-fathers-comparison](mayan-four-first-fathers-comparison.md) | mayan-four-first-fathers-comparison |
+| [mayan-hindu-cosmic-sacrifice](mayan-hindu-cosmic-sacrifice.md) | mayan-hindu-cosmic-sacrifice |
+| [mayan-incan-cosmology-comparison](mayan-incan-cosmology-comparison.md) | mayan-incan-cosmology-comparison |
+| [mayan-korean-shamanic-middle-world](mayan-korean-shamanic-middle-world.md) | mayan-korean-shamanic-middle-world |
+| [mayan-zoroastrian-cyclical-cosmology](mayan-zoroastrian-cyclical-cosmology.md) | mayan-zoroastrian-cyclical-cosmology |
+| [mesoamerican-ballgame](mesoamerican-ballgame.md) | mesoamerican-ballgame |
+| [mesoamerican-cyclical-destruction-comparison](mesoamerican-cyclical-destruction-comparison.md) | mesoamerican-cyclical-destruction-comparison |
+| [monkey-deities-comparison](monkey-deities-comparison.md) | monkey-deities-comparison |
+| [popol-vuh-creation-comparison](popol-vuh-creation-comparison.md) | popol-vuh-creation-comparison |
+| [popol-vuh-creation-parallels](popol-vuh-creation-parallels.md) | popol-vuh-creation-parallels |
+| [rainbow-deities-comparative](rainbow-deities-comparative.md) | rainbow-deities-comparative |
+| [riddle-kingship-test-comparative](riddle-kingship-test-comparative.md) | riddle-kingship-test-comparative |
+| [sacred-grain-deities-comparison](sacred-grain-deities-comparison.md) | sacred-grain-deities-comparison |
+| [scribal-painted-gods-comparison](scribal-painted-gods-comparison.md) | scribal-painted-gods-comparison |
+| [serpent-deities-comparison](serpent-deities-comparison.md) | serpent-deities-comparison |
+| [solar-fire-bird-deities-comparison](solar-fire-bird-deities-comparison.md) | solar-fire-bird-deities-comparison |
+| [soul-concepts-cross-culture](soul-concepts-cross-culture.md) | soul-concepts-cross-culture |
+| [trickster-archetype-cross-culture](trickster-archetype-cross-culture.md) | trickster-archetype-cross-culture |
+| [uayeb-liminal-days-cross-cultural](uayeb-liminal-days-cross-cultural.md) | uayeb-liminal-days-cross-cultural |
+| [venus-gods-comparison](venus-gods-comparison.md) | venus-gods-comparison |
+| [world-ages-comparative](world-ages-comparative.md) | world-ages-comparative |
+| [xibalba-underworld-comparison](xibalba-underworld-comparison.md) | xibalba-underworld-comparison |
+| [中美洲創世神話比較](中美洲創世神話比較.md) | 中美洲創世神話比較 |
+| [冥界考驗比較](冥界考驗比較.md) | 冥界考驗比較 |
+| [火種起源比較](火種起源比較.md) | 火種起源比較 |
+| [瑪雅世界週期與印度宇宙循環比較](瑪雅世界週期與印度宇宙循環比較.md) | 瑪雅世界週期與印度宇宙循環比較 |
+| [瑪雅與阿茲特克宇宙觀比較](瑪雅與阿茲特克宇宙觀比較.md) | 瑪雅與阿茲特克宇宙觀比較 |
+| [英雄雙子比較](英雄雙子比較.md) | 英雄雙子比較 |
+| [雨神比較](雨神比較.md) | 雨神比較 |
+| [馬雅與美索不達米亞洪水神話跨文化比較](馬雅與美索不達米亞洪水神話跨文化比較.md) | 馬雅與美索不達米亞洪水神話跨文化比較 |
 
 ---
-*Updated on 2026-08-13*
+*Auto-generated on 2026-08-15 14:26 UTC*

@@ -2,24 +2,63 @@
 
 | 檔案 | 名稱 |
 |------|------|
+| [Agemo](Agemo.md) | Agemo |
+| [Oshumare](Oshumare.md) | Oshumare |
+| [abiku](abiku.md) | abiku |
+| [aganju](aganju.md) | aganju |
+| [agba](agba.md) | agba |
+| [aja](aja.md) | aja |
+| [ajala](ajala.md) | ajala |
+| [aje-shaluga](aje-shaluga.md) | aje-shaluga |
+| [ajogun](ajogun.md) | ajogun |
+| [araunaye](araunaye.md) | araunaye |
+| [aroni](aroni.md) | aroni |
+| [ayan](ayan.md) | ayan |
+| [ayelala](ayelala.md) | ayelala |
+| [babalu-aye](babalu-aye.md) | babalu-aye |
+| [dada](dada.md) | dada |
+| [egbe](egbe.md) | egbe |
+| [egungun](egungun.md) | egungun |
+| [ela](ela.md) | ela |
+| [erinle](erinle.md) | erinle |
 | [eshu](eshu.md) | eshu |
+| [ibeji](ibeji.md) | ibeji |
+| [ifá-divination](ifá-divination.md) | ifá-divination |
+| [ijapa](ijapa.md) | ijapa |
+| [iku](iku.md) | iku |
+| [inle](inle.md) | inle |
+| [irawo](irawo.md) | irawo |
+| [iroko](iroko.md) | iroko |
+| [iwa](iwa.md) | iwa |
+| [iyami-agba](iyami-agba.md) | iyami-agba |
+| [iyami-aje](iyami-aje.md) | iyami-aje |
+| [logunede](logunede.md) | logunede |
+| [nana-buluku](nana-buluku.md) | nana-buluku |
+| [oba](oba.md) | oba |
 | [obatala](obatala.md) | obatala |
+| [odu](odu.md) | odu |
+| [oduduwa](oduduwa.md) | oduduwa |
 | [ogun](ogun.md) | ogun |
+| [oke](oke.md) | oke |
 | [olodumare](olodumare.md) | olodumare |
 | [olokun](olokun.md) | olokun |
+| [olorun](olorun.md) | olorun |
+| [olosa](olosa.md) | olosa |
+| [oranmiyan](oranmiyan.md) | oranmiyan |
+| [ori](ori.md) | ori |
+| [orisha-oko](orisha-oko.md) | orisha-oko |
+| [oro](oro.md) | oro |
 | [orunmila](orunmila.md) | orunmila |
+| [osanyin](osanyin.md) | osanyin |
+| [ose](ose.md) | ose |
+| [oshossi](oshossi.md) | oshossi |
 | [oshun](oshun.md) | oshun |
+| [oshunmare](oshunmare.md) | oshunmare |
+| [oxaguiã](oxaguiã.md) | oxaguiã |
 | [oya](oya.md) | oya |
 | [shango](shango.md) | shango |
 | [yemaya](yemaya.md) | yemaya |
-| [inle](inle.md) | 因勒 (Inle/Erinlẹ́) — 漁業、醫藥、河湖生態 |
-| [araunaye](araunaye.md) | 阿勞納耶 (Araunaye) — 原初大地、土壤精靈 |
-| [ose](ose.md) | 奧謝 (Ọṣẹ) — 生育、豐饒、淡水、占卜 |
-| [abiku](abiku.md) | 阿比庫 (Abíkú) — 反覆投胎的靈魂、兒童死亡與再生 |
-| [iyami-aje](iyami-aje.md) | 眾母之巫 (Ìyámi Aje) — 巫術、命運、財富、女性神秘力量 |
-| [egbe](egbe.md) | 厄格貝 (Egbe / Ẹgbẹ́) — 童年同伴、靈魂雙胞胎、社交紐帶 |
-| [oro](oro.md) | 奧羅 (Oro) — 神聖正義、森林、天譴、社群秩序 |
-| [ela](ela.md) | 埃拉 (Èlà) — 溫良品格、神聖之光、秩序與純潔 |
+| [yewa](yewa.md) | yewa |
 
 ---
-*Updated 2026-08-01*
+*Auto-generated on 2026-08-15 14:26 UTC*

@@ -2,24 +2,24 @@
 
 | 檔案 | 名稱 |
 |------|------|
-| [動物新娘母題比較](animal-bride-at402.md) | 動物新娘母題（ATU 402）跨文化比較 |
-| [Barastyr 冥界比較](barastyr-underworld-comparison.md) | Barastyr 冥界比較 |
-| [高加索宇宙山](caucasian-cosmic-mountain.md) | 高加索宇宙山 |
-| [盜火神話比較](fire-theft-prometheus-caucasian-comparative.md) | 普羅米修斯的兄弟們 |
-| [無敵英雄的唯一弱點](invulnerable-hero-weakness.md) | 無敵英雄的唯一弱點 |
-| [音樂英雄跨文化比較](musical-heroes-comparative.md) | 以樂創世與以樂求婚 |
-| [納爾特魔法鍋比較](nart-cauldron-comparative.md) | Nartyamonga 魔法鍋的跨文化比較 |
-| [納爾特史詩與希臘史詩](nart-greek-epic.md) | 納爾特史詩與希臘史詩比較 |
-| [納爾特英雄全球視野](nart-heroes-global.md) | 納爾特英雄全球視野 |
-| [納爾特與印度史詩比較](nart-indian-epic-comparison.md) | 納爾特史詩與印度史詩 |
-| [Setenaya 大母神比較](setenaya-great-mother-comparison.md) | Setenaya 與跨文化大母神原型 |
-| [唯一弱點全球比較](sole-weakness-global.md) | 唯一弱點全球比較 |
-| [石中生英雄比較](stone-born-heroes.md) | 石中生英雄：Sosruko 與跨文化平行 |
-| [搗蛋神跨文化比較](trickster-cross-cultural.md) | Syrdon、Loki、Eshu、Coyote 與 Hermes |
-| [雙胞胎相殘比較](twin-fratricide-comparative.md) | 雙胞胎相殘比較 |
-| [狼神跨文化比較](wolf-gods-cross-culture.md) | 狼神跨文化比較 |
-| [天界鐵匠比較](divine-smith-comparative.md) | 天界鐵匠跨文化比較 |
-| [會說話的神馬跨文化比較](talking-horse-cross-cultural.md) | 會說話的神馬跨文化比較 |
+| [animal-bride-at402](animal-bride-at402.md) | animal-bride-at402 |
+| [barastyr-underworld-comparison](barastyr-underworld-comparison.md) | barastyr-underworld-comparison |
+| [caucasian-cosmic-mountain](caucasian-cosmic-mountain.md) | caucasian-cosmic-mountain |
+| [divine-smith-comparative](divine-smith-comparative.md) | divine-smith-comparative |
+| [fire-theft-prometheus-caucasian-comparative](fire-theft-prometheus-caucasian-comparative.md) | fire-theft-prometheus-caucasian-comparative |
+| [invulnerable-hero-weakness](invulnerable-hero-weakness.md) | invulnerable-hero-weakness |
+| [musical-heroes-comparative](musical-heroes-comparative.md) | musical-heroes-comparative |
+| [nart-cauldron-comparative](nart-cauldron-comparative.md) | nart-cauldron-comparative |
+| [nart-greek-epic](nart-greek-epic.md) | nart-greek-epic |
+| [nart-heroes-global](nart-heroes-global.md) | nart-heroes-global |
+| [nart-indian-epic-comparison](nart-indian-epic-comparison.md) | nart-indian-epic-comparison |
+| [setenaya-great-mother-comparison](setenaya-great-mother-comparison.md) | setenaya-great-mother-comparison |
+| [sole-weakness-global](sole-weakness-global.md) | sole-weakness-global |
+| [stone-born-heroes](stone-born-heroes.md) | stone-born-heroes |
+| [talking-horse-cross-cultural](talking-horse-cross-cultural.md) | talking-horse-cross-cultural |
+| [trickster-cross-cultural](trickster-cross-cultural.md) | trickster-cross-cultural |
+| [twin-fratricide-comparative](twin-fratricide-comparative.md) | twin-fratricide-comparative |
+| [wolf-gods-cross-culture](wolf-gods-cross-culture.md) | wolf-gods-cross-culture |
 
 ---
-*Last updated: 2026-08-03*
+*Auto-generated on 2026-08-15 14:26 UTC*

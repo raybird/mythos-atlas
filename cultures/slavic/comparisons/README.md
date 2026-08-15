@@ -3,6 +3,7 @@
 | 檔案 | 名稱 |
 |------|------|
 | [belobog-chernobog-dualism](belobog-chernobog-dualism.md) | belobog-chernobog-dualism |
+| [giant-earth-weight-comparative](giant-earth-weight-comparative.md) | giant-earth-weight-comparative |
 | [indo-european-thunder-gods](indo-european-thunder-gods.md) | indo-european-thunder-gods |
 | [slavic-baltic-norse](slavic-baltic-norse.md) | slavic-baltic-norse |
 | [slavic-domestic-spirits](slavic-domestic-spirits.md) | slavic-domestic-spirits |
@@ -14,11 +15,10 @@
 | [slavic-trickster-gods](slavic-trickster-gods.md) | slavic-trickster-gods |
 | [slavic-zoroastrian-dualism](slavic-zoroastrian-dualism.md) | slavic-zoroastrian-dualism |
 | [twin-sibling-spouses-comparative](twin-sibling-spouses-comparative.md) | twin-sibling-spouses-comparative |
+| [water-master-spirits-comparative](water-master-spirits-comparative.md) | water-master-spirits-comparative |
 | [斯拉夫世界樹比較](斯拉夫世界樹比較.md) | 斯拉夫世界樹比較 |
 | [斯拉夫女性三聯神比較](斯拉夫女性三聯神比較.md) | 斯拉夫女性三聯神比較 |
 | [斯拉夫波羅的海北歐比較](斯拉夫波羅的海北歐比較.md) | 斯拉夫波羅的海北歐比較 |
-| [giant-earth-weight-comparative](giant-earth-weight-comparative.md) | giant-earth-weight-comparative |
-| [water-master-spirits-comparative](water-master-spirits-comparative.md) | 水靈主宰跨文化比較：沃佳諾伊、奈基、凱爾皮與河童 |
 
 ---
-*Auto-generated on 2026-08-02 14:14 UTC*
+*Auto-generated on 2026-08-15 14:26 UTC*

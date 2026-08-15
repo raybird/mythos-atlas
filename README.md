@@ -96,7 +96,7 @@ mythos-atlas/
 
 ## 📊 當前狀態
 
-> 自動更新於 2026-08-15 00:57 UTC
+> 自動更新於 2026-08-15 06:31 UTC
 
 | 類別 | 進度 |
 |------|------|
@@ -104,8 +104,8 @@ mythos-atlas/
 | 跨文化主題 | 27/27 |
 | 分析文章 | 459 |
 | 已充實文化 | 44/44 |
-| 總頁面數 | 3082 |
-| 總執行次數 | 149 |
+| 總頁面數 | 3085 |
+| 總執行次數 | 150 |
 
 <!-- STATS_END -->
 
@@ -121,43 +121,43 @@ mythos-atlas/
 | [埃及神話](cultures/egyptian/) | 北非—尼羅河流域 | 23 | 18 | 17 |
 | [北歐神話](cultures/norse/) | 北歐—日耳曼 | 23 | 19 | 16 |
 | [印度神話](cultures/hindu/) | 南亞—印度河流域 | 21 | 18 | 19 |
-| [馬雅神話](cultures/mayan/) | 中美洲 | 64 | 58 | 56 |
+| [馬雅神話](cultures/mayan/) | 中美洲 | 65 | 59 | 57 |
 | [日本神話](cultures/japanese/) | 東亞—日本列島 | 22 | 19 | 17 |
 | [波利尼西亞神話](cultures/polynesian/) | 太平洋島嶼 | 23 | 19 | 18 |
 | [澳洲原住民神話](cultures/aboriginal/) | 大洋洲—澳洲 | 22 | 20 | 18 |
-| [非洲諸神話](cultures/african/) | 撒哈拉以南非洲 | 21 | 18 | 16 |
-| [美洲原住民神話](cultures/indigenous-americas/) | 北美洲 | 21 | 19 | 16 |
+| [非洲諸神話](cultures/african/) | 撒哈拉以南非洲 | 22 | 19 | 17 |
+| [美洲原住民神話](cultures/indigenous-americas/) | 北美洲 | 22 | 20 | 17 |
 | [印加神話](cultures/incan/) | 南美洲—安地斯山脈 | 21 | 19 | 19 |
-| [凱爾特神話](cultures/celtic/) | 西歐—愛爾蘭/不列顛/高盧 | 22 | 18 | 16 |
-| [斯拉夫神話](cultures/slavic/) | 東歐—巴爾幹 | 22 | 17 | 16 |
+| [凱爾特神話](cultures/celtic/) | 西歐—愛爾蘭/不列顛/高盧 | 23 | 19 | 17 |
+| [斯拉夫神話](cultures/slavic/) | 東歐—巴爾幹 | 23 | 18 | 17 |
 | [波斯神話](cultures/persian/) | 伊朗高原 | 57 | 54 | 60 |
-| [韓國神話](cultures/korean/) | 東亞—朝鮮半島 | 20 | 18 | 17 |
+| [韓國神話](cultures/korean/) | 東亞—朝鮮半島 | 22 | 20 | 19 |
 | [芬蘭-烏戈爾神話](cultures/finno-ugric/) | 北歐—烏拉爾地區 | 22 | 19 | 19 |
-| [西藏神話](cultures/tibetan/) | 青藏高原 | 20 | 18 | 18 |
-| [蘇美神話](cultures/sumerian/) | 美索不達米亞南部 | 71 | 66 | 67 |
+| [西藏神話](cultures/tibetan/) | 青藏高原 | 21 | 19 | 19 |
+| [蘇美神話](cultures/sumerian/) | 美索不達米亞南部 | 70 | 65 | 66 |
 | [腓尼基神話](cultures/phoenician/) | 黎凡特—迦南 | 22 | 18 | 18 |
 | [赫梯神話](cultures/hittite/) | 安納托利亞 | 23 | 19 | 18 |
 | [約魯巴神話](cultures/yoruba/) | 西非—奈及利亞/貝南 | 57 | 56 | 59 |
-| [蒙古神話](cultures/mongolian/) | 中亞—蒙古高原 | 21 | 18 | 17 |
-| [愛努神話](cultures/ainu/) | 北海道—庫頁島—千島群島 | 21 | 17 | 17 |
-| [伊特魯里亞神話](cultures/etruscan/) | 義大利—托斯卡尼 | 21 | 18 | 17 |
+| [蒙古神話](cultures/mongolian/) | 中亞—蒙古高原 | 22 | 19 | 18 |
+| [愛努神話](cultures/ainu/) | 北海道—庫頁島—千島群島 | 22 | 18 | 18 |
+| [伊特魯里亞神話](cultures/etruscan/) | 義大利—托斯卡尼 | 22 | 19 | 18 |
 | [巴斯克神話](cultures/basque/) | 西歐—庇里牛斯山脈 | 21 | 19 | 19 |
 | [波羅的神話](cultures/baltic/) | 東歐—波羅的海沿岸 | 21 | 19 | 18 |
 | [越南神話](cultures/vietnamese/) | 東南亞—紅河流域 | 20 | 20 | 20 |
-| [因紐特神話](cultures/inuit/) | 北極—阿拉斯加/加拿大/格陵蘭 | 21 | 18 | 17 |
-| [亞美尼亞神話](cultures/armenian/) | 南高加索—亞美尼亞高原 | 20 | 18 | 19 |
-| [菲律賓神話](cultures/philippine/) | 東南亞—菲律賓群島 | 20 | 18 | 17 |
-| [高加索神話](cultures/caucasian/) | 高加索山脈(奧塞提亞/切爾克斯/阿布哈茲) | 21 | 17 | 17 |
+| [因紐特神話](cultures/inuit/) | 北極—阿拉斯加/加拿大/格陵蘭 | 22 | 19 | 18 |
+| [亞美尼亞神話](cultures/armenian/) | 南高加索—亞美尼亞高原 | 21 | 19 | 20 |
+| [菲律賓神話](cultures/philippine/) | 東南亞—菲律賓群島 | 21 | 19 | 18 |
+| [高加索神話](cultures/caucasian/) | 高加索山脈(奧塞提亞/切爾克斯/阿布哈茲) | 22 | 18 | 18 |
 | [達基亞/羅馬尼亞神話](cultures/dacian/) | 東南歐—喀爾巴阡山脈 | 21 | 22 | 17 |
-| [羅馬神話](cultures/roman/) | 地中海—義大利半島 | 23 | 16 | 16 |
+| [羅馬神話](cultures/roman/) | 地中海—義大利半島 | 24 | 17 | 17 |
 | [前伊斯蘭阿拉伯神話](cultures/pre-islamic-arabian/) | 阿拉伯半島 | 22 | 18 | 19 |
-| [毛利神話](cultures/maori/) | 紐西蘭—玻里尼西亞三角 | 22 | 17 | 17 |
-| [斯基泰神話](cultures/scythian/) | 歐亞草原—黑海北岸至阿爾泰 | 23 | 16 | 18 |
+| [毛利神話](cultures/maori/) | 紐西蘭—玻里尼西亞三角 | 23 | 18 | 18 |
+| [斯基泰神話](cultures/scythian/) | 歐亞草原—黑海北岸至阿爾泰 | 24 | 17 | 19 |
 | [米諾斯神話](cultures/minoan/) | 愛琴海—克里特島 | 22 | 19 | 19 |
-| [努比亞/庫什神話](cultures/nubian/) | 東北非—尼羅河上游/蘇丹 | 20 | 18 | 19 |
+| [努比亞/庫什神話](cultures/nubian/) | 東北非—尼羅河上游/蘇丹 | 21 | 19 | 20 |
 | [馬普切神話](cultures/mapuche/) | 南美洲—智利/阿根廷 | 21 | 21 | 16 |
-| [薩米神話](cultures/sami/) | 北歐—芬諾斯堪的亞 | 20 | 19 | 17 |
-| [西伯利亞神話](cultures/siberian/) | 西伯利亞—通古斯/雅庫特/楚科奇 | 20 | 20 | 15 |
+| [薩米神話](cultures/sami/) | 北歐—芬諾斯堪的亞 | 21 | 20 | 18 |
+| [西伯利亞神話](cultures/siberian/) | 西伯利亞—通古斯/雅庫特/楚科奇 | 21 | 21 | 16 |
 | [圖皮-瓜拉尼神話](cultures/tupi-guarani/) | 南美洲—巴西/巴拉圭/玻利維亞 | 21 | 20 | 19 |
 
 <!-- CULTURES_END -->

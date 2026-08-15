@@ -8,7 +8,7 @@
 | [Gebeleizis懲罰不義](Gebeleizis懲罰不義.md) | Gebeleizis懲罰不義 |
 | [Iele的午夜之舞](Iele的午夜之舞.md) | Iele的午夜之舞 |
 | [Kogaionon聖山的奧秘](Kogaionon聖山的奧秘.md) | Kogaionon聖山的奧秘 |
-| [Meșterul Manole工匠獻祭](Meșterul%20Manole工匠獻祭.md) | Meșterul Manole工匠獻祭 |
+| [Meșterul Manole工匠獻祭](Meșterul Manole工匠獻祭.md) | Meșterul Manole工匠獻祭 |
 | [Miorița命運的羊](Miorița命運的羊.md) | Miorița命運的羊 |
 | [Solomonari巫師傳說](Solomonari巫師傳說.md) | Solomonari巫師傳說 |
 | [Zalmoxis地下居所三千年](Zalmoxis地下居所三千年.md) | Zalmoxis地下居所三千年 |
@@ -21,9 +21,9 @@
 | [巴貝勒的傳說](巴貝勒的傳說.md) | 巴貝勒的傳說 |
 | [德凱巴魯斯的犧牲](德凱巴魯斯的犧牲.md) | 德凱巴魯斯的犧牲 |
 | [瑞索斯王的悲劇](瑞索斯王的悲劇.md) | 瑞索斯王的悲劇 |
+| [白狼之子狼皮試煉](白狼之子狼皮試煉.md) | 白狼之子狼皮試煉 |
 | [白鶴引路](白鶴引路.md) | 白鶴引路 |
 | [達基亞人的泥土起源](達基亞人的泥土起源.md) | 達基亞人的泥土起源 |
-| [白狼之子狼皮試煉](白狼之子狼皮試煉.md) | 白狼之子狼皮試煉 |
 
 ---
-*Auto-generated on 2026-08-14 UTC*
+*Auto-generated on 2026-08-15 14:26 UTC*

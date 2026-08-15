@@ -3,6 +3,8 @@
 | 檔案 | 名稱 |
 |------|------|
 | [divine-consort-alliance-comparative](divine-consort-alliance-comparative.md) | divine-consort-alliance-comparative |
+| [frontier-fortress-gods-global](frontier-fortress-gods-global.md) | frontier-fortress-gods-global |
+| [god-wives-temple-women-comparative](god-wives-temple-women-comparative.md) | god-wives-temple-women-comparative |
 | [lion-gods-global](lion-gods-global.md) | lion-gods-global |
 | [moon-gods-nubian-global](moon-gods-nubian-global.md) | moon-gods-nubian-global |
 | [mother-goddesses-nile-valley](mother-goddesses-nile-valley.md) | mother-goddesses-nile-valley |
@@ -20,8 +22,6 @@
 | [solar-youth-deities](solar-youth-deities.md) | solar-youth-deities |
 | [war-goddesses-comparative](war-goddesses-comparative.md) | war-goddesses-comparative |
 | [warrior-queens-global](warrior-queens-global.md) | warrior-queens-global |
-| [god-wives-temple-women-comparative](god-wives-temple-women-comparative.md) | god-wives-temple-women-comparative |
-| [frontier-fortress-gods-global](frontier-fortress-gods-global.md) | frontier-fortress-gods-global |
 
 ---
-*Last updated 2026-08-14*
+*Auto-generated on 2026-08-15 14:26 UTC*

@@ -4,16 +4,26 @@
 |------|------|
 | [Al-Lat](Al-Lat.md) | Al-Lat |
 | [Al-Uzza](Al-Uzza.md) | Al-Uzza |
+| [Amur](Amur.md) | Amur |
 | [Athtar](Athtar.md) | Athtar |
 | [Dhat-Badan](Dhat-Badan.md) | Dhat-Badan |
+| [Dhu-Samawi](Dhu-Samawi.md) | Dhu-Samawi |
+| [Dhu-al-Shara](Dhu-al-Shara.md) | Dhu-al-Shara |
 | [Hubal](Hubal.md) | Hubal |
 | [Ilmaqah](Ilmaqah.md) | Ilmaqah |
+| [Manaf](Manaf.md) | Manaf |
 | [Manat](Manat.md) | Manat |
 | [Nasr](Nasr.md) | Nasr |
+| [Salm](Salm.md) | Salm |
+| [Sayin](Sayin.md) | Sayin |
+| [Shams](Shams.md) | Shams |
+| [Suwa](Suwa.md) | Suwa |
+| [Talab](Talab.md) | Talab |
 | [Wadd](Wadd.md) | Wadd |
-| [Dhu-Samawi](Dhu-Samawi.md) | Dhu-Samawi（都·薩馬維） |
-| [Salm](Salm.md) | Salm（薩爾姆）— 泰馬月神 |
-| [庫札](庫札Quzah.md) | 庫札（Quzah）— 穆茲達里法天氣神，彩虹＝庫札之弓 |
+| [Yaghuth](Yaghuth.md) | Yaghuth |
+| [Yauq](Yauq.md) | Yauq |
+| [al-qaum](al-qaum.md) | al-qaum |
+| [庫札Quzah](庫札Quzah.md) | 庫札Quzah |
 
 ---
-*Last updated: 2026-08-13*
+*Auto-generated on 2026-08-15 14:26 UTC*

@@ -17,14 +17,14 @@
 | [Semargl](Semargl.md) | Semargl |
 | [Stribog](Stribog.md) | Stribog |
 | [Svarog](Svarog.md) | Svarog |
+| [Svetovid](Svetovid.md) | Svetovid |
 | [Triglav](Triglav.md) | Triglav |
 | [Veles](Veles.md) | Veles |
+| [Vodyanoy](Vodyanoy.md) | Vodyanoy |
 | [Zorya](Zorya.md) | Zorya |
 | [佐莉亞](佐莉亞.md) | 佐莉亞 |
 | [斯瓦羅日奇](斯瓦羅日奇.md) | 斯瓦羅日奇 |
 | [霍爾斯](霍爾斯.md) | 霍爾斯 |
-| [Svetovid](Svetovid.md) | Svetovid |
-| [Vodyanoy](Vodyanoy.md) | 沃佳諾伊（Vodyanoy，水靈公爵） |
 
 ---
-*Auto-generated on 2026-08-02 14:14 UTC*
+*Auto-generated on 2026-08-15 14:26 UTC*

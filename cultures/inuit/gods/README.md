@@ -3,19 +3,27 @@
 | 檔案 | 名稱 |
 |------|------|
 | [Aipaloovik](Aipaloovik.md) | Aipaloovik |
+| [Akna](Akna.md) | Akna |
 | [Angakkuq](Angakkuq.md) | Angakkuq |
+| [Anguta](Anguta.md) | Anguta |
 | [Aningan-Malina](Aningan-Malina.md) | Aningan-Malina |
+| [Ataksak](Ataksak.md) | Ataksak |
 | [Inuit-Spirit-Pantheon](Inuit-Spirit-Pantheon.md) | Inuit-Spirit-Pantheon |
+| [Irdlirvirisissong](Irdlirvirisissong.md) | Irdlirvirisissong |
+| [Issitoq](Issitoq.md) | Issitoq |
+| [Kadlu](Kadlu.md) | Kadlu |
 | [Nanook-Amarok](Nanook-Amarok.md) | Nanook-Amarok |
+| [Nerrivik](Nerrivik.md) | Nerrivik |
+| [Pinga](Pinga.md) | Pinga |
+| [Pukkeenegak](Pukkeenegak.md) | Pukkeenegak |
+| [Qailertetang](Qailertetang.md) | Qailertetang |
 | [Sedna](Sedna.md) | Sedna |
 | [Sila](Sila.md) | Sila |
+| [Tekkeitsertok](Tekkeitsertok.md) | Tekkeitsertok |
 | [Tornarsuk](Tornarsuk.md) | Tornarsuk |
-| [Nerrivik](Nerrivik.md) | Nerrivik — 海之供養者與海豹女巫 |
-| [Akna](Akna.md) | Akna — 因紐特生育女神 |
-| [Ataksak](Ataksak.md) | Ataksak — 格陵蘭天空創造女神 |
-| [Irdlirvirisissong](Irdlirvirisissong.md) | Irdlirvirisissong — 月神之女與吞噬罪人的冥界存在 |
-| [Issitoq](Issitoq.md) | Issitoq — 格陵蘭禁忌守護者 |
-| [Pukkeenegak](Pukkeenegak.md) | Pukkeenegak — 家宅、針線與孩童女神 |
+| [Tulugak](Tulugak.md) | Tulugak |
+| [agloolik](agloolik.md) | agloolik |
+| [torngasoak](torngasoak.md) | torngasoak |
 
 ---
-*Auto-generated on 2026-06-26 02:07 UTC*
+*Auto-generated on 2026-08-15 14:26 UTC*

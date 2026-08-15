@@ -2,23 +2,62 @@
 
 | 檔案 | 名稱 |
 |------|------|
+| [abiku-cycle](abiku-cycle.md) | abiku-cycle |
+| [aganju-volcanic-journey](aganju-volcanic-journey.md) | aganju-volcanic-journey |
+| [agemo-and-the-queen-mother](agemo-and-the-queen-mother.md) | agemo-and-the-queen-mother |
+| [aje-wealth-test](aje-wealth-test.md) | aje-wealth-test |
+| [babalu-aye-curse-redemption](babalu-aye-curse-redemption.md) | babalu-aye-curse-redemption |
+| [creation-obatala-oduduwa](creation-obatala-oduduwa.md) | creation-obatala-oduduwa |
+| [division-of-world](division-of-world.md) | division-of-world |
+| [ela-descent-of-gentle-character](ela-descent-of-gentle-character.md) | ela-descent-of-gentle-character |
+| [eshu-dual-color-hat](eshu-dual-color-hat.md) | eshu-dual-color-hat |
 | [eshu-mischief](eshu-mischief.md) | eshu-mischief |
+| [eshu-opens-crossroads](eshu-opens-crossroads.md) | eshu-opens-crossroads |
+| [eshu-two-friends](eshu-two-friends.md) | eshu-two-friends |
 | [ibeji-twins](ibeji-twins.md) | ibeji-twins |
+| [ijapa-and-hare](ijapa-and-hare.md) | ijapa-and-hare |
+| [ikilo-sacred-covenant](ikilo-sacred-covenant.md) | ikilo-sacred-covenant |
+| [iku-orunmila-wager](iku-orunmila-wager.md) | iku-orunmila-wager |
+| [inle-tragic-love](inle-tragic-love.md) | inle-tragic-love |
+| [moremi-legend](moremi-legend.md) | moremi-legend |
+| [nana-buluku-world-order](nana-buluku-world-order.md) | nana-buluku-world-order |
+| [oba-river-sacrifice](oba-river-sacrifice.md) | oba-river-sacrifice |
+| [oba-sacrifice](oba-sacrifice.md) | oba-sacrifice |
 | [obatala-creates-humans](obatala-creates-humans.md) | obatala-creates-humans |
+| [obatala-liberation](obatala-liberation.md) | obatala-liberation |
+| [oduwaye-creation](oduwaye-creation.md) | oduwaye-creation |
+| [ogboni-society-origin](ogboni-society-origin.md) | ogboni-society-origin |
+| [ogun-ire-wrath](ogun-ire-wrath.md) | ogun-ire-wrath |
+| [ogun-iron-journey](ogun-iron-journey.md) | ogun-iron-journey |
 | [ogun-opens-path](ogun-opens-path.md) | ogun-opens-path |
+| [ogun-palm-wine](ogun-palm-wine.md) | ogun-palm-wine |
+| [ogun-seven-year-road](ogun-seven-year-road.md) | ogun-seven-year-road |
+| [ogun-shango-conflict](ogun-shango-conflict.md) | ogun-shango-conflict |
+| [olokun-anger-flood](olokun-anger-flood.md) | olokun-anger-flood |
+| [olokun-flood](olokun-flood.md) | olokun-flood |
+| [oranmiyan-departure](oranmiyan-departure.md) | oranmiyan-departure |
+| [origin-of-death](origin-of-death.md) | origin-of-death |
+| [orisha-oko-farming](orisha-oko-farming.md) | orisha-oko-farming |
+| [orunmila-exile](orunmila-exile.md) | orunmila-exile |
+| [orunmila-ifa-origin](orunmila-ifa-origin.md) | orunmila-ifa-origin |
 | [orunmila-ifá](orunmila-ifá.md) | orunmila-ifá |
+| [osahun-saves-world](osahun-saves-world.md) | osahun-saves-world |
+| [oshossi-hunting](oshossi-hunting.md) | oshossi-hunting |
+| [oshun-brings-orishas-to-earth](oshun-brings-orishas-to-earth.md) | oshun-brings-orishas-to-earth |
+| [oshun-deep-sea-journey](oshun-deep-sea-journey.md) | oshun-deep-sea-journey |
 | [oshun-mirror](oshun-mirror.md) | oshun-mirror |
+| [oshun-shango-marriage](oshun-shango-marriage.md) | oshun-shango-marriage |
+| [oshun-water-journey](oshun-water-journey.md) | oshun-water-journey |
+| [oshun-yemaya-contest](oshun-yemaya-contest.md) | oshun-yemaya-contest |
+| [oshunmare-rainbow-covenant](oshunmare-rainbow-covenant.md) | oshunmare-rainbow-covenant |
+| [osun-osogbo-sacred-grove](osun-osogbo-sacred-grove.md) | osun-osogbo-sacred-grove |
+| [oya-shango-separation](oya-shango-separation.md) | oya-shango-separation |
+| [oya-tornado-goddess](oya-tornado-goddess.md) | oya-tornado-goddess |
+| [oya-underworld-journey](oya-underworld-journey.md) | oya-underworld-journey |
 | [shango-deification](shango-deification.md) | shango-deification |
+| [shango-three-wives](shango-three-wives.md) | shango-three-wives |
+| [the-sacred-iroko-tree](the-sacred-iroko-tree.md) | the-sacred-iroko-tree |
 | [yemaya-ocean-kingdom](yemaya-ocean-kingdom.md) | yemaya-ocean-kingdom |
-| [inle-tragic-love](inle-tragic-love.md) | 因勒的悲劇之愛 (Inle's Tragic Love) |
-| [oba-river-sacrifice](oba-river-sacrifice.md) | 歐巴的河流犧牲 (Oba's River Sacrifice) |
-| [oya-shango-separation](oya-shango-separation.md) | 奧雅與尚戈的分離 (Ọya's Separation from Ṣàngó) |
-| [abiku-cycle](abiku-cycle.md) | 阿比庫的循環 (The Abíkú Cycle) |
-| [aganju-volcanic-journey](aganju-volcanic-journey.md) | 阿甘朱的火山之旅 (Aganju's Volcanic Journey) |
-
-| [the-sacred-iroko-tree](the-sacred-iroko-tree.md) | 聖伊羅科樹的傳說 (Itàn Igbo Iroko) |
-
-| [ela-descent-of-gentle-character](ela-descent-of-gentle-character.md) | 埃拉的降臨：溫良品格的起源 (The Descent of Ela) |
 
 ---
-*Updated 2026-08-01*
+*Auto-generated on 2026-08-15 14:26 UTC*

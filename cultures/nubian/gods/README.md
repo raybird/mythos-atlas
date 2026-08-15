@@ -8,6 +8,8 @@
 | [Anuket](Anuket.md) | Anuket |
 | [Apedemak](Apedemak.md) | Apedemak |
 | [Bes](Bes.md) | Bes |
+| [Hapy](Hapy.md) | Hapy |
+| [Horus-of-Buhen](Horus-of-Buhen.md) | Horus-of-Buhen |
 | [Horus-of-Kawa](Horus-of-Kawa.md) | Horus-of-Kawa |
 | [Isis-of-Philae](Isis-of-Philae.md) | Isis-of-Philae |
 | [Khonsu](Khonsu.md) | Khonsu |
@@ -20,9 +22,7 @@
 | [Royal-Cult](Royal-Cult.md) | Royal-Cult |
 | [Satis](Satis.md) | Satis |
 | [Sebiumeker-Dedun](Sebiumeker-Dedun.md) | Sebiumeker-Dedun |
-| [arensnuphis](arensnuphis.md) | arensuphis |
-| [Hapy](Hapy.md) | Hapy |
-| [Horus-of-Buhen](Horus-of-Buhen.md) | 布亨的荷魯斯 |
+| [arensnuphis](arensnuphis.md) | arensnuphis |
 
 ---
-*Last updated 2026-08-14*
+*Auto-generated on 2026-08-15 14:26 UTC*

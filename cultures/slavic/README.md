@@ -11,4 +11,4 @@
 - [跨文化比較](comparisons/) — 17 篇比較
 
 ---
-*Auto-generated on 2026-08-02 14:14 UTC UTC*
+*Auto-generated on 2026-08-15 14:26 UTC*

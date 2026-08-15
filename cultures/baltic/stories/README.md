@@ -17,10 +17,10 @@
 | [saules-meita-sun-daughters](saules-meita-sun-daughters.md) | saules-meita-sun-daughters |
 | [the-sea-mill](the-sea-mill.md) | the-sea-mill |
 | [zaltys-sacred-snake](zaltys-sacred-snake.md) | zaltys-sacred-snake |
+| [死神作教母Mirtis-kuma](死神作教母Mirtis-kuma.md) | 死神作教母Mirtis-kuma |
 | [維爾尼亞斯的地下王國](維爾尼亞斯的地下王國.md) | 維爾尼亞斯的地下王國 |
 | [維爾尼亞斯盜火](維爾尼亞斯盜火.md) | 維爾尼亞斯盜火 |
 | [蜜蜂的誕生](蜜蜂的誕生.md) | 蜜蜂的誕生 |
-| [死神作教母Mirtis-kuma](死神作教母Mirtis-kuma.md) | 死神作教母（Mirtis kūma） |
 
 ---
-*Updated 2026-08-11*
+*Auto-generated on 2026-08-15 14:26 UTC*

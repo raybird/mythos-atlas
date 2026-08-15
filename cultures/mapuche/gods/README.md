@@ -1,6 +1,5 @@
 # 馬普切神話 — 神祇
 
-
 | 檔案 | 名稱 |
 |------|------|
 | [Anchmalén](Anchmalén.md) | Anchmalén |
@@ -9,7 +8,9 @@
 | [El-Coigüe](El-Coigüe.md) | El-Coigüe |
 | [Fütafeüru](Fütafeüru.md) | Fütafeüru |
 | [Gualicho](Gualicho.md) | Gualicho |
+| [Güñelve](Güñelve.md) | Güñelve |
 | [Kai-Kai-Filú](Kai-Kai-Filú.md) | Kai-Kai-Filú |
+| [Lituche](Lituche.md) | Lituche |
 | [Machi](Machi.md) | Machi |
 | [Ngen](Ngen.md) | Ngen |
 | [Ngenechén](Ngenechén.md) | Ngenechén |
@@ -24,4 +25,4 @@
 | [küyen](küyen.md) | küyen |
 
 ---
-*Auto-generated on 2026-08-09 08:09 UTC*
+*Auto-generated on 2026-08-15 14:26 UTC*

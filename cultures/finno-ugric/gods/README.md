@@ -1,6 +1,5 @@
 # 芬蘭-烏戈爾神話 — 神祇
 
-
 | 檔案 | 名稱 |
 |------|------|
 | [Ahti](Ahti.md) | Ahti |
@@ -27,4 +26,4 @@
 | [Väinämöinen](Väinämöinen.md) | Väinämöinen |
 
 ---
-*Auto-generated on 2026-08-02 02:20 UTC*
+*Auto-generated on 2026-08-15 14:26 UTC*

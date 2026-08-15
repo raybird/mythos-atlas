@@ -12,18 +12,18 @@
 | [Laran](Laran.md) | Laran |
 | [Menrva](Menrva.md) | Menrva |
 | [Morta](Morta.md) | Morta |
-| [nethuns](nethuns.md) | Nethuns |
 | [Nortia](Nortia.md) | Nortia |
 | [Phersipnai](Phersipnai.md) | Phersipnai |
 | [Selvans](Selvans.md) | Selvans |
 | [Sethlans](Sethlans.md) | Sethlans |
-| [Suri-Soranus](Suri-Soranus.md) | Śuri / Soranus — 冥界火狼神 |
+| [Suri-Soranus](Suri-Soranus.md) | Suri-Soranus |
 | [Tinia](Tinia.md) | Tinia |
 | [Turan](Turan.md) | Turan |
 | [Turms](Turms.md) | Turms |
 | [Uni](Uni.md) | Uni |
 | [Usil](Usil.md) | Usil |
 | [Vanth](Vanth.md) | Vanth |
+| [nethuns](nethuns.md) | nethuns |
 
 ---
-*Auto-generated on 2026-06-26 02:07 UTC*
+*Auto-generated on 2026-08-15 14:26 UTC*

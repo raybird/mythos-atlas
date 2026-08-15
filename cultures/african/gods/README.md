@@ -1,25 +1,29 @@
-# 非洲神祇
+# 非洲諸神話 — 神祇
 
-- [Amma](Amma.md)
-- [Anansi](Anansi.md)
-- [Khepri](Khepri.md)
-- [Legba](Legba.md)
-- [Mawu](Mawu.md)
-- [Mwari](Mwari.md)
-- [Nomkhubulwane](Nomkhubulwane.md)
-- [Obatala](Obatala.md)
-- [Ogun](Ogun.md)
-- [Olorun-Olódùmarè](Olorun-Olódùmarè.md)
-- [Orunmila](Orunmila.md)
-- [Oshun](Oshun.md)
-- [Oya](Oya.md)
-- [Shango](Shango.md)
-- [Yemaya](Yemaya.md)
-- [阿拉 (Ala)](Ala.md)
-- [埃舒](埃舒.md)
-- [尼亞美](尼亞美.md)
-- [恩贊比姆彭古](恩贊比姆彭古.md)
-- [瑪巫麗莎](瑪巫麗莎.md)
+| 檔案 | 名稱 |
+|------|------|
+| [Ala](Ala.md) | Ala |
+| [Amma](Amma.md) | Amma |
+| [Anansi](Anansi.md) | Anansi |
+| [Khepri](Khepri.md) | Khepri |
+| [Legba](Legba.md) | Legba |
+| [Mawu](Mawu.md) | Mawu |
+| [Mwari](Mwari.md) | Mwari |
+| [Nomkhubulwane](Nomkhubulwane.md) | Nomkhubulwane |
+| [Obatala](Obatala.md) | Obatala |
+| [Ogun](Ogun.md) | Ogun |
+| [Olorun-Olódùmarè](Olorun-Olódùmarè.md) | Olorun-Olódùmarè |
+| [Orunmila](Orunmila.md) | Orunmila |
+| [Osanyin](Osanyin.md) | Osanyin |
+| [Oshun](Oshun.md) | Oshun |
+| [Oya](Oya.md) | Oya |
+| [Shango](Shango.md) | Shango |
+| [Unkulunkulu](Unkulunkulu.md) | Unkulunkulu |
+| [Yemaya](Yemaya.md) | Yemaya |
+| [埃舒](埃舒.md) | 埃舒 |
+| [尼亞美](尼亞美.md) | 尼亞美 |
+| [恩贊比姆彭古](恩贊比姆彭古.md) | 恩贊比姆彭古 |
+| [瑪巫麗莎](瑪巫麗莎.md) | 瑪巫麗莎 |
 
 ---
-*Generated on 2026-06-26 14:12 UTC*
+*Auto-generated on 2026-08-15 14:26 UTC*

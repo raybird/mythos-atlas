@@ -2,24 +2,29 @@
 
 | 檔案 | 名稱 |
 |------|------|
+| [Allani](Allani.md) | Allani |
+| [Anu](Anu.md) | Anu |
+| [Appaliunas](Appaliunas.md) | Appaliunas |
 | [Arinna](Arinna.md) | Arinna |
+| [Ea](Ea.md) | Ea |
 | [Hannahannah](Hannahannah.md) | Hannahannah |
+| [Hepat](Hepat.md) | Hepat |
 | [Hittite-Pantheon](Hittite-Pantheon.md) | Hittite-Pantheon |
 | [Inara](Inara.md) | Inara |
+| [Ishara](Ishara.md) | Ishara |
+| [Istanu](Istanu.md) | Istanu |
+| [Iyarri](Iyarri.md) | Iyarri |
 | [Kamrusepa](Kamrusepa.md) | Kamrusepa |
 | [Kumarbi](Kumarbi.md) | Kumarbi |
+| [Kurunta](Kurunta.md) | Kurunta |
+| [Lelwani](Lelwani.md) | Lelwani |
+| [Pirwa](Pirwa.md) | Pirwa |
 | [Sarruma](Sarruma.md) | Sarruma |
+| [Seri-Hurri](Seri-Hurri.md) | Seri-Hurri |
 | [Shaushka](Shaushka.md) | Shaushka |
 | [Tarhunna](Tarhunna.md) | Tarhunna |
-| [Istanu](Istanu.md) | Istanu |
-| [Ea](Ea.md) | Ea（智慧之神） |
-| [Telipinu](Telipinu.md) | Telipinu（穀物之神） |
-| [Iyarri](Iyarri.md) | Iyarri（瘟疫之神） |
-| [Pirwa](Pirwa.md) | Pirwa（皮爾瓦，胡里安戰神） |
-| [Anu](Anu.md) | Anu（安努，天空之神） |
-| [Seri-Hurri](Seri-Hurri.md) | Šeri 與 Ḫurri（舍里與胡里，風暴神聖牛） |
-| [Allani](Allani.md) | Allani（阿拉尼，冥界女王） |
-| [Ishara](Ishara.md) | Išḫara（伊什哈拉，誓言之主與蠍之女神） |
+| [Telipinu](Telipinu.md) | Telipinu |
+| [Teshub](Teshub.md) | Teshub |
 
 ---
-*Updated 2026-08-14*
+*Auto-generated on 2026-08-15 14:26 UTC*
