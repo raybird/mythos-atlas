@@ -2,6 +2,8 @@
 
 > 跨文化比較神話學分析文章，探討各文明之間的深層連結。
 
+- [神之坐騎：印度瓦哈納傳統與跨文化神聖座騎比較](divine-mounts-vahana-comparative.md)
+- [以人為祭：跨文化神話中的宇宙債務、替代邏輯與廢止敘事](human-sacrifice-comparative.md)
 - [死亡的化身：死神與收割者的跨文化神話比較](personifications-of-death-comparative.md)
 - [愚者之火與亡魂之光：鬼火／幽靈火球的跨文化神話比較](phantom-lights-ghost-fires-comparative.md)
 - [神明裁判：以火、水與毒驗證真理的跨文化神判神話](trial-by-ordeal-divine-judgement-comparative.md)
