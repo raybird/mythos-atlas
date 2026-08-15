@@ -21,8 +21,9 @@
 | [Tulujn](Tulujn.md) | Tulujn |
 | [Umai](Umai.md) | Umai |
 | [Yryn-Ajy](Yryn-Ajy.md) | Yryn-Ajy |
+| [Ülgen](Ülgen.md) | Ülgen |
 | [安·阿拉赫欽·霍屯](安·阿拉赫欽·霍屯.md) | 安·阿拉赫欽·霍屯 |
 | [烏特·伊契特](烏特·伊契特.md) | 烏特·伊契特 |
 
 ---
-*Auto-generated on 2026-08-15 14:26 UTC*
+*Auto-generated on 2026-08-15 16:10 UTC*

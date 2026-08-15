@@ -22,4 +22,4 @@
 | [te-kore-te-po-te-ao](te-kore-te-po-te-ao.md) | te-kore-te-po-te-ao |
 
 ---
-*Auto-generated on 2026-08-15 14:26 UTC*
+*Auto-generated on 2026-08-15 16:10 UTC*

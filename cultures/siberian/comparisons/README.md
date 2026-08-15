@@ -10,6 +10,7 @@
 | [siberian-inuit-shamanic-journeys](siberian-inuit-shamanic-journeys.md) | siberian-inuit-shamanic-journeys |
 | [siberian-multiple-suns-comparative](siberian-multiple-suns-comparative.md) | siberian-multiple-suns-comparative |
 | [siberian-sky-gods-comparative](siberian-sky-gods-comparative.md) | siberian-sky-gods-comparative |
+| [創世主與黑暗對立者跨文化比較](創世主與黑暗對立者跨文化比較.md) | 創世主與黑暗對立者跨文化比較 |
 | [北亞洪水神話跨文化比較](北亞洪水神話跨文化比較.md) | 北亞洪水神話跨文化比較 |
 | [北亞熊崇拜與熊始祖神話比較](北亞熊崇拜與熊始祖神話比較.md) | 北亞熊崇拜與熊始祖神話比較 |
 | [地母神話跨文化比較](地母神話跨文化比較.md) | 地母神話跨文化比較 |
@@ -20,4 +21,4 @@
 | [西伯利亞神系與北亞北美跨文化比較](西伯利亞神系與北亞北美跨文化比較.md) | 西伯利亞神系與北亞北美跨文化比較 |
 
 ---
-*Auto-generated on 2026-08-15 14:26 UTC*
+*Auto-generated on 2026-08-15 16:10 UTC*

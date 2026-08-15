@@ -22,4 +22,4 @@
 | [wolf-gods-cross-culture](wolf-gods-cross-culture.md) | wolf-gods-cross-culture |
 
 ---
-*Auto-generated on 2026-08-15 14:26 UTC*
+*Auto-generated on 2026-08-15 16:10 UTC*
