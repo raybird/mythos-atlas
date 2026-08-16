@@ -5,6 +5,7 @@
 | [Anchmalén](Anchmalén.md) | Anchmalén |
 | [Antü](Antü.md) | Antü |
 | [Calcu](Calcu.md) | Calcu |
+| [Cherufe](Cherufe.md) | Cherufe |
 | [El-Coigüe](El-Coigüe.md) | El-Coigüe |
 | [Fütafeüru](Fütafeüru.md) | Fütafeüru |
 | [Gualicho](Gualicho.md) | Gualicho |
@@ -25,4 +26,4 @@
 | [küyen](küyen.md) | küyen |
 
 ---
-*Auto-generated on 2026-08-15 16:10 UTC*
+*Auto-generated on 2026-08-16 16:06 UTC*

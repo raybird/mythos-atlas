@@ -3584,7 +3584,7 @@
    ],
    "creation": "Ngenechén(Ngünechen,造物主)從一片虛無中創造世界——首先創造天與地，再創造Pillán(善靈)管理自然力量。人類由Ngenechén以特定樹木(肉桂樹)的枝條創造——人體如樹枝般挺拔，靈魂來自天上的星辰。最初人類生活在黃金時代——人類忘記感恩，Ngenechén以Kai-Kai Filú(海蛇)掀起洪水懲罰——Trentren Filú(山蛇)挺身對抗，保護人類。",
    "flood": "馬普切洪水神話的核心爲Trentren Filú(山之神蛇)與Kai-Kai Filú(海之神蛇)的永恆對抗。Kai-Kai以洪水淹沒大地，Trentren將山脈升高使人類逃生。僅少數遵循Admapu(宇宙法則)的人類乘木筏或攀上最高山峯倖存。洪水退後倖存者以肉桂枝重建文明。此神話可能保留末次冰期後海平面上升的記憶。",
-   "pantheon": "Ngenechén/Ngünechen(造物主/宇宙統一體)、Pillán(善靈總稱/火山/山/天)、Wekufu(惡靈/混沌/疾病)、Antü/Püllán(太陽神/火)、Küyen(月神)、Wangülen(星辰/祖先靈魂)、Trentren Filú(山蛇/大地保護)、Kai-Kai Filú(海蛇/洪水/混沌)、Machi(人類薩滿)、Ngen(自然元素守護靈)、Menoko(泉水靈地)、Alwe(死者靈魂)/Ancán(轉世靈)、Nguruvilu(水狐蛇/河川渦流水靈)",
+    "pantheon": "Ngenechén/Ngünechen(造物主/宇宙統一體)、Pillán(善靈總稱/火山/山/天)、Wekufu(惡靈/混沌/疾病)、Antü/Püllán(太陽神/火)、Küyen(月神)、Wangülen(星辰/祖先靈魂)、Trentren Filú(山蛇/大地保護)、Kai-Kai Filú(海蛇/洪水/混沌)、Machi(人類薩滿)、Ngen(自然元素守護靈)、Menoko(泉水靈地)、Alwe(死者靈魂)/Ancán(轉世靈)、Nguruvilu(水狐蛇/河川渦流水靈)、Cherufe(切魯菲,火山熔岩巨怪/地震之因)",
    "stories": [
     "Trentren與Kai-Kai的大戰",
     "Lautaro智取西班牙人",
@@ -3595,7 +3595,8 @@
     "Machi療癒儀式",
     "Admapu法則的起源",
     "恩根的起源：馬普切自然之靈的誕生",
-    "Machi降伏水狐蛇"
+    "Machi降伏水狐蛇",
+    "火山新娘：切魯菲與少女的獻祭"
    ],
    "order": 41,
    "timeline": {
@@ -3624,15 +3625,17 @@
      "indigenous-americas"
     ]
    },
-   "_stories": 21,
+   "_stories": 22,
    "gods": [
     "Pincoya",
     "溫內爾菲",
-    "Nguruvilu"
+    "Nguruvilu",
+    "Cherufe"
    ],
    "comparisons": [
     "晨星之神跨文化比較",
-    "河流守護者與渦流水妖跨文化比較"
+    "河流守護者與渦流水妖跨文化比較",
+    "地震火山巨獸跨文化比較"
    ]
   },
   {

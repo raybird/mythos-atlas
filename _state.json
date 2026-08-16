@@ -131,7 +131,8 @@
   "sumerian",
   "ainu",
   "phoenician",
-  "baltic"
+  "baltic",
+  "mapuche"
  ],
  "analysis_log": [
   "sacrificial-creation",
@@ -193,5 +194,5 @@
   "divine-incarnation-avatara-comparative",
   "buffalo-bison-myths-comparative"
  ],
- "runs": 163
+ "runs": 164
 }

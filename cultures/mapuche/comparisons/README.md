@@ -11,6 +11,7 @@
 | [south-american-evil-spirits-comparative](south-american-evil-spirits-comparative.md) | south-american-evil-spirits-comparative |
 | [south-american-flood-myths-comparison](south-american-flood-myths-comparison.md) | south-american-flood-myths-comparison |
 | [sun-moon-chase-myths](sun-moon-chase-myths.md) | sun-moon-chase-myths |
+| [地震火山巨獸跨文化比較](地震火山巨獸跨文化比較.md) | 地震火山巨獸跨文化比較 |
 | [惡靈原型跨文化比較](惡靈原型跨文化比較.md) | 惡靈原型跨文化比較 |
 | [晨星之神跨文化比較](晨星之神跨文化比較.md) | 晨星之神跨文化比較 |
 | [死後化星跨文化比較](死後化星跨文化比較.md) | 死後化星跨文化比較 |
@@ -20,4 +21,4 @@
 | [馬普切退隱至高神比較](馬普切退隱至高神比較.md) | 馬普切退隱至高神比較 |
 
 ---
-*Auto-generated on 2026-08-15 16:10 UTC*
+*Auto-generated on 2026-08-16 16:06 UTC*

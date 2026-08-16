@@ -23,6 +23,7 @@
 | [origin-of-ngen](origin-of-ngen.md) | origin-of-ngen |
 | [pehuen-miracle](pehuen-miracle.md) | pehuen-miracle |
 | [創世神話](創世神話.md) | 創世神話 |
+| [火山新娘：切魯菲與少女的獻祭](火山新娘：切魯菲與少女的獻祭.md) | 火山新娘：切魯菲與少女的獻祭 |
 
 ---
-*Auto-generated on 2026-08-15 16:10 UTC*
+*Auto-generated on 2026-08-16 16:06 UTC*
