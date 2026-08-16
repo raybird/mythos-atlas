@@ -67,6 +67,7 @@
 | [ur-namma-code](ur-nammu-code.md) | ur-nammu-code |
 | [ur-namma-death](ur-namma-death.md) | ur-namma-death |
 | [uruk-lament](uruk-lament.md) | uruk-lament |
+| [venus-tablet-ammisaduqa](venus-tablet-ammisaduqa.md) | venus-tablet-ammisaduqa |
 | [ziusudra-flood-narrative](ziusudra-flood-narrative.md) | ziusudra-flood-narrative |
 
 ---

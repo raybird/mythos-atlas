@@ -48,6 +48,7 @@
 | [Ninisina](Ninisina.md) | Ninisina |
 | [Ninlil](Ninlil.md) | Ninlil |
 | [Ninsar](Ninsar.md) | Ninsar |
+| [Ninsianna](Ninsianna.md) | Ninsianna |
 | [Ninshubur](Ninshubur.md) | Ninshubur |
 | [Ninsun](Ninsun.md) | Ninsun |
 | [Ninurta](Ninurta.md) | Ninurta |

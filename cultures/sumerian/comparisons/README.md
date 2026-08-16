@@ -67,6 +67,7 @@
 | [underworld-geography-detailed](underworld-geography-detailed.md) | underworld-geography-detailed |
 | [underworld-queens-comparison](underworld-queens-comparison.md) | underworld-queens-comparison |
 | [utu-shamash-solar-justice](utu-shamash-solar-justice.md) | utu-shamash-solar-justice |
+| [venus-kingship-astronomy-comparison](venus-kingship-astronomy-comparison.md) | venus-kingship-astronomy-comparison |
 | [writing-deities-cross-culture](writing-deities-cross-culture.md) | writing-deities-cross-culture |
 | [yoruba-norse-fate-weavers](yoruba-norse-fate-weavers.md) | yoruba-norse-fate-weavers |
 
