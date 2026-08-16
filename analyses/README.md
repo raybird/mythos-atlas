@@ -32,6 +32,7 @@
 - [Bones Mythology Comparative](bones-mythology-comparative.md)
 - [Bound Gods Divine Imprisonment Comparative](bound-gods-divine-imprisonment-comparative.md)
 - [Broom Myths Sacred Sweeping Comparative](broom-myths-sacred-sweeping-comparative.md)
+- [Buffalo Bison Myths Comparative](buffalo-bison-myths-comparative.md)
 - [Bull Cattle Myths Comparative](bull-cattle-myths-comparative.md)
 - [Butterfly Soul Symbolism Comparative](butterfly-soul-symbolism-comparative.md)
 - [Cacao Myths Comparative](cacao-myths-comparative.md)
