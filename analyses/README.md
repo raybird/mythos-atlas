@@ -206,6 +206,7 @@
 - [Lion Myths Comparative](lion-myths-comparative.md)
 - [Living Dead Revenant Zombie Comparative](living-dead-revenant-zombie-comparative.md)
 - [Lizard Gecko Myths Comparative](lizard-gecko-myths-comparative.md)
+- [Looking Back Taboo Comparative](looking-back-taboo-comparative.md)
 - [Locust Plagues Myths Comparative](locust-plagues-myths-comparative.md)
 - [Lost Continents Comparative](lost-continents-comparative.md)
 - [Lotus Cross Cultural Myth Comparison](lotus-cross-cultural-myth-comparison.md)
