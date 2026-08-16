@@ -370,6 +370,7 @@
 - [Scarab Dung Beetle Myths Comparative](scarab-dung-beetle-myths-comparative.md)
 - [Scorpion Myths Comparative](scorpion-myths-comparative.md)
 - [Sea Deities Ocean Myths](sea-deities-ocean-myths.md)
+- [Searching Mother Goddess Comparative](searching-mother-goddess-comparative.md)
 - [Seasonal Deities Comparative](seasonal-deities-comparative.md)
 - [Separation Of Heaven And Earth Comparative](separation-of-heaven-and-earth-comparative.md)
 - [Serpent Venom Divine Medicine Comparative](serpent-venom-divine-medicine-comparative.md)
@@ -466,4 +467,4 @@
 - [聖林跨文化神聖樹林崇拜比較分析](聖林跨文化神聖樹林崇拜比較分析.md)
 
 ---
-*Auto-generated on 2026-08-15 12:54 UTC*
+*Auto-generated on 2026-08-16 08:37 UTC*

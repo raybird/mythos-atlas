@@ -96,13 +96,13 @@ mythos-atlas/
 
 ## 📊 當前狀態
 
-> 自動更新於 2026-08-16 00:04 UTC
+> 自動更新於 2026-08-16 00:41 UTC
 
 | 類別 | 進度 |
 |------|------|
 | 文化體系 | 44/44 |
 | 跨文化主題 | 27/27 |
-| 分析文章 | 462 |
+| 分析文章 | 463 |
 | 已充實文化 | 44/44 |
 | 總頁面數 | 3098 |
 | 總執行次數 | 157 |
@@ -118,7 +118,7 @@ mythos-atlas/
 | [中國上古神話](cultures/chinese/) | 東亞 | 20 | 22 | 18 |
 | [美索不達米亞神話](cultures/mesopotamian/) | 兩河流域 | 24 | 19 | 17 |
 | [希臘神話](cultures/greek/) | 地中海—巴爾幹 | 23 | 19 | 16 |
-| [埃及神話](cultures/egyptian/) | 北非—尼羅河流域 | 23 | 18 | 17 |
+| [埃及神話](cultures/egyptian/) | 北非—尼羅河流域 | 24 | 18 | 17 |
 | [北歐神話](cultures/norse/) | 北歐—日耳曼 | 23 | 19 | 16 |
 | [印度神話](cultures/hindu/) | 南亞—印度河流域 | 21 | 18 | 19 |
 | [馬雅神話](cultures/mayan/) | 中美洲 | 65 | 59 | 57 |
@@ -166,8 +166,9 @@ mythos-atlas/
 
 ## 📝 分析文章
 
-> 跨文化比較神話學分析文章。共 462 篇。
+> 跨文化比較神話學分析文章。共 463 篇。
 
+- [追尋的母親女神：哀悼、尋覓與宇宙失衡的跨文化母題比較](analyses/searching-mother-goddess-comparative.md)
 - [海之呼吸：潮汐與怒潮的跨文化神話比較](analyses/tides-tidal-bore-myths-comparative.md)
 - [樹靈與森林精靈：荒野之心的人格化跨文化比較分析](analyses/tree-forest-spirits-comparative.md)
 - [棋局神話：宇宙為盤、命運為局——跨文化神話中的棋戲與神聖遊戲](analyses/board-games-fate-myths-comparative.md)
