@@ -96,16 +96,16 @@ mythos-atlas/
 
 ## 📊 當前狀態
 
-> 自動更新於 2026-08-16 00:41 UTC
+> 自動更新於 2026-08-16 00:50 UTC
 
 | 類別 | 進度 |
 |------|------|
 | 文化體系 | 44/44 |
 | 跨文化主題 | 27/27 |
-| 分析文章 | 463 |
+| 分析文章 | 464 |
 | 已充實文化 | 44/44 |
 | 總頁面數 | 3098 |
-| 總執行次數 | 157 |
+| 總執行次數 | 158 |
 
 <!-- STATS_END -->
 
@@ -166,8 +166,9 @@ mythos-atlas/
 
 ## 📝 分析文章
 
-> 跨文化比較神話學分析文章。共 463 篇。
+> 跨文化比較神話學分析文章。共 464 篇。
 
+- [蒼老女神與巫婆始祖：跨文化神話中的老嫗原型比較](analyses/crone-hag-goddess-comparative.md)
 - [追尋的母親女神：哀悼、尋覓與宇宙失衡的跨文化母題比較](analyses/searching-mother-goddess-comparative.md)
 - [海之呼吸：潮汐與怒潮的跨文化神話比較](analyses/tides-tidal-bore-myths-comparative.md)
 - [樹靈與森林精靈：荒野之心的人格化跨文化比較分析](analyses/tree-forest-spirits-comparative.md)
@@ -223,7 +224,7 @@ mythos-atlas/
 - [Whale Leviathan Great Fish Comparative](analyses/whale-leviathan-great-fish-comparative.md)
 - [Water Of Life Myths Comparative](analyses/water-of-life-myths-comparative.md)
 
-... 及另外 409 篇
+... 及另外 410 篇
 
 <!-- ANALYSES_END -->
 

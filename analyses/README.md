@@ -79,6 +79,7 @@
 - [Creation Of Humans](creation-of-humans.md)
 - [Creative Word Logos Comparative](creative-word-logos-comparative.md)
 - [Cricket Myths Comparative](cricket-myths-comparative.md)
+- [Crone Hag Goddess Comparative](crone-hag-goddess-comparative.md)
 - [Crocodile Myths Comparative](crocodile-myths-comparative.md)
 - [Crossroads Sacred Space Comparative](crossroads-sacred-space-comparative.md)
 - [Crown Diadem Myths](crown-diadem-myths.md)
@@ -467,4 +468,4 @@
 - [聖林跨文化神聖樹林崇拜比較分析](聖林跨文化神聖樹林崇拜比較分析.md)
 
 ---
-*Auto-generated on 2026-08-16 08:37 UTC*
+*Auto-generated on 2026-08-16 08:50 UTC*
