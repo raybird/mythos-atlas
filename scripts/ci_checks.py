@@ -51,7 +51,7 @@ def warn(msg):
 
 # Markdown inline link. The destination may itself contain one level of
 # balanced parentheses (e.g. 大洪水(神族戰爭淹沒).md), which CommonMark allows.
-MD_LINK = re.compile(r'\[([^\]]*)\]\(((?:[^()\s]|\([^()]*\))+)\)')
+MD_LINK = re.compile(r'\[([^\]]*)\]\(((?:[^()\n]|\([^()\n]*\))+)\)')
 
 
 # ── 1. Format Validation ───────────────────────────────────────────
