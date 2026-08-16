@@ -130,7 +130,8 @@
   "african",
   "sumerian",
   "ainu",
-  "phoenician"
+  "phoenician",
+  "baltic"
  ],
  "analysis_log": [
   "sacrificial-creation",
@@ -190,5 +191,5 @@
   "searching-mother-goddess-comparative",
   "crone-hag-goddess-comparative"
  ],
- "runs": 160
+ "runs": 161
 }

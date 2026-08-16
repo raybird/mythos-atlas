@@ -23,6 +23,7 @@
 | [Ūsiņš](Ūsiņš.md) | Ūsiņš |
 | [Žemyna](Žemyna.md) | Žemyna |
 | [奧什琳涅](奧什琳涅.md) | 奧什琳涅 |
+| [波特里姆波](波特里姆波.md) | 波特里姆波 |
 
 ---
-*Auto-generated on 2026-08-15 16:10 UTC*
+*Auto-generated on 2026-08-16 02:30 UTC*
