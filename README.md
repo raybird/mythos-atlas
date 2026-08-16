@@ -96,16 +96,16 @@ mythos-atlas/
 
 ## 📊 當前狀態
 
-> 自動更新於 2026-08-16 10:55 UTC
+> 自動更新於 2026-08-16 12:46 UTC
 
 | 類別 | 進度 |
 |------|------|
 | 文化體系 | 44/44 |
 | 跨文化主題 | 27/27 |
-| 分析文章 | 466 |
+| 分析文章 | 467 |
 | 已充實文化 | 44/44 |
 | 總頁面數 | 3113 |
-| 總執行次數 | 166 |
+| 總執行次數 | 167 |
 
 <!-- STATS_END -->
 
@@ -166,8 +166,9 @@ mythos-atlas/
 
 ## 📝 分析文章
 
-> 跨文化比較神話學分析文章。共 466 篇。
+> 跨文化比較神話學分析文章。共 467 篇。
 
+- [末子之選：么子英雄與幼子繼承的跨文化神話比較](analyses/youngest-child-hero-comparative.md)
 - [巨角之下：野牛與水牛神話的跨文化比較](analyses/buffalo-bison-myths-comparative.md)
 - [神的化身：跨文化神話中的降世、應化與神體顯現比較](analyses/divine-incarnation-avatara-comparative.md)
 - [蒼老女神與巫婆始祖：跨文化神話中的老嫗原型比較](analyses/crone-hag-goddess-comparative.md)

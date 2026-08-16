@@ -466,6 +466,7 @@
 - [World Tree Comparative](world-tree-comparative.md)
 - [Wounded Healer Comparative](wounded-healer-comparative.md)
 - [Wounded Sovereign Fisher King Comparative](wounded-sovereign-fisher-king-comparative.md)
+- [Youngest Child Hero Comparative](youngest-child-hero-comparative.md)
 - [Zodiac Astrology Myths Comparative](zodiac-astrology-myths-comparative.md)
 - [聖林跨文化神聖樹林崇拜比較分析](聖林跨文化神聖樹林崇拜比較分析.md)
 
