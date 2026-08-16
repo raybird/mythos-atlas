@@ -9,6 +9,7 @@
 | [creator-word-comparison](creator-word-comparison.md) | creator-word-comparison |
 | [divine-kingship-comparison](divine-kingship-comparison.md) | divine-kingship-comparison |
 | [divine-twins-world-comparison](divine-twins-world-comparison.md) | divine-twins-world-comparison |
+| [hachakyum-deus-otiosus-comparison](hachakyum-deus-otiosus-comparison.md) | hachakyum-deus-otiosus-comparison |
 | [hunting-deities-comparison](hunting-deities-comparison.md) | hunting-deities-comparison |
 | [jade-mythology-comparative](jade-mythology-comparative.md) | jade-mythology-comparative |
 | [jaguar-symbolism-cross-culture](jaguar-symbolism-cross-culture.md) | jaguar-symbolism-cross-culture |

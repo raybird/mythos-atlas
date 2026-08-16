@@ -23,6 +23,7 @@
 | [kinich-kak-mo-descent-izamal](kinich-kak-mo-descent-izamal.md) | kinich-kak-mo-descent-izamal |
 | [kisin-earthquake-legend](kisin-earthquake-legend.md) | kisin-earthquake-legend |
 | [kukulkan-departure](kukulkan-departure.md) | kukulkan-departure |
+| [lacandon-creation-clay-people](lacandon-creation-clay-people.md) | lacandon-creation-clay-people |
 | [legend-of-maya-blue](legend-of-maya-blue.md) | legend-of-maya-blue |
 | [maize-god-beheading](maize-god-beheading.md) | maize-god-beheading |
 | [maize-god-resurrection](maize-god-resurrection.md) | maize-god-resurrection |
