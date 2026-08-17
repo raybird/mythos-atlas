@@ -70,6 +70,7 @@
 | [venus-kingship-astronomy-comparison](venus-kingship-astronomy-comparison.md) | venus-kingship-astronomy-comparison |
 | [writing-deities-cross-culture](writing-deities-cross-culture.md) | writing-deities-cross-culture |
 | [yoruba-norse-fate-weavers](yoruba-norse-fate-weavers.md) | yoruba-norse-fate-weavers |
+| [temple-personnel-gender-fluidity-comparison](temple-personnel-gender-fluidity-comparison.md) | temple-personnel-gender-fluidity-comparison |
 
 ---
 *Auto-generated on 2026-08-15 16:10 UTC*

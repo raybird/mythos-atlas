@@ -20,6 +20,7 @@
 | [trickster-raven-comparison](trickster-raven-comparison.md) | trickster-raven-comparison |
 | [winter-blizzard-deities-comparative](winter-blizzard-deities-comparative.md) | winter-blizzard-deities-comparative |
 | [極地薩滿跨文化比較](極地薩滿跨文化比較.md) | 極地薩滿跨文化比較 |
+| [arctic-sea-creatures-cross-cultural](arctic-sea-creatures-cross-cultural.md) | arctic-sea-creatures-cross-cultural |
 
 ---
 *Auto-generated on 2026-08-15 16:10 UTC*
