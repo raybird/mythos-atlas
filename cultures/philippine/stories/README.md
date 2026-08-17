@@ -20,7 +20,8 @@
 | [philippine-flood-bathala](philippine-flood-bathala.md) | philippine-flood-bathala |
 | [pineapple-origin](pineapple-origin.md) | pineapple-origin |
 | [sun-moon-brightness](sun-moon-brightness.md) | sun-moon-brightness |
-| [貝納多卡皮歐](貝納多卡皮歐.md) | 貝納多卡皮歐 |
+| [貝納多卡皮歐](貝納多卡皮歐.md) | 貝納多卡皮歐
+| [bulan-and-the-sun](bulan-and-the-sun.md) | bulan-and-the-sun |
 
 ---
 *Auto-generated on 2026-08-15 16:10 UTC*

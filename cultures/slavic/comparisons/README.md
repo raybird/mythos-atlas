@@ -18,7 +18,8 @@
 | [water-master-spirits-comparative](water-master-spirits-comparative.md) | water-master-spirits-comparative |
 | [斯拉夫世界樹比較](斯拉夫世界樹比較.md) | 斯拉夫世界樹比較 |
 | [斯拉夫女性三聯神比較](斯拉夫女性三聯神比較.md) | 斯拉夫女性三聯神比較 |
-| [斯拉夫波羅的海北歐比較](斯拉夫波羅的海北歐比較.md) | 斯拉夫波羅的海北歐比較 |
+| [斯拉夫波羅的海北歐比較](斯拉夫波羅的海北歐比較.md) | 斯拉夫波羅的海北歐比較
+| [slavic-water-forest-spirits-comparative](slavic-water-forest-spirits-comparative.md) | slavic-water-forest-spirits-comparative |
 
 ---
 *Auto-generated on 2026-08-15 16:10 UTC*

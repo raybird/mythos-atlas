@@ -19,7 +19,8 @@
 | [supreme-creator-philippine](supreme-creator-philippine.md) | supreme-creator-philippine |
 | [月食神話的跨文化比較](月食神話的跨文化比較.md) | 月食神話的跨文化比較 |
 | [東南亞至高神比較](東南亞至高神比較.md) | 東南亞至高神比較 |
-| [竹生人神話的跨文化比較](竹生人神話的跨文化比較.md) | 竹生人神話的跨文化比較 |
+| [竹生人神話的跨文化比較](竹生人神話的跨文化比較.md) | 竹生人神話的跨文化比較
+| [volcano-gods-southeast-asia-comparative](volcano-gods-southeast-asia-comparative.md) | volcano-gods-southeast-asia-comparative |
 
 ---
 *Auto-generated on 2026-08-15 16:10 UTC*

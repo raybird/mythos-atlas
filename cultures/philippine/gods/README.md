@@ -22,7 +22,8 @@
 | [Mayari](Mayari.md) | Mayari |
 | [Sidapa](Sidapa.md) | Sidapa |
 | [Tala](Tala.md) | Tala |
-| [haliya](haliya.md) | haliya |
+| [haliya](haliya.md) | haliya
+| [Bulan](Bulan.md) | Bulan |
 
 ---
 *Auto-generated on 2026-08-15 16:10 UTC*
