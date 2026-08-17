@@ -2,13 +2,13 @@
 """Mythos Atlas — CI Checks
 
 Usage:
-  python3 scripts/ci_checks.py
+  python3 scripts/ci_checks.py [--with-stats]
 
 Checks:
   1. Format validation — heading consistency, broken internal links
   2. Orphan check — files not referenced from indexes
   3. Citation check — each entry has ≥1 source reference
-  4. Statistical diff — run generate_stats.py and compare to committed
+  4. Optional statistical diff — run generate_stats.py and compare to committed
 """
 
 import json, os, re, sys, subprocess, glob
@@ -20,6 +20,7 @@ CATALOG = ROOT / '_catalog.json'
 README = ROOT / 'README.md'
 THEMES_INDEX = ROOT / 'themes' / '00-index.md'
 ANALYSES_DIR = ROOT / 'analyses'
+ANALYSIS_INDEX = ROOT / 'analysis-index.md'
 THEMES_DIR = ROOT / 'themes'
 CULTURES_DIR = ROOT / 'cultures'
 REFERENCES_DIR = ROOT / 'references'
@@ -149,18 +150,32 @@ def check_orphan_themes():
 
 
 def check_orphan_analyses():
-    readme_text = README.read_text(encoding='utf-8')
-    analyses_section = ''
-    m = re.search(r'<!-- ANALYSES_START -->(.*?)<!-- ANALYSES_END -->', readme_text, re.DOTALL)
-    if m:
-        analyses_section = m.group(1)
-    indexed_analyses = set(re.findall(r'\(analyses/([^)]+\.md)\)', analyses_section))
+    """Ensure every analysis page is present in the canonical full index.
 
-    for f in sorted(ANALYSES_DIR.glob('*.md')):
-        if f.name == 'README.md':
-            continue
-        if f.name not in indexed_analyses:
-            err(f'{rel(f)}: orphan analysis — not listed in README.md ANALYSES section')
+    README.md intentionally shows only a short, curated list of analyses.
+    The complete machine-checkable index lives in analysis-index.md.
+    """
+    indexed_analyses = set()
+    if ANALYSIS_INDEX.exists():
+        text = ANALYSIS_INDEX.read_text(encoding='utf-8')
+        for match in re.finditer(r'^\|\s*\d+\s*\|\s*([^|]+\.md)\s*\|', text, re.MULTILINE):
+            target = unquote(match.group(1).strip())
+            if target.startswith('analyses/'):
+                target = target.split('/', 1)[1]
+            indexed_analyses.add(target)
+    else:
+        err('analysis-index.md: canonical analysis index is missing')
+
+    actual_analyses = {
+        f.name for f in ANALYSES_DIR.glob('*.md')
+        if f.name != 'README.md'
+    }
+
+    for filename in sorted(actual_analyses - indexed_analyses):
+        err(f'analyses/{filename}: orphan analysis — not listed in analysis-index.md')
+
+    for filename in sorted(indexed_analyses - actual_analyses):
+        err(f'analysis-index.md: stale analysis entry — analyses/{filename} does not exist')
 
 
 def check_orphan_gods_stories():
@@ -252,13 +267,21 @@ def check_citations_in_file(filepath, label):
         citation_err(rel_path, '參考文獻區塊為空')
         return
 
-    # Count non-empty lines after the section header before next heading
+    # Count non-empty lines after the section header before the next heading
+    # at the same or higher level. Nested headings such as "### 原始文獻"
+    # are valid subdivisions of a "## 參考文獻" section.
+    citation_heading = re.match(r'^(#{2,4})\s+', last_match.group(0))
+    citation_level = len(citation_heading.group(1)) if citation_heading else 2
     lines = remaining.split('\n')
     ref_lines = 0
     for line in lines:
-        if line.strip().startswith('#'):
-            break
-        if line.strip() and not line.strip().startswith('>'):
+        stripped = line.strip()
+        heading = re.match(r'^(#+)\s+', stripped)
+        if heading:
+            if len(heading.group(1)) <= citation_level:
+                break
+            continue
+        if stripped and not stripped.startswith('>'):
             ref_lines += 1
 
     if ref_lines == 0:
@@ -368,6 +391,7 @@ def load_citation_baseline():
 # ── Main ───────────────────────────────────────────────────────────
 
 def main():
+    with_stats = '--with-stats' in sys.argv[1:]
     os.chdir(str(ROOT))
 
     print('═' * 60)
@@ -408,10 +432,13 @@ def main():
             if len(stale) > 20:
                 print(f'        ...另有 {len(stale) - 20} 筆')
 
-    # ── Section 4: Statistical Comparison ──
+    # ── Section 4: Optional Statistical Comparison ──
     print('\n[4/4] Statistical Comparison')
     print('─' * 40)
-    run_stats_comparison()
+    if with_stats:
+        run_stats_comparison()
+    else:
+        print('  [*] Skipped (use --with-stats for local stats regeneration)')
 
     # ── Summary ──
     print('\n' + '═' * 60)

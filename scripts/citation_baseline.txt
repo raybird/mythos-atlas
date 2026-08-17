@@ -5,12 +5,11 @@
 #
 # 補上文獻後，請將該行從此檔刪除；ci_checks.py 會主動提示哪些項目已可移除。
 #
-# 建立於 2026-08-05，共 342 筆。
+# 建立於 2026-08-05，共 341 筆。
 analyses/chaoskampf-order-vs-chaos.md
 analyses/classical-elements-comparative.md
 analyses/crocodile-myths-comparative.md
 analyses/divine-breath-vital-force-comparative.md
-analyses/donkey-myths-comparative.md
 analyses/earth-diver-global-myth-complex.md
 analyses/fire-myths.md
 analyses/frog-toad-myths-comparative.md
