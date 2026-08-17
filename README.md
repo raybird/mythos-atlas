@@ -96,16 +96,16 @@ mythos-atlas/
 
 ## 📊 當前狀態
 
-> 自動更新於 2026-08-17 02:19 UTC
+> 自動更新於 2026-08-17 06:46 UTC
 
 | 類別 | 進度 |
 |------|------|
 | 文化體系 | 44/44 |
 | 跨文化主題 | 27/27 |
-| 分析文章 | 469 |
+| 分析文章 | 471 |
 | 已充實文化 | 44/44 |
 | 總頁面數 | 3122 |
-| 總執行次數 | 171 |
+| 總執行次數 | 173 |
 
 <!-- STATS_END -->
 
@@ -166,8 +166,10 @@ mythos-atlas/
 
 ## 📝 分析文章
 
-> 跨文化比較神話學分析文章。共 469 篇。
+> 跨文化比較神話學分析文章。共 471 篇。
 
+- [黏土造人：跨文化創世造人神話比較分析](analyses/creation-from-clay-comparative.md)
+- [禁忌語音與沉默律令：跨文化語言禁忌比較分析](analyses/taboo-speech-and-silence-mandates.md)
 - [雷石跨文化神話比較分析](analyses/thunderstone-ceraunia-cross-cultural.md)
 - [禁止回望：回頭禁忌與跨文化神話比較](analyses/looking-back-taboo-comparative.md)
 - [末子之選：么子英雄與幼子繼承的跨文化神話比較](analyses/youngest-child-hero-comparative.md)
