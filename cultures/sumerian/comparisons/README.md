@@ -2,6 +2,7 @@
 
 | 檔案 | 名稱 |
 |------|------|
+
 | [agriculture-cattle-deities](agriculture-cattle-deities.md) | agriculture-cattle-deities |
 | [agriculture-debate-literature](agriculture-debate-literature.md) | agriculture-debate-literature |
 | [anunnaki-divine-councils](anunnaki-divine-councils.md) | anunnaki-divine-councils |
@@ -41,6 +42,7 @@
 | [storm-gods-comparison](storm-gods-comparison.md) | storm-gods-comparison |
 | [sumerian-afterlife](sumerian-afterlife.md) | sumerian-afterlife |
 | [sumerian-agriculture-war-deities-global](sumerian-agriculture-war-deities-global.md) | sumerian-agriculture-war-deities-global |
+| [sumerian-akkadian-pantheon-transition](sumerian-akkadian-pantheon-transition.md) | sumerian-akkadian-pantheon-transition |
 | [sumerian-chinese-cosmic-center](sumerian-chinese-cosmic-center.md) | sumerian-chinese-cosmic-center |
 | [sumerian-chinese-cosmogony](sumerian-chinese-cosmogony.md) | sumerian-chinese-cosmogony |
 | [sumerian-chinese-flood](sumerian-chinese-flood.md) | sumerian-chinese-flood |
@@ -60,9 +62,9 @@
 | [sumerian-wisdom-gods-comparison](sumerian-wisdom-gods-comparison.md) | sumerian-wisdom-gods-comparison |
 | [sumerian-wisdom-literature-comparison](sumerian-wisdom-literature-comparison.md) | sumerian-wisdom-literature-comparison |
 | [temple-cosmic-mountain-comparison](temple-cosmic-mountain-comparison.md) | temple-cosmic-mountain-comparison |
+| [temple-personnel-gender-fluidity-comparison](temple-personnel-gender-fluidity-comparison.md) | temple-personnel-gender-fluidity-comparison |
 | [theodicy-suffering-comparative](theodicy-suffering-comparative.md) | theodicy-suffering-comparative |
 | [underworld-descent](underworld-descent.md) | underworld-descent |
-| [冥界守門人跨文化比較](冥界守門人跨文化比較.md) | 冥界守門人跨文化比較 |
 | [underworld-geography-comparison](underworld-geography-comparison.md) | underworld-geography-comparison |
 | [underworld-geography-detailed](underworld-geography-detailed.md) | underworld-geography-detailed |
 | [underworld-queens-comparison](underworld-queens-comparison.md) | underworld-queens-comparison |
@@ -70,7 +72,6 @@
 | [venus-kingship-astronomy-comparison](venus-kingship-astronomy-comparison.md) | venus-kingship-astronomy-comparison |
 | [writing-deities-cross-culture](writing-deities-cross-culture.md) | writing-deities-cross-culture |
 | [yoruba-norse-fate-weavers](yoruba-norse-fate-weavers.md) | yoruba-norse-fate-weavers |
-| [temple-personnel-gender-fluidity-comparison](temple-personnel-gender-fluidity-comparison.md) | temple-personnel-gender-fluidity-comparison |
-
+| [冥界守門人跨文化比較](冥界守門人跨文化比較.md) | 冥界守門人跨文化比較 |
 ---
 *Auto-generated on 2026-08-15 16:10 UTC*

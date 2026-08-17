@@ -5,6 +5,7 @@
 | [Alux精靈傳說](Alux精靈傳說.md) | Alux精靈傳說 |
 | [Chaac與玉米之神](Chaac與玉米之神.md) | Chaac與玉米之神 |
 | [bacabs-sky-bearers](bacabs-sky-bearers.md) | bacabs-sky-bearers |
+| [chac-xib-chac-dawn-rain](chac-xib-chac-dawn-rain.md) | chac-xib-chac-dawn-rain |
 | [chilam-balam-prophecies](chilam-balam-prophecies.md) | chilam-balam-prophecies |
 | [defeat-of-xibalba-lords](defeat-of-xibalba-lords.md) | defeat-of-xibalba-lords |
 | [ek-chuaj-cacao-origin-maya](ek-chuaj-cacao-origin-maya.md) | ek-chuaj-cacao-origin-maya |

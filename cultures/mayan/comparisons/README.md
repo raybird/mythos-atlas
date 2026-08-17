@@ -7,6 +7,7 @@
 | [calendar-cycles-comparison](calendar-cycles-comparison.md) | calendar-cycles-comparison |
 | [cave-cenote-symbolism](cave-cenote-symbolism.md) | cave-cenote-symbolism |
 | [creator-word-comparison](creator-word-comparison.md) | creator-word-comparison |
+| [decapitated-deities-cross-cultural](decapitated-deities-cross-cultural.md) | decapitated-deities-cross-cultural |
 | [divine-kingship-comparison](divine-kingship-comparison.md) | divine-kingship-comparison |
 | [divine-twins-world-comparison](divine-twins-world-comparison.md) | divine-twins-world-comparison |
 | [hachakyum-deus-otiosus-comparison](hachakyum-deus-otiosus-comparison.md) | hachakyum-deus-otiosus-comparison |

@@ -15,6 +15,7 @@
 | [God-L](God-L.md) | God-L |
 | [Hachakyum](Hachakyum.md) | Hachakyum |
 | [Hero-Twins](Hero-Twins.md) | Hero-Twins |
+| [Hun-Hunahpu](Hun-Hunahpu.md) | Hun-Hunahpu |
 | [Hun-Pic-Tok](Hun-Pic-Tok.md) | Hun-Pic-Tok |
 | [Hunab Ku](Hunab Ku.md) | Hunab Ku |
 | [Hunab-Ku](Hunab-Ku.md) | Hunab-Ku |
