@@ -2579,15 +2579,17 @@
     ]
    },
    "_stories": 6,
-   "gods": [
-    "Pukkeenegak"
-   ],
-   "comparisons": [
-    "動物配偶與動物祖先跨文化比較"
-   ]
-  },
-  {
-   "id": "armenian",
+    "gods": [
+     "Pukkeenegak",
+     "Silap Inua（Sila，氣息之主）"
+    ],
+    "comparisons": [
+     "動物配偶與動物祖先跨文化比較",
+     "極地海洋怪物跨文化比較：Qallupilluit、海蛇與冰下威脅"
+    ]
+   },
+   {
+    "id": "armenian",
    "name": "亞美尼亞神話",
    "name_en": "Armenian Mythology",
    "region": "南高加索—亞美尼亞高原",
