@@ -1,7 +1,3 @@
-# 已分析母題索引（471 篇）
-
-> 由 Fixer 於 2026-08 自動產生。此索引供排程任務快速查詢，避免重複分析。
-
 | # | 檔案 | 標題 |
 |----|------|------|
 | 1 | abandoned-hero-exposed-child.md | 被遺棄的英雄：跨文化神話中的棄嬰原型 |
@@ -447,31 +443,32 @@
 | 441 | unicorn-qilin-comparative.md | 獨角獸與麒麟：東西方單角神獸的跨文化比較神話學 |
 | 442 | vampiric-entities-comparative.md | 吸血神話：跨文化吸血鬼類精怪比較研究 |
 | 443 | veil-sacred-covering-comparative.md | 神聖之紗：跨文化神話中的遮蓋與啟示母題 |
-| 444 | venus-morning-evening-star-comparative.md | 晨昏之星——金星（Venus）跨文化神話比較分析 |
-| 445 | virgin-goddess-parthenos-comparative.md | 童貞女神：處女作為跨文化神聖類型的比較研究 |
-| 446 | volcano-fire-mountain-myths.md | 火山與火山的跨文化神話比較 |
-| 447 | vulture-myths-comparative.md | 禿鷲母題：聖潔與不潔之間的食腐之鳥 |
-| 448 | war-gods-comparative.md | 戰神神話：跨文化戰爭信仰的比較研究 |
-| 449 | warrior-women-amazons-comparative.md | 女戰士與亞馬遜：跨文化比較神話分析 |
-| 450 | water-hoarding-motif-comparative.md | 囤水之魔：吞水、堵水與竊水母題的跨文化神話學比較 |
-| 451 | water-of-life-myths-comparative.md | 生命之水：跨文化神聖水域不朽母題比較研究 |
-| 452 | whale-leviathan-great-fish-comparative.md | 深淵之民：鯨魚與巨魚神話的跨文化比較分析 |
-| 453 | wheel-mythology-comparative.md | 輪的神話學：車輪、轉輪與輪迴的跨文化象徵比較 |
-| 454 | whirlpool-vortex-myths.md | 漩渦與漩流：深淵之口的跨文化神話比較分析 |
-| 455 | white-sacred-animals-comparative.md | 白色聖獸：跨文化神話中的白獸母題與祥瑞邏輯 |
-| 456 | wild-hunt-spectral-procession.md | 狂獵與百鬼夜行：幽冥行軍神話的跨文化比較 |
-| 457 | wild-man-myths-comparative.md | 野人母題：山林之民與文明他者的跨文化比較分析 |
-| 458 | willow-mythology-comparative.md | 依依垂枝，仙凡之木：柳樹神話跨文化比較 |
-| 459 | wind-deities-comparative.md | 風神神話：跨文化大氣神靈的比較研究 |
-| 460 | wisdom-gods-comparative.md | 智慧之神的跨文化比較分析 |
-| 461 | woodpecker-myths-comparative.md | 雷鳴之鳥與樹木之言：啄木鳥神話跨文化比較 |
-| 462 | world-ages-cosmic-cycles-comparative.md | 金屬的記憶——世界時代神話的跨文化比較 |
-| 463 | world-mountain-axis-mundi-comparative.md | 世界山與宇宙軸心：跨文化 Axis Mundi 比較研究 |
-| 464 | world-parents-separation.md | 天地分離神話：世界父母型創世的跨文化比較 |
-| 465 | world-serpent-cosmic-encircler-comparative.md | 世界蛇：環繞世界的宇宙大蛇跨文化比較分析 |
-| 466 | world-tree-comparative.md | 世界樹與宇宙軸：跨文化神話中的宇宙樹母題比較分析 |
-| 467 | wounded-healer-comparative.md | 受傷的治療者：跨文化神話中的創傷與療癒原型 |
-| 468 | wounded-sovereign-fisher-king-comparative.md | 受傷的君主：王者之軀與大地命運的跨文化比較 |
-| 469 | youngest-child-hero-comparative.md | 末子之選：么子英雄與幼子繼承的跨文化神話比較 |
-| 470 | zodiac-astrology-myths-comparative.md | 天穹之獸：跨文化神話中的黃道與星宿體系 |
-| 471 | 聖林跨文化神聖樹林崇拜比較分析.md | 聖林：跨文化神聖樹林崇拜比較分析 |
+| 444 | vengeance-retribution-myths-comparative.md | 復仇與報應：跨文化復仇女神與復仇母題比較 |
+| 445 | venus-morning-evening-star-comparative.md | 晨昏之星——金星（Venus）跨文化神話比較分析 |
+| 446 | virgin-goddess-parthenos-comparative.md | 童貞女神：處女作為跨文化神聖類型的比較研究 |
+| 447 | volcano-fire-mountain-myths.md | 火山與火山的跨文化神話比較 |
+| 448 | vulture-myths-comparative.md | 禿鷲母題：聖潔與不潔之間的食腐之鳥 |
+| 449 | war-gods-comparative.md | 戰神神話：跨文化戰爭信仰的比較研究 |
+| 450 | warrior-women-amazons-comparative.md | 女戰士與亞馬遜：跨文化比較神話分析 |
+| 451 | water-hoarding-motif-comparative.md | 囤水之魔：吞水、堵水與竊水母題的跨文化神話學比較 |
+| 452 | water-of-life-myths-comparative.md | 生命之水：跨文化神聖水域不朽母題比較研究 |
+| 453 | whale-leviathan-great-fish-comparative.md | 深淵之民：鯨魚與巨魚神話的跨文化比較分析 |
+| 454 | wheel-mythology-comparative.md | 輪的神話學：車輪、轉輪與輪迴的跨文化象徵比較 |
+| 455 | whirlpool-vortex-myths.md | 漩渦與漩流：深淵之口的跨文化神話比較分析 |
+| 456 | white-sacred-animals-comparative.md | 白色聖獸：跨文化神話中的白獸母題與祥瑞邏輯 |
+| 457 | wild-hunt-spectral-procession.md | 狂獵與百鬼夜行：幽冥行軍神話的跨文化比較 |
+| 458 | wild-man-myths-comparative.md | 野人母題：山林之民與文明他者的跨文化比較分析 |
+| 459 | willow-mythology-comparative.md | 依依垂枝，仙凡之木：柳樹神話跨文化比較 |
+| 460 | wind-deities-comparative.md | 風神神話：跨文化大氣神靈的比較研究 |
+| 461 | wisdom-gods-comparative.md | 智慧之神的跨文化比較分析 |
+| 462 | woodpecker-myths-comparative.md | 雷鳴之鳥與樹木之言：啄木鳥神話跨文化比較 |
+| 463 | world-ages-cosmic-cycles-comparative.md | 金屬的記憶——世界時代神話的跨文化比較 |
+| 464 | world-mountain-axis-mundi-comparative.md | 世界山與宇宙軸心：跨文化 Axis Mundi 比較研究 |
+| 465 | world-parents-separation.md | 天地分離神話：世界父母型創世的跨文化比較 |
+| 466 | world-serpent-cosmic-encircler-comparative.md | 世界蛇：環繞世界的宇宙大蛇跨文化比較分析 |
+| 467 | world-tree-comparative.md | 世界樹與宇宙軸：跨文化神話中的宇宙樹母題比較分析 |
+| 468 | wounded-healer-comparative.md | 受傷的治療者：跨文化神話中的創傷與療癒原型 |
+| 469 | wounded-sovereign-fisher-king-comparative.md | 受傷的君主：王者之軀與大地命運的跨文化比較 |
+| 470 | youngest-child-hero-comparative.md | 末子之選：么子英雄與幼子繼承的跨文化神話比較 |
+| 471 | zodiac-astrology-myths-comparative.md | 天穹之獸：跨文化神話中的黃道與星宿體系 |
+| 472 | 聖林跨文化神聖樹林崇拜比較分析.md | 聖林：跨文化神聖樹林崇拜比較分析 |
