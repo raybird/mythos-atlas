@@ -1271,16 +1271,17 @@
    "creation": "混沌中生出Rod(創世神)，Rod生世界、眾神與人類。宇宙由世界樹支撐，樹根通地下世界，樹冠達天國。Belobog(白神)與Chernobog(黑神)共同維持平衡。",
    "flood": "斯拉夫傳說中洪水與龍(Zmei)相關——Perun與Veles的永恆鬥爭引發風暴、降雨與洪水。部分民間傳說保留「上帝以洪水懲罰人類」的後基督教版本。",
    "pantheon": "Perun(雷電)、Veles(冥界/牛)、Svarog(天火)、Dazhbog(太陽)、Stribog(風)、Mokosh(土地)",
-   "stories": [
-    "Perun戰Veles",
-    "Baba Yaga的魔法小屋",
-    "不死者Koschei",
-    "Alkonost與Sirin神鳥",
-    "Kupala Night夏至祭典",
-    "伊凡王子與灰狼",
-    "庫帕拉與科斯特羅馬：溺亡雙生的禁忌之愛",
-    "磨坊主與水靈的契約"
-   ],
+    "stories": [
+     "Perun戰Veles",
+     "Baba Yaga的魔法小屋",
+     "不死者Koschei",
+     "Alkonost與Sirin神鳥",
+     "Kupala Night夏至祭典",
+     "伊凡王子與灰狼",
+     "庫帕拉與科斯特羅馬：溺亡雙生的禁忌之愛",
+     "磨坊主與水靈的契約",
+     "基捷日湖畔的隱形城市"
+    ],
    "order": 15,
    "timeline": {
     "precision": "century",
@@ -1304,20 +1305,22 @@
      "baltic"
     ]
    },
-   "_stories": 8,
-   "gods": [
-    "Radegast",
-    "庫帕拉",
-    "沃佳諾伊"
-   ],
-   "comparisons": [
-    "斯拉夫騙徒神祇比較",
-    "孿生兄妹神婚跨文化比較",
-    "水靈主宰跨文化比較"
-   ]
-  },
-  {
-   "id": "persian",
+    "_stories": 9,
+    "gods": [
+     "Radegast",
+     "庫帕拉",
+     "沃佳諾伊",
+     "Alkonost與Sirin"
+    ],
+    "comparisons": [
+     "斯拉夫騙徒神祇比較",
+     "孿生兄妹神婚跨文化比較",
+     "水靈主宰跨文化比較",
+     "斯拉夫水靈與林靈跨文化比較"
+    ]
+   },
+   {
+    "id": "persian",
    "name": "波斯神話",
    "name_en": "Persian (Zoroastrian) Mythology",
    "region": "伊朗高原",
