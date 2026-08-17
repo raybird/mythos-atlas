@@ -139,7 +139,8 @@
   "norse",
   "vietnamese",
   "roman",
-  "japanese"
+  "japanese",
+  "mayan"
  ],
  "analysis_log": [
   "sacrificial-creation",
@@ -206,5 +207,5 @@
   "creation-from-clay-comparative",
   "taboo-speech-and-silence-mandates-comparative"
  ],
- "runs": 175
+ "runs": 176
 }

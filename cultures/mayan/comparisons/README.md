@@ -60,6 +60,7 @@
 | [英雄雙子比較](英雄雙子比較.md) | 英雄雙子比較 |
 | [雨神比較](雨神比較.md) | 雨神比較 |
 | [馬雅與美索不達米亞洪水神話跨文化比較](馬雅與美索不達米亞洪水神話跨文化比較.md) | 馬雅與美索不達米亞洪水神話跨文化比較 |
+| [moon-goddesses-cross-cultural](moon-goddesses-cross-cultural.md) | moon-goddesses-cross-cultural |
 
 ---
 *Auto-generated on 2026-08-15 16:10 UTC*

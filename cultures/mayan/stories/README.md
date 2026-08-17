@@ -62,6 +62,7 @@
 | [烏斯馬爾的矮人傳說](烏斯馬爾的矮人傳說.md) | 烏斯馬爾的矮人傳說 |
 | [英雄雙子化日月](英雄雙子化日月.md) | 英雄雙子化日月 |
 | [西帕克納與卡布拉坎](西帕克納與卡布拉坎.md) | 西帕克納與卡布拉坎 |
+| [yum-kaax-hunter-covenant](yum-kaax-hunter-covenant.md) | yum-kaax-hunter-covenant |
 
 ---
 *Auto-generated on 2026-08-15 16:10 UTC*
