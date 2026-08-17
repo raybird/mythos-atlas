@@ -21,6 +21,7 @@
 | [諸神黃昏預言與應驗](諸神黃昏預言與應驗.md) | 諸神黃昏預言與應驗 |
 | [赫爾莫德赴冥界](赫爾莫德赴冥界.md) | 赫爾莫德赴冥界 |
 | [阿斯克與恩布拉](阿斯克與恩布拉.md) | 阿斯克與恩布拉 |
+| [ran-net-drowned](ran-net-drowned.md) | ran-net-drowned |
 
 ---
 *Auto-generated on 2026-08-15 16:10 UTC*

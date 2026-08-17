@@ -18,6 +18,7 @@
 | [犧牲換取智慧跨文化比較](犧牲換取智慧跨文化比較.md) | 犧牲換取智慧跨文化比較 |
 | [英靈殿Valhalla](英靈殿Valhalla.md) | 英靈殿Valhalla |
 | [諸神黃昏與全球末日神話比較](諸神黃昏與全球末日神話比較.md) | 諸神黃昏與全球末日神話比較 |
+| [ocean-death-goddesses-comparative](ocean-death-goddesses-comparative.md) | ocean-death-goddesses-comparative |
 
 ---
 *Auto-generated on 2026-08-15 16:10 UTC*
