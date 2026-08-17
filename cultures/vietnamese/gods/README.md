@@ -13,6 +13,7 @@
 | [kim-quy](kim-quy.md) | kim-quy |
 | [lac-long-quan-au-co](lac-long-quan-au-co.md) | lac-long-quan-au-co |
 | [lieu-hanh](lieu-hanh.md) | lieu-hanh |
+| [long-vuong](long-vuong.md) | long-vuong |
 | [mau-thuong-thien](mau-thuong-thien.md) | mau-thuong-thien |
 | [mẫu-thoải](mẫu-thoải.md) | mẫu-thoải |
 | [ngoc-hoang](ngoc-hoang.md) | ngoc-hoang |

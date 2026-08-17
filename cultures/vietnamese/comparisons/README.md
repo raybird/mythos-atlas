@@ -4,6 +4,7 @@
 |------|------|
 | [afterlife-underworld-cross-cultural](afterlife-underworld-cross-cultural.md) | afterlife-underworld-cross-cultural |
 | [ancestor-worship](ancestor-worship.md) | ancestor-worship |
+| [celestial-maiden-marriage](celestial-maiden-marriage.md) | celestial-maiden-marriage |
 | [axis-mundi](axis-mundi.md) | axis-mundi |
 | [childbirth-deities-comparative](childbirth-deities-comparative.md) | childbirth-deities-comparative |
 | [cinderella-type-cross-cultural](cinderella-type-cross-cultural.md) | cinderella-type-cross-cultural |

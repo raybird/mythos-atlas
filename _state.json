@@ -135,7 +135,9 @@
   "mapuche",
   "sumerian",
   "mayan",
-  "greek"
+  "greek",
+  "norse",
+  "vietnamese"
  ],
  "analysis_log": [
   "sacrificial-creation",
@@ -200,5 +202,5 @@
   "looking-back-taboo-comparative",
   "thunderstone-ceraunia-cross-cultural-comparative"
  ],
- "runs": 169
+ "runs": 171
 }
