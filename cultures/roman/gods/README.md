@@ -26,6 +26,7 @@
 | [Venus](Venus.md) | Venus |
 | [Vesta](Vesta.md) | Vesta |
 | [武爾坎努斯](武爾坎努斯.md) | 武爾坎努斯 |
+| [Carmenta](Carmenta.md) | Carmenta |
 
 ---
 *Auto-generated on 2026-08-15 16:10 UTC*

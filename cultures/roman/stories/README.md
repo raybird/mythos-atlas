@@ -19,6 +19,8 @@
 | [ovid-four-ages](ovid-four-ages.md) | ovid-four-ages |
 | [凱撒跨越盧比孔河](凱撒跨越盧比孔河.md) | 凱撒跨越盧比孔河 |
 | [西比拉之書](西比拉之書.md) | 西比拉之書 |
+| [augustus-peace-altar](augustus-peace-altar.md) | augustus-peace-altar |
+| [hannibal-threat](hannibal-threat.md) | hannibal-threat |
 
 ---
 *Auto-generated on 2026-08-15 16:10 UTC*

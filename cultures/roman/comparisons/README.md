@@ -19,6 +19,7 @@
 | [vestal-virgins-cross-cultural](vestal-virgins-cross-cultural.md) | vestal-virgins-cross-cultural |
 | [太陽神與王權跨文化比較](太陽神與王權跨文化比較.md) | 太陽神與王權跨文化比較 |
 | [火與鍛造之神跨文化比較](火與鍛造之神跨文化比較.md) | 火與鍛造之神跨文化比較 |
+| [roman-vs-greek-flood-comparative](roman-vs-greek-flood-comparative.md) | roman-vs-greek-flood-comparative |
 
 ---
 *Auto-generated on 2026-08-15 16:10 UTC*
