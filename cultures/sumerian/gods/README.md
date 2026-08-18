@@ -1,6 +1,7 @@
 # 蘇美神話 — 神祇
 
 | 檔案 | 名稱 |
+| [Nabu](Nabu.md) | Nabu |
 |------|------|
 | [Anu](Anu.md) | Anu |
 | [Anunnaki](Anunnaki.md) | Anunnaki |

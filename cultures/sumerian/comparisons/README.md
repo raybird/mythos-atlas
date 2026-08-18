@@ -1,6 +1,7 @@
 # 蘇美神話 — 跨文化比較
 
 | 檔案 | 名稱 |
+| [命運銘刻之神跨文化比較](命運銘刻之神跨文化比較.md) | 命運銘刻之神跨文化比較 |
 |------|------|
 
 | [agriculture-cattle-deities](agriculture-cattle-deities.md) | agriculture-cattle-deities |

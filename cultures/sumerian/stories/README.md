@@ -1,6 +1,7 @@
 # 蘇美神話 — 故事
 
 | 檔案 | 名稱 |
+| [新年節的命運銘刻：Nabu與akitu](新年節的命運銘刻Nabu與akitu.md) | 新年節的命運銘刻：Nabu與akitu |
 |------|------|
 | [adapa-legend](adapa-legend.md) | adapa-legend |
 | [atrahasis-epic](atrahasis-epic.md) | atrahasis-epic |
