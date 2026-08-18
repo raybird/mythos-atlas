@@ -1,6 +1,7 @@
 # 前伊斯蘭阿拉伯神話 — 跨文化比較
 
 | 檔案 | 名稱 |
+| [詩人靈感神靈跨文化比較](詩人靈感神靈跨文化比較.md) | 詩人靈感神靈跨文化比較 |
 |------|------|
 | [imru-al-qais-orpheus-poet-hero](imru-al-qais-orpheus-poet-hero.md) | imru-al-qais-orpheus-poet-hero |
 | [petrification-punishment-comparative](petrification-punishment-comparative.md) | petrification-punishment-comparative |

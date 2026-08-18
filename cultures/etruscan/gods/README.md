@@ -1,6 +1,7 @@
 # 伊特魯里亞神話 — 神祇
 
 | 檔案 | 名稱 |
+| [Tivr](Tivr.md) | Tivr |
 |------|------|
 | [Aita](Aita.md) | Aita |
 | [Ani](Ani.md) | Ani |

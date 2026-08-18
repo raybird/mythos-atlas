@@ -1,6 +1,7 @@
 # 伊特魯里亞神話 — 跨文化比較
 
 | 檔案 | 名稱 |
+| [Tivr月神跨文化比較](Tivr月神跨文化比較.md) | Tivr月神跨文化比較 |
 |------|------|
 | [Apulu-預言之神跨文化比較](Apulu-預言之神跨文化比較.md) | Apulu-預言之神跨文化比較 |
 | [Culsans-與-Selvans-門檻與邊界之神跨文化比較](Culsans-與-Selvans-門檻與邊界之神跨文化比較.md) | Culsans-與-Selvans-門檻與邊界之神跨文化比較 |

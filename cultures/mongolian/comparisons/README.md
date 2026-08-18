@@ -1,6 +1,7 @@
 # 蒙古神話 — 跨文化比較
 
 | 檔案 | 名稱 |
+| [火母神跨文化比較](火母神跨文化比較.md) | 火母神跨文化比較 |
 |------|------|
 | [Tengri與天神比較](Tengri與天神比較.md) | Tengri與天神比較 |
 | [earth-goddess-comparative](earth-goddess-comparative.md) | earth-goddess-comparative |
