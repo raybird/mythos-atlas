@@ -1,6 +1,7 @@
 # 毛利神話 — 神祇
 
 | 檔案 | 名稱 |
+| [Irawaru](Irawaru.md) | Irawaru |
 |------|------|
 | [Haumia-tiketike](Haumia-tiketike.md) | Haumia-tiketike |
 | [Hine-ahu-one](Hine-ahu-one.md) | Hine-ahu-one |

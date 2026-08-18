@@ -1,4 +1,4 @@
-# 已分析母題索引（480 篇）
+# 已分析母題索引（481 篇）
 
 
 
@@ -489,3 +489,4 @@
 | 478 | youngest-child-hero-comparative.md | 末子之選：么子英雄與幼子繼承的跨文化神話比較 |
 | 479 | zodiac-astrology-myths-comparative.md | 天穹之獸：跨文化神話中的黃道與星宿體系 |
 | 480 | 聖林跨文化神聖樹林崇拜比較分析.md | 聖林：跨文化神聖樹林崇拜比較分析 |
+| 481 | deaths-mistake-premature-mortality-comparative.md | 死亡的誤判：跨文化神話中死亡因錯誤而降臨的比較研究 |

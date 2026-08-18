@@ -1,6 +1,7 @@
 # 巴斯克神話 — 跨文化比較
 
 | 檔案 | 名稱 |
+| [lamiak-water-spirits-comparison](lamiak-water-spirits-comparison.md) | lamiak-water-spirits-comparison |
 |------|------|
 | [basque-dualism-comparative](basque-dualism-comparative.md) | basque-dualism-comparative |
 | [basque-matriarchy-goddess-worship](basque-matriarchy-goddess-worship.md) | basque-matriarchy-goddess-worship |

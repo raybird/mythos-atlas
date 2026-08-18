@@ -1,6 +1,7 @@
 # 毛利神話 — 故事
 
 | 檔案 | 名稱 |
+| [Māui與Irawaru：狗的起源](Māui與Irawaru狗的起源.md) | Māui與Irawaru：狗的起源 |
 |------|------|
 | [Hatupatu與鳥女](Hatupatu與鳥女.md) | Hatupatu與鳥女 |
 | [Hine-ahu-one的創造](Hine-ahu-one的創造.md) | Hine-ahu-one的創造 |
