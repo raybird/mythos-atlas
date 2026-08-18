@@ -1,6 +1,7 @@
 # 美洲原住民神話 — 跨文化比較
 
 | 檔案 | 名稱 |
+| [食人惡靈跨文化比較](食人惡靈跨文化比較.md) | 食人惡靈跨文化比較 |
 |------|------|
 | [clay-creation-cross-cultural](clay-creation-cross-cultural.md) | clay-creation-cross-cultural |
 | [horned-serpent-cross-cultural](horned-serpent-cross-cultural.md) | horned-serpent-cross-cultural |

@@ -1,6 +1,7 @@
 # 美洲原住民神話 — 神祇
 
 | 檔案 | 名稱 |
+| [Wendigo](Wendigo.md) | Wendigo |
 |------|------|
 | [Changing-Woman](Changing-Woman.md) | Changing-Woman |
 | [Coyote](Coyote.md) | Coyote |

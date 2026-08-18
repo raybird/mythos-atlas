@@ -1,4 +1,4 @@
-# 已分析母題索引（481 篇）
+# 已分析母題索引（483 篇）
 
 
 
@@ -490,3 +490,5 @@
 | 479 | zodiac-astrology-myths-comparative.md | 天穹之獸：跨文化神話中的黃道與星宿體系 |
 | 480 | 聖林跨文化神聖樹林崇拜比較分析.md | 聖林：跨文化神聖樹林崇拜比較分析 |
 | 481 | deaths-mistake-premature-mortality-comparative.md | 死亡的誤判：跨文化神話中死亡因錯誤而降臨的比較研究 |
+| 482 | sacred-animal-companions-myths-comparative.md | 動物靈伴：跨文化比較分析 |
+| 483 | third-son-middle-child-hero-comparative.md | 第三子／中間孩子英雄：跨文化比較分析 |

@@ -1,6 +1,7 @@
 # 埃及神話 — 跨文化比較
 
 | 檔案 | 名稱 |
+| [以毒療癒：蠍蛇醫療神靈跨文化比較](venom-healers-global.md) | 以毒療癒：蠍蛇醫療神靈跨文化比較 |
 |------|------|
 | [egyptian-soul-ba-ka-akh-cross-cultural](egyptian-soul-ba-ka-akh-cross-cultural.md) | egyptian-soul-ba-ka-akh-cross-cultural |
 | [創世原水跨文化比較](創世原水跨文化比較.md) | 創世原水跨文化比較 |
