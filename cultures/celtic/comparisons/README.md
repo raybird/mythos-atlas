@@ -1,6 +1,7 @@
 # 凱爾特神話 — 跨文化比較
 
 | 檔案 | 名稱 |
+| [人祭偶像神跨文化比較](人祭偶像神跨文化比較.md) | 人祭偶像神跨文化比較 |
 |------|------|
 | [Otherworld仙域](Otherworld仙域.md) | Otherworld仙域 |
 | [celtic-pantheon-comparative](celtic-pantheon-comparative.md) | celtic-pantheon-comparative |

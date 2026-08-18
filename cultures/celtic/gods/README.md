@@ -1,6 +1,7 @@
 # 凱爾特神話 — 神祇
 
 | 檔案 | 名稱 |
+| [Crom-Cruach](Crom-Cruach.md) | Crom-Cruach |
 |------|------|
 | [Aengus-Óg](Aengus-Óg.md) | Aengus-Óg |
 | [Aine](Aine.md) | Aine |

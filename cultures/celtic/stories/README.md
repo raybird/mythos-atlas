@@ -1,6 +1,7 @@
 # 凱爾特神話 — 故事
 
 | 檔案 | 名稱 |
+| [聖派翠克與克羅姆克魯阿赫](聖派翠克與克羅姆克魯阿赫.md) | 聖派翠克與克羅姆克魯阿赫 |
 |------|------|
 | [Cú-Chulainn少年傳奇](Cú-Chulainn少年傳奇.md) | Cú-Chulainn少年傳奇 |
 | [Oisín與Tír-na-nÓg](Oisín與Tír-na-nÓg.md) | Oisín與Tír-na-nÓg |
