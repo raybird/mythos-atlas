@@ -1,4 +1,4 @@
-# 已分析母題索引（487 篇）
+# 已分析母題索引（488 篇）
 
 
 
@@ -496,3 +496,4 @@
 | 485 | primordial-sound-comparative.md | 原初之聲：跨文化宇宙震動母題比較分析 |
 | 486 | glass-liuli-transparency-sacred-comparative.md | 玻璃與琉璃：跨文化神話中的透明、純淨與永恆保存 |
 | 487 | star-ancestor-myths-comparative.md | 星辰後裔：人類源出於星的跨文化神話比較 |
+| 488 | tower-cosmic-axis-imprisonment-suppression-comparative.md | 塔的宇宙論：通天、囚禁與鎮壓的跨文化神話比較 |
