@@ -1,4 +1,4 @@
-# 已分析母題索引（483 篇）
+# 已分析母題索引（486 篇）
 
 
 
@@ -492,3 +492,6 @@
 | 481 | deaths-mistake-premature-mortality-comparative.md | 死亡的誤判：跨文化神話中死亡因錯誤而降臨的比較研究 |
 | 482 | sacred-animal-companions-myths-comparative.md | 動物靈伴：跨文化比較分析 |
 | 483 | third-son-middle-child-hero-comparative.md | 第三子／中間孩子英雄：跨文化比較分析 |
+| 484 | sacred-sweat-steam-bath-myths-comparative.md | 神聖汗水與蒸汽浴場：跨文化神話比較 |
+| 485 | primordial-sound-comparative.md | 原初之聲：跨文化宇宙震動母題比較分析 |
+| 486 | glass-liuli-transparency-sacred-comparative.md | 玻璃與琉璃：跨文化神話中的透明、純淨與永恆保存 |
