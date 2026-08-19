@@ -1,6 +1,7 @@
 # 西藏神話 — 跨文化比較
 
 | 檔案 | 名稱 |
+| [繞行儀式跨文化比較](ritual-circumambulation-global.md) | 繞行儀式跨文化比較 |
 |------|------|
 | [buddhist-subjugation-global](buddhist-subjugation-global.md) | buddhist-subjugation-global |
 | [creation-myths-comparison](creation-myths-comparison.md) | creation-myths-comparison |

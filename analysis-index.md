@@ -1,4 +1,4 @@
-# 已分析母題索引（486 篇）
+# 已分析母題索引（487 篇）
 
 
 
@@ -495,3 +495,4 @@
 | 484 | sacred-sweat-steam-bath-myths-comparative.md | 神聖汗水與蒸汽浴場：跨文化神話比較 |
 | 485 | primordial-sound-comparative.md | 原初之聲：跨文化宇宙震動母題比較分析 |
 | 486 | glass-liuli-transparency-sacred-comparative.md | 玻璃與琉璃：跨文化神話中的透明、純淨與永恆保存 |
+| 487 | star-ancestor-myths-comparative.md | 星辰後裔：人類源出於星的跨文化神話比較 |
