@@ -1,4 +1,4 @@
-# 已分析母題索引（488 篇）
+# 已分析母題索引（491 篇）
 
 
 
@@ -497,3 +497,6 @@
 | 486 | glass-liuli-transparency-sacred-comparative.md | 玻璃與琉璃：跨文化神話中的透明、純淨與永恆保存 |
 | 487 | star-ancestor-myths-comparative.md | 星辰後裔：人類源出於星的跨文化神話比較 |
 | 488 | tower-cosmic-axis-imprisonment-suppression-comparative.md | 塔的宇宙論：通天、囚禁與鎮壓的跨文化神話比較 |
+| 489 | sacred-footwear-cross-cultural.md | 神聖鞋履：跨文化神話中的飛行涼鞋與魔法靴子 |
+| 490 | sacred-sand-cross-cultural.md | 神聖沙粒：跨文化神話中的沙之儀式與宇宙象徵 |
+| 491 | sacred-girdle-belt-myths-comparative.md | 神聖腰帶：跨文化神話中的力量、誘惑與王權之帶 |
