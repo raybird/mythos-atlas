@@ -13,6 +13,7 @@
 | [Iele](Iele.md) | Iele |
 | [Kandaon](Kandaon.md) | Kandaon |
 | [Kotys](Kotys.md) | Kotys |
+| [Liber_Pater](Liber_Pater.md) | Liber_Pater |
 | [Manole](Manole.md) | Manole |
 | [Muma_Pădurii](Muma_Pădurii.md) | Muma_Pădurii |
 | [Pleistoros](Pleistoros.md) | Pleistoros |
