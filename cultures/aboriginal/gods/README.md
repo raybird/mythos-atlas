@@ -21,6 +21,7 @@
 | [Mamaragan](Mamaragan.md) | Mamaragan |
 | [Mimih-Spirits](Mimih-Spirits.md) | Mimih-Spirits |
 | [Mungan-ngour](Mungan-ngour.md) | Mungan-ngour |
+| [Nargun](Nargun.md) | 納貢 — 石皮女靈與暗夜綁架者 |
 | [Rainbow-Serpent](Rainbow-Serpent.md) | Rainbow-Serpent |
 | [Wandjina](Wandjina.md) | Wandjina |
 | [Yhi-Sun-Goddess](Yhi-Sun-Goddess.md) | Yhi-Sun-Goddess |

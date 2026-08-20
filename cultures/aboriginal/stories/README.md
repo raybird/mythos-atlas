@@ -4,6 +4,7 @@
 |------|------|
 | [Seven-Sisters](Seven-Sisters.md) | Seven-Sisters |
 | [Tiddalik-Frog](Tiddalik-Frog.md) | Tiddalik-Frog |
+| [Waung-the-Crow](Waung-the-Crow.md) | Waung 烏鴉 — 黑暗的盜取與永夜的降臨 |
 | [banumbirr-morning-star](banumbirr-morning-star.md) | banumbirr-morning-star |
 | [dinewan-bralgah-emu-crane](dinewan-bralgah-emu-crane.md) | dinewan-bralgah-emu-crane |
 | [emu-in-the-sky](emu-in-the-sky.md) | emu-in-the-sky |
