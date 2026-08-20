@@ -19,6 +19,7 @@
 | [Raven](Raven.md) | Raven |
 | [Shaman-Noaidi](Shaman-Noaidi.md) | Shaman-Noaidi |
 | [Tulujn](Tulujn.md) | Tulujn |
+| [Ulu-Toyon](Ulu-Toyon.md) | Ulu-Toyon |
 | [Umai](Umai.md) | Umai |
 | [Yryn-Ajy](Yryn-Ajy.md) | Yryn-Ajy |
 | [Ülgen](Ülgen.md) | Ülgen |

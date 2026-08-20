@@ -20,6 +20,7 @@
 | [tane-forest-god-comparative](tane-forest-god-comparative.md) | tane-forest-god-comparative |
 | [world-parent-separation-global](world-parent-separation-global.md) | world-parent-separation-global |
 | [波利尼西亞風神跨文化比較](波利尼西亞風神跨文化比較.md) | 波利尼西亞風神跨文化比較 |
+| [snow-and-ice-deities-global](snow-and-ice-deities-global.md) | snow-and-ice-deities-global |
 
 ---
 *Auto-generated on 2026-08-15 16:10 UTC*

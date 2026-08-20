@@ -12,6 +12,7 @@
 | [multiple-suns-siberian](multiple-suns-siberian.md) | multiple-suns-siberian |
 | [origin-of-shaman-drum](origin-of-shaman-drum.md) | origin-of-shaman-drum |
 | [sun-daughter-shaman](sun-daughter-shaman.md) | sun-daughter-shaman |
+| [Kyys-Debiliye](Kyys-Debiliye.md) | Kyys-Debiliye |
 | [the-first-shaman-tadibey](the-first-shaman-tadibey.md) | the-first-shaman-tadibey |
 | [伊瑟赫節的起源](伊瑟赫節的起源.md) | 伊瑟赫節的起源 |
 | [北極光為死者之舞](北極光為死者之舞.md) | 北極光為死者之舞 |
