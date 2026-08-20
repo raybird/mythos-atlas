@@ -33,6 +33,7 @@
 | [me-divine-law-cross-cultural](me-divine-law-cross-cultural.md) | me-divine-law-cross-cultural |
 | [nammu-primordial-goddess-comparison](nammu-primordial-goddess-comparison.md) | nammu-primordial-goddess-comparison |
 | [nanna-moon-gods-comparative](nanna-moon-gods-comparative.md) | nanna-moon-gods-comparative |
+| [plague-gods-cross-culture](plague-gods-cross-culture.md) | plague-gods-cross-culture |
 | [sacred-dogs-healing-underworld](sacred-dogs-healing-underworld.md) | sacred-dogs-healing-underworld |
 | [sacred-drink-deities](sacred-drink-deities.md) | sacred-drink-deities |
 | [sacred-intoxication-comparison](sacred-intoxication-comparison.md) | sacred-intoxication-comparison |

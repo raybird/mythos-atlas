@@ -5,6 +5,7 @@
 | [Ahti](Ahti.md) | Ahti |
 | [Akka](Akka.md) | Akka |
 | [Hiisi](Hiisi.md) | Hiisi |
+| [Iku-Turso](Iku-Turso.md) | Iku-Turso |
 | [Ilmatar](Ilmatar.md) | Ilmatar |
 | [Joukahainen](Joukahainen.md) | Joukahainen |
 | [Kuu](Kuu.md) | Kuu |

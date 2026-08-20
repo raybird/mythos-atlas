@@ -51,6 +51,7 @@
 | [primal-sacrifice-comparison](primal-sacrifice-comparison.md) | primal-sacrifice-comparison |
 | [sacred-fire-comparative](sacred-fire-comparative.md) | sacred-fire-comparative |
 | [saoshyant-messiah-comparison](saoshyant-messiah-comparison.md) | saoshyant-messiah-comparison |
+| [sacred-kingship-divine-mandate](sacred-kingship-divine-mandate.md) | sacred-kingship-divine-mandate |
 | [simurgh-cross-cultural](simurgh-cross-cultural.md) | simurgh-cross-cultural |
 | [xvarenah-divine-glory-comparative](xvarenah-divine-glory-comparative.md) | xvarenah-divine-glory-comparative |
 | [xvarenah-divine-glory](xvarenah-divine-glory.md) | xvarenah-divine-glory |
