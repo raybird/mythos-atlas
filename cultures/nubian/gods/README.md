@@ -11,6 +11,7 @@
 | [Hapy](Hapy.md) | Hapy |
 | [Horus-of-Buhen](Horus-of-Buhen.md) | Horus-of-Buhen |
 | [Horus-of-Kawa](Horus-of-Kawa.md) | Horus-of-Kawa |
+| [Khnum](Khnum.md) | Khnum |
 | [Isis-of-Philae](Isis-of-Philae.md) | Isis-of-Philae |
 | [Khonsu](Khonsu.md) | Khonsu |
 | [Makedeke](Makedeke.md) | Makedeke |

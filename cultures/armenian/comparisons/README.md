@@ -11,6 +11,7 @@
 | [armenian-underworld-comparative](armenian-underworld-comparative.md) | armenian-underworld-comparative |
 | [armenian-urartian-continuity](armenian-urartian-continuity.md) | armenian-urartian-continuity |
 | [fate-recorders-comparative](fate-recorders-comparative.md) | fate-recorders-comparative |
+| [founding-myths-hero-comparative](founding-myths-hero-comparative.md) | founding-myths-hero-comparative |
 | [indo-european-solar-deities](indo-european-solar-deities.md) | indo-european-solar-deities |
 | [mother-goddesses-comparison](mother-goddesses-comparison.md) | mother-goddesses-comparison |
 | [national-epics-comparison](national-epics-comparison.md) | national-epics-comparison |

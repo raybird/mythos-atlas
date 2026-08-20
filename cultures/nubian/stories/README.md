@@ -14,6 +14,7 @@
 | [candace-queen-meroe](candace-queen-meroe.md) | candace-queen-meroe |
 | [irike-amanote-election](irike-amanote-election.md) | irike-amanote-election |
 | [jebel-barkal-origin](jebel-barkal-origin.md) | jebel-barkal-origin |
+| [khnum-potter-wheel-creation](khnum-potter-wheel-creation.md) | khnum-potter-wheel-creation |
 | [kashta-gods-wife-thebes](kashta-gods-wife-thebes.md) | kashta-gods-wife-thebes |
 | [kerma-rise-fall](kerma-rise-fall.md) | kerma-rise-fall |
 | [meroe-pyramids](meroe-pyramids.md) | meroe-pyramids |

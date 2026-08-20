@@ -3,6 +3,7 @@
 | 檔案 | 名稱 |
 |------|------|
 | [divine-consort-alliance-comparative](divine-consort-alliance-comparative.md) | divine-consort-alliance-comparative |
+| [divine-potter-creator-gods-comparative](divine-potter-creator-gods-comparative.md) | divine-potter-creator-gods-comparative |
 | [frontier-fortress-gods-global](frontier-fortress-gods-global.md) | frontier-fortress-gods-global |
 | [god-wives-temple-women-comparative](god-wives-temple-women-comparative.md) | god-wives-temple-women-comparative |
 | [lion-gods-global](lion-gods-global.md) | lion-gods-global |
