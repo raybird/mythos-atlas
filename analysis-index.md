@@ -1,4 +1,4 @@
-# 已分析母題索引（494 篇）
+# 已分析母題索引（497 篇）
 
 
 
@@ -503,3 +503,6 @@
 | 492 | cosmic-lactation.md | 宇宙哺乳：跨文化神話中的原初乳海與天乳母題 |
 | 493 | divine-architect-cosmic-builder-comparative.md | 宇宙建築師：跨文化神話中的神聖工匠與世界建造者 |
 | 494 | theophany-divine-manifestation-comparative.md | 神顯：跨文化神話中的神靈降臨形態與顯現母題 |
+| 495 | cosmic-rift-myths-comparative.md | 宇宙裂隙：跨文化神話中的世界裂縫與創世撕裂 |
+| 496 | sacred-crystal-myths-comparative.md | 神聖結晶：跨文化神話中的水晶、寶石與鏡面門戶 |
+| 497 | sacred-games-athletic-contests-comparative.md | 神聖競技：跨文化神話中的競賽、球戲與宇宙對抗 |
