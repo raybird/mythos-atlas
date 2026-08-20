@@ -1,4 +1,4 @@
-# 已分析母題索引（497 篇）
+# 已分析母題索引（498 篇）
 
 
 
@@ -506,3 +506,4 @@
 | 495 | cosmic-rift-myths-comparative.md | 宇宙裂隙：跨文化神話中的世界裂縫與創世撕裂 |
 | 496 | sacred-crystal-myths-comparative.md | 神聖結晶：跨文化神話中的水晶、寶石與鏡面門戶 |
 | 497 | sacred-games-athletic-contests-comparative.md | 神聖競技：跨文化神話中的競賽、球戲與宇宙對抗 |
+| 498 | sacred-scripture-revelation-comparative.md | 天啟聖典：跨文化神話中的聖書降臨與神聖話語 |
