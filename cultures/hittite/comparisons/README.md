@@ -6,6 +6,7 @@
 | [bilingual-literary-transmission](bilingual-literary-transmission.md) | bilingual-literary-transmission |
 | [chaoskampf-comparative](chaoskampf-comparative.md) | chaoskampf-comparative |
 | [divine-kingship-cycle](divine-kingship-cycle.md) | divine-kingship-cycle |
+| [divine-messenger-vizier-comparative](divine-messenger-vizier-comparative.md) | divine-messenger-vizier-comparative |
 | [divine-succession-near-east](divine-succession-near-east.md) | divine-succession-near-east |
 | [gender-and-divinity](gender-and-divinity.md) | gender-and-divinity |
 | [hepat-and-queen-goddesses](hepat-and-queen-goddesses.md) | hepat-and-queen-goddesses |

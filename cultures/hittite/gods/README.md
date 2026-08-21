@@ -20,6 +20,7 @@
 | [Lelwani](Lelwani.md) | Lelwani |
 | [Pirwa](Pirwa.md) | Pirwa |
 | [Sarruma](Sarruma.md) | Sarruma |
+| [Santa](Santa.md) | Santa |
 | [Seri-Hurri](Seri-Hurri.md) | Seri-Hurri |
 | [Shaushka](Shaushka.md) | Shaushka |
 | [Tarhunna](Tarhunna.md) | Tarhunna |

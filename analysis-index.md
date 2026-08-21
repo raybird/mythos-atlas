@@ -507,3 +507,4 @@
 | 496 | sacred-crystal-myths-comparative.md | 神聖結晶：跨文化神話中的水晶、寶石與鏡面門戶 |
 | 497 | sacred-games-athletic-contests-comparative.md | 神聖競技：跨文化神話中的競賽、球戲與宇宙對抗 |
 | 498 | sacred-scripture-revelation-comparative.md | 天啟聖典：跨文化神話中的聖書降臨與神聖話語 |
+| 499 | food-taboos-dietary-prohibitions-comparative.md | 飲食禁忌的宇宙觀：跨文化神話中的食物禁令比較 |

@@ -13,6 +13,7 @@
 | [mursili-plague-prayers](mursili-plague-prayers.md) | mursili-plague-prayers |
 | [nerik-storm-god-disappearance](nerik-storm-god-disappearance.md) | nerik-storm-god-disappearance |
 | [ship-of-silver](ship-of-silver.md) | ship-of-silver |
+| [snake-and-eagle-myth](snake-and-eagle-myth.md) | snake-and-eagle-myth |
 | [song-of-emergence](song-of-emergence.md) | song-of-emergence |
 | [song-of-release](song-of-release.md) | song-of-release |
 | [storm-gods-awakening](storm-gods-awakening.md) | storm-gods-awakening |
