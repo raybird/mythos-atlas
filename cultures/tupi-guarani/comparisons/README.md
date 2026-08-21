@@ -4,6 +4,7 @@
 |------|------|
 | [americas-earth-diver](americas-earth-diver.md) | americas-earth-diver |
 | [culture-heroes-global](culture-heroes-global.md) | culture-heroes-global |
+| [cursed-lineage-monstrous-progeny-comparative](cursed-lineage-monstrous-progeny-comparative.md) | cursed-lineage-monstrous-progeny-comparative |
 | [fire-destruction-global](fire-destruction-global.md) | fire-destruction-global |
 | [flood-myths-americas](flood-myths-americas.md) | flood-myths-americas |
 | [male-initiation-rites-comparative](male-initiation-rites-comparative.md) | male-initiation-rites-comparative |

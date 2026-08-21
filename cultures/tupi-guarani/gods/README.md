@@ -19,6 +19,7 @@
 | [Pajé](Pajé.md) | Pajé |
 | [Ruda](Ruda.md) | Ruda |
 | [Sumé](Sumé.md) | Sumé |
+| [Tau-Kerana](Tau-Kerana.md) | Tau-Kerana |
 | [Teju-Jagua](Teju-Jagua.md) | Teju-Jagua |
 | [Tupa](Tupa.md) | Tupa |
 | [Tupajara](Tupajara.md) | Tupajara |

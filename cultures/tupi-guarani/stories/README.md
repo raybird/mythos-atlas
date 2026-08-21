@@ -17,6 +17,7 @@
 | [saci-perere-mischief](saci-perere-mischief.md) | saci-perere-mischief |
 | [sume-footprints](sume-footprints.md) | sume-footprints |
 | [sun-moon-brothers](sun-moon-brothers.md) | sun-moon-brothers |
+| [tau-and-kerana-seven-monsters](tau-and-kerana-seven-monsters.md) | tau-and-kerana-seven-monsters |
 | [tamandare-flood](tamandare-flood.md) | tamandare-flood |
 | [tobacco-origin](tobacco-origin.md) | tobacco-origin |
 | [vitoria-regia-water-lily](vitoria-regia-water-lily.md) | vitoria-regia-water-lily |
