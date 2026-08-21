@@ -2,6 +2,7 @@
 
 | 檔案 | 名稱 |
 |------|------|
+| [apotropaic-armed-dance-comparative](apotropaic-armed-dance-comparative.md) | apotropaic-armed-dance-comparative |
 | [automated-guardians-comparative](automated-guardians-comparative.md) | automated-guardians-comparative |
 | [bird-goddess-wings-global](bird-goddess-wings-global.md) | bird-goddess-wings-global |
 | [bull-cult-mediterranean](bull-cult-mediterranean.md) | bull-cult-mediterranean |

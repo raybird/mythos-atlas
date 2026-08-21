@@ -8,6 +8,7 @@
 | [Eileithyia](Eileithyia.md) | Eileithyia |
 | [Europa](Europa.md) | Europa |
 | [Karmas](Karmas.md) | Karmas |
+| [kouretes](kouretes.md) | kouretes |
 | [Lady-of-the-Labyrinth](Lady-of-the-Labyrinth.md) | Lady-of-the-Labyrinth |
 | [Minoan-Deities](Minoan-Deities.md) | Minoan-Deities |
 | [Minoan-Genius](Minoan-Genius.md) | Minoan-Genius |

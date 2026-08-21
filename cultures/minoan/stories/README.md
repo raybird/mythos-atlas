@@ -11,6 +11,7 @@
 | [daedalus-labyrinth](daedalus-labyrinth.md) | daedalus-labyrinth |
 | [dionysus-honey-crete](dionysus-honey-crete.md) | dionysus-honey-crete |
 | [europa-and-the-bull](europa-and-the-bull.md) | europa-and-the-bull |
+| [geranos-crane-dance](geranos-crane-dance.md) | geranos-crane-dance |
 | [glaukos-resurrection](glaukos-resurrection.md) | glaukos-resurrection |
 | [katreus-curse](katreus-curse.md) | katreus-curse |
 | [kouretes-zeus-birth-cave](kouretes-zeus-birth-cave.md) | kouretes-zeus-birth-cave |
