@@ -26,5 +26,6 @@
 | [恩贊比姆彭古](恩贊比姆彭古.md) | 恩贊比姆彭古 |
 | [瑪巫麗莎](瑪巫麗莎.md) | 瑪巫麗莎 |
 
+| [Mami Wata（瑪米瓦塔）](Mami Wata（瑪米瓦塔）.md) | Mami Wata（瑪米瓦塔） |
 ---
-*Auto-generated on 2026-08-15 18:42 UTC*
+*Auto-generated on 2026-09-09 UTC*
