@@ -470,6 +470,7 @@
 - [Youngest Child Hero Comparative](youngest-child-hero-comparative.md)
 - [Zodiac Astrology Myths Comparative](zodiac-astrology-myths-comparative.md)
 - [聖林跨文化神聖樹林崇拜比較分析](聖林跨文化神聖樹林崇拜比較分析.md)
+- [多層天堂分層宇宙論比較](multi-layered-heavens-comparative.md)
 
 ---
 *Auto-generated on 2026-08-16 06:47 UTC*

@@ -1,4 +1,4 @@
-# 已分析母題索引（498 篇）
+# 已分析母題索引（500 篇）
 
 
 
@@ -508,3 +508,4 @@
 | 497 | sacred-games-athletic-contests-comparative.md | 神聖競技：跨文化神話中的競賽、球戲與宇宙對抗 |
 | 498 | sacred-scripture-revelation-comparative.md | 天啟聖典：跨文化神話中的聖書降臨與神聖話語 |
 | 499 | food-taboos-dietary-prohibitions-comparative.md | 飲食禁忌的宇宙觀：跨文化神話中的食物禁令比較 |
+| 500 | multi-layered-heavens-comparative.md | 多層天堂：分層宇宙論的跨文化神話比較 |
