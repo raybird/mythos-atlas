@@ -511,3 +511,4 @@
 | 500 | multi-layered-heavens-comparative.md | 多層天堂：分層宇宙論的跨文化神話比較 |
 | 501 | gender-transformation-myths-comparative.md | 性別變換神話：跨文化比較分析 |
 | 502 | silver-lunar-metal-mythology-comparative.md | 月之白骨：銀在跨文化神話中的聖性、淨化與鎮邪 |
+| 503 | totemism-clan-animal-ancestry-comparative.md | 圖騰制度：氏族動物祖先與分類邏輯的跨文化比較 |
