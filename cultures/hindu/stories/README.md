@@ -20,6 +20,7 @@
 | [迦摩焚身](迦摩焚身.md) | 迦摩焚身 |
 | [阿修羅三連城](阿修羅三連城.md) | 阿修羅三連城 |
 | [黑天Krishna神蹟](黑天Krishna神蹟.md) | 黑天Krishna神蹟 |
+| [迦樓羅盜取甘露](迦樓羅盜取甘露.md) | 迦樓羅盜取甘露 |
 
 ---
-*Auto-generated on 2026-08-15 16:10 UTC*
+*Auto-generated on 2026-09-09 UTC*
