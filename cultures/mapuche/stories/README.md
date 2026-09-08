@@ -13,6 +13,7 @@
 | [Machi降伏水狐蛇](Machi降伏水狐蛇.md) | Machi降伏水狐蛇 |
 | [Trauco森林矮人](Trauco森林矮人.md) | Trauco森林矮人 |
 | [Trentren與Kai-Kai大戰](Trentren與Kai-Kai大戰.md) | Trentren與Kai-Kai大戰 |
+| [ngillatun-festival-origin](ngillatun-festival-origin.md) | ngillatun-festival-origin |
 | [Wünelfe的贈火](Wünelfe的贈火.md) | Wünelfe的贈火 |
 | [copihue-legend](copihue-legend.md) | copihue-legend |
 | [first-machi-origin](first-machi-origin.md) | first-machi-origin |

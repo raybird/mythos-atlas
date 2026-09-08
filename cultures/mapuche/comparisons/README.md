@@ -4,6 +4,7 @@
 |------|------|
 | [Machi薩滿跨文化比較](Machi薩滿跨文化比較.md) | Machi薩滿跨文化比較 |
 | [Trentren-KaiKai與Chaoskampf比較](Trentren-KaiKai與Chaoskampf比較.md) | Trentren-KaiKai與Chaoskampf比較 |
+| [human-creation-myths-comparison](human-creation-myths-comparison.md) | human-creation-myths-comparison |
 | [mapuche-cosmic-geography-comparative](mapuche-cosmic-geography-comparative.md) | mapuche-cosmic-geography-comparative |
 | [mapuche-ngen-nature-spirits-comparative](mapuche-ngen-nature-spirits-comparative.md) | mapuche-ngen-nature-spirits-comparative |
 | [mapuche-pillan-versus-global-ancestor-spirits](mapuche-pillan-versus-global-ancestor-spirits.md) | mapuche-pillan-versus-global-ancestor-spirits |
