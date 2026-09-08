@@ -24,6 +24,7 @@
 | [Žemyna](Žemyna.md) | Žemyna |
 | [奧什琳涅](奧什琳涅.md) | 奧什琳涅 |
 | [波特里姆波](波特里姆波.md) | 波特里姆波 |
+| [Patollo（佩刻爾斯）](Patollo（佩刻爾斯）.md) | Patollo（佩刻爾斯） |
 
 ---
 *Auto-generated on 2026-08-16 02:30 UTC*
