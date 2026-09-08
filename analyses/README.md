@@ -471,6 +471,7 @@
 - [Zodiac Astrology Myths Comparative](zodiac-astrology-myths-comparative.md)
 - [聖林跨文化神聖樹林崇拜比較分析](聖林跨文化神聖樹林崇拜比較分析.md)
 - [多層天堂分層宇宙論比較](multi-layered-heavens-comparative.md)
+- [性別變換神話跨文化比較分析](gender-transformation-myths-comparative.md)
 
 ---
-*Auto-generated on 2026-08-16 06:47 UTC*
+*Auto-generated on 2026-09-08 00:00 UTC*
