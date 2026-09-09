@@ -514,3 +514,5 @@
 | 503 | totemism-clan-animal-ancestry-comparative.md | 圖騰制度：氏族動物祖先與分類邏輯的跨文化比較 |
 | 504 | first-funeral-burial-rites-myths-comparative.md | 第一場喪禮：喪葬儀式起源的跨文化神話比較 |
 | 505 | plants-born-of-death-grave-vegetation-comparative.md | 墳墓中生長的花與樹——死亡之地萌生的生命 |
+| 506 | one-eyed-beings-comparative.md | 獨眼之眼——單眼與獨眼生物的跨文化神話比較 |
+| 507 | devouring-mother-terrible-mother-comparative.md | 吞噬之母——可怖母親原型的跨文化神話比較 |
