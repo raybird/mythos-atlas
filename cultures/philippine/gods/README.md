@@ -24,6 +24,7 @@
 | [Tala](Tala.md) | Tala |
 | [haliya](haliya.md) | haliya
 | [Bulan](Bulan.md) | Bulan |
+| [Lidagat](Lidagat.md) | Lidagat |
 
 ---
-*Auto-generated on 2026-08-15 16:10 UTC*
+*Auto-generated on 2026-09-10 UTC*

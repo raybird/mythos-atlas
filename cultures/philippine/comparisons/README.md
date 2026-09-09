@@ -21,6 +21,7 @@
 | [東南亞至高神比較](東南亞至高神比較.md) | 東南亞至高神比較 |
 | [竹生人神話的跨文化比較](竹生人神話的跨文化比較.md) | 竹生人神話的跨文化比較
 | [volcano-gods-southeast-asia-comparative](volcano-gods-southeast-asia-comparative.md) | volcano-gods-southeast-asia-comparative |
+| [sky-sea-primordial-couple-comparative](sky-sea-primordial-couple-comparative.md) | sky-sea-primordial-couple-comparative |
 
 ---
-*Auto-generated on 2026-08-15 16:10 UTC*
+*Auto-generated on 2026-09-10 UTC*

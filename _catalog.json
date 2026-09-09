@@ -2755,7 +2755,8 @@
         "竹中生出第一對人類",
         "Luzon/Visayas/Mindanao三島神話",
         "Aswang鬼怪",
-        "Sarimanok神鳥"
+        "Sarimanok神鳥",
+        "風與海之婚(米沙鄢創世/天×海聯姻)"
       ],
       "parallels": [
         [
@@ -2769,11 +2770,15 @@
         [
           "Bathala",
           "Tengri/天空神跨文化比較"
+        ],
+        [
+          "風與海之婚(Kaptan×Magwayen世系)",
+          "阿普甦×提亞瑪特/希臘水之世系"
         ]
       ],
       "creation": "最初世界只有天空、海洋與一隻巨鳥。巨鳥引發風暴，攪動海洋，天空與海洋交戰。從泡沫中誕生Bathala(至高神)與Ulilang Kaluluwa(長蛇神)。二者鬥爭後Bathala以椰子、棕櫚創造大地。另一版本(Maranao)：世界從巨大的竹節中生出——天地最初相連，神以刀斬斷竹子，竹中走出第一對人類兄妹Malakas(強壯)與Maganda(美麗)。",
       "flood": "他加祿族(Tagalog)洪水神話：人類忘記敬拜Bathala，Bathala以洪水懲罰。僅一對兄妹在竹筏/棕櫚樹上倖存，後為世界重新繁衍。米沙鄢(Visayan)版本：洪水源於海神與風神的爭鬥。棉蘭老島(Maranao)傳說：大洪水後世界被巨蛇Bakunawa吞食月亮引發黑暗與洪水。",
-      "pantheon": "Bathala(至高神/造物)、Malakas(強壯之父)、Maganda(美麗之母)、Idiyanale(農業)、Sidapa(死亡/月)、Aman Sinaya(海洋)、Kaptan(天空神)、Maguayan(海神)、Bakunawa(月食巨蛇)、Dalikamata(千眼醫神)、Lakapati(豐收/雌雄同體)、Tala(星辰女神)、Mayari(月神)",
+      "pantheon": "Bathala(至高神/造物)、Malakas(強壯之父)、Maganda(美麗之母)、Idiyanale(農業)、Sidapa(死亡/月)、Aman Sinaya(海洋)、Kaptan(天空神)、Maguayan(海神)、Lidagat(海神/風之妻/第二代)、Lihangin(風神)、Likalibutan/Liadlao/Libulan/Lisuga(身化大地/日/月/星之神子)、Bakunawa(月食巨蛇)、Dalikamata(千眼醫神)、Lakapati(豐收/雌雄同體)、Tala(星辰女神)、Mayari(月神)",
       "stories": [
         "Malakas與Maganda從竹中誕生",
         "Bakunawa吞月(月食由來)",
@@ -2784,7 +2789,8 @@
         "藍昂的一生",
         "伊巴隆史詩:Handiong與蛇女Oryol",
         "印達拉帕特拉與蘇萊曼",
-        "Bulan與太陽神的追逐"
+        "Bulan與太陽神的追逐",
+        "風與海之婚(米沙鄢創世)"
       ],
       "order": 32,
       "timeline": {
@@ -2809,20 +2815,22 @@
           "indigenous-americas"
         ]
       },
-      "_stories": 10,
+      "_stories": 11,
       "gods": [
         "Mapulon",
         "麥圭延",
         "拉昂",
         "Lakambini",
-        "Bulan（月神）"
+        "Bulan（月神）",
+        "Lidagat（麗妲嘉）"
       ],
       "comparisons": [
         "東南亞英雄史詩比較",
         "靈魂渡者跨文化比較",
         "生命信物跨文化比較",
         "神聖穀物與稻米起源跨文化比較",
-        "東南亞火山神跨文化比較"
+        "東南亞火山神跨文化比較",
+        "天與海的婚盟：創世雙源頭比較"
       ]
     },
     {
