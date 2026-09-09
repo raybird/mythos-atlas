@@ -18,6 +18,7 @@
 | [Rana-Nieida](Rana-Nieida.md) | Rana-Nieida |
 | [Ruohtta](Ruohtta.md) | Ruohtta |
 | [Sarakhkka](Sarakhkka.md) | Sarakhkka |
+| [Tjaetsieålmaj](Tjaetsieålmaj.md) | Tjaetsieålmaj |
 | [Uksáhkká](Uksáhkká.md) | Uksáhkká |
 | [Väralden Olmai](Väralden Olmai.md) | Väralden Olmai |
 | [bieggamajmma](bieggamajmma.md) | bieggamajmma |

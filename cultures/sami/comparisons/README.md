@@ -3,6 +3,7 @@
 | 檔案 | 名稱 |
 | [薩滿鼓跨文化比較](noaidi-drum-global.md) | 薩滿鼓跨文化比較 |
 |------|------|
+| [aquatic-lords-fishing-contracts](aquatic-lords-fishing-contracts.md) | aquatic-lords-fishing-contracts |
 | [arctic-bear-cult](arctic-bear-cult.md) | arctic-bear-cult |
 | [arctic-shamanism-global](arctic-shamanism-global.md) | arctic-shamanism-global |
 | [bear-cult-eurasia](bear-cult-eurasia.md) | bear-cult-eurasia |

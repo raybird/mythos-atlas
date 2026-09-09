@@ -21,6 +21,7 @@
 | [shaman-drum-origin](shaman-drum-origin.md) | shaman-drum-origin |
 | [stallu-and-reindeer](stallu-and-reindeer.md) | stallu-and-reindeer |
 | [stalo-giant](stalo-giant.md) | stalo-giant |
+| [water-lords-bounty](water-lords-bounty.md) | water-lords-bounty |
 | [薩米冬至祭儀與太陽回歸](薩米冬至祭儀與太陽回歸.md) | 薩米冬至祭儀與太陽回歸 |
 
 ---

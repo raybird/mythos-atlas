@@ -3750,7 +3750,8 @@
         "熊神崇拜",
         "Sáivu靈魂世界",
         "Máttaráhkká大地祖母",
-        "北極光靈魂舞蹈"
+        "北極光靈魂舞蹈",
+        "Tjaetsieålmaj水神/湖泊漁獵契約"
       ],
       "parallels": [
         [
@@ -3768,11 +3769,15 @@
         [
           "Sáivu死後樂園",
           "北歐Valhalla/希臘Elysium"
+        ],
+        [
+          "Tjaetsieålmaj水神",
+          "北歐Ægir/芬蘭Ahti/中國河伯"
         ]
       ],
       "creation": "薩米創世神話中最高的存在爲Väralden Olmai(世界人)或Radien(天神)——世界從一片寂靜的北極荒原中誕生。一隻雌性潛水鳥從原水中銜起泥土——類似Earth-Diver神話的北極版本。Radien以泥土塑造大地與人類。Máttaráhkká(大地祖母)生下三個女兒——Sáráhkká(生育/火)、Juoksáhkká(弓箭/男孩命運)、Uksáhkká(門/女孩保護)。大地由一隻巨大的北極熊或麋鹿支撐——其身體震動造成地震。",
       "flood": "薩米洪水傳說與北極冰蓋融化相關——末次冰期後斯堪的納維亞冰蓋消融，海平面急劇上升淹沒大片陸地。部分傳說記載遠古洪水時期人類與馴鹿躲在高山避難。基督教化後融合了聖經諾亞方舟情節——保留了本土元素如馴鹿代替烏鴉偵查陸地。",
-      "pantheon": "Radien/Radien-áddjá(天神/造物主)、Radien-áhkku(天母)、Rana-Nieida(春/綠/生育)、Väralden Olmai(世界人/造物)、Máttaráhkká(大地祖母/始祖)、Sáráhkká(火/生育/女性守護)、Juoksáhkká(弓箭/男孩命運)、Uksáhkká(門/女孩保護)、Bieggagallis(風神/季節)、Leaibolmmái(血液/傷口/治療)、Sieidi(石靈/豐收)、Noaidi(人類薩滿)、Boaššu(北極光)",
+      "pantheon": "Radien/Radien-áddjá(天神/造物主)、Radien-áhkku(天母)、Rana-Nieida(春/綠/生育)、Väralden Olmai(世界人/造物)、Máttaráhkká(大地祖母/始祖)、Sáráhkká(火/生育/女性守護)、Juoksáhkká(弓箭/男孩命運)、Uksáhkká(門/女孩保護)、Bieggagallis(風神/季節)、Leaibolmmái(血液/傷口/治療)、Tjaetsieålmaj(水神/湖泊漁獵)、Sieidi(石靈/豐收)、Noaidi(人類薩滿)、Boaššu(北極光)",
       "stories": [
         "Máttaráhkká三女神誕生",
         "Noaidi薩滿入冥界之旅",
@@ -3782,7 +3787,8 @@
         "Sieidi神石的供奉儀式",
         "馴鹿的起源神話",
         "Joik的誕生(音樂與魔法)",
-        "魯奧塔的馬蹄聲"
+        "魯奧塔的馬蹄聲",
+        "水人的報酬：雙底聖湖與漁獲的契約"
       ],
       "order": 42,
       "timeline": {
@@ -3812,12 +3818,14 @@
           "slavic"
         ]
       },
-      "_stories": 8,
+      "_stories": 9,
       "gods": [
-        "Ruohtta"
+        "Ruohtta",
+        "Tjaetsieålmaj"
       ],
       "comparisons": [
-        "瘟疫之神跨文化比較"
+        "瘟疫之神跨文化比較",
+        "湖泊之主與漁獵契約：跨文化水神比較"
       ]
     },
     {
