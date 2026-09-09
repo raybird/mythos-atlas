@@ -62,5 +62,6 @@
 | [yoruba-water-deities](yoruba-water-deities.md) | yoruba-water-deities |
 | [yoruba-west-african-comparison](yoruba-west-african-comparison.md) | yoruba-west-african-comparison |
 
+| [工匠神跨文化比較：Obalufon、赫菲斯托斯與全球工藝之神](工匠神跨文化比較-Obalufon-赫菲斯托斯-與-全球工藝之神.md) | 工匠神跨文化比較：Obalufon、赫菲斯托斯與全球工藝之神 |
 ---
 *Auto-generated on 2026-08-15 16:10 UTC*
