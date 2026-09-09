@@ -75,6 +75,7 @@
 | [shulgi](shulgi.md) | shulgi |
 | [uttu](uttu.md) | uttu |
 | [Šara](Šara.md) | Šara |
+| [kabta](kabta.md) | 卡布塔（Kabta） |
 
 ---
 *Auto-generated on 2026-08-15 16:10 UTC*

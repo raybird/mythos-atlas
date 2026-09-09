@@ -70,6 +70,7 @@
 | [uruk-lament](uruk-lament.md) | uruk-lament |
 | [venus-tablet-ammisaduqa](venus-tablet-ammisaduqa.md) | venus-tablet-ammisaduqa |
 | [ziusudra-flood-narrative](ziusudra-flood-narrative.md) | ziusudra-flood-narrative |
+| [sumerian-debate-winter-summer](sumerian-debate-winter-summer.md) | 夏日與冬日之辯（Emesh 與 Enten） |
 
 ---
 *Auto-generated on 2026-08-15 16:10 UTC*

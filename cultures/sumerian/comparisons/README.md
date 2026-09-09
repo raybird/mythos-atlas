@@ -75,5 +75,6 @@
 | [writing-deities-cross-culture](writing-deities-cross-culture.md) | writing-deities-cross-culture |
 | [yoruba-norse-fate-weavers](yoruba-norse-fate-weavers.md) | yoruba-norse-fate-weavers |
 | [冥界守門人跨文化比較](冥界守門人跨文化比較.md) | 冥界守門人跨文化比較 |
+| [cosmic-egg-creation-myths](cosmic-egg-creation-myths.md) | 宇宙蛋創世神話跨文化比較 |
 ---
 *Auto-generated on 2026-08-15 16:10 UTC*
