@@ -25,5 +25,6 @@
 | [saivu](saivu.md) | saivu |
 | [stallu](stallu.md) | stallu |
 
+| [Madderakka（馬德拉卡）— 薩米生育女神與三女命運之母](Madderakka.md) | Madderakka（馬德拉卡）— 薩米生育女神與三女命運之母 |
 ---
 *Auto-generated on 2026-08-15 16:10 UTC*
