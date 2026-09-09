@@ -21,5 +21,7 @@
 | [科謝伊不死者](科謝伊不死者.md) | 科謝伊不死者 |
 | [青蛙公主](青蛙公主.md) | 青蛙公主 |
 
+| [Jarilo 與 Morana：生死婚姻的季節輪迴](morana-jarilo-cycle.md) | Jarilo 與 Morana：生死婚姻的季節輪迴 |
+| [基捷日湖畔的隱形城市 — 斯拉夫末世傳說](kitezh-invisible-city.md) | 基捷日湖畔的隱形城市 — 斯拉夫末世傳說 |
 ---
 *Auto-generated on 2026-08-15 16:10 UTC*

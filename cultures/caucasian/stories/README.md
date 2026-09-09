@@ -21,5 +21,7 @@
 | [sosruko-wheel-balsag](sosruko-wheel-balsag.md) | sosruko-wheel-balsag |
 | [syrdon-steals-sun](syrdon-steals-sun.md) | syrdon-steals-sun |
 
+| [索斯蘭與銀杯之死（Soslan's Chalice Death）](soslan-chalice-death.md) | 索斯蘭與銀杯之死（Soslan's Chalice Death） |
+| [巴特拉德之死：鋼鐵英雄的最後一戰](batradz-death.md) | 巴特拉德之死：鋼鐵英雄的最後一戰 |
 ---
 *Auto-generated on 2026-08-15 16:10 UTC*

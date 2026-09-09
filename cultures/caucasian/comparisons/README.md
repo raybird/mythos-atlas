@@ -40,5 +40,6 @@
 | [twin-fratricide-comparative](twin-fratricide-comparative.md) | twin-fratricide-comparative |
 | [wolf-gods-cross-culture](wolf-gods-cross-culture.md) | wolf-gods-cross-culture |
 
+| [聖火爐神跨文化比較](hearth-fire-deity-cross-cultural.md) | 聖火爐神跨文化比較 |
 ---
 *Auto-generated on 2026-08-15 16:10 UTC*

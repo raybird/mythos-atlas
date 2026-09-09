@@ -26,5 +26,7 @@
 | [斯瓦羅日奇](斯瓦羅日奇.md) | 斯瓦羅日奇 |
 | [霍爾斯](霍爾斯.md) | 霍爾斯 |
 
+| [莫拉娜（Morana）](Morana.md) | 莫拉娜（Morana） |
+| [Alkonost 與 Sirin — 斯拉夫神鳥](Alkonost-Sirin.md) | Alkonost 與 Sirin — 斯拉夫神鳥 |
 ---
 *Auto-generated on 2026-08-15 16:10 UTC*
