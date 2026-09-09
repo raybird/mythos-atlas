@@ -26,5 +26,6 @@
 | [Waka-ush-Kamuy](Waka-ush-Kamuy.md) | Waka-ush-Kamuy |
 | [Yushkep-kamuy](Yushkep-kamuy.md) | Yushkep-kamuy |
 
+| [Kosam（庫薩姆）](Kosam（庫薩姆）.md) | Kosam（庫薩姆） |
 ---
-*Auto-generated on 2026-08-15 16:10 UTC*
+*Auto-generated on 2026-09-09 UTC*

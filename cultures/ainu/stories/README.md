@@ -22,5 +22,6 @@
 | [yushkep-kamuy-and-the-demonic-suitor](yushkep-kamuy-and-the-demonic-suitor.md) | yushkep-kamuy-and-the-demonic-suitor |
 | [世界承載之魚](世界承載之魚.md) | 世界承載之魚 |
 
+| [Yukar（神謠）的起源](Yukar（神謠）的起源.md) | Yukar（神謠）的起源 |
 ---
-*Auto-generated on 2026-08-15 16:10 UTC*
+*Auto-generated on 2026-09-09 UTC*

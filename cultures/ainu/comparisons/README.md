@@ -22,5 +22,6 @@
 | [water-deity-global](water-deity-global.md) | water-deity-global |
 | [地震與世界負載者跨文化比較](地震與世界負載者跨文化比較.md) | 地震與世界負載者跨文化比較 |
 
+| [口傳史詩跨文化比較：Yukar 與全球史詩傳統](口傳史詩跨文化比較-Yukar-與全球史詩傳統.md) | 口傳史詩跨文化比較：Yukar 與全球史詩傳統 |
 ---
-*Auto-generated on 2026-08-15 16:10 UTC*
+*Auto-generated on 2026-09-09 UTC*
