@@ -513,3 +513,4 @@
 | 502 | silver-lunar-metal-mythology-comparative.md | 月之白骨：銀在跨文化神話中的聖性、淨化與鎮邪 |
 | 503 | totemism-clan-animal-ancestry-comparative.md | 圖騰制度：氏族動物祖先與分類邏輯的跨文化比較 |
 | 504 | first-funeral-burial-rites-myths-comparative.md | 第一場喪禮：喪葬儀式起源的跨文化神話比較 |
+| 505 | plants-born-of-death-grave-vegetation-comparative.md | 墳墓中生長的花與樹——死亡之地萌生的生命 |
