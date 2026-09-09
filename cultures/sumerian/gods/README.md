@@ -77,5 +77,8 @@
 | [Šara](Šara.md) | Šara |
 | [kabta](kabta.md) | 卡布塔（Kabta） |
 
+| [Utukku — 蘇美護靈與惡靈體系](utukku.md) | Utukku — 蘇美護靈與惡靈體系 |
+| [烏拉什（Urash/Uraš）](Urash.md) | 烏拉什（Urash/Uraš） |
+| [妮妮西娜（Nininsina）— 治療女神與伊辛城守護者](Nininsina.md) | 妮妮西娜（Nininsina）— 治療女神與伊辛城守護者 |
 ---
 *Auto-generated on 2026-08-15 16:10 UTC*

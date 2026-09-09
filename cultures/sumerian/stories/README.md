@@ -72,5 +72,8 @@
 | [ziusudra-flood-narrative](ziusudra-flood-narrative.md) | ziusudra-flood-narrative |
 | [sumerian-debate-winter-summer](sumerian-debate-winter-summer.md) | 夏日與冬日之辯（Emesh 與 Enten） |
 
+| [羊與麥的辯論（The Debate between Sheep and Grain）](debate-ewe-and-wheat.md) | 羊與麥的辯論（The Debate between Sheep and Grain） |
+| [Nungal 的監獄（Hymn to Nungal）](nungal-prison.md) | Nungal 的監獄（Hymn to Nungal） |
+| [薩爾貢的誕生傳說](sargon-birth-legend.md) | 薩爾貢的誕生傳說 |
 ---
 *Auto-generated on 2026-08-15 16:10 UTC*
