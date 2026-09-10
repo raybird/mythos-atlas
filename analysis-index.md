@@ -1,4 +1,4 @@
-# 已分析母題索引（514 篇）
+# 已分析母題索引（516 篇）
 
 
 
@@ -523,3 +523,5 @@
 | 512 | magical-helpers-cross-cultural.md | 神助者母題跨文化比較分析 |
 | 513 | spontaneous-generation-bugonia-myths-comparative.md | 死物化生：自然發生論神話的跨文化比較（以牛屍生蜂為核心） |
 | 514 | waterside-encounters-betrothal-comparative.md | 井畔之約：水源邊相遇與婚約的跨文化神話 |
+| 515 | coral-myths-comparative.md | 海中之樹：珊瑚神話的跨文化比較 |
+| 516 | sowing-dragon-teeth-warriors-comparative.md | 從龍骨播種戰士：龍牙母題的跨文化比較 |
