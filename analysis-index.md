@@ -1,4 +1,4 @@
-# 已分析母題索引（509 篇）
+# 已分析母題索引（514 篇）
 
 
 
@@ -518,3 +518,8 @@
 | 507 | devouring-mother-terrible-mother-comparative.md | 吞噬之母——可怖母親原型的跨文化神話比較 |
 | 508 | three-wishes-divine-boons-comparative.md | 有價的願望——跨文化神話與民間故事中的有限祈願 |
 | 509 | devils-pact-faustian-bargain-comparative.md | 以魂為質——魔鬼契約（Deal with the Devil）母題的跨文化比較神話學 |
+| 510 | amber-tears-of-the-sun-comparative.md | 太陽的眼淚：琥珀在跨文化神話中的光、傷痛與永恆 |
+| 511 | divine-tests-trials-of-mortals.md | 神聖試煉：諸神對凡人的跨文化考驗母題 |
+| 512 | magical-helpers-cross-cultural.md | 神助者母題跨文化比較分析 |
+| 513 | spontaneous-generation-bugonia-myths-comparative.md | 死物化生：自然發生論神話的跨文化比較（以牛屍生蜂為核心） |
+| 514 | waterside-encounters-betrothal-comparative.md | 井畔之約：水源邊相遇與婚約的跨文化神話 |
