@@ -24,5 +24,6 @@
 | [蜘蛛祖母創世](蜘蛛祖母創世.md) | 蜘蛛祖母創世 |
 | [雙子英雄](雙子英雄.md) | 雙子英雄 |
 
+| [雷夢之人：嘿約卡的反向智慧](heyoka-reverse-wisdom.md) | heyoka-reverse-wisdom |
 ---
 *Auto-generated on 2026-08-15 16:10 UTC*

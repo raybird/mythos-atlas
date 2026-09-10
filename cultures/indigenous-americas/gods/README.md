@@ -26,5 +26,6 @@
 | [蜘蛛祖母](蜘蛛祖母.md) | 蜘蛛祖母 |
 | [雷鳥](雷鳥.md) | 雷鳥 |
 
+| [Heyoka](Heyoka.md) | Heyoka |
 ---
 *Auto-generated on 2026-08-15 16:10 UTC*

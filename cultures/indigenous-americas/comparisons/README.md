@@ -21,5 +21,6 @@
 | [美洲原住民騙子神比較](美洲原住民騙子神比較.md) | 美洲原住民騙子神比較 |
 | [騙子神跨文化比較](騙子神跨文化比較.md) | 騙子神跨文化比較 |
 
+| [神聖小丑的節慶反轉：嘿約卡與全球儀式小丑跨文化比較](sacred-clowns-cross-cultural.md) | sacred-clowns-cross-cultural |
 ---
 *Auto-generated on 2026-08-15 16:10 UTC*
