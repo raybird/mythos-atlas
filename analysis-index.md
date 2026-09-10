@@ -1,4 +1,4 @@
-# 已分析母題索引（518 篇）
+# 已分析母題索引（520 篇）
 
 
 
@@ -527,3 +527,5 @@
 | 516 | sowing-dragon-teeth-warriors-comparative.md | 從龍骨播種戰士：龍牙母題的跨文化比較 |
 | 517 | nightingale-myths-comparative.md | 啼聲中的哀歌與戀曲：夜鶯神話的跨文化比較 |
 | 518 | sacred-food-divine-sustenance-comparative.md | 神聖食物與神明食糧：跨文化比較分析 |
+| 519 | forbidden-knowledge-cross-cultural.md | 禁忌知識：跨文化神話中的「智慧代價」母題 |
+| 520 | firstborn-sacrifice-and-primogeniture-paradox.md | 首生祭與長子權的悖論：跨文化神話中的首生者命運 |
