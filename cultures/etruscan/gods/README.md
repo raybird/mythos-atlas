@@ -1,6 +1,7 @@
 # 伊特魯里亞神話 — 神祇
 
 | 檔案 | 名稱 |
+| [Lasa](Lasa.md) | Lasa |
 | [Tivr](Tivr.md) | Tivr |
 |------|------|
 | [Aita](Aita.md) | Aita |
