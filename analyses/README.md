@@ -416,6 +416,7 @@
 - [Teeth Myths Comparative](teeth-myths-comparative.md)
 - [Thirteen Number Boundary Myths Comparative](thirteen-number-boundary-myths-comparative.md)
 - [Three Tiered Cosmos Comparative](three-tiered-cosmos-comparative.md)
+- [Three Wishes Divine Boons Comparative](three-wishes-divine-boons-comparative.md)
 - [Threshold Crossroads Gods](threshold-crossroads-gods.md)
 - [Thunder Gods](thunder-gods.md)
 - [Thunderbird Lightning Bird Comparative](thunderbird-lightning-bird-comparative.md)

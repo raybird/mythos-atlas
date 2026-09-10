@@ -1,4 +1,4 @@
-# 已分析母題索引（500 篇）
+# 已分析母題索引（508 篇）
 
 
 
@@ -516,3 +516,4 @@
 | 505 | plants-born-of-death-grave-vegetation-comparative.md | 墳墓中生長的花與樹——死亡之地萌生的生命 |
 | 506 | one-eyed-beings-comparative.md | 獨眼之眼——單眼與獨眼生物的跨文化神話比較 |
 | 507 | devouring-mother-terrible-mother-comparative.md | 吞噬之母——可怖母親原型的跨文化神話比較 |
+| 508 | three-wishes-divine-boons-comparative.md | 有價的願望——跨文化神話與民間故事中的有限祈願 |
