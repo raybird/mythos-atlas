@@ -22,5 +22,7 @@
 | [第一位Angakkuq](第一位Angakkuq.md) | 第一位Angakkuq |
 | [與狗結婚的女子](與狗結婚的女子.md) | 與狗結婚的女子 |
 
+| [nuliajuk-underworld-revenge](nuliajuk-underworld-revenge.md) | nuliajuk-underworld-revenge |
+| [sedna-shamanic-descent](sedna-shamanic-descent.md) | sedna-shamanic-descent |
 ---
 *Auto-generated on 2026-08-15 16:10 UTC*

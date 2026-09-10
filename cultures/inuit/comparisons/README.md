@@ -22,5 +22,6 @@
 | [極地薩滿跨文化比較](極地薩滿跨文化比較.md) | 極地薩滿跨文化比較 |
 | [arctic-sea-creatures-cross-cultural](arctic-sea-creatures-cross-cultural.md) | arctic-sea-creatures-cross-cultural |
 
+| [arctic-animal-transformation-cross-cultural](arctic-animal-transformation-cross-cultural.md) | arctic-animal-transformation-cross-cultural |
 ---
 *Auto-generated on 2026-08-15 16:10 UTC*

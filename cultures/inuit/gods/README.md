@@ -25,5 +25,7 @@
 | [agloolik](agloolik.md) | agloolik |
 | [torngasoak](torngasoak.md) | torngasoak |
 
+| [Nootaikqq](Nootaikqq.md) | Nootaikqq |
+| [Silap Inua](Sila-Silap-Inua.md) | Silap Inua |
 ---
 *Auto-generated on 2026-08-15 16:10 UTC*
