@@ -63,5 +63,6 @@
 | [馬雅與美索不達米亞洪水神話跨文化比較](馬雅與美索不達米亞洪水神話跨文化比較.md) | 馬雅與美索不達米亞洪水神話跨文化比較 |
 | [moon-goddesses-cross-cultural](moon-goddesses-cross-cultural.md) | moon-goddesses-cross-cultural |
 
+| [晨星戰神與全球戰爭之星跨文化比較](morning-star-war-gods-comparison.md) | morning-star-war-gods-comparison |
 ---
 *Auto-generated on 2026-08-15 16:10 UTC*

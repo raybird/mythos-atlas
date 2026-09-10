@@ -65,5 +65,6 @@
 | [西帕克納與卡布拉坎](西帕克納與卡布拉坎.md) | 西帕克納與卡布拉坎 |
 | [yum-kaax-hunter-covenant](yum-kaax-hunter-covenant.md) | yum-kaax-hunter-covenant |
 
+| [晨星之怨：察克·艾克與太陽之爭](chak-ek-morning-star-venus-myth.md) | chak-ek-morning-star-venus-myth |
 ---
 *Auto-generated on 2026-08-15 16:10 UTC*

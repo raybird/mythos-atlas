@@ -71,5 +71,6 @@
 | [阿坎](阿坎.md) | 阿坎 |
 | [Tohil](Tohil.md) | Tohil |
 
+| [Chak-Ek](Chak-Ek.md) | Chak-Ek |
 ---
 *Auto-generated on 2026-08-15 16:10 UTC*
