@@ -1,4 +1,4 @@
-# 已分析母題索引（508 篇）
+# 已分析母題索引（509 篇）
 
 
 
@@ -517,3 +517,4 @@
 | 506 | one-eyed-beings-comparative.md | 獨眼之眼——單眼與獨眼生物的跨文化神話比較 |
 | 507 | devouring-mother-terrible-mother-comparative.md | 吞噬之母——可怖母親原型的跨文化神話比較 |
 | 508 | three-wishes-divine-boons-comparative.md | 有價的願望——跨文化神話與民間故事中的有限祈願 |
+| 509 | devils-pact-faustian-bargain-comparative.md | 以魂為質——魔鬼契約（Deal with the Devil）母題的跨文化比較神話學 |

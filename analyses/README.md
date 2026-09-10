@@ -96,6 +96,8 @@
 - [Demons Evil Spirits Comparative](demons-evil-spirits-comparative.md)
 - [Desert Sacred Myths Comparative](desert-sacred-myths-comparative.md)
 - [Deus Otiosus Retired High God Comparative](deus-otiosus-retired-high-god-comparative.md)
+- [Devil's Pact Faustian Bargain Comparative](devils-pact-faustian-bargain-comparative.md)
+- [Devouring Mother Terrible Mother Comparative](devouring-mother-terrible-mother-comparative.md)
 - [Divine Androgyny](divine-androgyny.md)
 - [Divine Archery Comparative](divine-archery-comparative.md)
 - [Divine Breath Vital Force Comparative](divine-breath-vital-force-comparative.md)
