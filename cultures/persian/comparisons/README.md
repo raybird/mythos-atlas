@@ -55,6 +55,7 @@
 | [simurgh-cross-cultural](simurgh-cross-cultural.md) | simurgh-cross-cultural |
 | [xvarenah-divine-glory-comparative](xvarenah-divine-glory-comparative.md) | xvarenah-divine-glory-comparative |
 | [xvarenah-divine-glory](xvarenah-divine-glory.md) | xvarenah-divine-glory |
+| [yima-vara-flood-comparison](yima-vara-flood-comparison.md) | yima-vara-flood-comparison |
 | [zoroastrian-buddhist-eschatology](zoroastrian-buddhist-eschatology.md) | zoroastrian-buddhist-eschatology |
 | [zoroastrian-creation-indo-european](zoroastrian-creation-indo-european.md) | zoroastrian-creation-indo-european |
 | [zoroastrian-dreams-prophecy](zoroastrian-dreams-prophecy.md) | zoroastrian-dreams-prophecy |

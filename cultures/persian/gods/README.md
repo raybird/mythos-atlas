@@ -54,6 +54,7 @@
 | [chista](chista.md) | chista |
 | [dahaka](dahaka.md) | dahaka |
 | [fravashi](fravashi.md) | fravashi |
+| [gopat-shah](gopat-shah.md) | gopat-shah |
 | [jamshid](jamshid.md) | jamshid |
 | [nasu-demoness](nasu-demoness.md) | nasu-demoness |
 | [saoshyant](saoshyant.md) | saoshyant |

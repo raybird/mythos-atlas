@@ -48,6 +48,7 @@
 | [siyavash](siyavash.md) | siyavash |
 | [spenta-amesha-revelation](spenta-amesha-revelation.md) | spenta-amesha-revelation |
 | [tahmuras-daeva-binder](tahmuras-daeva-binder.md) | tahmuras-daeva-binder |
+| [thrita-first-physician](thrita-first-physician.md) | thrita-first-physician |
 | [tishtrya-apaosha](tishtrya-apaosha.md) | tishtrya-apaosha |
 | [yima-golden-age](yima-golden-age.md) | yima-golden-age |
 | [zahhak-serpent-king](zahhak-serpent-king.md) | zahhak-serpent-king |
