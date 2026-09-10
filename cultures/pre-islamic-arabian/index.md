@@ -21,7 +21,7 @@
 
 ## 神系
 
-Allah(至高造物主)、Al-Lat(月/生育女神)、Al-Uzza(力量/戰/生育)、Manat(命運/死亡)、Hubal(麥加主神/占卜)、Wadd(月神/愛)、Amur(男神)、Dhat-Badan(綠洲/雨神)、Nasr(鷹神)、Suwa'(星辰)、Yaghuth(救濟神)、Ya'uq(戰神)、Ta'lab(月神/南阿拉伯)、Ilmaqah(月神/沙巴王國)、Athtar(金星/灌溉)、Sayin(戰神/哈德拉毛)
+Allah(至高造物主)、Al-Lat(月/生育女神)、Al-Uzza(力量/戰/生育)、Manat(命運/死亡)、Hubal(麥加主神/占卜)、Wadd(月神/愛)、Amur(男神)、Dhat-Badan(綠洲/雨神)、Nasr(鷹神)、Suwa'(星辰)、Yaghuth(救濟神)、Ya'uq(戰神)、Ta'lab(月神/南阿拉伯)、Ilmaqah(月神/沙巴王國)、Athtar(金星/灌溉)、Sayin(戰神/哈德拉毛)、Ruda(Ruḍaw,北阿拉伯月神/星辰三元組)、Dhul-Khalasa(祖·哈拉薩,葉門的卡巴/神諭偶像)
 
 ## 核心母題
 
@@ -50,6 +50,7 @@ Allah(至高造物主)、Al-Lat(月/生育女神)、Al-Uzza(力量/戰/生育)�
 - 也門水壩崩潰傳說(Marib大壩)
 - Ad族與Thamud族的毀滅
 - Zarqaa al-Yamama女先知
+- 祖·哈拉薩聖所的毀滅（葉門的卡巴）
 
 ---
 *Generated on 2026-06-20 from _catalog.json*

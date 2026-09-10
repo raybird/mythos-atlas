@@ -15,6 +15,7 @@
 | [naqat-salih-she-camel](naqat-salih-she-camel.md) | naqat-salih-she-camel |
 | [year-of-the-elephant](year-of-the-elephant.md) | year-of-the-elephant |
 | [三女神與塔伊夫聖地](三女神與塔伊夫聖地.md) | 三女神與塔伊夫聖地 |
+| [祖·哈拉薩聖所的毀滅](祖·哈拉薩聖所的毀滅.md) | 祖·哈拉薩聖所的毀滅 |
 | [庫札的弓與彩虹的傳說](庫札的弓與彩虹的傳說.md) | 庫札的弓與彩虹的傳說 |
 | [懸詩與卡巴](懸詩與卡巴.md) | 懸詩與卡巴 |
 | [懺悔青銅板：女僕與天之主](懺悔青銅板：女僕與天之主.md) | 懺悔青銅板：女僕與天之主 |

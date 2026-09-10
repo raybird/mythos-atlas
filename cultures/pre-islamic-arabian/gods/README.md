@@ -14,6 +14,7 @@
 | [Manaf](Manaf.md) | Manaf |
 | [Manat](Manat.md) | Manat |
 | [Nasr](Nasr.md) | Nasr |
+| [Ruda](Ruda.md) | Ruda |
 | [Salm](Salm.md) | Salm |
 | [Sayin](Sayin.md) | Sayin |
 | [Shams](Shams.md) | Shams |
