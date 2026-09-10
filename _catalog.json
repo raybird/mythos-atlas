@@ -1195,7 +1195,7 @@
       ],
       "creation": "凱爾特沒有單一創世神話文本，但《入侵之書》(Lebor Gabála Érenn)描述愛爾蘭文明經歷一系列神族入侵：Cessair、Partholón、Nemed、Fir Bolg、Tuatha Dé Danann、人類(米勒之子)。",
       "flood": "Partholón時代，所有子民因瘟疫死亡。Nemed時代又逢洪水淹沒了所有塔樓與要塞。傳說中愛爾蘭西部曾有陸地連接亞特蘭提斯，後被大洪水隔離。",
-      "pantheon": "Dagda(善神)、Lugh(光之神)、Morrigan(戰爭女神)、Brigid(詩歌/醫療)、Cernunnos(角神)、Epona(馬神)、Macha(戰爭/主權/馬女神)、Crom Cruach(豐饒/人祭偶像)",
+      "pantheon": "Dagda(善神)、Lugh(光之神)、Morrigan(戰爭女神)、Brigid(詩歌/醫療)、Cernunnos(角神)、Epona(馬神)、Macha(戰爭/主權/馬女神)、Crom Cruach(豐饒/人祭偶像)、Donn(死亡之神/亡者之家之主)",
       "stories": [
         "Tuatha Dé Danann登陸",
         "Cú Chulainn少年傳奇",
@@ -1205,7 +1205,8 @@
         "塔利埃辛的故事",
         "達達爾加客棧之毀滅",
         "阿爾斯特人的虛弱：Macha的賽馬詛咒",
-        "聖派翠克與克羅姆克魯阿赫(偶像毀滅)"
+        "聖派翠克與克羅姆克魯阿赫(偶像毀滅)",
+        "唐恩之家(Donn沉船與亡者歸宿)"
       ],
       "order": 14,
       "timeline": {
@@ -1236,19 +1237,21 @@
           "basque"
         ]
       },
-      "_stories": 9,
+      "_stories": 10,
       "gods": [
         "Rhiannon",
         "Sulis",
         "Áine",
-        "Macha"
+        "Macha",
+        "Donn"
       ],
       "comparisons": [
         "不可能的任務跨文化比較",
         "馬女神與神聖馬權跨文化比較",
         "神聖靈感與詩人之液跨文化比較",
         "三重戰爭—命運女神跨文化比較",
-        "人祭偶像神跨文化比較"
+        "人祭偶像神跨文化比較",
+        "死亡之神的位格：唐恩與全球冥府之主跨文化比較"
       ]
     },
     {
