@@ -2,6 +2,7 @@
 
 | 檔案 | 名稱 |
 | [Irawaru](Irawaru.md) | Irawaru |
+| [Tāwhaki](Tāwhaki.md) | Tāwhaki |
 |------|------|
 | [Haumia-tiketike](Haumia-tiketike.md) | Haumia-tiketike |
 | [Hine-ahu-one](Hine-ahu-one.md) | Hine-ahu-one |
