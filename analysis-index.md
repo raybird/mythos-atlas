@@ -1,4 +1,4 @@
-# 已分析母題索引（516 篇）
+# 已分析母題索引（518 篇）
 
 
 
@@ -525,3 +525,5 @@
 | 514 | waterside-encounters-betrothal-comparative.md | 井畔之約：水源邊相遇與婚約的跨文化神話 |
 | 515 | coral-myths-comparative.md | 海中之樹：珊瑚神話的跨文化比較 |
 | 516 | sowing-dragon-teeth-warriors-comparative.md | 從龍骨播種戰士：龍牙母題的跨文化比較 |
+| 517 | nightingale-myths-comparative.md | 啼聲中的哀歌與戀曲：夜鶯神話的跨文化比較 |
+| 518 | sacred-food-divine-sustenance-comparative.md | 神聖食物與神明食糧：跨文化比較分析 |

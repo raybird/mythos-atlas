@@ -519,5 +519,7 @@
 - [多層天堂分層宇宙論比較](multi-layered-heavens-comparative.md)
 - [性別變換神話跨文化比較分析](gender-transformation-myths-comparative.md)
 
+- [Nightingale Myths Comparative](nightingale-myths-comparative.md)
+- [Sacred Food Divine Sustenance Comparative](sacred-food-divine-sustenance-comparative.md)
 ---
 *Auto-generated on 2026-09-08 00:00 UTC*
