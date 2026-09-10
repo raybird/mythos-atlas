@@ -22,6 +22,7 @@
 | [彩虹蛇與水蛇跨文化比較](彩虹蛇與水蛇跨文化比較.md) | 彩虹蛇與水蛇跨文化比較 |
 | [雷石與閃電聖物跨文化比較](雷石與閃電聖物跨文化比較.md) | 雷石與閃電聖物跨文化比較 |
 | [quipu-mnemonic-global](quipu-mnemonic-global.md) | 結繩與記憶：安地斯 Quipu 與全球知識記錄系統跨文化比較 |
+| [supay-underworld-lords-cross-cultural](supay-underworld-lords-cross-cultural.md) | 蘇帕伊與各文明冥界之王跨文化比較 |
 
 ---
 *Auto-generated on 2026-08-15 16:10 UTC*

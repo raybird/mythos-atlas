@@ -24,6 +24,7 @@
 | [Viracocha](Viracocha.md) | Viracocha |
 | [阿馬魯](阿馬魯.md) | 阿馬魯 |
 | [Mama-Ocllo](Mama-Ocllo.md) | Mama Ocllo |
+| [Vichama](Vichama.md) | 維查馬（Vichama） |
 
 ---
 *Auto-generated on 2026-08-15 16:10 UTC*

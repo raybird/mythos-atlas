@@ -22,6 +22,7 @@
 | [yaravi-cradle-song](yaravi-cradle-song.md) | yaravi-cradle-song |
 | [會說話的羊駝與洪水](會說話的羊駝與洪水.md) | 會說話的羊駝與洪水 |
 | [quipu-origin](quipu-origin.md) | 結繩記事的起源：Quipu 與知識的織造 |
+| [origin-of-quinoa](origin-of-quinoa.md) | 藜麥的起源 |
 
 ---
 *Auto-generated on 2026-08-15 16:10 UTC*
