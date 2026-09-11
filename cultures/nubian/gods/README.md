@@ -2,6 +2,7 @@
 
 | 檔案 | 名稱 |
 |------|------|
+| [Aker](Aker.md) | 阿克（Aker）｜地平線的雙獅守門者 |
 | [Amesemi](Amesemi.md) | Amesemi |
 | [Amun-of-Napata](Amun-of-Napata.md) | Amun-of-Napata |
 | [Anhur](Anhur.md) | Anhur |

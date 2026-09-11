@@ -2,6 +2,7 @@
 
 | 檔案 | 名稱 |
 |------|------|
+| [the-sun-passes-the-two-lions-gate](the-sun-passes-the-two-lions-gate.md) | 太陽穿過雙獅之門 |
 | [Isis-Philae-pilgrimage](Isis-Philae-pilgrimage.md) | Isis-Philae-pilgrimage |
 | [alara-legend](alara-legend.md) | alara-legend |
 | [amanirenas-roman-treaty](amanirenas-roman-treaty.md) | amanirenas-roman-treaty |

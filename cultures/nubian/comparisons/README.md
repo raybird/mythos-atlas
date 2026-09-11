@@ -2,6 +2,7 @@
 
 | 檔案 | 名稱 |
 |------|------|
+| [two-faced-gatekeepers-threshold-guardians](two-faced-gatekeepers-threshold-guardians.md) | 雙面守門神與門檻守護 跨文化比較 |
 | [divine-consort-alliance-comparative](divine-consort-alliance-comparative.md) | divine-consort-alliance-comparative |
 | [divine-potter-creator-gods-comparative](divine-potter-creator-gods-comparative.md) | divine-potter-creator-gods-comparative |
 | [frontier-fortress-gods-global](frontier-fortress-gods-global.md) | frontier-fortress-gods-global |
