@@ -1,4 +1,4 @@
-# 已分析母題索引（520 篇）
+# 已分析母題索引（522 篇）
 
 
 
@@ -529,3 +529,5 @@
 | 518 | sacred-food-divine-sustenance-comparative.md | 神聖食物與神明食糧：跨文化比較分析 |
 | 519 | forbidden-knowledge-cross-cultural.md | 禁忌知識：跨文化神話中的「智慧代價」母題 |
 | 520 | firstborn-sacrifice-and-primogeniture-paradox.md | 首生祭與長子權的悖論：跨文化神話中的首生者命運 |
+| 521 | theriomorphic-nurse-beastnursed-hero-comparative.md | 熱型乳母：獸乳哺育的建國英雄跨文化比較 |
+| 522 | dew-sacred-morning-moisture-comparative.md | 天與地的短暫交合：晨露神話的跨文化比較 |
