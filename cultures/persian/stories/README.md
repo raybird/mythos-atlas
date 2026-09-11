@@ -58,5 +58,7 @@
 | [zarathustra-temptation](zarathustra-temptation.md) | zarathustra-temptation |
 | [卡韋鐵匠起義](卡韋鐵匠起義.md) | 卡韋鐵匠起義 |
 
+| [vis-and-ramin](vis-and-ramin.md) | vis-and-ramin |
+| [rustam-and-rakhsh](rustam-and-rakhsh.md) | 羅斯塔姆與拉赫什 — 以伊朗為價碼的神駒契約 |
 ---
 *Auto-generated on 2026-08-15 16:10 UTC*

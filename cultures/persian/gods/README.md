@@ -61,5 +61,7 @@
 | [xvarenah](xvarenah.md) | xvarenah |
 | [zarir](zarir.md) | zarir |
 
+| [Haosravah](Haosravah.md) | Haosravah |
+| [Parendi](Parendi.md) | 帕倫迪（Parendi）— 財富與寶藏女神 |
 ---
 *Auto-generated on 2026-08-15 16:10 UTC*

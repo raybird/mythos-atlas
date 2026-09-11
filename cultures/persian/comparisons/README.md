@@ -65,5 +65,6 @@
 | [zurvanism-eternal-time](zurvanism-eternal-time.md) | zurvanism-eternal-time |
 | [波斯與美索不達米亞創世比較](波斯與美索不達米亞創世比較.md) | 波斯與美索不達米亞創世比較 |
 
+| [sacred-steeds-cross-cultural](sacred-steeds-cross-cultural.md) | 神駿跨文化比較 |
 ---
 *Auto-generated on 2026-08-15 16:10 UTC*
