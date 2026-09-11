@@ -77,5 +77,6 @@
 | [冥界守門人跨文化比較](冥界守門人跨文化比較.md) | 冥界守門人跨文化比較 |
 | [cosmic-egg-creation-myths](cosmic-egg-creation-myths.md) | 宇宙蛋創世神話跨文化比較 |
 | [mourning-mothers-dying-gods](mourning-mothers-dying-gods.md) | 哀慟之母：喪子母親女神跨文化比較 |
+| [two-faced-deities-comparison](two-faced-deities-comparison.md) | 多面神祇跨文化比較 |
 ---
 *Auto-generated on 2026-08-15 16:10 UTC*
