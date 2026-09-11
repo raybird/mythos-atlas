@@ -13,6 +13,7 @@
 | [Jamsaran](Jamsaran.md) | Jamsaran |
 | [Khoormusta](Khoormusta.md) | Khoormusta |
 | [Lus](Lus.md) | Lus |
+| [Od-Ana](Od-Ana.md) | Od-Ana（火母神) |
 | [Ot](Ot.md) | Ot |
 | [Sakia](Sakia.md) | Sakia |
 | [Tengri](Tengri.md) | Tengri |
@@ -24,6 +25,7 @@
 | [月神薩蘭](月神薩蘭.md) | 月神薩蘭 |
 | [白老翁](白老翁.md) | 白老翁 |
 | [蒼狼神](蒼狼神.md) | 蒼狼神 |
+| [蘇勒德](蘇勒德.md) | 蘇勒德 |
 
 ---
 *Auto-generated on 2026-08-15 16:10 UTC*

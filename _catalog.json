@@ -2067,7 +2067,7 @@
       ],
       "creation": "最初只有無邊汪洋與黑暗。Bai-Ulgan(創造神)或Lama(受佛教影響版本)以鐵棒攪拌汪洋，生風與火，水中央凝結成大地。另一版本：天神Esege Malan以一把泥土捏出太陽與月亮，再創造萬物。佛教影響版本：釋迦牟尼以金箭射穿金蛙，蛙身化為五大元素與大地。",
       "flood": "蒙古洪水神話常與Tengri的憤怒相關——人類違背天道，Tengri降下洪水毀滅不義者，僅少數善良者得救。薩滿傳說中世界經歷多次毀滅(火、洪水、風)，為佛教宇宙循環觀念的前身。洪水消退後新世界在聖山Burkhan Khaldun重生。",
-      "pantheon": "Tengri(永恆藍天/至高神)、Bai-Ulgan(創造/善神)、Esege Malan(天父)、Erlik Khan(冥界之王)、Daichi Tengri(戰神)、Ot(婚姻女神)、Khoormusta(西方55天之首)、Ataa Ulaan(東方44天之首)、Umay(地母/生育)",
+      "pantheon": "Tengri(永恆藍天/至高神)、Bai-Ulgan(創造/善神)、Esege Malan(天父)、Erlik Khan(冥界之王)、Daichi Tengri(戰神)、Ot(婚姻女神)、Khoormusta(西方55天之首)、Ataa Ulaan(東方44天之首)、Umay(地母/生育)、蘇勒德(旗之精靈/戰神之魂)",
       "stories": [
         "格薩爾王降魔",
         "Jangar史詩",
@@ -2079,7 +2079,8 @@
         "霍里土默特的天鵝處女",
         "貝加爾湖的女兒：安加拉河的出走與薩滿石",
         "卡倫拜與土撥鼠",
-        "Ergenekon鐵山重生"
+        "Ergenekon鐵山重生",
+"九斿白纛的傳說"
       ],
       "order": 24,
       "timeline": {
@@ -2110,20 +2111,22 @@
           "persian"
         ]
       },
-      "_stories": 11,
+      "_stories": 12,
       "gods": [
         "太陽神納蘭",
         "月神薩蘭",
         "蘆斯",
         "南斯拉伊",
-        "Od Ana（火母神）"
+        "Od Ana（火母神）",
+"蘇勒德（旗之精靈）"
       ],
       "comparisons": [
         "神異受孕跨文化比較",
         "日月食神話跨文化比較",
         "水靈與河神跨文化比較",
         "財神與貪婪懲戒跨文化比較",
-        "火母神跨文化比較"
+        "火母神跨文化比較",
+"戰旗與軍旗守護靈跨文化比較"
       ]
     },
     {
@@ -2847,7 +2850,7 @@
           "indigenous-americas"
         ]
       },
-      "_stories": 11,
+      "_stories": 12,
       "gods": [
         "Mapulon",
         "麥圭延",
@@ -3047,7 +3050,7 @@
         "Liber Pater"
       ],
       "_gods": 6,
-      "_stories": 11,
+      "_stories": 12,
       "comparisons": [
         "狂舞女靈跨文化比較",
         "神聖騎士：達基亞騎士英雄神跨文化比較",
@@ -3579,7 +3582,7 @@
           "greek"
         ]
       },
-      "_stories": 11,
+      "_stories": 12,
       "gods": [
         "阿斯特里翁",
         "米諾斯精靈",
