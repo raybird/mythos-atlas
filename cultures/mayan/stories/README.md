@@ -66,5 +66,6 @@
 | [yum-kaax-hunter-covenant](yum-kaax-hunter-covenant.md) | yum-kaax-hunter-covenant |
 
 | [晨星之怨：察克·艾克與太陽之爭](chak-ek-morning-star-venus-myth.md) | chak-ek-morning-star-venus-myth |
+| [卡內克與薩克·尼克特：白花與黑蛇的私奔](canek-sac-nicte.md) | 卡內克與薩克·尼克特：白花與黑蛇的私奔 |
 ---
 *Auto-generated on 2026-08-15 16:10 UTC*

@@ -72,5 +72,6 @@
 | [Tohil](Tohil.md) | Tohil |
 
 | [Chak-Ek](Chak-Ek.md) | Chak-Ek |
+| [Yopaat](Yopaat.md) | Yopaat |
 ---
 *Auto-generated on 2026-08-15 16:10 UTC*
