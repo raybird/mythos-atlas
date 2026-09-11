@@ -47,4 +47,4 @@ Otto Rank 在其經典研究《英雄誕生神話》（*The Myth of the Birth of
 5. Herodotus, *Histories*, I.107-122（居魯士與母狗 Spako）.
 6. Diodorus Siculus, *Bibliotheca Historica*, Book II（塞彌拉米斯與鴿群）.
 7. Oguz, Mehmet. "Asena: She-Wolf of the Turkic Lineage." *In* *Fairy Tales in the Contemporary Global Context*, 2020.
-8. 段寶林,(198少吃),中央民族大學出版社,2010年(突厥-蒙古狼圖騰與族源研究).
+8. 那木吉拉,《蒙古族古典文學研究:以蒙古族及北方民族歷史文化為背景》,北京:中央民族大學出版社,2010年（突厥和蒙古諸民族狼鹿圖騰與族源傳說考辨）. 另參 那木吉拉,《狼圖騰——阿爾泰獸祖神話探源》,北京:民族出版社,2009年.
