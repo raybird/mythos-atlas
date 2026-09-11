@@ -15,6 +15,7 @@
 | [flood-myths](flood-myths.md) | flood-myths |
 | [founding-kings](founding-kings.md) | founding-kings |
 | [four-immortals](four-immortals.md) | four-immortals |
+| [frog-toad-rain-myths-comparative](frog-toad-rain-myths-comparative.md) | frog-toad-rain-myths-comparative |
 | [mother-goddess-worship](mother-goddess-worship.md) | mother-goddess-worship |
 | [mother-goddess](mother-goddess.md) | mother-goddess |
 | [mountain-worship-cross-cultural](mountain-worship-cross-cultural.md) | mountain-worship-cross-cultural |

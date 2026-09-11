@@ -22,6 +22,7 @@
 | [than-set](than-set.md) | than-set |
 | [than-tru-troi](than-tru-troi.md) | than-tru-troi |
 | [thanh-giong](thanh-giong.md) | thanh-giong |
+| [thien-y-a-na](thien-y-a-na.md) | thien-y-a-na |
 | [tran-hung-dao](tran-hung-dao.md) | tran-hung-dao |
 
 ---

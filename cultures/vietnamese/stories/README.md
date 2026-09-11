@@ -7,6 +7,7 @@
 | [cay-neu-legend](cay-neu-legend.md) | cay-neu-legend |
 | [cay-tre-tram-dot](cay-tre-tram-dot.md) | cay-tre-tram-dot |
 | [chu-dong-tu-tien-dung](chu-dong-tu-tien-dung.md) | chu-dong-tu-tien-dung |
+| [con-coc-la-cau-ong-troi](con-coc-la-cau-ong-troi.md) | con-coc-la-cau-ong-troi |
 | [chuy-dong-tu-gap-tien](chuy-dong-tu-gap-tien.md) | chuy-dong-tu-gap-tien |
 | [ho-ba-be-lake-legend](ho-ba-be-lake-legend.md) | ho-ba-be-lake-legend |
 | [ho-guom-le-loi](ho-guom-le-loi.md) | ho-guom-le-loi |
