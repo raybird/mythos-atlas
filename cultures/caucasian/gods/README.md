@@ -27,5 +27,8 @@
 
 | [德澤拉莎（Dzerassa）](Dzerassa.md) | 德澤拉莎（Dzerassa） |
 | [Washtin — 高加索戰神與命運守護者](Washtin.md) | Washtin — 高加索戰神與命運守護者 |
+
+| [阿爾馬齊（Armazi）](Armazi.md) | 阿爾馬齊（Armazi）— 卡特維利萬神殿的至高主神 |
+| [達麗（Dali）](Dali.md) | 達麗（Dali）— 斯凡山林的狩獵女神 |
 ---
 *Auto-generated on 2026-08-15 16:10 UTC*

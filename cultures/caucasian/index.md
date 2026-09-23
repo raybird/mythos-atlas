@@ -20,7 +20,7 @@
 
 ## 神系
 
-Xwycau(獨一神/造物)、Uastyrdzhi(聖喬治/戰/旅者)、Washtin(戰神/Fate)、Fælværa(牛羊守護)、Tutyr(狼神)、Donbettyr(海/水神)、Safa(誓言/爐灶神)、Mardagan(雷神)、Naf(祖先靈魂)、Barastyr(冥界王者)
+Xwycau(獨一神/造物)、Uastyrdzhi(聖喬治/戰/旅者)、Washtin(戰神/Fate)、Fælværa(牛羊守護)、Tutyr(狼神)、Donbettyr(海/水神)、Safa(誓言/爐灶神)、Mardagan(雷神)、Naf(祖先靈魂)、Barastyr(冥界王者)、Armazi(卡特維利至高主神)、Dali(斯凡山林狩獵女神)
 
 ## 核心母題
 
@@ -47,6 +47,7 @@ Xwycau(獨一神/造物)、Uastyrdzhi(聖喬治/戰/旅者)、Washtin(戰神/Fat
 - Soslan與戰士之死
 - Nart大洪水
 - 蛇戰傳說
+- 阿米拉尼被縛（縛鏈巨神/卡特維利普羅米修斯）
 
 ---
 *Generated on 2026-06-20 from _catalog.json*
