@@ -1,4 +1,4 @@
-# 已分析母題索引（526 篇）
+# 已分析母題索引（527 篇）
 
 
 
@@ -534,3 +534,4 @@
 | 524 | zodiac-astrology-myths-comparative.md | 天穹之獸：跨文化神話中的黃道與星宿體系 |
 | 525 | 聖林跨文化神聖樹林崇拜比較分析.md | 聖林：跨文化神聖樹林崇拜比較分析 |
 | 526 | aurora-northern-lights-myths-comparative.md | 天火之籤：北極光神話的跨文化比較分析 |
+| 527 | gold-and-golden-touch-comparative.md | 點石成金：黃金觸與黃金神聖性的跨文化比較神話學 |
