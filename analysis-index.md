@@ -1,4 +1,4 @@
-# 已分析母題索引（532 篇）
+# 已分析母題索引（533 篇）
 
 
 
@@ -540,3 +540,4 @@
 | 530 | pottery-clay-fire-origin-myths-comparative.md | 摶土為器：黏土、陶輪與火的文明起源——跨文化製陶神話比較分析 |
 | 531 | toponymic-myths-place-name-origins-comparative.md | 以名銘地：地名起源神話的跨文化比較分析——愛爾蘭地名之學、日本風土記、歌之線、希臘名祖、中國望夫石 |
 | 532 | libation-pouring-sacred-offerings-comparative.md | 傾注之禮：奠酒——液體供獻的跨文化比較神話學（\*gʰeu-/šipant-/spondē/祼灌/libation/challa） |
+| 533 | earth-mother-archetype-comparative.md | 地母原型：跨文化神話中的大地母神比較研究（\*Dʰéǵʰōm/Gaia/Pachamama/后土/Ninhursag） |
