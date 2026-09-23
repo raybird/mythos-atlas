@@ -1,4 +1,4 @@
-# 已分析母題索引（533 篇）
+# 已分析母題索引（536 篇）
 
 
 
@@ -542,3 +542,5 @@
 | 532 | libation-pouring-sacred-offerings-comparative.md | 傾注之禮：奠酒——液體供獻的跨文化比較神話學（\*gʰeu-/šipant-/spondē/祼灌/libation/challa） |
 | 533 | earth-mother-archetype-comparative.md | 地母原型：跨文化神話中的大地母神比較研究（\*Dʰéǵʰōm/Gaia/Pachamama/后土/Ninhursag） |
 | 534 | sacred-banners-battle-standards-comparative.md | 旗上寄魂：跨文化神話中的神聖旗幟與軍旗母題比較研究（aquila/Sulde/錦御旗/oriflamme/渡鴉旗/釁旗） |
+| 535 | salamander-fireproof-creature-comparative.md | 火中之物：蠑螈與「不焚之體」的跨文化比較——石棉、火判與神性耐火（salamander/axolotl/火浣布/Xolotl） |
+| 536 | garlic-onion-apotropaic-comparative.md | 餐桌上的驅魔者：大蒜、洋蔥與「辛臭—神聖」的跨文化比較——嗅覺神學與辟邪護符（allium/garlic/nazar/五辛） |
