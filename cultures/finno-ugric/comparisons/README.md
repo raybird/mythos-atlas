@@ -3,6 +3,7 @@
 | 檔案 | 名稱 |
 |------|------|
 | [Akka與跨文化地母神比較](Akka與跨文化地母神比較.md) | Akka與跨文化地母神比較 |
+| [cursed-sword-cross-cultural](cursed-sword-cross-cultural.md) | 被詛咒之劍跨文化比較 |
 | [Lemminkäinen的死亡與復活跨文化比較](Lemminkäinen的死亡與復活跨文化比較.md) | Lemminkäinen的死亡與復活跨文化比較 |
 | [Sampo與跨文化豐饒神器比較](Sampo與跨文化豐饒神器比較.md) | Sampo與跨文化豐饒神器比較 |
 | [Tuonela芬蘭冥界與跨文化冥界觀念比較](Tuonela芬蘭冥界與跨文化冥界觀念比較.md) | Tuonela芬蘭冥界與跨文化冥界觀念比較 |

@@ -8,6 +8,7 @@
 | [Iku-Turso](Iku-Turso.md) | Iku-Turso |
 | [Ilmatar](Ilmatar.md) | Ilmatar |
 | [Joukahainen](Joukahainen.md) | Joukahainen |
+| [Kaleva](Kaleva.md) | Kaleva（卡勒夫） |
 | [Kuu](Kuu.md) | Kuu |
 | [Lemminkäinen](Lemminkäinen.md) | Lemminkäinen |
 | [Louhi](Louhi.md) | Louhi |
