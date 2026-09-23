@@ -541,3 +541,4 @@
 | 531 | toponymic-myths-place-name-origins-comparative.md | 以名銘地：地名起源神話的跨文化比較分析——愛爾蘭地名之學、日本風土記、歌之線、希臘名祖、中國望夫石 |
 | 532 | libation-pouring-sacred-offerings-comparative.md | 傾注之禮：奠酒——液體供獻的跨文化比較神話學（\*gʰeu-/šipant-/spondē/祼灌/libation/challa） |
 | 533 | earth-mother-archetype-comparative.md | 地母原型：跨文化神話中的大地母神比較研究（\*Dʰéǵʰōm/Gaia/Pachamama/后土/Ninhursag） |
+| 534 | sacred-banners-battle-standards-comparative.md | 旗上寄魂：跨文化神話中的神聖旗幟與軍旗母題比較研究（aquila/Sulde/錦御旗/oriflamme/渡鴉旗/釁旗） |
