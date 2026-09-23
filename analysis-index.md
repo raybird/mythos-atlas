@@ -1,4 +1,4 @@
-# 已分析母題索引（525 篇）
+# 已分析母題索引（526 篇）
 
 
 
@@ -6,7 +6,6 @@
 
 
 
-| # | 檔案 | 標題 |
 | # | 檔案 | 標題 |
 |----|------|------|
 | 1 | abandoned-hero-exposed-child.md | 被遺棄的英雄：跨文化神話中的棄嬰原型 |
@@ -534,3 +533,4 @@
 | 523 | youngest-child-hero-comparative.md | 末子之選：么子英雄與幼子繼承的跨文化神話比較 |
 | 524 | zodiac-astrology-myths-comparative.md | 天穹之獸：跨文化神話中的黃道與星宿體系 |
 | 525 | 聖林跨文化神聖樹林崇拜比較分析.md | 聖林：跨文化神聖樹林崇拜比較分析 |
+| 526 | aurora-northern-lights-myths-comparative.md | 天火之籤：北極光神話的跨文化比較分析 |
