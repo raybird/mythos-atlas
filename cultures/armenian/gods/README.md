@@ -23,6 +23,7 @@
 | [tsovinar](tsovinar.md) | tsovinar |
 | [vahagn](vahagn.md) | vahagn |
 | [vanatur](vanatur.md) | vanatur |
+| [zatik](zatik.md) | Zatik（扎提克）— 春季復活與分離萬色之神 |
 
 ---
 *Auto-generated on 2026-08-15 16:10 UTC*

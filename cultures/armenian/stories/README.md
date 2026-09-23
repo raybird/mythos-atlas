@@ -21,6 +21,7 @@
 | [vahagn-dragon-slayer-birth](vahagn-dragon-slayer-birth.md) | vahagn-dragon-slayer-birth |
 | [vahagn-dragon](vahagn-dragon.md) | vahagn-dragon |
 | [vardavar-astghik](vardavar-astghik.md) | vardavar-astghik |
+| [sanasar-baghdasar](sanasar-baghdasar.md) | 薩納薩與巴格達薩：薩松孿生建國英雄 |
 
 ---
 *Auto-generated on 2026-08-15 16:10 UTC*

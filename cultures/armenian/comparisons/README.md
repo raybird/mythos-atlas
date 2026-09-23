@@ -22,6 +22,7 @@
 | [tsovinar-water-goddess](tsovinar-water-goddess.md) | tsovinar-water-goddess |
 | [urartu-storm-god-comparative](urartu-storm-god-comparative.md) | urartu-storm-god-comparative |
 | [vardavar-water-festivals-comparative](vardavar-water-festivals-comparative.md) | vardavar-water-festivals-comparative |
+| [sacred-twin-founders-comparative](sacred-twin-founders-comparative.md) | 神聖孿生建國英雄跨文化比較 |
 | [vishap-dragon-slayer](vishap-dragon-slayer.md) | vishap-dragon-slayer |
 
 ---
