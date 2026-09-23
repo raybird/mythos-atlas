@@ -145,7 +145,9 @@
   "hindu",
   "philippine",
   "mayan",
-  "korean"
+  "korean",
+  "japanese",
+  "caucasian"
  ],
  "analysis_log": [
   "sacrificial-creation",
@@ -210,7 +212,10 @@
   "looking-back-taboo-comparative",
   "thunderstone-ceraunia-cross-cultural-comparative",
   "creation-from-clay-comparative",
-  "taboo-speech-and-silence-mandates-comparative"
+  "taboo-speech-and-silence-mandates-comparative",
+  "libation-pouring-sacred-offerings-comparative",
+  "earth-mother-archetype-comparative",
+  "sacred-banners-battle-standards-comparative"
  ],
- "runs": 181
+ "runs": 183
 }
