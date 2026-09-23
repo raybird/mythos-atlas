@@ -6,6 +6,7 @@
 | [athirat-primordial-ocean](athirat-primordial-ocean.md) | athirat-primordial-ocean |
 | [baal-lotan-serpent-combat](baal-lotan-serpent-combat.md) | baal-lotan-serpent-combat |
 | [dido-carthage-foundation](dido-carthage-foundation.md) | dido-carthage-foundation |
+| [el-banquet](el-banquet.md) | el-banquet |
 | [horon-vs-serpent](horon-vs-serpent.md) | horon-vs-serpent |
 | [melqart-tyre-foundation](melqart-tyre-foundation.md) | melqart-tyre-foundation |
 | [pygmalion-and-galatea](pygmalion-and-galatea.md) | pygmalion-and-galatea |

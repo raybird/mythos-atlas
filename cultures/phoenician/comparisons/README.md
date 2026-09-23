@@ -4,6 +4,7 @@
 |------|------|
 | [alphabeth-writing-origin-comparative](alphabeth-writing-origin-comparative.md) | alphabeth-writing-origin-comparative |
 | [colonial-foundation-myths](colonial-foundation-myths.md) | colonial-foundation-myths |
+| [fates-birth-goddesses-comparative](fates-birth-goddesses-comparative.md) | fates-birth-goddesses-comparative |
 | [phoenician-colonial-myths-spread](phoenician-colonial-myths-spread.md) | phoenician-colonial-myths-spread |
 | [phoenician-dying-rising-gods-global](phoenician-dying-rising-gods-global.md) | phoenician-dying-rising-gods-global |
 | [phoenician-greek-underworld](phoenician-greek-underworld.md) | phoenician-greek-underworld |

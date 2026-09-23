@@ -8,6 +8,7 @@
 | [pumay](pumay.md) | pumay |
 | [qetesh](qetesh.md) | qetesh |
 | [shahar-shalim](shahar-shalim.md) | shahar-shalim |
+| [Kotharat](Kotharat.md) | Kotharat |
 | [亞姆](亞姆.md) | 亞姆 |
 | [亞里施](亞里施.md) | 亞里施 |
 | [埃爾](埃爾.md) | 埃爾 |

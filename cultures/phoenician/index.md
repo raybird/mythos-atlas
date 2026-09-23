@@ -39,6 +39,7 @@
 - Baal戰Yam
 - Baal戰Mot
 - 阿斯塔特尋夫
+- 埃爾的醉宴（KTU 1.114）
 
 ---
 *Generated on 2026-06-20 from _catalog.json*
