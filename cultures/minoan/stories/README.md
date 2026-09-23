@@ -5,6 +5,7 @@
 | [ariadne-dionysus](ariadne-dionysus.md) | ariadne-dionysus |
 | [birth-of-zeus-crete](birth-of-zeus-crete.md) | birth-of-zeus-crete |
 | [birth-of-zeus](birth-of-zeus.md) | birth-of-zeus |
+| [britomartis-flight](britomartis-flight.md) | 布麗托瑪堤絲的出逃 — 落入漁網的處子獵神 |
 | [bull-leaping](bull-leaping.md) | bull-leaping |
 | [cretan-tomb-of-zeus](cretan-tomb-of-zeus.md) | cretan-tomb-of-zeus |
 | [daedalus-and-icarus](daedalus-and-icarus.md) | daedalus-and-icarus |

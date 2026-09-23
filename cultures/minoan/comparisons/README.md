@@ -18,6 +18,7 @@
 | [palace-temple-economy-comparison](palace-temple-economy-comparison.md) | palace-temple-economy-comparison |
 | [parricide-prophecy-comparative](parricide-prophecy-comparative.md) | parricide-prophecy-comparative |
 | [riddle-thread-puzzle-comparative](riddle-thread-puzzle-comparative.md) | riddle-thread-puzzle-comparative |
+| [serpent-divine-birth-comparative](serpent-divine-birth-comparative.md) | 蛇形受孕與蛇護神子：查格柔斯與全球神蛇誕生母題的跨文化比較 |
 | [snake-goddess-global-comparative](snake-goddess-global-comparative.md) | snake-goddess-global-comparative |
 | [thalassocracy-sea-myths](thalassocracy-sea-myths.md) | thalassocracy-sea-myths |
 | [thera-eruption-myth](thera-eruption-myth.md) | thera-eruption-myth |

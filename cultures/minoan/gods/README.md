@@ -24,6 +24,7 @@
 | [Snake-Goddess](Snake-Goddess.md) | Snake-Goddess |
 | [Talos](Talos.md) | Talos |
 | [Velchanos](Velchanos.md) | Velchanos |
+| [Zagreus](Zagreus.md) | Zagreus — 以蛇受孕的克里特神子 |
 | [diktynna](diktynna.md) | diktynna |
 
 ---
