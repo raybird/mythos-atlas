@@ -144,7 +144,8 @@
   "slavic",
   "hindu",
   "philippine",
-  "mayan"
+  "mayan",
+  "korean"
  ],
  "analysis_log": [
   "sacrificial-creation",
@@ -211,5 +212,5 @@
   "creation-from-clay-comparative",
   "taboo-speech-and-silence-mandates-comparative"
  ],
- "runs": 180
+ "runs": 181
 }
