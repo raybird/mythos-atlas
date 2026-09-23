@@ -1,4 +1,4 @@
-# 已分析母題索引（531 篇）
+# 已分析母題索引（532 篇）
 
 
 
@@ -539,3 +539,4 @@
 | 529 | guest-star-supernovae-historical-records-comparative.md | 客星：歷史超新星的跨文化觀測與神話詮釋 |
 | 530 | pottery-clay-fire-origin-myths-comparative.md | 摶土為器：黏土、陶輪與火的文明起源——跨文化製陶神話比較分析 |
 | 531 | toponymic-myths-place-name-origins-comparative.md | 以名銘地：地名起源神話的跨文化比較分析——愛爾蘭地名之學、日本風土記、歌之線、希臘名祖、中國望夫石 |
+| 532 | libation-pouring-sacred-offerings-comparative.md | 傾注之禮：奠酒——液體供獻的跨文化比較神話學（\*gʰeu-/šipant-/spondē/祼灌/libation/challa） |
