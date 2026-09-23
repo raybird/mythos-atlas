@@ -12,6 +12,7 @@
 | [kumarbi-cycle](kumarbi-cycle.md) | kumarbi-cycle |
 | [mursili-plague-prayers](mursili-plague-prayers.md) | mursili-plague-prayers |
 | [nerik-storm-god-disappearance](nerik-storm-god-disappearance.md) | nerik-storm-god-disappearance |
+| [sargon-king-of-battle](sargon-king-of-battle.md) | 王中之王的征戰 — 薩爾貢遠征普魯什漢達 |
 | [ship-of-silver](ship-of-silver.md) | ship-of-silver |
 | [snake-and-eagle-myth](snake-and-eagle-myth.md) | snake-and-eagle-myth |
 | [song-of-emergence](song-of-emergence.md) | song-of-emergence |

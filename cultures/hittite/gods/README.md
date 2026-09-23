@@ -8,6 +8,7 @@
 | [Arinna](Arinna.md) | Arinna |
 | [Ea](Ea.md) | Ea |
 | [Hannahannah](Hannahannah.md) | Hannahannah |
+| [Halki](Halki.md) | Halki — 穀物與園圃之神 |
 | [Hepat](Hepat.md) | Hepat |
 | [Hittite-Pantheon](Hittite-Pantheon.md) | Hittite-Pantheon |
 | [Inara](Inara.md) | Inara |

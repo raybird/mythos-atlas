@@ -8,6 +8,7 @@
 | [divine-kingship-cycle](divine-kingship-cycle.md) | divine-kingship-cycle |
 | [divine-messenger-vizier-comparative](divine-messenger-vizier-comparative.md) | divine-messenger-vizier-comparative |
 | [divine-succession-near-east](divine-succession-near-east.md) | divine-succession-near-east |
+| [expedition-sacred-forest-edge-of-world-comparative](expedition-sacred-forest-edge-of-world-comparative.md) | 聖林與文明的盡頭：雪松森林與世界邊境遠征的跨文化比較 |
 | [gender-and-divinity](gender-and-divinity.md) | gender-and-divinity |
 | [hepat-and-queen-goddesses](hepat-and-queen-goddesses.md) | hepat-and-queen-goddesses |
 | [hero-trial-comparative](hero-trial-comparative.md) | hero-trial-comparative |

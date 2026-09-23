@@ -1921,12 +1921,13 @@
       ],
       "creation": "Anu(天神)被Kumarbi取代，Kumarbi吞下Anu的生殖器懷孕，生下風暴神Teshub。Teshub以風暴雷電戰勝Kumarbi，取得王權。此後Kumarbi以石巨神Ullikummi挑戰眾神，Teshub再次擊敗。",
       "flood": "赫梯文獻保留「洪水毀滅」的隱喻——Ullikummi神話中石巨人從海中升起象徵宇宙秩序的混亂重啟，而有些學者認為赫梯洪水傳說通過胡里安(Hurrian)媒介影響了希臘神話。",
-      "pantheon": "Teshub(風暴神)、Hepat(太陽女神)、Kumarbi(穀神/父神)、Anu(天神)、Ea(智慧神)、Shaushka(愛神)、Arinna的太陽女神",
+      "pantheon": "Teshub(風暴神)、Hepat(太陽女神)、Kumarbi(穀神/父神)、Anu(天神)、Ea(智慧神)、Shaushka(愛神)、Arinna的太陽女神、Halki(穀物神)",
       "stories": [
         "Kumarbi神話循環",
         "Telepinu失蹤",
         "伊盧揚卡蛇戰",
-        "穆爾西里二世的瘟疫祈禱"
+        "穆爾西里二世的瘟疫祈禱",
+        "《王中之王的征戰》——薩爾貢遠征雪松山與普魯什漢達"
       ],
       "order": 22,
       "timeline": {
@@ -1952,7 +1953,7 @@
           "phoenician"
         ]
       },
-      "_stories": 4
+      "_stories": 5
     },
     {
       "id": "yoruba",

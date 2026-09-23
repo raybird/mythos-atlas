@@ -19,7 +19,7 @@ Anu(天神)被Kumarbi取代，Kumarbi吞下Anu的生殖器懷孕，生下風暴�
 
 ## 神系
 
-Teshub(風暴神)、Hepat(太陽女神)、Kumarbi(穀神/父神)、Anu(天神)、Ea(智慧神)、Shaushka(愛神)、Arinna的太陽女神
+Teshub(風暴神)、Hepat(太陽女神)、Kumarbi(穀神/父神)、Anu(天神)、Ea(智慧神)、Shaushka(愛神)、Arinna的太陽女神、Halki(穀物神)
 
 ## 核心母題
 
@@ -39,6 +39,7 @@ Teshub(風暴神)、Hepat(太陽女神)、Kumarbi(穀神/父神)、Anu(天神)�
 - Kumarbi神話循環
 - Telepinu失蹤
 - 伊盧揚卡蛇戰
+- 《王中之王的征戰》——薩爾貢遠征普魯什漢達
 
 ---
 *Generated on 2026-06-20 from _catalog.json*
