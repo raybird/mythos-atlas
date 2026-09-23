@@ -1,4 +1,4 @@
-# 已分析母題索引（528 篇）
+# 已分析母題索引（529 篇）
 
 
 
@@ -536,3 +536,4 @@
 | 526 | aurora-northern-lights-myths-comparative.md | 天火之籤：北極光神話的跨文化比較分析 |
 | 527 | gold-and-golden-touch-comparative.md | 點石成金：黃金觸與黃金神聖性的跨文化比較神話學 |
 | 528 | qixi-tanabata-star-crossed-lovers-comparative.md | 織女與牽牛：星河之橋與七夕節慶的跨文化比較神話學 |
+| 529 | guest-star-supernovae-historical-records-comparative.md | 客星：歷史超新星的跨文化觀測與神話詮釋 |
