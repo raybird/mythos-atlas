@@ -26,5 +26,7 @@
 | [Uenuku](Uenuku.md) | Uenuku |
 | [Whiro](Whiro.md) | Whiro |
 
+| [Whaitiri](Whaitiri.md) | 懷提里（Whaitiri）— 雷母與食人女神 |
+| [Poliahu](Poliahu.md) | Poliahu |
 ---
 *Auto-generated on 2026-08-15 16:10 UTC*

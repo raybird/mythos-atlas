@@ -22,5 +22,6 @@
 | [波利尼西亞風神跨文化比較](波利尼西亞風神跨文化比較.md) | 波利尼西亞風神跨文化比較 |
 | [snow-and-ice-deities-global](snow-and-ice-deities-global.md) | snow-and-ice-deities-global |
 
+| [sky-climbing-heroes-ascension-comparative](sky-climbing-heroes-ascension-comparative.md) | 攀天之徑：登天求法史詩的跨文化比較 |
 ---
 *Auto-generated on 2026-08-15 16:10 UTC*

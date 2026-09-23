@@ -22,5 +22,7 @@
 | [tinirau-whale](tinirau-whale.md) | tinirau-whale |
 | [tumatauenga-revenge](tumatauenga-revenge.md) | tumatauenga-revenge |
 
+| [tawhaki-heaven-ascension](tawhaki-heaven-ascension.md) | 塔瓦基的登天之路（Tāwhaki） |
+| [pele-and-poliahu](pele-and-poliahu.md) | pele-and-poliahu |
 ---
 *Auto-generated on 2026-08-15 16:10 UTC*
