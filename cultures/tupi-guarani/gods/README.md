@@ -9,6 +9,7 @@
 | [Ceuci](Ceuci.md) | Ceuci |
 | [Curupira-Saci](Curupira-Saci.md) | Curupira-Saci |
 | [Jaci-Guaraci](Jaci-Guaraci.md) | Jaci-Guaraci |
+| [Ipupiara](Ipupiara.md) | Ipupiara |
 | [Jasy-Jatere](Jasy-Jatere.md) | Jasy-Jatere |
 | [Jurupari](Jurupari.md) | Jurupari |
 | [Karai](Karai.md) | Karai |

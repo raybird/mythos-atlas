@@ -55,6 +55,7 @@ Nhanderuvuçú/Nhanderu(創世神/先祖)、Tupã(雷神/創造之音)、Jaci(�
 - Yara水仙女誘惑漁夫
 - Pajé薩滿上升天堂取靈藥
 - 光輝之土Yvy Marãe'ỹ的尋找
+- 與伊普皮亞拉之戰(斬滅水域掠食者)
 
 ---
 *Generated on 2026-06-20 from _catalog.json*

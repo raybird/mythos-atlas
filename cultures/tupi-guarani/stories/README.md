@@ -6,6 +6,7 @@
 | [ceiuci-star-wife](ceiuci-star-wife.md) | ceiuci-star-wife |
 | [curupira-judgment](curupira-judgment.md) | curupira-judgment |
 | [first-dance-origin](first-dance-origin.md) | first-dance-origin |
+| [ipupiara-encounter](ipupiara-encounter.md) | ipupiara-encounter |
 | [jurupari-sacred-flutes](jurupari-sacred-flutes.md) | jurupari-sacred-flutes |
 | [kaa-yerba-mate](kaa-yerba-mate.md) | kaa-yerba-mate |
 | [mair-steals-fire](mair-steals-fire.md) | mair-steals-fire |
