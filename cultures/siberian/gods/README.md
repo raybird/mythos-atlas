@@ -13,6 +13,7 @@
 | [Kere-tkun](Kere-tkun.md) | Kere-tkun |
 | [Kheglen](Kheglen.md) | Kheglen |
 | [Kuubai-Khotun](Kuubai-Khotun.md) | Kuubai-Khotun |
+| [Mir-Susne-Khum](Mir-Susne-Khum.md) | Mir-Susne-Khum — 世界巡視者 |
 | [Num-Torum](Num-Torum.md) | Num-Torum |
 | [Nurgun-Bootur](Nurgun-Bootur.md) | Nurgun-Bootur |
 | [Qormusta-Tengri](Qormusta-Tengri.md) | Qormusta-Tengri |

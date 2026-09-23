@@ -21,7 +21,7 @@
 
 ## 神系
 
-Buga(通古斯至高神)、Yryn-Ajy(雅庫特善造物主)、Ajy(善靈群)、Abasy(雅庫特惡靈群)、Erlik(布裏亞特/蒙古冥界之王)、N'urgun Bootur(雅庫特文化英雄)、Kalau(楚科奇惡靈)、Kere-tkun(楚科奇造物主)、Raven(渡鴉文化英雄)、Bayanai(通古斯狩獵神)、Umai(通古斯生育女神)、Tulujn(通古斯雷神)、Shaman/Noaidi(薩滿/靈媒)
+Buga(通古斯至高神)、Yryn-Ajy(雅庫特善造物主)、Ajy(善靈群)、Abasy(雅庫特惡靈群)、Erlik(布裏亞特/蒙古冥界之王)、N'urgun Bootur(雅庫特文化英雄)、Kalau(楚科奇惡靈)、Kere-tkun(楚科奇造物主)、Raven(渡鴉文化英雄)、Bayanai(通古斯狩獵神)、Umai(通古斯生育女神)、Tulujn(通古斯雷神)、Shaman/Noaidi(薩滿/靈媒)、Num-Torum(漢特/曼西至高天神)、Mir-Susne-Khum(世界巡視者/神人中介)
 
 ## 核心母題
 
@@ -40,6 +40,7 @@ Buga(通古斯至高神)、Yryn-Ajy(雅庫特善造物主)、Ajy(善靈群)、Ab
 - **宇宙樹/世界軸** ↔ Yggdrasil/建木/薩滿樹
 - **渡鴉造人/盜光** ↔ 北美原住民Raven/北歐Odin的渡鴉
 - **薩滿入冥界** ↔ 希臘Orpheus/日本伊邪那岐
+- **日落被囚於地底** ↔ 芬蘭《卡勒瓦拉》Pohjola盜取日月/日本天照岩戶/埃及阿佩普
 
 ## 重要故事
 
@@ -52,6 +53,7 @@ Buga(通古斯至高神)、Yryn-Ajy(雅庫特善造物主)、Ajy(善靈群)、Ab
 - 狐狸欺騙巨靈
 - 北極光爲死者之舞
 - Kalau以火毀滅第三世界
+- 日月被囚與取回（世界巡視者下冥界）
 
 ---
 *Generated on 2026-06-20 from _catalog.json*

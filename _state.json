@@ -147,7 +147,8 @@
   "mayan",
   "korean",
   "japanese",
-  "caucasian"
+  "caucasian",
+  "siberian"
  ],
  "analysis_log": [
   "sacrificial-creation",
@@ -219,5 +220,5 @@
   "salamander-fireproof-creature-comparative",
   "garlic-onion-apotropaic-comparative"
  ],
- "runs": 185
+ "runs": 186
 }
