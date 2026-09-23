@@ -24,6 +24,7 @@
 | [Nargun](Nargun.md) | 納貢 — 石皮女靈與暗夜綁架者 |
 | [Rainbow-Serpent](Rainbow-Serpent.md) | Rainbow-Serpent |
 | [Wandjina](Wandjina.md) | Wandjina |
+| [Wuradilagu](Wuradilagu.md) | 武拉迪拉古 — 孤獨行走大地的女祖靈 |
 | [Yhi-Sun-Goddess](Yhi-Sun-Goddess.md) | Yhi-Sun-Goddess |
 
 ---

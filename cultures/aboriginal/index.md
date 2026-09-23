@@ -37,6 +37,7 @@
 - Tiddalik青蛙與乾旱
 - 七星姊妹
 - Songlines追蹤祖先足跡
+- 卡塔曲塔的蜥蜴人兄弟（Wati Kuṯarra）
 
 ---
 *Generated on 2026-06-20 from _catalog.json*

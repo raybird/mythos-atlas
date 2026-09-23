@@ -16,6 +16,7 @@
 | [sacred-lawgivers-comparative](sacred-lawgivers-comparative.md) | sacred-lawgivers-comparative |
 | [serpent-deities](serpent-deities.md) | serpent-deities |
 | [sky-father-comparison](sky-father-comparison.md) | sky-father-comparison |
+| [solitary-creation-lone-creator-comparative](solitary-creation-lone-creator-comparative.md) | 孤獨的創世：無伴侶祖先與單一存在者的開天闢地跨文化比較 |
 | [songlines-world](songlines-world.md) | songlines-world |
 | [sun-women-comparative](sun-women-comparative.md) | sun-women-comparative |
 | [thunder-gods-comparative](thunder-gods-comparative.md) | thunder-gods-comparative |

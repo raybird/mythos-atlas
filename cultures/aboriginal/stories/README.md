@@ -19,6 +19,7 @@
 | [rainbow-serpent](rainbow-serpent.md) | rainbow-serpent |
 | [the-bunyip](the-bunyip.md) | the-bunyip |
 | [uluru-mala-kuniya](uluru-mala-kuniya.md) | uluru-mala-kuniya |
+| [wati-kutjara-lizard-men](wati-kutjara-lizard-men.md) | 卡塔曲塔的蜥蜴人兄弟 — 兩位祖先的疲憊之旅 |
 | [wawalag-sisters](wawalag-sisters.md) | wawalag-sisters |
 | [wayamba-turtle-shell](wayamba-turtle-shell.md) | wayamba-turtle-shell |
 | [why-crow-is-black](why-crow-is-black.md) | why-crow-is-black |
