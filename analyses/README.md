@@ -213,6 +213,7 @@
 - [Invisibility Myths Comparative](invisibility-myths-comparative.md)
 - [Iron Mythology Comparative](iron-mythology-comparative.md)
 - [Jade Myths Comparative](jade-myths-comparative.md)
+- [Jinn Parallel Humanity Comparative](jinn-parallel-humanity-comparative.md)
 - [Justice Law Comparative](justice-law-comparative.md)
 - [Kingfisher Halcyon Myths Comparative](kingfisher-halcyon-myths-comparative.md)
 - [Labyrinth Spiral Myths](labyrinth-spiral-myths.md)
