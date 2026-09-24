@@ -25,6 +25,7 @@
 | [Turu-kamuy](Turu-kamuy.md) | Turu-kamuy |
 | [Waka-ush-Kamuy](Waka-ush-Kamuy.md) | Waka-ush-Kamuy |
 | [Yushkep-kamuy](Yushkep-kamuy.md) | Yushkep-kamuy |
+| [Shiramba-Kamuy](Shiramba-Kamuy.md) | Shiramba-Kamuy |
 
 | [Kosam（庫薩姆）](Kosam（庫薩姆）.md) | Kosam（庫薩姆） |
 ---

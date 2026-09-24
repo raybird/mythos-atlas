@@ -19,7 +19,7 @@
 
 ## 神系
 
-Kotan-kar-kamuy(創世神)、Kamuy-huci(火竈女神)、Kim-un-kamuy(熊/山神)、Rep-un-kamuy(海神)、Ae-oyna-kamuy(文化英雄/教導者)、Tokapcup-kamuy(太陽神)、Kunnecup-kamuy(月神)、Wakka-us-kamuy(淡水神)、Chikap-kamuy(貓頭鷹/陸地神)
+Kotan-kar-kamuy(創世神)、Kamuy-huci(火竈女神)、Kim-un-kamuy(熊/山神)、Rep-un-kamuy(海神)、Ae-oyna-kamuy(文化英雄/教導者)、Tokapcup-kamuy(太陽神)、Kunnecup-kamuy(月神)、Wakka-us-kamuy(淡水神)、Chikap-kamuy(貓頭鷹/陸地神)、Kandakoro-kamuy(天空之神/天界之主)、Shiramba-Kamuy(植被/木材之神)、Turep-kamuy(烏巴百合女神)
 
 ## 核心母題
 
@@ -44,6 +44,7 @@ Kotan-kar-kamuy(創世神)、Kamuy-huci(火竈女神)、Kim-un-kamuy(熊/山神)
 - Okikurumi英雄傳說
 - 狐狸娶親
 - 貓頭鷹與人類的約定
+- 烏巴百合女神與白色粥
 
 ---
 *Generated on 2026-06-20 from _catalog.json*

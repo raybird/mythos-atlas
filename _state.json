@@ -155,7 +155,8 @@
   "sumerian",
   "norse",
   "mapuche",
-  "philippine"
+  "philippine",
+  "ainu"
  ],
  "analysis_log": [
   "sacrificial-creation",
@@ -231,5 +232,5 @@
   "king-of-birds-bird-elections-comparative",
   "hedgehog-myths-comparative"
  ],
- "runs": 197
+ "runs": 198
 }

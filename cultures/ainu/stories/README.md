@@ -20,6 +20,7 @@
 | [star-girl-crane](star-girl-crane.md) | star-girl-crane |
 | [sun-moon-swap](sun-moon-swap.md) | sun-moon-swap |
 | [yushkep-kamuy-and-the-demonic-suitor](yushkep-kamuy-and-the-demonic-suitor.md) | yushkep-kamuy-and-the-demonic-suitor |
+| [turep-kamuy-heartleaf-lily](turep-kamuy-heartleaf-lily.md) | turep-kamuy-heartleaf-lily |
 | [世界承載之魚](世界承載之魚.md) | 世界承載之魚 |
 
 | [Yukar（神謠）的起源](Yukar（神謠）的起源.md) | Yukar（神謠）的起源 |

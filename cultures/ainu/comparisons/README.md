@@ -18,6 +18,7 @@
 | [sacred-mountain-global](sacred-mountain-global.md) | sacred-mountain-global |
 | [sacred-salmon-comparative](sacred-salmon-comparative.md) | sacred-salmon-comparative |
 | [spider-goddess-global](spider-goddess-global.md) | spider-goddess-global |
+| [vegetation-grain-gods-global](vegetation-grain-gods-global.md) | vegetation-grain-gods-global |
 | [sun-moon-global](sun-moon-global.md) | sun-moon-global |
 | [water-deity-global](water-deity-global.md) | water-deity-global |
 | [地震與世界負載者跨文化比較](地震與世界負載者跨文化比較.md) | 地震與世界負載者跨文化比較 |
