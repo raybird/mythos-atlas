@@ -1,4 +1,4 @@
-# 已分析母題索引（538 篇）
+# 已分析母題索引（539 篇）
 
 
 
@@ -546,3 +546,4 @@
 | 536 | garlic-onion-apotropaic-comparative.md | 餐桌上的驅魔者：大蒜、洋蔥與「辛臭—神聖」的跨文化比較——嗅覺神學與辟邪護符（allium/garlic/nazar/五辛） |
 | 537 | mountain-deities-comparative.md | 山神：人格化的聖山——跨文化山神信仰比較研究（五嶽/山鬼/大山祇/檀君/念青唐古拉/Apu/Oreads） |
 | 538 | jinn-parallel-humanity-comparative.md | 無形的他者：鎮尼（Jinn）與「平行凡人性」神話的跨文化比較（jinn/ginnaye/daimon/Tuatha Dé/div/妖怪/狐魅） |
+| 539 | king-of-birds-bird-elections-comparative.md | 鳥中之王：跨文化神話中的鳥類王權選拔與象徵——從鷦鷯競飛、迦樓羅、希默夫到百鳥朝鳳 |
