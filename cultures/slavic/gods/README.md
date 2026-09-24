@@ -17,6 +17,7 @@
 | [Semargl](Semargl.md) | Semargl |
 | [Stribog](Stribog.md) | Stribog |
 | [Svarog](Svarog.md) | Svarog |
+| [斯維亞托維特（Svyatovit）](Svyatovit.md) | 斯維亞托維特（Svyatovit） |
 | [Svetovid](Svetovid.md) | Svetovid |
 | [Triglav](Triglav.md) | Triglav |
 | [Veles](Veles.md) | Veles |

@@ -22,5 +22,6 @@
 | [slavic-water-forest-spirits-comparative](slavic-water-forest-spirits-comparative.md) | slavic-water-forest-spirits-comparative |
 
 | [冬季死亡女神跨文化比較](winter-death-rebirth-goddesses-comparative.md) | 冬季死亡女神跨文化比較 |
+| [斯拉夫夏至（庫帕拉節）母題跨文化比較](slavic-summer-solstice-motifs.md) | 斯拉夫夏至（庫帕拉節）母題跨文化比較 |
 ---
 *Auto-generated on 2026-08-15 16:10 UTC*
