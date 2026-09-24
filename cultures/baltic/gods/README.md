@@ -21,6 +21,7 @@
 | [Vakarinė](Vakarinė.md) | Vakarinė |
 | [Velnias](Velnias.md) | Velnias |
 | [Ūsiņš](Ūsiņš.md) | Ūsiņš |
+| [Vėjopatis（韋約帕蒂斯）](Vėjopatis（韋約帕蒂斯）.md) | Vėjopatis（韋約帕蒂斯） |
 | [Žemyna](Žemyna.md) | Žemyna |
 | [奧什琳涅](奧什琳涅.md) | 奧什琳涅 |
 | [波特里姆波](波特里姆波.md) | 波特里姆波 |
