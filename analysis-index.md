@@ -1,4 +1,4 @@
-# 已分析母題索引（537 篇）
+# 已分析母題索引（538 篇）
 
 
 
@@ -545,3 +545,4 @@
 | 535 | salamander-fireproof-creature-comparative.md | 火中之物：蠑螈與「不焚之體」的跨文化比較——石棉、火判與神性耐火（salamander/axolotl/火浣布/Xolotl） |
 | 536 | garlic-onion-apotropaic-comparative.md | 餐桌上的驅魔者：大蒜、洋蔥與「辛臭—神聖」的跨文化比較——嗅覺神學與辟邪護符（allium/garlic/nazar/五辛） |
 | 537 | mountain-deities-comparative.md | 山神：人格化的聖山——跨文化山神信仰比較研究（五嶽/山鬼/大山祇/檀君/念青唐古拉/Apu/Oreads） |
+| 538 | jinn-parallel-humanity-comparative.md | 無形的他者：鎮尼（Jinn）與「平行凡人性」神話的跨文化比較（jinn/ginnaye/daimon/Tuatha Dé/div/妖怪/狐魅） |
