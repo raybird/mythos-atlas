@@ -10,6 +10,8 @@
 - 祖魯神話
 - 阿散蒂神話
 - 班圖神話
+- 吉庫尤口傳（Kenyatta《面對肯亞山》）
+- 庫巴／布雄格王庭史官傳統
 
 ## 創世神話
 
@@ -21,7 +23,7 @@
 
 ## 神系
 
-Olorun/Olódùmarè(至高神)、Obatala(創造)、Yemaya(海洋之母)、Shango(雷電)、Ogun(鐵/戰)、Khepri(運轉)、Anansi(蜘蛛智者)
+Olorun/Olódùmarè(至高神)、Obatala(創造)、Yemaya(海洋之母)、Shango(雷電)、Ogun(鐵/戰)、Khepri(運轉)、Anansi(蜘蛛智者)、Ngai(恩蓋/肯亞聖山天神)
 
 ## 核心母題
 
@@ -31,11 +33,15 @@ Olorun/Olódùmarè(至高神)、Obatala(創造)、Yemaya(海洋之母)、Shango
 - 雙生神
 - 祖先崇拜
 - 占卜Ifá
+- 聖山天神(Ngai)
+- 神聖王權
 
 ## 跨文化平行
 
 - **造物主將語言分散** ↔ 巴別塔/Enmerkar
 - **洪水神話遍及各地** ↔ 諾亞/吉爾伽美什/禹
+- **聖山天神(Ngai居肯亞山)** ↔ 希臘奧林帕斯/中國崑崙/波斯阿胡拉·馬茲達
+- **神聖王權** ↔ 埃及法老/蘇美lugal/中國天子/日本天皇
 
 ## 重要故事
 
@@ -43,6 +49,7 @@ Olorun/Olódùmarè(至高神)、Obatala(創造)、Yemaya(海洋之母)、Shango
 - Anansi蜘蛛的智慧
 - Orpheus式冥界之旅(非洲版本)
 - Mwindo史詩
+- 布姆巴的嘔吐創世（庫巴Bumba以嘔吐展開宇宙）
 
 ---
 *Generated on 2026-06-20 from _catalog.json*

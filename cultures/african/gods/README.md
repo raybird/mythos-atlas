@@ -10,6 +10,7 @@
 | [Legba](Legba.md) | Legba |
 | [Mawu](Mawu.md) | Mawu |
 | [Mwari](Mwari.md) | Mwari |
+| [Ngai](Ngai.md) | Ngai（恩蓋）— 輝光之主 |
 | [Nomkhubulwane](Nomkhubulwane.md) | Nomkhubulwane |
 | [Obatala](Obatala.md) | Obatala |
 | [Ogun](Ogun.md) | Ogun |

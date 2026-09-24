@@ -149,7 +149,8 @@
   "japanese",
   "caucasian",
   "siberian",
-  "greek"
+  "greek",
+  "african"
  ],
  "analysis_log": [
   "sacrificial-creation",
@@ -223,5 +224,5 @@
   "mountain-deities-comparative",
   "jinn-parallel-humanity-comparative"
  ],
- "runs": 189
+ "runs": 190
 }
