@@ -152,7 +152,8 @@
   "greek",
   "african",
   "hindu",
-  "sumerian"
+  "sumerian",
+  "norse"
  ],
  "analysis_log": [
   "sacrificial-creation",
@@ -226,5 +227,5 @@
   "mountain-deities-comparative",
   "jinn-parallel-humanity-comparative"
  ],
- "runs": 192
+ "runs": 193
 }
