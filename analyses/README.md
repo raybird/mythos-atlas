@@ -195,6 +195,7 @@
 - [Healing Medicine Myths](healing-medicine-myths.md)
 - [Heart Symbolism Mythology Comparative](heart-symbolism-mythology-comparative.md)
 - [Hearth Fire Domestic Myths Comparative](hearth-fire-domestic-myths-comparative.md)
+- [Hedgehog Myths Comparative](hedgehog-myths-comparative.md)
 - [Hero Wound Vulnerability Motif](hero-wound-vulnerability-motif.md)
 - [Heros Journey Monomyth](heros-journey-monomyth.md)
 - [Hoopoe Myths Comparative](hoopoe-myths-comparative.md)

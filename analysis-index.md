@@ -1,4 +1,4 @@
-# 已分析母題索引（539 篇）
+# 已分析母題索引（540 篇）
 
 
 
@@ -547,3 +547,4 @@
 | 537 | mountain-deities-comparative.md | 山神：人格化的聖山——跨文化山神信仰比較研究（五嶽/山鬼/大山祇/檀君/念青唐古拉/Apu/Oreads） |
 | 538 | jinn-parallel-humanity-comparative.md | 無形的他者：鎮尼（Jinn）與「平行凡人性」神話的跨文化比較（jinn/ginnaye/daimon/Tuatha Dé/div/妖怪/狐魅） |
 | 539 | king-of-birds-bird-elections-comparative.md | 鳥中之王：跨文化神話中的鳥類王權選拔與象徵——從鷦鷯競飛、迦樓羅、希默夫到百鳥朝鳳 |
+| 540 | hedgehog-myths-comparative.md | 圓刺之謎：刺蝟跨文化神話比較——太陽圓球、瑣羅亞斯德教義獸（Vanghapara）到「狐狸與刺蝟」知識論（Egypt/Hedgehog/白仙/ATU 1074） |
