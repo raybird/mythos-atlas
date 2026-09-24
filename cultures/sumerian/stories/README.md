@@ -76,5 +76,6 @@
 | [Nungal 的監獄（Hymn to Nungal）](nungal-prison.md) | Nungal 的監獄（Hymn to Nungal） |
 | [薩爾貢的誕生傳說](sargon-birth-legend.md) | 薩爾貢的誕生傳說 |
 | [蒼鷺與烏龜：恩基的因果裁決](heron-turtle-fable.md) | 蒼鷺與烏龜：恩基的因果裁決 |
+| [阿達布的三個牛車夫](three-ox-drivers-adab.md) | 阿達布的三個牛車夫 |
 ---
 *Auto-generated on 2026-08-15 16:10 UTC*

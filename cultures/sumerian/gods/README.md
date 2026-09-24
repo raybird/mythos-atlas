@@ -81,5 +81,6 @@
 | [烏拉什（Urash/Uraš）](Urash.md) | 烏拉什（Urash/Uraš） |
 | [妮妮西娜（Nininsina）— 治療女神與伊辛城守護者](Nininsina.md) | 妮妮西娜（Nininsina）— 治療女神與伊辛城守護者 |
 | [Duttur（母羊女神/杜姆茲之母）](Duttur.md) | Duttur |
+| [伊什塔蘭（Ištaran）— 蛇形公正之神與德爾城守護者](Ištaran.md) | 伊什塔蘭（Ištaran）— 蛇形公正之神與德爾城守護者 |
 ---
 *Auto-generated on 2026-08-15 16:10 UTC*
