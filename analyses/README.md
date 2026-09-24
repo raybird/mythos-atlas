@@ -215,6 +215,7 @@
 - [Jade Myths Comparative](jade-myths-comparative.md)
 - [Jinn Parallel Humanity Comparative](jinn-parallel-humanity-comparative.md)
 - [Justice Law Comparative](justice-law-comparative.md)
+- [King Of Birds Bird Elections Comparative](king-of-birds-bird-elections-comparative.md)
 - [Kingfisher Halcyon Myths Comparative](kingfisher-halcyon-myths-comparative.md)
 - [Labyrinth Spiral Myths](labyrinth-spiral-myths.md)
 - [Language Confusion Myths](language-confusion-myths.md)
