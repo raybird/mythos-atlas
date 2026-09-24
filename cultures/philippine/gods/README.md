@@ -25,6 +25,7 @@
 | [haliya](haliya.md) | haliya
 | [Bulan](Bulan.md) | Bulan |
 | [Lidagat](Lidagat.md) | Lidagat |
+| [Lumawig](Lumawig.md) | Lumawig |
 
 ---
 *Auto-generated on 2026-09-10 UTC*

@@ -22,6 +22,7 @@
 | [竹生人神話的跨文化比較](竹生人神話的跨文化比較.md) | 竹生人神話的跨文化比較
 | [volcano-gods-southeast-asia-comparative](volcano-gods-southeast-asia-comparative.md) | volcano-gods-southeast-asia-comparative |
 | [sky-sea-primordial-couple-comparative](sky-sea-primordial-couple-comparative.md) | sky-sea-primordial-couple-comparative |
+| [forest-misleaders-tikbalang-leshy](forest-misleaders-tikbalang-leshy.md) | forest-misleaders-tikbalang-leshy |
 
 ---
 *Auto-generated on 2026-09-10 UTC*

@@ -23,6 +23,7 @@
 | [貝納多卡皮歐](貝納多卡皮歐.md) | 貝納多卡皮歐
 | [bulan-and-the-sun](bulan-and-the-sun.md) | bulan-and-the-sun |
 | [marriage-of-wind-and-sea](marriage-of-wind-and-sea.md) | marriage-of-wind-and-sea |
+| [tikbalang-misleader-forest](tikbalang-misleader-forest.md) | tikbalang-misleader-forest |
 
 ---
 *Auto-generated on 2026-09-10 UTC*

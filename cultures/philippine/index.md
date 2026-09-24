@@ -20,7 +20,7 @@
 
 ## 神系
 
-Bathala(至高神/造物)、Malakas(強壯之父)、Maganda(美麗之母)、Idiyanale(農業)、Sidapa(死亡/月)、Aman Sinaya(海洋)、Kaptan(天空神)、Maguayan(海神)、Bakunawa(月食巨蛇)、Dalikamata(千眼醫神)、Lakapati(豐收/雌雄同體)、Tala(星辰女神)、Mayari(月神)
+Bathala(至高神/造物)、Malakas(強壯之父)、Maganda(美麗之母)、Idiyanale(農業)、Sidapa(死亡/月)、Aman Sinaya(海洋)、Kaptan(天空神)、Maguayan(海神)、Bakunawa(月食巨蛇)、Dalikamata(千眼醫神)、Lakapati(豐收/雌雄同體)、Tala(星辰女神)、Mayari(月神)、Lumawig(邦都至高神之子/文化英雄/創人者)
 
 ## 核心母題
 
@@ -45,6 +45,7 @@ Bathala(至高神/造物)、Malakas(強壯之父)、Maganda(美麗之母)、Idiy
 - Mariang Makiling山靈傳說
 - Aswang之夜
 - Sarimanok神鳥傳說
+- 提克巴朗：林間迷途之妖
 
 ---
 *Generated on 2026-06-20 from _catalog.json*
