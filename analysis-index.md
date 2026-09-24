@@ -1,4 +1,4 @@
-# 已分析母題索引（536 篇）
+# 已分析母題索引（537 篇）
 
 
 
@@ -544,3 +544,4 @@
 | 534 | sacred-banners-battle-standards-comparative.md | 旗上寄魂：跨文化神話中的神聖旗幟與軍旗母題比較研究（aquila/Sulde/錦御旗/oriflamme/渡鴉旗/釁旗） |
 | 535 | salamander-fireproof-creature-comparative.md | 火中之物：蠑螈與「不焚之體」的跨文化比較——石棉、火判與神性耐火（salamander/axolotl/火浣布/Xolotl） |
 | 536 | garlic-onion-apotropaic-comparative.md | 餐桌上的驅魔者：大蒜、洋蔥與「辛臭—神聖」的跨文化比較——嗅覺神學與辟邪護符（allium/garlic/nazar/五辛） |
+| 537 | mountain-deities-comparative.md | 山神：人格化的聖山——跨文化山神信仰比較研究（五嶽/山鬼/大山祇/檀君/念青唐古拉/Apu/Oreads） |
