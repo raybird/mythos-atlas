@@ -11,6 +11,7 @@
 | [Küyen七日之瘡](Küyen七日之瘡.md) | Küyen七日之瘡 |
 | [Lautaro智取西班牙人](Lautaro智取西班牙人.md) | Lautaro智取西班牙人 |
 | [Machi降伏水狐蛇](Machi降伏水狐蛇.md) | Machi降伏水狐蛇 |
+| [machitun-machi-healing](machitun-machi-healing.md) | machitun-machi-healing |
 | [Trauco森林矮人](Trauco森林矮人.md) | Trauco森林矮人 |
 | [Trentren與Kai-Kai大戰](Trentren與Kai-Kai大戰.md) | Trentren與Kai-Kai大戰 |
 | [ngillatun-festival-origin](ngillatun-festival-origin.md) | ngillatun-festival-origin |

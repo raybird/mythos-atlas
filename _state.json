@@ -153,7 +153,8 @@
   "african",
   "hindu",
   "sumerian",
-  "norse"
+  "norse",
+  "mapuche"
  ],
  "analysis_log": [
   "sacrificial-creation",
@@ -228,5 +229,5 @@
   "jinn-parallel-humanity-comparative",
   "king-of-birds-bird-elections-comparative"
  ],
- "runs": 194
+ "runs": 195
 }

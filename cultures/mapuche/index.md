@@ -20,7 +20,7 @@ Ngenechén(Ngünechen,造物主)從一片虛無中創造世界——首先創造
 
 ## 神系
 
-Ngenechén/Ngünechen(造物主/宇宙統一體)、Pillán(善靈總稱/火山/山/天)、Wekufu(惡靈/混沌/疾病)、Antü/Püllán(太陽神/火)、Küyen(月神)、Wangülen(星辰/祖先靈魂)、Trentren Filú(山蛇/大地保護)、Kai-Kai Filú(海蛇/洪水/混沌)、Machi(人類薩滿)、Ngen(自然元素守護靈)、Menoko(泉水靈地)、Alwe(死者靈魂)/Ancán(轉世靈)
+Ngenechén/Ngünechen(造物主/宇宙統一體)、Pillán(善靈總稱/火山/山/天)、Wekufu(惡靈/混沌/疾病)、Antü/Püllán(太陽神/火)、Küyen(月神)、Wangülen(星辰/祖先靈魂)、Trentren Filú(山蛇/大地保護)、Kai-Kai Filú(海蛇/洪水/混沌)、Machi(人類薩滿)、Ngen(自然元素守護靈)、Menoko(泉水靈地)、Alwe(死者靈魂/滯留人間的亡者之靈)/Ancán(轉世靈)、Nguruvilu(水狐蛇/河川渦流水靈)、Cherufe(切魯菲,火山熔岩巨怪/地震之因)
 
 ## 核心母題
 
@@ -48,6 +48,7 @@ Ngenechén/Ngünechen(造物主/宇宙統一體)、Pillán(善靈總稱/火山/�
 - Pincoya海的仙女
 - El Cuero湖中怪獸
 - Machi療癒儀式
+- Machitún 馬奇特恩除病儀式
 - Admapu法則的起源
 
 ---
