@@ -128,6 +128,7 @@
 - [Divine Twins Comparative](divine-twins-comparative.md)
 - [Divine Wager Cosmic Bet Comparative](divine-wager-cosmic-bet-comparative.md)
 - [Divine Weapons Armaments Comparative](divine-weapons-armaments-comparative.md)
+- [Divine Wrestling Myths Comparative](divine-wrestling-myths-comparative.md)
 - [Dogs Wolves Mythology](dogs-wolves-mythology.md)
 - [Dolphins World Mythology Comparative](dolphins-world-mythology-comparative.md)
 - [Donkey Myths Comparative](donkey-myths-comparative.md)
