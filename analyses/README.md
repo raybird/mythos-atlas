@@ -318,6 +318,7 @@
 - [Rat Mouse Myths Comparative](rat-mouse-myths-comparative.md)
 - [Ravens Crows Mythology](ravens-crows-mythology.md)
 - [Reincarnation Metempsychosis](reincarnation-metempsychosis.md)
+- [Reindeer Caribou Circumpolar Myths](reindeer-caribou-circumpolar-myths.md)
 - [Resurrection Comparative](resurrection-comparative.md)
 - [Rice Myths Comparative](rice-myths-comparative.md)
 - [Riddle Duels Wisdom Contests Comparative](riddle-duels-wisdom-contests-comparative.md)
