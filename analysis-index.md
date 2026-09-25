@@ -1,4 +1,4 @@
-# 已分析母題索引（542 篇）
+# 已分析母題索引（543 篇）
 
 
 
@@ -550,3 +550,4 @@
 | 540 | hedgehog-myths-comparative.md | 圓刺之謎：刺蝟跨文化神話比較——太陽圓球、瑣羅亞斯德教義獸（Vanghapara）到「狐狸與刺蝟」知識論（Egypt/Hedgehog/白仙/ATU 1074） |
 | 541 | man-in-the-moon-comparative.md | 月中人影：月面人像與「月宮駐人」母題的跨文化比較——負柴的安息日犯禁者／洛娜與希娜／嫦娥吳剛／翠玉／海達男孩／因紐特月兄弟／月中露臀女子（Hjúki&Máni/Rona/Hina/Wu Gang/Chú Cuội/Latvia） |
 | 542 | reindeer-caribou-circumpolar-myths.md | 白馴鹿與馴鹿之民：環北極圈馴鹿（Rangifer tarandus）神話的跨文化比較——白鹿創世/鹿皮穹頂/卡利布母親/獵物主人/鹿婚與半馴化（Sámi/Inuit/Innu/Evenki/Nenets/Tsaatan） |
+| 543 | divine-wrestling-myths-comparative.md | 與神摔跤：跨文化神話中「凡人與不可勝者角力」母題的比較分析（雅各 vs 神／佩琉斯 vs 忒提斯／赫拉克勒斯 vs 阿刻洛俄斯與塔那托斯／婆薮 vs 婆薩那／佛陀 vs 魔羅／索爾 vs 老年／武甕槌神 vs 天宇受賣／毛伊 vs 太陽） |
