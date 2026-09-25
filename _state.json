@@ -156,7 +156,8 @@
   "norse",
   "mapuche",
   "philippine",
-  "ainu"
+  "ainu",
+  "chinese"
  ],
  "analysis_log": [
   "sacrificial-creation",
@@ -234,5 +235,5 @@
   "man-in-the-moon-comparative",
   "reindeer-caribou-circumpolar-myths"
  ],
- "runs": 201
+ "runs": 202
 }
