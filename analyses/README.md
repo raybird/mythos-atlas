@@ -240,6 +240,7 @@
 - [Magnetic Pole Shift Comparative](magnetic-pole-shift-comparative.md)
 - [Magpie Myths Comparative](magpie-myths-comparative.md)
 - [Maize Myths Comparative](maize-myths-comparative.md)
+- [Man in the Moon Comparative](man-in-the-moon-comparative.md)
 - [Mana Supernatural Power Comparative](mana-supernatural-power-comparative.md)
 - [Mandrake Screaming Root Comparative](mandrake-screaming-root-comparative.md)
 - [Mantis Praying Insect Myths Comparative](mantis-praying-insect-myths-comparative.md)

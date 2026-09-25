@@ -1,4 +1,4 @@
-# 已分析母題索引（540 篇）
+# 已分析母題索引（541 篇）
 
 
 
@@ -548,3 +548,4 @@
 | 538 | jinn-parallel-humanity-comparative.md | 無形的他者：鎮尼（Jinn）與「平行凡人性」神話的跨文化比較（jinn/ginnaye/daimon/Tuatha Dé/div/妖怪/狐魅） |
 | 539 | king-of-birds-bird-elections-comparative.md | 鳥中之王：跨文化神話中的鳥類王權選拔與象徵——從鷦鷯競飛、迦樓羅、希默夫到百鳥朝鳳 |
 | 540 | hedgehog-myths-comparative.md | 圓刺之謎：刺蝟跨文化神話比較——太陽圓球、瑣羅亞斯德教義獸（Vanghapara）到「狐狸與刺蝟」知識論（Egypt/Hedgehog/白仙/ATU 1074） |
+| 541 | man-in-the-moon-comparative.md | 月中人影：月面人像與「月宮駐人」母題的跨文化比較——負柴的安息日犯禁者／洛娜與希娜／嫦娥吳剛／翠玉／海達男孩／因紐特月兄弟／月中露臀女子（Hjúki&Máni/Rona/Hina/Wu Gang/Chú Cuội/Latvia） |
