@@ -20,6 +20,7 @@
 | [太陽神與王權跨文化比較](太陽神與王權跨文化比較.md) | 太陽神與王權跨文化比較 |
 | [火與鍛造之神跨文化比較](火與鍛造之神跨文化比較.md) | 火與鍛造之神跨文化比較 |
 | [roman-vs-greek-flood-comparative](roman-vs-greek-flood-comparative.md) | roman-vs-greek-flood-comparative |
+| [royal-omen-refusal-comparative](royal-omen-refusal-comparative.md) | 被選為王者與避位者：預兆指認王權的跨文化比較 |
 
 | [花神與春之女神跨文化比較](flower-spring-goddesses-cross-cultural.md) | 花神與春之女神跨文化比較 |
 ---

@@ -19,6 +19,7 @@
 | [Pietas](Pietas.md) | Pietas |
 | [Pluto](Pluto.md) | Pluto |
 | [Quirinus](Quirinus.md) | Quirinus |
+| [Robigus](Robigus.md) | Robigus |
 | [Saturn](Saturn.md) | Saturn |
 | [Silvanus](Silvanus.md) | Silvanus |
 | [Sol-Invictus](Sol-Invictus.md) | Sol-Invictus |

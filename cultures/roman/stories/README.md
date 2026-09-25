@@ -4,6 +4,7 @@
 |------|------|
 | [Aeneas-journey](Aeneas-journey.md) | Aeneas-journey |
 | [Cincinnatus](Cincinnatus.md) | Cincinnatus |
+| [cipus-horned-king](cipus-horned-king.md) | cipus-horned-king |
 | [Horatius-Cocles](Horatius-Cocles.md) | Horatius-Cocles |
 | [Numa-Egeria](Numa-Egeria.md) | Numa-Egeria |
 | [Proserpina-rape](Proserpina-rape.md) | Proserpina-rape |
