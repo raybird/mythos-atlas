@@ -19,6 +19,7 @@
 | [Ruohtta](Ruohtta.md) | Ruohtta |
 | [Sarakhkka](Sarakhkka.md) | Sarakhkka |
 | [Tjaetsieålmaj](Tjaetsieålmaj.md) | Tjaetsieålmaj |
+| [Tiermes](Tiermes.md) | Tiermes |
 | [Uksáhkká](Uksáhkká.md) | Uksáhkká |
 | [Väralden Olmai](Väralden Olmai.md) | Väralden Olmai |
 | [bieggamajmma](bieggamajmma.md) | bieggamajmma |

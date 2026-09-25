@@ -7,6 +7,7 @@
 | [beaivi-return](beaivi-return.md) | beaivi-return |
 | [bear-ritual](bear-ritual.md) | bear-ritual |
 | [earth-diver-creation](earth-diver-creation.md) | earth-diver-creation |
+| [favdna-cosmic-hunt-sami](favdna-cosmic-hunt-sami.md) | 天上的獵人：福達那與麋鹿薩爾瓦的星空追逐 |
 | [horagalles-thunder-origin](horagalles-thunder-origin.md) | horagalles-thunder-origin |
 | [joik-origin](joik-origin.md) | joik-origin |
 | [maattarahkka-three-daughters](maattarahkka-three-daughters.md) | maattarahkka-three-daughters |

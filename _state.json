@@ -157,7 +157,8 @@
   "mapuche",
   "philippine",
   "ainu",
-  "chinese"
+  "chinese",
+  "sami"
  ],
  "analysis_log": [
   "sacrificial-creation",
@@ -235,5 +236,5 @@
   "man-in-the-moon-comparative",
   "reindeer-caribou-circumpolar-myths"
  ],
- "runs": 202
+ "runs": 203
 }

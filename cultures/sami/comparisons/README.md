@@ -13,6 +13,7 @@
 | [plague-deities-cross-cultural](plague-deities-cross-cultural.md) | plague-deities-cross-cultural |
 | [polar-sun-myths](polar-sun-myths.md) | polar-sun-myths |
 | [reindeer-myths-eurasia](reindeer-myths-eurasia.md) | reindeer-myths-eurasia |
+| [sami-eight-seasons-calendar-arctic](sami-eight-seasons-calendar-arctic.md) | 八季與太陽回歸：極北馴鹿曆法跨文化比較 |
 | [sami-inuit-creation](sami-inuit-creation.md) | sami-inuit-creation |
 | [sami-norse-shamanism](sami-norse-shamanism.md) | sami-norse-shamanism |
 | [sami-reindeer-myth-comparative](sami-reindeer-myth-comparative.md) | sami-reindeer-myth-comparative |
