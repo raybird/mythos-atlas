@@ -22,9 +22,10 @@ Obalufon（亦稱 Obalufon Alaiyemore）是約魯巴（Yoruba）伊費（Ife）�
 | 芬蘭 | 伊爾馬里寧（Ilmarinen） | 鍛造天空、技藝始祖 |
 | 日本 | 天目一箇神 | 鍛冶與工藝之祖神 |
 
-## 文獻
+## 參考文獻
 
 1. Willett, Frank. *Ife in the History of West African Sculpture*. London: Thames & Hudson, 1967.
-2. Blier, Suzanne Preston. *The Anatomy of Architecture: Ontology and Metaphor in Batammaliba Architectural Expression*. Cambridge, 1987.（西非工藝神祇脈絡）
-3. Adedeji, Joel. "The Tradition of Obalufon" — Ife oral traditions 整理。
-4. Ogunbowale, P. O. *Aesop's Fables in Yoruba*（Obalufon 王權名號考）。
+2. Blier, Suzanne Preston. "Kings, Crowns, and Rights of Succession: Obalufon Arts at Ife and Other Yoruba Centers." *The Art Bulletin* 57 (1985).——Obalufon 面具與伊費加冕禮制、十六王國王冠的直接專論
+3. Blier, Suzanne Preston. "Art in Ancient Ife, Birthplace of the Yoruba." *African Arts* 45, no. 4 (2012).
+4. Beier, Ulli. *The Origin of the Yoruba*. Lagos: Nigerian Publishing Company, 1971.
+5. Idowu, E. Bolaji. *Olodumare: God in Yoruba Belief*. London: Longman, 1973.

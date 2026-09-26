@@ -24,7 +24,7 @@
 | 毛利 | whakapapa 系譜吟唱 | 集會堂（marae）中的權威宣告 |
 | 俄羅斯 | byliny | 盲眼流浪歌者、襪茶宴間的史詩 |
 
-## 文獻
+## 參考文獻
 
 1. Chiri, Yukie 知里幸恵《アイヌ神謡集》，1923（金田一京助校訂）。
 2. Philippi, Donald L. *Songs of Gods, Songs of Humans*, 1979.

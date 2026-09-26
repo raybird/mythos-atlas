@@ -26,7 +26,7 @@
 
 口傳史詩是人類以聲音保存宇宙秩序的技術：透過開場儀式、固定句法與代代傳承，yukar 與全球史詩共同證明——在書寫之外，歌聲才是最古老的檔案庫。
 
-## 文獻
+## 參考文獻
 
 1. Philippi, Donald L. *Songs of Gods, Songs of Humans*, 1979.
 2. Strong, Sarah M. *Ainu Spirits Singing*, 2011.

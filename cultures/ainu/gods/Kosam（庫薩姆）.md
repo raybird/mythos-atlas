@@ -21,7 +21,7 @@ Kosam（Ainu 語コサム，亦稱 Kosamain、Kosam-aynu）是阿伊努神謠與
 | 西非 | 蜘蛛 Anansi | 小人物以機智擾亂大型存在 |
 | 希臘 | 赫耳墨斯（幼年時） | 偷牛、天真中的狡黠 |
 
-## 文獻
+## 參考文獻
 
 1. Chiri, Yukie 知里幸恵《アイヌ神謡集》1919 年序言及 oina 文本。
 2. Philippi, Donald L. *Songs of Gods, Songs of Humans*. Tokyo: Univ. of Tokyo Press, 1979.

@@ -23,7 +23,7 @@
 | 美洲 | 北美洲陸龜（Terrapin）裝扮赴宴 | 小動物智取神界 |
 | 非洲內部 | 蜘蛛 Anansi、狐狸狡棍 | 同為騙子型敘事 |
 
-## 文獻
+## 參考文獻
 
 1. 基吉（Ugorji）整理之 Igbo 民間故事集錄。
 2. Bascom, William. *Ifa Divination: Communication between Gods and Men in West Africa*. Indiana UP, 1991.

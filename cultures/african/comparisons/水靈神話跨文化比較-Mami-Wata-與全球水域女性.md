@@ -26,7 +26,7 @@
 
 Mami Wata 並非孤例，而是全球水靈共同邏輯的非洲最活潑變奏：水女總以「美＋危險」出現，以貪婪、情慾或恐懼收縛凡人，並因水而居於道德與秩序的邊緣。比較之下可見，水域信仰的核心不在於「神」本身，而在於「界面」——水靈正是人類與未知之間的永恆對話者。
 
-## 文獻
+## 參考文獻
 
 1. Drewal, Henry John. *Mami Wata: Arts for Water Spirits in Africa and Its Diasporas*. Fowler Museum, 2008.
 2. Iliopoulou, Lyssandra. "Sirens: The Art of Seduction." *The Uproar*, 2014.

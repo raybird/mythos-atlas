@@ -16,6 +16,7 @@
 | [sacred-lake-flood-comparative](sacred-lake-flood-comparative.md) | sacred-lake-flood-comparative |
 | [sky-burial-celestial-offering-comparative](sky-burial-celestial-offering-comparative.md) | sky-burial-celestial-offering-comparative |
 | [wrathful-female-protector-deities-comparison](wrathful-female-protector-deities-comparison.md) | wrathful-female-protector-deities-comparison |
+| [wrathful-protectors-global](wrathful-protectors-global.md) | wrathful-protectors-global |
 | [佛教忿怒尊全球比較](佛教忿怒尊全球比較.md) | 佛教忿怒尊全球比較 |
 | [忿怒護法神比較](忿怒護法神比較.md) | 忿怒護法神比較 |
 | [本土神佛教化比較](本土神佛教化比較.md) | 本土神佛教化比較 |

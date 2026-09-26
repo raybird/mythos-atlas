@@ -23,7 +23,7 @@ Mami Wata（或寫作 Mami Wata、Mammy Water、Mami Wass 等）是撒哈拉以�
 | 波里尼西亞 | Hina·善水女神 | 月水相連 |
 | 西非（舊大陸） | Kianda（剛果） | 河海合一 |
 
-## 文獻
+## 參考文獻
 
 1. Drewal, Henry John. *Mami Wata: Arts for Water Spirits in Africa and Its Diasporas*. Los Angeles: Fowler Museum, 2008.
 2. Jell-Bahlsen, Sabine. "The Water Goddess in Igbo Cosmology." *Anthropology of Consciousness* 19 (2008).

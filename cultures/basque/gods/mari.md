@@ -49,9 +49,14 @@
 
 ## 出現在
 
-- Barandiarán《巴斯克神話選集》(Mitología Vasca)
-- Garagalza, L. J. "From Ama Lur to the Anthropocene and Back: The Earth in Basque Mythology", *Philosophies*, vol. 7, no. 1, 2022
-- Acosta Mota, A. "Female Divinities and Water in Pre-Christian Hispanic Mythology", *Motifs*, 2025
-- Gimbutas, M. *The Living Goddesses*. Berkeley: University of California Press, 1999
-- Ryan, I. "Beira, Mari, and Indo-Europeanization of Non-Indo-European Divinities", *CAES*, vol. 7, no. 3, 2021
-- Zelikov, M. V. "Reflections on Some Ethno-linguistic Parallels between Celts and Basques", *Journal of Indo-European Studies*, vol. 48, no. 1–2, 2020
+- Barandiarán, J. M. de．《巴斯克神話選集》(*Mitología Vasca*)．巴塞隆納：Editorial Fax，1968——收錄瑪麗祭詞、Amalur 與 Amboto 洞穴的田野記錄神話文本
+- 巴斯克口傳祭詞：Txindoki（興度基）聖所的「Agur Mari」祈禱、安博托（Amboto）洞穴的年度祝福語（巴拉迪亞蘭 20 世紀田野記錄）
+
+## 參考文獻
+
+- Barandiarán, J. M. de．《巴斯克神話選集》(*Mitología Vasca*)．巴塞隆納：Editorial Fax，1968
+- Garagalza, L. J. "From Ama Lur to the Anthropocene and Back: The Earth in Basque Mythology"．*Philosophies* 7, no. 1 (2022)
+- Acosta Mota, A. "Female Divinities and Water in Pre-Christian Hispanic Mythology: Imaginary Landscapes for the Conservation of Nature"．*Motifs*（Pergola Publications），2025
+- Gimbutas, M. *The Living Goddesses*．Berkeley: University of California Press, 1999
+- Ryan, I. "Beira, Mari, and Indo-Europeanization of non-Indo-European Divinities"．*Cultural Anthropology and Ethnosemiotics* (CAES) 7, no. 3 (September 2021)
+- Zelikov, M. V. "Reflections on Some Ethno-linguistic Parallels between Celts and Basques"．*Journal of Indo-European Studies* 48, no. 1–2 (2020)

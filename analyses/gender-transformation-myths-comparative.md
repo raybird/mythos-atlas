@@ -157,7 +157,7 @@
 
 ---
 
-## 五、參考文獻
+## 參考文獻
 
 - Doniger, Wendy. *Women, Androgynes, and Other Mythical Beings*. Chicago: University of Chicago Press, 1982.
 - Doniger, Wendy. *Splitting the Difference: Gender and Myth in Ancient Greece and India*. Chicago: University of Chicago Press, 1991.

@@ -57,6 +57,7 @@
 | [yoruba-korean-shamanism-possession](yoruba-korean-shamanism-possession.md) | yoruba-korean-shamanism-possession |
 | [yoruba-orisha-hindu-pantheon](yoruba-orisha-hindu-pantheon.md) | yoruba-orisha-hindu-pantheon |
 | [yoruba-sacred-groves-cross-cultural](yoruba-sacred-groves-cross-cultural.md) | yoruba-sacred-groves-cross-cultural |
+| [yoruba-sacred-kingship-global-parallels](yoruba-sacred-kingship-global-parallels.md) | yoruba-sacred-kingship-global-parallels |
 | [yoruba-shinto-possession-hierarchy](yoruba-shinto-possession-hierarchy.md) | yoruba-shinto-possession-hierarchy |
 | [yoruba-sumerian-me-divine-law](yoruba-sumerian-me-divine-law.md) | yoruba-sumerian-me-divine-law |
 | [yoruba-water-deities](yoruba-water-deities.md) | yoruba-water-deities |

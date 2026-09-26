@@ -1,6 +1,7 @@
 # 巴斯克神話 — 跨文化比較
 
 | 檔案 | 名稱 |
+| [household-protective-spirits](household-protective-spirits.md) | household-protective-spirits |
 | [lamiak-water-spirits-comparison](lamiak-water-spirits-comparison.md) | lamiak-water-spirits-comparison |
 |------|------|
 | [basque-dualism-comparative](basque-dualism-comparative.md) | basque-dualism-comparative |

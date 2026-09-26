@@ -110,7 +110,6 @@ cultures/egyptian/gods/賽特.md
 cultures/egyptian/gods/赫努姆.md
 cultures/egyptian/gods/阿努比斯.md
 cultures/egyptian/gods/阿蒙.md
-cultures/egyptian/stories/天牛之書.md
 cultures/egyptian/stories/太陽船夜航.md
 cultures/egyptian/stories/巴神廟的創造.md
 cultures/egyptian/stories/拉神毀滅人類.md
@@ -118,8 +117,6 @@ cultures/egyptian/stories/拉神的神秘名.md
 cultures/egyptian/stories/歐西里斯神話.md
 cultures/egyptian/stories/死者之心的審判.md
 cultures/egyptian/stories/荷魯斯之眼.md
-cultures/egyptian/stories/荷魯斯與賽特之爭.md
-cultures/egyptian/stories/賽特與荷魯斯的王位之爭.md
 cultures/etruscan/gods/Charun.md
 cultures/etruscan/gods/Menrva.md
 cultures/etruscan/gods/Tinia.md
