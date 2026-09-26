@@ -162,6 +162,7 @@
 - [Ferryman Myths Cross Cultural](ferryman-myths-cross-cultural.md)
 - [Fertility Deities Comparative](fertility-deities-comparative.md)
 - [Festivals Of The Dead Comparative](festivals-of-the-dead-comparative.md)
+- [Filial Piety Cosmic Leverage Comparative](filial-piety-cosmic-leverage-comparative.md)
 - [Fire Myths](fire-myths.md)
 - [Fire Theft Promethean Motif](fire-theft-promethean-motif.md)
 - [Firefly Glowworm Myths Comparative](firefly-glowworm-myths-comparative.md)
