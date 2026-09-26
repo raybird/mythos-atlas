@@ -1,4 +1,4 @@
-# 已分析母題索引（544 篇）
+# 已分析母題索引（545 篇）
 
 
 
@@ -552,3 +552,4 @@
 | 542 | reindeer-caribou-circumpolar-myths.md | 白馴鹿與馴鹿之民：環北極圈馴鹿（Rangifer tarandus）神話的跨文化比較——白鹿創世/鹿皮穹頂/卡利布母親/獵物主人/鹿婚與半馴化（Sámi/Inuit/Innu/Evenki/Nenets/Tsaatan） |
 | 543 | divine-wrestling-myths-comparative.md | 與神摔跤：跨文化神話中「凡人與不可勝者角力」母題的比較分析（雅各 vs 神／佩琉斯 vs 忒提斯／赫拉克勒斯 vs 阿刻洛俄斯與塔那托斯／婆薮 vs 婆薩那／佛陀 vs 魔羅／索爾 vs 老年／武甕槌神 vs 天宇受賣／毛伊 vs 太陽） |
 | 544 | widow-remarriage-levirate-comparative.md | 寡嫂繼承：兄亡之後的寡婦、再婚制度與貞節——跨文化「利未拉」的比較分析（yib'am 與脫鞋吐唾／al-ʿaliyya 禁令與姊妹婚交換／魯國「一生一及」與季隗拒絕／高句麗寡后／草原 emengerlik／Nuer 幽靈婚對照／埃及守護繼承人／羅馬不改嫁法定貞節／北歐晨賦與《尼雅爾斯薩迦》婚約清血債） |
+| 545 | straw-man-substitute-bodies-comparative.md | 稻草人與替身：以假亂真的跨文化神話母題比較（贖代災厄：Ovid草皮人形／東斯拉夫科斯特羅瑪稻草偶／西里西亞稻草之死／姜子牙草人替武吉／閩南十五替／埃及shabti／填補缺席：奇隆造像與代達羅斯木牛／帕特羅克洛斯代甲／悉多金像／假冒身分：雅各山羊皮與遭難／六耳獼猴照妖鏡與命名權／伊西斯變形誘騙與Bṛhaspati化Šukra／合法化身：科林斯松木酒神像與面具舞儀） |
