@@ -149,7 +149,6 @@ cultures/hindu/gods/迦梨.md
 cultures/hindu/gods/迦絺吉夜.md
 cultures/hindu/gods/阿耆尼.md
 cultures/hindu/stories/象神Ganesh由來.md
-cultures/indigenous-americas/comparisons/大洪水世界重建.md
 cultures/indigenous-americas/gods/Kokopelli.md
 cultures/indigenous-americas/gods/Nanabozho.md
 cultures/indigenous-americas/gods/Raven.md

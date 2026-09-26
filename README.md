@@ -96,7 +96,7 @@ mythos-atlas/
 
 ## 📊 當前狀態
 
-> 自動更新於 2026-09-26 06:48 UTC
+> 自動更新於 2026-09-26 08:33 UTC
 
 | 類別 | 進度 |
 |------|------|
@@ -104,8 +104,8 @@ mythos-atlas/
 | 跨文化主題 | 27/27 |
 | 分析文章 | 545 |
 | 已充實文化 | 44/44 |
-| 總頁面數 | 3439 |
-| 總執行次數 | 208 |
+| 總頁面數 | 3451 |
+| 總執行次數 | 209 |
 
 <!-- STATS_END -->
 
@@ -116,49 +116,49 @@ mythos-atlas/
 | 文化 | 區域 | 神祇 | 故事 | 比較 |
 |------|------|------|------|------|
 | [中國上古神話](cultures/chinese/) | 東亞 | 23 | 24 | 21 |
-| [美索不達米亞神話](cultures/mesopotamian/) | 兩河流域 | 24 | 19 | 17 |
+| [美索不達米亞神話](cultures/mesopotamian/) | 兩河流域 | 29 | 22 | 20 |
 | [希臘神話](cultures/greek/) | 地中海—巴爾幹 | 26 | 22 | 19 |
-| [埃及神話](cultures/egyptian/) | 北非—尼羅河流域 | 24 | 18 | 17 |
+| [埃及神話](cultures/egyptian/) | 北非—尼羅河流域 | 26 | 20 | 19 |
 | [北歐神話](cultures/norse/) | 北歐—日耳曼 | 26 | 22 | 19 |
 | [印度神話](cultures/hindu/) | 南亞—印度河流域 | 24 | 21 | 22 |
-| [馬雅神話](cultures/mayan/) | 中美洲 | 68 | 62 | 60 |
+| [馬雅神話](cultures/mayan/) | 中美洲 | 70 | 64 | 62 |
 | [日本神話](cultures/japanese/) | 東亞—日本列島 | 25 | 22 | 20 |
-| [波利尼西亞神話](cultures/polynesian/) | 太平洋島嶼 | 23 | 19 | 18 |
+| [波利尼西亞神話](cultures/polynesian/) | 太平洋島嶼 | 25 | 21 | 20 |
 | [澳洲原住民神話](cultures/aboriginal/) | 大洋洲—澳洲 | 24 | 22 | 20 |
 | [非洲諸神話](cultures/african/) | 撒哈拉以南非洲 | 25 | 22 | 20 |
-| [美洲原住民神話](cultures/indigenous-americas/) | 北美洲 | 22 | 20 | 17 |
-| [印加神話](cultures/incan/) | 南美洲—安地斯山脈 | 21 | 19 | 19 |
-| [凱爾特神話](cultures/celtic/) | 西歐—愛爾蘭/不列顛/高盧 | 23 | 19 | 17 |
+| [美洲原住民神話](cultures/indigenous-americas/) | 北美洲 | 25 | 23 | 19 |
+| [印加神話](cultures/incan/) | 南美洲—安地斯山脈 | 23 | 21 | 21 |
+| [凱爾特神話](cultures/celtic/) | 西歐—愛爾蘭/不列顛/高盧 | 25 | 21 | 19 |
 | [斯拉夫神話](cultures/slavic/) | 東歐—巴爾幹 | 26 | 20 | 20 |
-| [波斯神話](cultures/persian/) | 伊朗高原 | 57 | 54 | 60 |
+| [波斯神話](cultures/persian/) | 伊朗高原 | 60 | 57 | 63 |
 | [韓國神話](cultures/korean/) | 東亞—朝鮮半島 | 24 | 22 | 21 |
-| [芬蘭-烏戈爾神話](cultures/finno-ugric/) | 北歐—烏拉爾地區 | 22 | 19 | 19 |
-| [西藏神話](cultures/tibetan/) | 青藏高原 | 21 | 19 | 19 |
+| [芬蘭-烏戈爾神話](cultures/finno-ugric/) | 北歐—烏拉爾地區 | 24 | 21 | 21 |
+| [西藏神話](cultures/tibetan/) | 青藏高原 | 23 | 21 | 21 |
 | [蘇美神話](cultures/sumerian/) | 美索不達米亞南部 | 80 | 75 | 76 |
-| [腓尼基神話](cultures/phoenician/) | 黎凡特—迦南 | 22 | 18 | 18 |
-| [赫梯神話](cultures/hittite/) | 安納托利亞 | 23 | 19 | 18 |
-| [約魯巴神話](cultures/yoruba/) | 西非—奈及利亞/貝南 | 57 | 56 | 59 |
-| [蒙古神話](cultures/mongolian/) | 中亞—蒙古高原 | 22 | 19 | 18 |
+| [腓尼基神話](cultures/phoenician/) | 黎凡特—迦南 | 25 | 21 | 21 |
+| [赫梯神話](cultures/hittite/) | 安納托利亞 | 25 | 21 | 20 |
+| [約魯巴神話](cultures/yoruba/) | 西非—奈及利亞/貝南 | 59 | 58 | 61 |
+| [蒙古神話](cultures/mongolian/) | 中亞—蒙古高原 | 27 | 22 | 21 |
 | [愛努神話](cultures/ainu/) | 北海道—庫頁島—千島群島 | 25 | 21 | 21 |
-| [伊特魯里亞神話](cultures/etruscan/) | 義大利—托斯卡尼 | 22 | 19 | 18 |
-| [巴斯克神話](cultures/basque/) | 西歐—庇里牛斯山脈 | 21 | 19 | 19 |
+| [伊特魯里亞神話](cultures/etruscan/) | 義大利—托斯卡尼 | 24 | 21 | 20 |
+| [巴斯克神話](cultures/basque/) | 西歐—庇里牛斯山脈 | 23 | 21 | 21 |
 | [波羅的神話](cultures/baltic/) | 東歐—波羅的海沿岸 | 24 | 22 | 21 |
-| [越南神話](cultures/vietnamese/) | 東南亞—紅河流域 | 21 | 21 | 21 |
-| [因紐特神話](cultures/inuit/) | 北極—阿拉斯加/加拿大/格陵蘭 | 22 | 19 | 18 |
-| [亞美尼亞神話](cultures/armenian/) | 南高加索—亞美尼亞高原 | 21 | 19 | 20 |
+| [越南神話](cultures/vietnamese/) | 東南亞—紅河流域 | 22 | 22 | 22 |
+| [因紐特神話](cultures/inuit/) | 北極—阿拉斯加/加拿大/格陵蘭 | 24 | 21 | 20 |
+| [亞美尼亞神話](cultures/armenian/) | 南高加索—亞美尼亞高原 | 23 | 21 | 22 |
 | [菲律賓神話](cultures/philippine/) | 東南亞—菲律賓群島 | 24 | 22 | 21 |
 | [高加索神話](cultures/caucasian/) | 高加索山脈(奧塞提亞/切爾克斯/阿布哈茲) | 26 | 21 | 21 |
-| [達基亞/羅馬尼亞神話](cultures/dacian/) | 東南歐—喀爾巴阡山脈 | 21 | 22 | 17 |
+| [達基亞/羅馬尼亞神話](cultures/dacian/) | 東南歐—喀爾巴阡山脈 | 23 | 24 | 19 |
 | [羅馬神話](cultures/roman/) | 地中海—義大利半島 | 27 | 21 | 20 |
 | [前伊斯蘭阿拉伯神話](cultures/pre-islamic-arabian/) | 阿拉伯半島 | 25 | 21 | 22 |
-| [毛利神話](cultures/maori/) | 紐西蘭—玻里尼西亞三角 | 23 | 18 | 18 |
-| [斯基泰神話](cultures/scythian/) | 歐亞草原—黑海北岸至阿爾泰 | 24 | 17 | 19 |
-| [米諾斯神話](cultures/minoan/) | 愛琴海—克里特島 | 22 | 19 | 19 |
-| [努比亞/庫什神話](cultures/nubian/) | 東北非—尼羅河上游/蘇丹 | 21 | 19 | 20 |
+| [毛利神話](cultures/maori/) | 紐西蘭—玻里尼西亞三角 | 25 | 21 | 21 |
+| [斯基泰神話](cultures/scythian/) | 歐亞草原—黑海北岸至阿爾泰 | 26 | 19 | 21 |
+| [米諾斯神話](cultures/minoan/) | 愛琴海—克里特島 | 24 | 21 | 21 |
+| [努比亞/庫什神話](cultures/nubian/) | 東北非—尼羅河上游/蘇丹 | 23 | 21 | 22 |
 | [馬普切神話](cultures/mapuche/) | 南美洲—智利/阿根廷 | 24 | 24 | 19 |
 | [薩米神話](cultures/sami/) | 北歐—芬諾斯堪的亞 | 24 | 23 | 21 |
 | [西伯利亞神話](cultures/siberian/) | 西伯利亞—通古斯/雅庫特/楚科奇 | 24 | 24 | 19 |
-| [圖皮-瓜拉尼神話](cultures/tupi-guarani/) | 南美洲—巴西/巴拉圭/玻利維亞 | 21 | 20 | 19 |
+| [圖皮-瓜拉尼神話](cultures/tupi-guarani/) | 南美洲—巴西/巴拉圭/玻利維亞 | 23 | 22 | 21 |
 
 <!-- CULTURES_END -->
 

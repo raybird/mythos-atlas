@@ -2,6 +2,7 @@
 
 | 檔案 | 名稱 |
 | [狗的起源與犬神跨文化比較](狗的起源與犬神跨文化比較.md) | 狗的起源與犬神跨文化比較 |
+| [提基與祖先人像跨文化比較](tiki-ancestor-images-comparative.md) | 提基與祖先人像跨文化比較 |
 |------|------|
 | [creation-myths-global](creation-myths-global.md) | creation-myths-global |
 | [death-goddess-global](death-goddess-global.md) | death-goddess-global |

@@ -159,7 +159,8 @@
   "ainu",
   "chinese",
   "sami",
-  "roman"
+  "roman",
+  "maori"
  ],
  "analysis_log": [
   "sacrificial-creation",
@@ -240,5 +241,5 @@
   "widow-remarriage-levirate-comparative",
   "straw-man-substitute-bodies-comparative"
  ],
- "runs": 208
+ "runs": 209
 }
