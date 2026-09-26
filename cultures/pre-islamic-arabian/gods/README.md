@@ -25,6 +25,7 @@
 | [Yauq](Yauq.md) | Yauq |
 | [al-qaum](al-qaum.md) | al-qaum |
 | [庫札Quzah](庫札Quzah.md) | 庫札Quzah |
+| [Jinn](Jinn.md) | Jinn |
 
 ---
 *Auto-generated on 2026-08-15 16:10 UTC*

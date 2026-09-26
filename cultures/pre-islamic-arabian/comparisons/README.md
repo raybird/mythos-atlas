@@ -23,6 +23,7 @@
 | [阿拉伯部落盟誓與跨文化神聖契約](阿拉伯部落盟誓與跨文化神聖契約.md) | 阿拉伯部落盟誓與跨文化神聖契約 |
 | [阿拉伯黑石崇拜與跨文化聖石](阿拉伯黑石崇拜與跨文化聖石.md) | 阿拉伯黑石崇拜與跨文化聖石 |
 | [偶像破壞與聖所肅清跨文化比較](偶像破壞與聖所肅清跨文化比較.md) | 偶像破壞與聖所肅清跨文化比較 |
+| [flood-refuge-cave-origins-comparative](flood-refuge-cave-origins-comparative.md) | flood-refuge-cave-origins-comparative |
 
 ---
 *Auto-generated on 2026-08-15 16:10 UTC*
