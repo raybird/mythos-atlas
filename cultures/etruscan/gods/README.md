@@ -12,6 +12,8 @@
 | [Culsu](Culsu.md) | Culsu |
 | [Fufluns](Fufluns.md) | Fufluns |
 | [Laran](Laran.md) | Laran |
+| [Letham](Letham.md) | Letham |
+| [Maris](Maris.md) | Maris |
 | [Menrva](Menrva.md) | Menrva |
 | [Morta](Morta.md) | Morta |
 | [Nortia](Nortia.md) | Nortia |

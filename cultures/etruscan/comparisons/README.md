@@ -22,6 +22,7 @@
 | [gatekeeper-deities-comparative](gatekeeper-deities-comparative.md) | gatekeeper-deities-comparative |
 | [etruscan-sacred-space-cross-cultural](etruscan-sacred-space-cross-cultural.md) | etruscan-sacred-space-cross-cultural |
 | [伊特魯里亞冥界之旅與跨文化死後世界](伊特魯里亞冥界之旅與跨文化死後世界.md) | 伊特魯里亞冥界之旅與跨文化死後世界 |
+| [水中甦生的不死儀式跨文化比較](水中甦生的不死儀式跨文化比較.md) | 水中甦生的不死儀式跨文化比較 |
 
 ---
 *Auto-generated on 2026-08-15 16:10 UTC*

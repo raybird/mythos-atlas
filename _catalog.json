@@ -2294,7 +2294,9 @@
     "世界時期(Saecula)",
     "釘子儀式(Clavus)",
     "六日創世",
-    "三岔門 Trimodia"
+    "三岔門 Trimodia",
+    "酒甕中的不死之浴(Mariś Husrnana)",
+    "青銅鏡上的少年神入籍儀式(Epiur)"
    ],
    "parallels": [
     [
@@ -2312,7 +2314,7 @@
    ],
    "creation": "伊特魯里亞創世神話記載甚少——世界由Tinia(天空神)以六天創造(類似聖經但更古老)。宇宙分為16個天文區域，每區由特定神祇管轄。Tinia握有三道雷電——第一道用於警告，第二道用於懲戒，第三道僅用於眾神議會同意後。世界將經歷六個千年(六個世代)後終結。",
    "flood": "伊特魯里亞神話記載世界將經歷多次毀滅循環(以雷電、洪水、地震)。Tinia以雷電懲罰人類傲慢。部分傳說描述上古洪水毀滅巨人世代——此主題可能通過伊特魯里亞影響了羅馬神話。",
-   "pantheon": "Tinia(天/雷神)、Uni(天后)、Menrva(智慧/戰)、Nethuns(海)、Turms(信使)、Fufluns(酒/狂喜)、Aplu(預言)、Usil(太陽)、Turan(愛)、Laran(戰)、Selvans(邊界)、Culsans(門神)、Aita(冥王)、Phersipnei(冥后)、Charun(渡者)、Vanth(死亡神使)、Sethlans(火/鍛造)、Nortia(命運/釘子)、Ani(風/呼吸)、Morta(死亡審判)、Śuri/Soranus(冥界火狼神)、Tivr(月)",
+   "pantheon": "Tinia(天/雷神)、Uni(天后)、Menrva(智慧/戰)、Nethuns(海)、Turms(信使)、Fufluns(酒/狂喜)、Aplu(預言)、Usil(太陽)、Turan(愛)、Laran(戰)、Selvans(邊界)、Culsans(門神)、Aita(冥王)、Phersipnei(冥后)、Charun(渡者)、Vanth(死亡神使)、Sethlans(火/鍛造)、Nortia(命運/釘子)、Ani(風/呼吸)、Morta(死亡審判)、Śuri/Soranus(冥界火狼神)、Tivr(月)、Maris(幼神/不死之浴)、Letham(冥界/護佑)、Epiur(有翼少年神)",
    "stories": [
     "Tages從犁溝中現身傳授占卜",
     "Hercle(赫拉克勒斯)冒險",
@@ -2322,7 +2324,7 @@
     "塔格斯的犁溝神啟(占卜起源)",
     "科爾托納的建城神話",
     "希爾皮·索拉尼的狼祭火行",
-    "月亮與太陽的夜空對話(Tivr日月之約)"
+    "月亮與太陽的夜空對話(Tivr日月之約)", "Epiur的托舉-呈獻-加冕：少年神入籍Tinia神譜", "Mares的三死三生：Ausones祖先的不死傳說"
    ],
    "order": 26,
    "timeline": {
@@ -2355,12 +2357,16 @@
    "_stories": 21,
    "gods": [
     "Suri-Soranus",
-    "Lasa（拉薩神女群）"
+    "Lasa（拉薩神女群）",
+    "Maris（幼神/不死之浴）",
+    "Letham（冥界/護佑之神）",
+    "Epiur（有翼少年神）"
    ],
    "comparisons": [
     "火行祭司與狼神崇拜跨文化比較",
     "Tivr月神跨文化比較",
-    "Templum神聖空間跨文化比較"
+    "Templum神聖空間跨文化比較",
+    "水中甦生的不死儀式跨文化比較"
    ]
   },
   {
