@@ -6,9 +6,9 @@
 
 ## 概述
 
-Letham 是伊特魯里亞宗教中**文獻痕跡最密、卻最難以確定身分**的神祇之一。僅在皮亞琴察青銅肝一件器物上，他的名字就出現了**四次**（第 11、18、27、32、37 區中），使他成為該肝臟模型**內臟面（pars visceralis）上被提及次數最多的神祇**。這個密度本身就是一條重要的解讀線索：在一件為占卜而造的青銅模組上，越被頻繁標記的區域，traditionally 就越是占卜者反覆查閱、因而意義最不穩定的所在。
+Letham 是伊特魯里亞宗教中**文獻痕跡最密、卻最難以確定身分**的神祇之一。僅在皮亞琴察青銅肝一件器物上，他的名字就以多種拼法反覆出現——計入 *leθns*、*leθn*、*leta*、*leθam／leθams* 等異寫，分布範圍涵蓋內臟面與外緣共 32 個區位中的五處以上，使他成為該肝臟模型**內臟面（pars visceralis）上被提及次數最多的神祇**。這個密度本身就是一條重要的解讀線索：在一件為占卜而造的青銅模組上，越被頻繁標記的區域，traditionally 就越是占卜者反覆查閱、因而意義最不穩定的所在。
 
-Letham 的名形在伊特魯里亞語銘文中有多種變體：**leθns**（屬格，第 11 區）、**leθn**（第 18 區）、**leta**（第 27 區）、**leθam／leθams**（第 32、37 區）。伊特魯里亞學界通常將 *Lethn* 與 *Letham* 視為同一位神的不同格位或異寫，但也有學者（如 Wikipedia 收錄的伊特魯里亞神祇列表）仍將 *Letha* 獨立列為「伊特魯里亞的冥府女神」。性別同樣未定：學者 Cristofani 在論證中明確表示「Cristofani 未界定 Lethams 的性別」。
+Letham 的名形在伊特魯里亞語銘文中有多種變體：**leθns**（屬格，見於肝臟外緣區段）、**leθn**（內臟面）、**leta**（內臟面，鄰近 *marisl lar*）、**leθam／leθams**（內臟面，與 *maris* 同段）。（皮亞琴察肝臟內臟面為 4 象限 × 4 = 16 區，外緣另分 16 區，合計 32 區，故本庫不採用更高區號。）伊特魯里亞學界通常將 *Lethn* 與 *Letham* 視為同一位神的不同格位或異寫，但也有學者（如 Wikipedia 收錄的伊特魯里亞神祇列表）仍將 *Letha* 獨立列為「伊特魯里亞的冥府女神」。性別同樣未定：學者 Cristofani 在論證中明確表示「Cristofani 未界定 Lethams 的性別」。
 
 ## 兩種互相競爭的解讀
 
@@ -18,7 +18,7 @@ Cristofani 注意到一個橫跨兩千年的對應關係：皮亞琴察青銅肝
 
 **解讀二：Letham 是戰鬥與護佑之神（Morpurgo）**
 
-Giulia Morpurgo 提出相反的論證。她指出兩項關鍵證據：第一，**Letham 在肝臟內部的四個區位分別位於解剖學左葉、中心區、膽囊、以及膽囊右側**——也就是涵蓋了肝臟模型的所有主要區域，而非集中於某個特定面向。第二，在**第 37 區（*leθam*）與第 30 區（*maris*）相鄰**，在**第 27 區（*leta*）與第 26 區（*marisl lar*，即 Maris 與 Laran）相鄰**；而 Maris 與 Laran 在鏡像藝術中都被確認為**保護性的男性武戰之神**。Morpurgo 由此主張 Letham 是一位類似的武神。
+Giulia Morpurgo 提出相反的論證。她指出兩項關鍵證據：第一，**Letham 在肝臟上的分布橫跨解剖學左葉、中心區、膽囊、以及膽囊右側**——也就是涵蓋了肝臟模型的所有主要區域，而非集中於某個特定面向。第二，**Letham 與 Maris 落在肝臟的同一區段**（介於膽囊與「輪」之間，並與 Hercle 相鄰），**Letham 另一處（*leta*）則與 *marisl lar* 相鄰**；而 Maris 與 Laran 在鏡像藝術中都被確認為**保護性的男性神祇**。Morpurgo 由此主張 Letham 是一位類似的武神。（須注意：Morpurgo 明確指出 Maris 與伊特魯里亞戰神 Laran 一直是兩個不同的神，不可並稱。）
 
 她找到了一件直接物證：**一件約主前 300 年的塔爾奎尼亞出土青銅鏡**（現藏科莫），其背面損毀，但凸起的**邊框銘文自左至右為：*laran leθam tinia menerva θalna uni***。此鏡正面原應表現的是**Menrva 自 Tinia 頭顱中誕生**的場景（Morpurgo 據殘存的十一 betyl 聖石與 Tinia、Menrva、Thalna 的並置推定）。這六位神的名號依序排列，顯示 **Laran 與 Letham 之所以在左側同列，必是出於二者共同的「護佑功能」**；而**相對的 Thalna 與 Uni 則被合併**，因為兩者同樣都能作為**誕生之神**發揮作用。Morpurgo 的結論是：**Lethams 在卡普阿納 tablets 中是一位戰爭守護神**（TC 18–19 行在五月條款中將 Larun 與 Letham 並列），並指出他的祭祀月份集中在四月至七月——正是義大利古式曆法的**戰爭季節**。
 
@@ -43,7 +43,7 @@ Morpurgo 同時提出了一條能調和兩派的方法論觀察，強調**伊特
 
 Letham 的功能落在「**賜予恩惠的神**」與「**冥界武神**」的交會處，可與以下傳統對照：
 
-- **希臘／羅馬的 Agathos Daimon 與 Genii（Tuenii）** — 義大利本土的守护靈概念；Letham 在皮亞琴察肝臟內部（心臟部位）多區出現的安排，與守護靈居於身體內部的觀念同構。這也是 Cristofani 將其連結至 Martianus Capella 体系中 Favores（善靈）的原因。
+- **希臘／羅馬的 Agathos Daimon 與 Genii（Tuenii）** — 義大利本土的守護靈概念；Letham 在皮亞琴察肝臟內部（心臟部位）多區出現的安排，與守護靈居於身體內部的觀念同構。這也是 Cristofani 將其連結至 Martianus Capella 體系中 Favores（善靈）的原因。
 - **希臘的 Eudaimonia 與 Agathos Daimon** — 對個人命運的守護；Letham 與 Maris、Laran 在肝臟上的相鄰呈現同樣的「護佑」語彙。
 - **北歐的 Hlín／Hyrrokkin** — 賦予英雄守護與榮耀的女性守護力量；伊特魯里亞的 Letham 以男女未定的方式佔據同一位置。
 - **波斯的 Sraosha（聽從）與 Verethragna（勝利）** — 波斯阿維斯陀中的「賜予victory」神，屬於護佑群而非戰鬥群，與 Letham 的「護佑／戰鬥混合」性質形成清晰對照。
@@ -62,7 +62,7 @@ Letham 的功能落在「**賜予恩惠的神**」與「**冥界武神**」的�
 
 ## 出現在
 
-- 皮亞琴察青銅肝第 11、18、27、32、37 區 (TLE 719)
+- 皮亞琴察青銅肝內臟面與外緣多區（異寫 leθns／leθn／leta／leθam[s]）(TLE 719)
 - 卡普阿納 tablets 第 3、6、7、8、9、12 行（Berlin Antikensammlung）
 - 塔爾奎尼亞出土青銅鏡邊框銘文 *laran leθam tinia menerva θalna uni*（現藏科莫）
 - Wikipedia 收錄的伊特魯里亞神祇列表（Letham／Lethns／Letha／Lethms／Leta）

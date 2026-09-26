@@ -12,7 +12,7 @@ Maris（伊特魯里亞語 *Mariś*）是伊特魯里亞萬神殿中最奇特的
 - **Mariś Husrnana** —「孩童 Maris」，見於卡魯塞尼出土的兩面青銅鏡的核心場景
 - **Mariś Isminthians** —「伊斯米提亞的 Maris」，見於另一面青銅鏡，Turms（信使之神）抱著此人
 
-現代伊特魯里亞學者 Giulia Morpurgo 依據鏡面銘文與皮亞琴察青銅肝的分布指出：**Maris 是 Hercle 之子**（鏡 G-K V Nachtr. 16 在一位披斗篷的少年身旁寫出 *Maris Herdes*，此處 *Herdes* 應即 Hercle 的異寫）。在皮亞琴察青銅肝上，Maris 出現在 26 區（*marisl latr*，與 Laran 相鄰）以及 30、39 區（*mar*），而 Hercle 本身位於 29 區——**父子在這件占卜器物上僅隔一區相鄰**，這種刻意的空間安排支持了父子關係的判讀。
+依伊特魯里亞陶瓷上的神話場景，學界通說 **Maris 為 Hercle 之子**（鏡 G-K V Nachtr. 16 在一位披斗篷的少年身旁寫出 *Maris Herdes*，此處 *Herdes* 應即 Hercle 的異寫）。Giulia Morpurgo 另從皮亞琴察青銅肝的分布提出佐證：依 SE52 的轉錄，Maris 在肝臟上**出現兩次**——一為簡寫 *Mari*，一為綽號 *Maris Laθ*；兩處四周皆圍繞著象徵自然生命力的神群——Cilens、Erθ（護產女神）與 Fufluns。Hercle 則與 Maris 及 Letham 同落在膽囊與「輪」之間的一段。**父子在這件占卜器物上同段相鄰**，這種刻意的空間安排支持了父子關係的判讀。
 
 Maris 也見於馬格利亞諾鉛牌，該銘板同時列出 Caθa、Aisera、Uni、Śuri、Laran 等神。在卡普阿納石板（Tabula Capuana，約主前 470 年）裡，四月條款出現了「**屬於 Hamae 地的 Mariś 小像**」的處置紀錄，說明 Maris 在卡普亞的祭司團體中擁有一尊實體神像，並被納入年度祭祀日程。
 
@@ -28,11 +28,11 @@ Maris 最核心的神話場景保存在**兩面青銅鏡**上，這是伊特魯�
 
 ## 學界解讀：馬里斯的三死三生
 
-Massimo Pallottino 提出，Maris 可能與**半人半馬 Mares** 的傳說直接相關。這位 Mares 的事蹟保存在 Gaius Julius Solinus 的《集異記》（*Collectanea*）第九卷第十六節，該段已被完整保存下來：
+Giulia Morpurgo 指出，Maris 可能與**半人半馬 Mares** 的傳說直接相關：*Μάρης* 在該記載寫作的時代讀音即為 *Maris*。這位 Mares 的事蹟保存在 **Aelian《雜史》（*Varia Historia*）第九卷第十六節**（該段為希臘文原作；Aelian 雖以希臘文寫作，卻終身未離義大利，故所述為義大利本地傳聞）。該段引文為：
 
-> 「Ausones 最先定居義大利。他們最古老的祖先名叫 Mares；前面看是人，後面看是馬……人們相信他是第一個騎上馬並給牠套上嚼子的人。神話說他活了三又二十二年（323 年），並且**三次死去、三次復活**。」
+> 「Ausones 最先定居義大利。他們最古老的祖先名叫 Mares；前面看是人，後面看是馬……人們相信他是第一個騎上馬並給牠套上嚼子的人。神話說他活了一百二十三年（123 年），並且**三次死去、三次復活**。」
 
-Solinus 隨即補了一句「然而我並不相信這一說法」——這種「記載但不相信」的敘述姿態，恰恰說明羅馬時期的伊特魯里亞傳統仍保有這段神話。三死三生因此為 Maris 提供了**敘事骨架**：一個反覆死而復存的幼神。皮亞琴察青銅肝上 Maris 在 26 區（Laran 旁的戰鬥區）與 27、18 區（偏向吉利的 *pars familiaris*）之間的遊移，也呼應了同一神祇可兼具**毀滅性與恩賜性**的伊特魯里亞雙面原則。
+Aelian 隨即補了一句「然而我並不相信這一說法」——這種「記載但不相信」的敘述姿態，恰恰說明羅馬時期的伊特魯里亞傳統仍保有這段神話。**123 年恰為一個伊特魯里亞 *saeculum***，是這則屬地（Italic）神話被伊特魯里亞吸收時留下的層次痕跡；Morpurgo 並指出，Palestrina 的國王 **Erulus**（地母 Feronia 之子）同樣「三次死去、三次復活」，顯示這是地方性的共同傳統。三死三生因此為 Maris 提供了**敘事骨架**：一個反覆死而復存的幼神。這套「幼神置於火中或沸水」的母題另有兩件實物佐證——Palestrina 象牙箱（Prænestina cista, tav. XXXVIII a）上的 Mars 少年立於**沸水**中，Todi 出土伊特魯里亞青銅鏡（tav. XXXVIII b）邊飾上的 Hercle 少年則**坐於火焰**之中。皮亞琴察青銅肝上 Maris 兩處銘文皆鄰近象徵生命力與地底力量的神群，也呼應了同一神祇可兼具**毀滅性與恩賜性**的伊特魯里亞雙面原則。
 
 ## 跨文化對應
 
@@ -55,16 +55,16 @@ Maris 最獨特之處在於他是「**以泡水取得不死**」這一律儀邏�
 - **Turms** — 在第二面鏡中抱持 Mariś Isminthians 的信使之神
 - **Laran / Leinth** — 戰神與持矛青年，構成保護性的框架
 - **Lasa** — 覆布以象徵新生的神女群
-- **Mares** — 半人半馬的 Ausones 祖先，三死三生（Solinus《集異記》IX.16）
+- **Mares** — 半人半馬的 Ausones 祖先，三死三生（Aelian《雜史》IX.16）
 
 ## 出現在
 
 - 馬格利亞諾鉛牌 (Lead Plaque of Magliano)
-- 皮亞琴察青銅肝第 26、30、39 區 (TLE 719)
+- 皮亞琴察青銅肝 *Mari* 與 *Maris Laθ* 二處 (TLE 719)
 - 卡普阿納 tablets（Tabula Capuana）四月條款
 - 卡魯塞尼出土青銅鏡 G-K tav. XXXVIII c、d（列入 Gerarda 收藏）
 - 哥廷根出土青銅鏡（Menrva 與幼神）
-- Gaius Julius Solinus《集異記》IX.16（Mares 三死三生）
+- Aelian《雜史》IX.16（Mares 三死三生）
 
 ## 參考文獻
 
@@ -74,5 +74,5 @@ Maris 最獨特之處在於他是「**以泡水取得不死**」這一律儀邏�
 - Morpurgo, Giulia. "Some Comment on the Tabula Capuana." *Studi Etruschi* 77 (SE77), 2004.
 - de Grummond, Nancy Thomson. *Etruscan Myth, Sacred History, and Legend*. University of Pennsylvania Museum, 2006.
 - Pallottino, Massimo. *Etruscan Painting*. New York: Viking Press, 1977.
-- Solinus, Gaius Julius. *Collectanea rerum memorabilium* IX.16（W. Dictionary of Greek and Roman Geography 所引原文）
+- Aelian, *Varia Historia* IX.16（希臘文；經 Morpurgo SE52 轉錄與翻譯）
 - de Ruyt, François. *De Etruscanis religionibus*（赫爾豹與水池的伊特魯里亞形象，存於 Bibliothèque Nationale, Lat. 7020）
