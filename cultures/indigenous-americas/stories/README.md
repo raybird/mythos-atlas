@@ -2,7 +2,6 @@
 
 | 檔案 | 名稱 |
 | [溫迪戈的誘惑](溫迪戈的誘惑.md) | 溫迪戈的誘惑 |
-|------|------|
 | [Coyote與眾神](Coyote與眾神.md) | Coyote與眾神 |
 | [Coyote與雷鳥之戰](Coyote與雷鳥之戰.md) | Coyote與雷鳥之戰 |
 | [corn-mother](corn-mother.md) | corn-mother |
@@ -10,6 +9,7 @@
 | [hiawatha-great-law](hiawatha-great-law.md) | hiawatha-great-law |
 | [hopi-four-worlds-emergence](hopi-four-worlds-emergence.md) | hopi-four-worlds-emergence |
 | [iktomi-and-the-boulder](iktomi-and-the-boulder.md) | iktomi-and-the-boulder |
+| [mink-woman-and-thunder-man](mink-woman-and-thunder-man.md) | 貂女與雷人 |
 | [monster-slayer-and-born-for-water](monster-slayer-and-born-for-water.md) | monster-slayer-and-born-for-water |
 | [nanabozho-great-flood](nanabozho-great-flood.md) | nanabozho-great-flood |
 | [napi-creates-humanity](napi-creates-humanity.md) | napi-creates-humanity |
@@ -23,7 +23,7 @@
 | [白水牛女送七儀式](白水牛女送七儀式.md) | 白水牛女送七儀式 |
 | [蜘蛛祖母創世](蜘蛛祖母創世.md) | 蜘蛛祖母創世 |
 | [雙子英雄](雙子英雄.md) | 雙子英雄 |
+| [heyoka-reverse-wisdom](heyoka-reverse-wisdom.md) | 雷夢之人：嘿約卡的反向智慧 |
 
-| [雷夢之人：嘿約卡的反向智慧](heyoka-reverse-wisdom.md) | heyoka-reverse-wisdom |
 ---
 *Auto-generated on 2026-08-15 16:10 UTC*
