@@ -153,8 +153,6 @@ cultures/indigenous-americas/comparisons/大洪水世界重建.md
 cultures/indigenous-americas/gods/Kokopelli.md
 cultures/indigenous-americas/gods/Nanabozho.md
 cultures/indigenous-americas/gods/Raven.md
-cultures/indigenous-americas/gods/White-Buffalo-Calf-Woman.md
-cultures/indigenous-americas/gods/雷鳥.md
 cultures/indigenous-americas/stories/Coyote與眾神.md
 cultures/indigenous-americas/stories/白水牛女送七儀式.md
 cultures/indigenous-americas/stories/雙子英雄.md
