@@ -2655,7 +2655,8 @@
     "Inua萬物有靈",
     "薩滿靈魂旅程",
     "動物禁忌體系",
-    "Tupilak魔法造物"
+    "Tupilak魔法造物",
+    "Kigatilik噬薩滿之敵"
    ],
    "parallels": [
     [
@@ -2682,7 +2683,8 @@
     "Qallupilluit冰下妖怪",
     "Amarok巨狼傳說",
     "卡格薩蘇克與阿馬洛克",
-    "Nuliajuk的深海復仇"
+    "Nuliajuk的深海復仇",
+    "Atagutaaluk：大饑荒的孑遺"
    ],
    "order": 30,
    "timeline": {
@@ -2717,16 +2719,18 @@
      "norse"
     ]
    },
-   "_stories": 7,
+   "_stories": 22,
    "gods": [
     "Pukkeenegak",
     "Silap Inua（Sila，氣息之主）",
-    "Nootaikqq（冰川之靈）"
+    "Nootaikqq（冰川之靈）",
+    "Kigatilik（噬薩滿的惡鬼）"
    ],
    "comparisons": [
     "動物配偶與動物祖先跨文化比較",
     "極地海洋怪物跨文化比較：Qallupilluit、海蛇與冰下威脅",
-    "北極動物轉化神話跨文化比較"
+    "北極動物轉化神話跨文化比較",
+    "分享義務與獨食之罰跨文化比較"
    ]
   },
   {

@@ -8,7 +8,9 @@
 | [Sedna海洋女神跨文化比較](Sedna海洋女神跨文化比較.md) | Sedna海洋女神跨文化比較 |
 | [animal-spouse-animal-ancestor](animal-spouse-animal-ancestor.md) | animal-spouse-animal-ancestor |
 | [arctic-animal-spirits-comparison](arctic-animal-spirits-comparison.md) | arctic-animal-spirits-comparison |
+| [arctic-animal-transformation-cross-cultural](arctic-animal-transformation-cross-cultural.md) | arctic-animal-transformation-cross-cultural |
 | [arctic-beliefs-comparison](arctic-beliefs-comparison.md) | arctic-beliefs-comparison |
+| [arctic-sea-creatures-cross-cultural](arctic-sea-creatures-cross-cultural.md) | arctic-sea-creatures-cross-cultural |
 | [aurora-borealis-cross-cultural](aurora-borealis-cross-cultural.md) | aurora-borealis-cross-cultural |
 | [earth-diver-creation-comparative](earth-diver-creation-comparative.md) | earth-diver-creation-comparative |
 | [hunting-goddesses-comparison](hunting-goddesses-comparison.md) | hunting-goddesses-comparison |
@@ -19,9 +21,8 @@
 | [sun-moon-myths-world](sun-moon-myths-world.md) | sun-moon-myths-world |
 | [trickster-raven-comparison](trickster-raven-comparison.md) | trickster-raven-comparison |
 | [winter-blizzard-deities-comparative](winter-blizzard-deities-comparative.md) | winter-blizzard-deities-comparative |
+| [分享義務與獨食之罰跨文化比較](分享義務與獨食之罰跨文化比較.md) | 分享義務與獨食之罰跨文化比較 |
 | [極地薩滿跨文化比較](極地薩滿跨文化比較.md) | 極地薩滿跨文化比較 |
-| [arctic-sea-creatures-cross-cultural](arctic-sea-creatures-cross-cultural.md) | arctic-sea-creatures-cross-cultural |
 
-| [arctic-animal-transformation-cross-cultural](arctic-animal-transformation-cross-cultural.md) | arctic-animal-transformation-cross-cultural |
 ---
-*Auto-generated on 2026-08-15 16:10 UTC*
+*Auto-generated on 2026-09-26 10:51 UTC*
