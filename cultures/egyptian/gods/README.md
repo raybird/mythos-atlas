@@ -2,6 +2,7 @@
 
 | 檔案 | 名稱 |
 |------|------|
+| [奈特](奈特.md) | 奈特 |
 | [Bastet](Bastet.md) | Bastet |
 | [Ptah](Ptah.md) | Ptah |
 | [maat](maat.md) | maat |

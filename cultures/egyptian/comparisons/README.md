@@ -3,6 +3,7 @@
 | 檔案 | 名稱 |
 | [以毒療癒：蠍蛇醫療神靈跨文化比較](venom-healers-global.md) | 以毒療癒：蠍蛇醫療神靈跨文化比較 |
 |------|------|
+| [織機即宇宙：奈特與全球織造創世母題比較](織機即宇宙：奈特與全球織造創世母題比較.md) | 織機即宇宙：奈特與全球織造創世母題比較 |
 | [egyptian-soul-ba-ka-akh-cross-cultural](egyptian-soul-ba-ka-akh-cross-cultural.md) | egyptian-soul-ba-ka-akh-cross-cultural |
 | [創世原水跨文化比較](創世原水跨文化比較.md) | 創世原水跨文化比較 |
 | [創造之神跨文化比較](創造之神跨文化比較.md) | 創造之神跨文化比較 |

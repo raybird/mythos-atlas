@@ -2,6 +2,7 @@
 
 | 檔案 | 名稱 |
 |------|------|
+| [天母牛之書](天母牛之書.md) | 天母牛之書 |
 | [doomed-prince](doomed-prince.md) | doomed-prince |
 | [wandering-goddess](wandering-goddess.md) | wandering-goddess |
 | [人類的誕生](人類的誕生.md) | 人類的誕生 |
