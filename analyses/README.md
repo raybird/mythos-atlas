@@ -110,6 +110,7 @@
 - [Divine Archery Comparative](divine-archery-comparative.md)
 - [Divine Architect Cosmic Builder Comparative](divine-architect-cosmic-builder-comparative.md)
 - [Divine Breath Vital Force Comparative](divine-breath-vital-force-comparative.md)
+- [Divine Castration Self Mutilation Comparative](divine-castration-self-mutilation-comparative.md)
 - [Divine Chariots Solar Vehicles Comparative](divine-chariots-solar-vehicles-comparative.md)
 - [Divine Child Comparative](divine-child-comparative.md)
 - [Divine Council Celestial Court Comparative](divine-council-celestial-court-comparative.md)
