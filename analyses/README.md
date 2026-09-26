@@ -446,6 +446,7 @@
 - [Spontaneous Generation Bugonia Myths Comparative](spontaneous-generation-bugonia-myths-comparative.md)
 - [Star Ancestor Myths Comparative](star-ancestor-myths-comparative.md)
 - [Steppe Grassland Mythology Comparative](steppe-grassland-mythology-comparative.md)
+- [Straw Man Substitute Bodies Comparative](straw-man-substitute-bodies-comparative.md)
 - [Sun Moon Conflict Comparative](sun-moon-conflict-comparative.md)
 - [Sun Myths](sun-myths.md)
 - [Sun Snaring Myths Comparative](sun-snaring-myths-comparative.md)
