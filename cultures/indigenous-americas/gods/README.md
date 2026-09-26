@@ -2,17 +2,18 @@
 
 | 檔案 | 名稱 |
 | [Wendigo](Wendigo.md) | Wendigo |
-|------|------|
 | [Changing-Woman](Changing-Woman.md) | Changing-Woman |
 | [Coyote](Coyote.md) | Coyote |
 | [First-Man-First-Woman](First-Man-First-Woman.md) | First-Man-First-Woman |
 | [Glooscap](Glooscap.md) | Glooscap |
 | [Great-Spirit](Great-Spirit.md) | Great-Spirit |
 | [He-No](He-No.md) | He-No |
+| [Heyoka](Heyoka.md) | Heyoka |
 | [Horned-Serpent](Horned-Serpent.md) | Horned-Serpent |
 | [Iktomi](Iktomi.md) | Iktomi |
 | [Kokopelli](Kokopelli.md) | Kokopelli |
 | [Malsum](Malsum.md) | Malsum |
+| [Masauwu](Masauwu.md) | 莫索烏（骨架人／死亡與大地守護者） |
 | [Morning-Star](Morning-Star.md) | Morning-Star |
 | [Nanabozho](Nanabozho.md) | Nanabozho |
 | [Napi](Napi.md) | Napi |
@@ -26,6 +27,5 @@
 | [蜘蛛祖母](蜘蛛祖母.md) | 蜘蛛祖母 |
 | [雷鳥](雷鳥.md) | 雷鳥 |
 
-| [Heyoka](Heyoka.md) | Heyoka |
 ---
 *Auto-generated on 2026-08-15 16:10 UTC*
