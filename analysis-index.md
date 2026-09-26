@@ -1,4 +1,4 @@
-# 已分析母題索引（543 篇）
+# 已分析母題索引（544 篇）
 
 
 
@@ -551,3 +551,4 @@
 | 541 | man-in-the-moon-comparative.md | 月中人影：月面人像與「月宮駐人」母題的跨文化比較——負柴的安息日犯禁者／洛娜與希娜／嫦娥吳剛／翠玉／海達男孩／因紐特月兄弟／月中露臀女子（Hjúki&Máni/Rona/Hina/Wu Gang/Chú Cuội/Latvia） |
 | 542 | reindeer-caribou-circumpolar-myths.md | 白馴鹿與馴鹿之民：環北極圈馴鹿（Rangifer tarandus）神話的跨文化比較——白鹿創世/鹿皮穹頂/卡利布母親/獵物主人/鹿婚與半馴化（Sámi/Inuit/Innu/Evenki/Nenets/Tsaatan） |
 | 543 | divine-wrestling-myths-comparative.md | 與神摔跤：跨文化神話中「凡人與不可勝者角力」母題的比較分析（雅各 vs 神／佩琉斯 vs 忒提斯／赫拉克勒斯 vs 阿刻洛俄斯與塔那托斯／婆薮 vs 婆薩那／佛陀 vs 魔羅／索爾 vs 老年／武甕槌神 vs 天宇受賣／毛伊 vs 太陽） |
+| 544 | widow-remarriage-levirate-comparative.md | 寡嫂繼承：兄亡之後的寡婦、再婚制度與貞節——跨文化「利未拉」的比較分析（yib'am 與脫鞋吐唾／al-ʿaliyya 禁令與姊妹婚交換／魯國「一生一及」與季隗拒絕／高句麗寡后／草原 emengerlik／Nuer 幽靈婚對照／埃及守護繼承人／羅馬不改嫁法定貞節／北歐晨賦與《尼雅爾斯薩迦》婚約清血債） |

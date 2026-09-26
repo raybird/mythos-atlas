@@ -507,6 +507,7 @@
 - [Wheel Mythology Comparative](wheel-mythology-comparative.md)
 - [Whirlpool Vortex Myths](whirlpool-vortex-myths.md)
 - [White Sacred Animals Comparative](white-sacred-animals-comparative.md)
+- [Widow Remarriage Levirate Comparative](widow-remarriage-levirate-comparative.md)
 - [Wild Hunt Spectral Procession](wild-hunt-spectral-procession.md)
 - [Wild Man Myths Comparative](wild-man-myths-comparative.md)
 - [Willow Mythology Comparative](willow-mythology-comparative.md)
