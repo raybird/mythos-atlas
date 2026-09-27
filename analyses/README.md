@@ -195,6 +195,7 @@
 - [Hair Symbolism Mythology Comparative](hair-symbolism-mythology-comparative.md)
 - [Harvest Corn Spirit First Fruits Comparative](harvest-corn-spirit-first-fruits-comparative.md)
 - [Head Skull Myths Comparative](head-skull-myths-comparative.md)
+- [Headless Ones Decapitation Second Life Comparative](headless-ones-decapitation-second-life-comparative.md)
 - [Healing Medicine Myths](healing-medicine-myths.md)
 - [Heart Symbolism Mythology Comparative](heart-symbolism-mythology-comparative.md)
 - [Hearth Fire Domestic Myths Comparative](hearth-fire-domestic-myths-comparative.md)
