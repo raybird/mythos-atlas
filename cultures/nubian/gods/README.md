@@ -24,6 +24,7 @@
 | [Royal-Cult](Royal-Cult.md) | Royal-Cult |
 | [Satis](Satis.md) | Satis |
 | [Sebiumeker-Dedun](Sebiumeker-Dedun.md) | Sebiumeker-Dedun |
+| [Upuat](Upuat.md) | 烏普阿特（Upuat）—「白者」：第一急流地帶的沙漠與邊界守護神 |
 | [arensnuphis](arensnuphis.md) | arensnuphis |
 
 ---

@@ -5,6 +5,7 @@
 | [two-faced-gatekeepers-threshold-guardians](two-faced-gatekeepers-threshold-guardians.md) | 雙面守門神與門檻守護 跨文化比較 |
 | [divine-consort-alliance-comparative](divine-consort-alliance-comparative.md) | divine-consort-alliance-comparative |
 | [divine-potter-creator-gods-comparative](divine-potter-creator-gods-comparative.md) | divine-potter-creator-gods-comparative |
+| [foreign-conqueror-divine-investiture-comparative](foreign-conqueror-divine-investiture-comparative.md) | 「神把疆域交給異鄉之王」：征服者如何取得神授的正當性 |
 | [frontier-fortress-gods-global](frontier-fortress-gods-global.md) | frontier-fortress-gods-global |
 | [god-wives-temple-women-comparative](god-wives-temple-women-comparative.md) | god-wives-temple-women-comparative |
 | [lion-gods-global](lion-gods-global.md) | lion-gods-global |

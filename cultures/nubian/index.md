@@ -10,6 +10,7 @@
 - 納帕塔阿蒙神廟
 - Kerma考古遺址
 - 民族誌比較
+- 納斯塔森碑（Berlin ÄM 2268）與皮耶勝利碑
 
 ## 創世神話
 
@@ -21,7 +22,7 @@
 
 ## 神系
 
-Amun(創造/王權/納帕塔主神)、Apedemak(獅頭戰神/創造/毀滅/麥羅埃主神)、Isis(伊西斯)、Osiris(歐西里斯/冥界)、Horus(荷魯斯/王權)、Sebiumeker(創世/生殖)、Dedun(香料/財富/冥界)、Makedeke(豐收)、Arensnuphis(戰/獅)、Mandulis(太陽少年神)、Anhur(戰/狩獵)、Mut(母神)、Khonsu(月神/治療)
+Amun(創造/王權/納帕塔主神)、Apedemak(獅頭戰神/創造/毀滅/麥羅埃主神)、Isis(伊西斯)、Osiris(歐西里斯/冥界)、Horus(荷魯斯/王權)、Sebiumeker(創世/生殖)、Dedun(香料/財富/冥界)、Makedeke(豐收)、Arensnuphis(戰/獅)、Mandulis(太陽少年神)、Anhur(戰/狩獵)、Mut(母神)、Khonsu(月神/治療)、烏普阿特Upuat(第一急流地帶的「白者」/綠洲與沙漠邊界守護)
 
 ## 核心母題
 
@@ -32,12 +33,16 @@ Amun(創造/王權/納帕塔主神)、Apedemak(獅頭戰神/創造/毀滅/麥羅
 - 王室神權合一
 - 獅/蛇/鱷魚神聖動物
 - 鐵器與冶金神話
+- 第一急流地帶的邊境守護神（烏普阿特／白者）
+- 阿蒙的神授王權與征服者正當性
 
 ## 跨文化平行
 
 - **Apedemak獅神** ↔ 埃及Sekhmet
 - **努比亞阿蒙神** ↔ 埃及Amun/希臘Zeus
 - **Sevium創世原水** ↔ 埃及Nun
+- **烏普阿特（白者／邊界守護）** ↔ 埃及Wepwawet（開路者）、阿努比斯（黑者／死者之城）
+- **納斯塔森碑的神授「弓地」王權** ↔ 亞歷山大的阿蒙神諭、蒙古長生天授命
 
 ## 重要故事
 
@@ -49,6 +54,7 @@ Amun(創造/王權/納帕塔主神)、Apedemak(獅頭戰神/創造/毀滅/麥羅
 - Isis在Philae的朝聖
 - Apedemak獅神的節日
 - Kerma王國的繁榮與衰落
+- 納斯塔森碑：阿蒙呼召與「弓地」王權的賜予
 
 ---
 *Generated on 2026-06-20 from _catalog.json*

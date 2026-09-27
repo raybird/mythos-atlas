@@ -20,6 +20,7 @@
 | [kerma-rise-fall](kerma-rise-fall.md) | kerma-rise-fall |
 | [meroe-pyramids](meroe-pyramids.md) | meroe-pyramids |
 | [napata-founding](napata-founding.md) | napata-founding |
+| [nastasen-dream-investiture](nastasen-dream-investiture.md) | 納斯塔森碑：阿蒙的呼召與「弓地」王權的賜予 |
 | [piye-conquest](piye-conquest.md) | piye-conquest |
 | [taharqa-assyria](taharqa-assyria.md) | taharqa-assyria |
 | [taharqa-sphinx-dream](taharqa-sphinx-dream.md) | taharqa-sphinx-dream |
