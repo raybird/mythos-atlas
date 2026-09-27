@@ -21,6 +21,7 @@
 | [桑耶寺建立](桑耶寺建立.md) | 桑耶寺建立 |
 | [米拉日巴苦修傳奇](米拉日巴苦修傳奇.md) | 米拉日巴苦修傳奇 |
 | [香巴拉與蓮花生封閉的秘境](香巴拉與蓮花生封閉的秘境.md) | 香巴拉與蓮花生封閉的秘境 |
+| [four-harmonious-friends](four-harmonious-friends.md) | 四和合友 |
 
 ---
 *Auto-generated on 2026-08-15 16:10 UTC*

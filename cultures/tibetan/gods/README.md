@@ -23,6 +23,7 @@
 | [長壽五姊妹](長壽五姊妹.md) | 長壽五姊妹 |
 | [閻魔德迦](閻魔德迦.md) | 閻魔德迦 |
 | [魯](魯.md) | 魯 |
+| [Ekajati](Ekajati.md) | Ekajati |
 
 ---
 *Auto-generated on 2026-08-15 16:10 UTC*
