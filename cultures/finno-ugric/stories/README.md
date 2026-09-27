@@ -15,6 +15,7 @@
 | [Väinämöinen的琴聲與萬物](Väinämöinen的琴聲與萬物.md) | Väinämöinen的琴聲與萬物 |
 | [Väinämöinen的誕生與創世](Väinämöinen的誕生與創世.md) | Väinämöinen的誕生與創世 |
 | [hiisi-elk-chase](hiisi-elk-chase.md) | hiisi-elk-chase |
+| [hiisi-ox](hiisi-ox.md) | Hiisi 的巨牛：卡勒瓦拉第二十歌的慶典祭牲 |
 | [kantele-pike-origin](kantele-pike-origin.md) | kantele-pike-origin |
 | [vainamoinen-vs-youkahainen](vainamoinen-vs-youkahainen.md) | vainamoinen-vs-youkahainen |
 | [太陽與月亮被竊](太陽與月亮被竊.md) | 太陽與月亮被竊 |
@@ -25,4 +26,4 @@
 | [鐵的起源](鐵的起源.md) | 鐵的起源 |
 
 ---
-*Auto-generated on 2026-08-15 16:10 UTC*
+*Auto-generated on 2026-09-27 09:10 UTC*

@@ -11,6 +11,7 @@
 | [Väinämöinen與跨文化吟唱智者比較](Väinämöinen與跨文化吟唱智者比較.md) | Väinämöinen與跨文化吟唱智者比較 |
 | [flood-myths-cross-cultural](flood-myths-cross-cultural.md) | flood-myths-cross-cultural |
 | [forest-deities-comparative](forest-deities-comparative.md) | forest-deities-comparative |
+| [primordial-ox-cross-cultural](primordial-ox-cross-cultural.md) | 巨牛與原始神牛跨文化比較 |
 | [sacred-water-cross-cultural](sacred-water-cross-cultural.md) | sacred-water-cross-cultural |
 | [世界蛋創世神話跨文化比較](世界蛋創世神話跨文化比較.md) | 世界蛋創世神話跨文化比較 |
 | [卡勒瓦拉與跨文化民族史詩比較](卡勒瓦拉與跨文化民族史詩比較.md) | 卡勒瓦拉與跨文化民族史詩比較 |
@@ -25,4 +26,4 @@
 | [芬蘭薩滿與西伯利亞北歐薩滿傳統比較](芬蘭薩滿與西伯利亞北歐薩滿傳統比較.md) | 芬蘭薩滿與西伯利亞北歐薩滿傳統比較 |
 
 ---
-*Auto-generated on 2026-08-15 16:10 UTC*
+*Auto-generated on 2026-09-27 09:10 UTC*

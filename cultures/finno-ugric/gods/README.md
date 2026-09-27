@@ -23,9 +23,10 @@
 | [Surma](Surma.md) | Surma |
 | [Tapio](Tapio.md) | Tapio |
 | [Tuoni](Tuoni.md) | Tuoni |
+| [turisas](turisas.md) | 圖里薩斯（Turisas）— 戰爭之神 |
 | [Ukko](Ukko.md) | Ukko |
 | [Vellamo](Vellamo.md) | Vellamo |
 | [Väinämöinen](Väinämöinen.md) | Väinämöinen |
 
 ---
-*Auto-generated on 2026-08-15 16:10 UTC*
+*Auto-generated on 2026-09-27 09:10 UTC*

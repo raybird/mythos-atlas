@@ -165,7 +165,8 @@
   "tibetan",
   "celtic",
   "scythian",
-  "armenian"
+  "armenian",
+  "finno-ugric"
  ],
  "analysis_log": [
   "sacrificial-creation",
@@ -246,5 +247,5 @@
   "widow-remarriage-levirate-comparative",
   "straw-man-substitute-bodies-comparative"
  ],
- "runs": 220
+ "runs": 221
 }
