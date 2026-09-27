@@ -1142,7 +1142,9 @@
     "的的喀喀湖",
     "太陽神Inti",
     "三界(上/中/下)",
-    "馬丘比丘聖山"
+    "馬丘比丘聖山",
+    "圖納帕漂航與Desaguadero河道神話",
+    "鹽沼女神的淚與乳"
    ],
    "parallels": [
     [
@@ -1156,13 +1158,15 @@
    ],
    "creation": "Viracocha從的的喀喀湖中升起，以言創造光、天地、日月星辰與人類。第一批人類為巨人族，因不敬而被洪水毀滅。Viracocha從湖中再次創造人類，分散各地並行走人間教導文明。",
    "flood": "Viracocha以洪水毀滅第一代巨人人類。僅兩人倖存，後Viracocha以石頭雕刻新人類。洪水消退後萬物重生。",
-   "pantheon": "Viracocha(創世神)、Inti(太陽)、Mama Quilla(月)、Pachamama(大地之母)、Illapa(雷電)、卡特基爾Catequil(雷電/神諭之神/華馬丘科)、Pachacámac(地震/沿海创造)、Supay(冥界/礦藏)、Mama Coca(古柯)、Vichama(復仇/死亡/農作)",
+   "pantheon": "Viracocha(創世神)、Inti(太陽)、Mama Quilla(月)、Pachamama(大地之母)、Illapa(雷電)、卡特基爾Catequil(雷電/神諭之神/華馬丘科)、Pachacámac(地震/沿海创造)、Supay(冥界/礦藏)、Mama Coca(古柯)、Vichama(復仇/死亡/農作)、Tunupa(的的喀喀湖/火山/雷電/Desaguadero開鑿)",
    "stories": [
     "Viracocha的流浪",
     "Inkarri傳說",
     "Mama Huaco建立庫斯科",
     "卡特基爾神諭與阿塔瓦爾帕的怒火",
-    "藜麥的起源"
+    "藜麥的起源",
+    "阿瓦卡薩召風與圖納帕的四夜航程",
+    "Cachipampa：被出走的圖納帕化為火山與鹽沼"
    ],
    "order": 13,
    "timeline": {
@@ -1202,16 +1206,18 @@
      "mapuche"
     ]
    },
-   "_stories": 5,
+   "_stories": 22,
    "gods": [
     "Pachacámac",
     "Supay",
     "Vichama",
-    "Mama Coca"
+    "Mama Coca",
+    "Tunupa"
    ],
    "comparisons": [
     "蘇帕伊與各文明冥界之王跨文化比較",
-    "印加Ayni跨文化比較"
+    "印加Ayni跨文化比較",
+    "以淚為水：被奪者化為地景與以眼淚命名的水脈"
    ]
   },
   {

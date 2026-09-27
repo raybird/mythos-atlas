@@ -14,17 +14,18 @@
 | [Mama-Coca](Mama-Coca.md) | Mama-Coca |
 | [Mama-Cocha](Mama-Cocha.md) | Mama-Cocha |
 | [Mama-Nina](Mama-Nina.md) | Mama-Nina |
+| [Mama-Ocllo](Mama-Ocllo.md) | Mama-Ocllo |
 | [Mama-Quilla](Mama-Quilla.md) | Mama-Quilla |
 | [Mama-Sara](Mama-Sara.md) | Mama-Sara |
 | [Pachacamac](Pachacamac.md) | Pachacamac |
 | [Pachamama](Pachamama.md) | Pachamama |
 | [Pariacaca](Pariacaca.md) | Pariacaca |
 | [Supay](Supay.md) | Supay |
+| [Tunupa](Tunupa.md) | Tunupa |
 | [Urcaguary](Urcaguary.md) | Urcaguary |
+| [Vichama](Vichama.md) | Vichama |
 | [Viracocha](Viracocha.md) | Viracocha |
 | [阿馬魯](阿馬魯.md) | 阿馬魯 |
-| [Mama-Ocllo](Mama-Ocllo.md) | Mama Ocllo |
-| [Vichama](Vichama.md) | 維查馬（Vichama） |
 
 ---
-*Auto-generated on 2026-08-15 16:10 UTC*
+*Auto-generated on 2026-09-27 10:08 UTC*

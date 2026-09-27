@@ -14,15 +14,16 @@
 | [inti-sun-gods-comparative](inti-sun-gods-comparative.md) | inti-sun-gods-comparative |
 | [mountain-deities-comparative](mountain-deities-comparative.md) | mountain-deities-comparative |
 | [pachamama-earth-mothers](pachamama-earth-mothers.md) | pachamama-earth-mothers |
+| [quipu-mnemonic-global](quipu-mnemonic-global.md) | quipu-mnemonic-global |
+| [supay-underworld-lords-cross-cultural](supay-underworld-lords-cross-cultural.md) | supay-underworld-lords-cross-cultural |
 | [thunder-gods-global](thunder-gods-global.md) | thunder-gods-global |
 | [trickster-creator-gods](trickster-creator-gods.md) | trickster-creator-gods |
+| [weeping-women-hydronyms-comparative](weeping-women-hydronyms-comparative.md) | weeping-women-hydronyms-comparative |
 | [印加三界宇宙觀比較](印加三界宇宙觀比較.md) | 印加三界宇宙觀比較 |
 | [太陽神Inti跨文化比較](太陽神Inti跨文化比較.md) | 太陽神Inti跨文化比較 |
 | [安地斯洪水神話比較](安地斯洪水神話比較.md) | 安地斯洪水神話比較 |
 | [彩虹蛇與水蛇跨文化比較](彩虹蛇與水蛇跨文化比較.md) | 彩虹蛇與水蛇跨文化比較 |
 | [雷石與閃電聖物跨文化比較](雷石與閃電聖物跨文化比較.md) | 雷石與閃電聖物跨文化比較 |
-| [quipu-mnemonic-global](quipu-mnemonic-global.md) | 結繩與記憶：安地斯 Quipu 與全球知識記錄系統跨文化比較 |
-| [supay-underworld-lords-cross-cultural](supay-underworld-lords-cross-cultural.md) | 蘇帕伊與各文明冥界之王跨文化比較 |
 
 ---
-*Auto-generated on 2026-08-15 16:10 UTC*
+*Auto-generated on 2026-09-27 10:08 UTC*

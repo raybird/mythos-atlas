@@ -12,17 +12,18 @@
 | [Manco-Capac-mama-ocllo](Manco-Capac-mama-ocllo.md) | Manco-Capac-mama-ocllo |
 | [Pachamama與人類的契約](Pachamama與人類的契約.md) | Pachamama與人類的契約 |
 | [Viracocha-wanderings](Viracocha-wanderings.md) | Viracocha-wanderings |
+| [ahuaqasa-tunupa-four-day-voyage](ahuaqasa-tunupa-four-day-voyage.md) | ahuaqasa-tunupa-four-day-voyage |
 | [cuniraya-cavillaca](cuniraya-cavillaca.md) | cuniraya-cavillaca |
 | [huatyacuri](huatyacuri.md) | huatyacuri |
 | [inti-mamaquilla-separation](inti-mamaquilla-separation.md) | inti-mamaquilla-separation |
 | [kon-vs-pachacamac](kon-vs-pachacamac.md) | kon-vs-pachacamac |
 | [mama-coca-origin](mama-coca-origin.md) | mama-coca-origin |
+| [origin-of-quinoa](origin-of-quinoa.md) | origin-of-quinoa |
 | [pachamama-coropuna](pachamama-coropuna.md) | pachamama-coropuna |
+| [quipu-origin](quipu-origin.md) | quipu-origin |
 | [supay-underworld-kingdom](supay-underworld-kingdom.md) | supay-underworld-kingdom |
 | [yaravi-cradle-song](yaravi-cradle-song.md) | yaravi-cradle-song |
 | [會說話的羊駝與洪水](會說話的羊駝與洪水.md) | 會說話的羊駝與洪水 |
-| [quipu-origin](quipu-origin.md) | 結繩記事的起源：Quipu 與知識的織造 |
-| [origin-of-quinoa](origin-of-quinoa.md) | 藜麥的起源 |
 
 ---
-*Auto-generated on 2026-08-15 16:10 UTC*
+*Auto-generated on 2026-09-27 10:08 UTC*
