@@ -17,6 +17,7 @@
 | [national-epics-comparison](national-epics-comparison.md) | national-epics-comparison |
 | [national-gods-kingdom-patronage-comparative](national-gods-kingdom-patronage-comparative.md) | national-gods-kingdom-patronage-comparative |
 | [new-year-harvest-gods](new-year-harvest-gods.md) | new-year-harvest-gods |
+| [returning-hero-imprisoned-king-comparative](returning-hero-imprisoned-king-comparative.md) | 王者歸來：被囚／入山等待復歸之王的跨文化比較 |
 | [sun-gods-comparison](sun-gods-comparison.md) | sun-gods-comparison |
 | [tir-nabu-thoth-writing-gods](tir-nabu-thoth-writing-gods.md) | tir-nabu-thoth-writing-gods |
 | [tsovinar-water-goddess](tsovinar-water-goddess.md) | tsovinar-water-goddess |
@@ -26,4 +27,4 @@
 | [vishap-dragon-slayer](vishap-dragon-slayer.md) | vishap-dragon-slayer |
 
 ---
-*Auto-generated on 2026-08-15 16:10 UTC*
+*Auto-generated on 2026-09-27 00:00 UTC*

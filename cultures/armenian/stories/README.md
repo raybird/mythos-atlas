@@ -14,6 +14,7 @@
 | [gregory-tiridates-boar](gregory-tiridates-boar.md) | gregory-tiridates-boar |
 | [hayk-bel](hayk-bel.md) | hayk-bel |
 | [lusin-moon-origin](lusin-moon-origin.md) | lusin-moon-origin |
+| [mher-the-younger-rock-door](mher-the-younger-rock-door.md) | 小梅爾的石門：等待復歸的王者 |
 | [noahs-vineyard](noahs-vineyard.md) | noahs-vineyard |
 | [sasuntsi-davit](sasuntsi-davit.md) | sasuntsi-davit |
 | [semiramis-legend](semiramis-legend.md) | semiramis-legend |
@@ -24,4 +25,4 @@
 | [sanasar-baghdasar](sanasar-baghdasar.md) | 薩納薩與巴格達薩：薩松孿生建國英雄 |
 
 ---
-*Auto-generated on 2026-08-15 16:10 UTC*
+*Auto-generated on 2026-09-27 00:00 UTC*

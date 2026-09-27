@@ -18,6 +18,8 @@
 | [hayk](hayk.md) | hayk |
 | [mihr](mihr.md) | mihr |
 | [nane](nane.md) | nane |
+| [shivini](shivini.md) | 希維尼（Šiuini）— 烏拉爾圖三日組中的太陽神 |
+| [sos](sos.md) | sos |
 | [spandaramet](spandaramet.md) | spandaramet |
 | [tir](tir.md) | tir |
 | [tsovinar](tsovinar.md) | tsovinar |
@@ -26,4 +28,4 @@
 | [zatik](zatik.md) | Zatik（扎提克）— 春季復活與分離萬色之神 |
 
 ---
-*Auto-generated on 2026-08-15 16:10 UTC*
+*Auto-generated on 2026-09-27 00:00 UTC*
