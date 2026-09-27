@@ -166,7 +166,8 @@
   "celtic",
   "scythian",
   "armenian",
-  "finno-ugric"
+  "finno-ugric",
+  "egyptian"
  ],
  "analysis_log": [
   "sacrificial-creation",
@@ -248,5 +249,5 @@
   "straw-man-substitute-bodies-comparative",
   "division-of-the-world-divine-sons-comparative"
  ],
- "runs": 222
+ "runs": 223
 }

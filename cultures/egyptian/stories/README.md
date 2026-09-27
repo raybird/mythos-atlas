@@ -22,5 +22,6 @@
 
 | [兩兄弟的故事](tale-of-two-brothers.md) | 兩兄弟的故事 |
 | [伊西斯的悲泣](the-weeping-of-isis.md) | 伊西斯的悲泣 |
+| [阿匹斯聖牛的誕生](阿匹斯聖牛的誕生.md) | 阿匹斯聖牛的誕生 |
 ---
-*Auto-generated on 2026-08-15 16:10 UTC*
+*Auto-generated on 2026-09-28 09:00 UTC*
