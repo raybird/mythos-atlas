@@ -1,4 +1,4 @@
-# 莫伊圖拉第二戰 (Cath Maige Tuired)
+# 莫伊圖拉第二戰 (Cath Maige Tuired II)
 
 - **文化：** 凱爾特神話 (Celtic Mythology)
 - **相關事件：** Tuatha Dé Danann 對 Fomoire 的最終決戰
