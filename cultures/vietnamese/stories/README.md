@@ -20,6 +20,7 @@
 | [su-tich-ho-guom](su-tich-ho-guom.md) | su-tich-ho-guom |
 | [tam-cam](tam-cam.md) | tam-cam |
 | [thach-sanh](thach-sanh.md) | thach-sanh |
+| [thang-long-1010](thang-long-1010.md) | 昇龍（Thăng Long, 1010）：金龍見於御舟與一座都城的一千年定名 |
 | [thanh-giong](thanh-giong.md) | thanh-giong |
 | [trau-cau-legend](trau-cau-legend.md) | trau-cau-legend |
 | [trong-thuy-my-chau](trong-thuy-my-chau.md) | trong-thuy-my-chau |

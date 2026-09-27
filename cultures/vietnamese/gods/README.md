@@ -3,6 +3,7 @@
 | 檔案 | 名稱 |
 |------|------|
 | [Ba-Mu](Ba-Mu.md) | Ba-Mu |
+| [Long-Do-Bach-Ma](Long-Do-Bach-Ma.md) | 龍肚神與白馬大王（Long Đỗ／Bạch Mã Đại Vương）——大城的原始地靈與「昇龍」東鎮守護神 |
 | [Mẫu-Thượng-Ngàn](Mẫu-Thượng-Ngàn.md) | Mẫu-Thượng-Ngàn |
 | [Ong-Tao](Ong-Tao.md) | Ong-Tao |
 | [ba-chua-xu](ba-chua-xu.md) | ba-chua-xu |
