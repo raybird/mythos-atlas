@@ -1238,7 +1238,9 @@
     "聖杯",
     "魔法大鍋",
     "德魯伊與自然崇拜",
-    "亞瑟王傳說中的凱爾特根源"
+    "亞瑟王傳說中的凱爾特根源",
+    "智慧之鮭與「指之知」",
+    "天鵝變形與隔年相會"
    ],
    "parallels": [
     [
@@ -1252,7 +1254,7 @@
    ],
    "creation": "凱爾特沒有單一創世神話文本，但《入侵之書》(Lebor Gabála Érenn)描述愛爾蘭文明經歷一系列神族入侵：Cessair、Partholón、Nemed、Fir Bolg、Tuatha Dé Danann、人類(米勒之子)。",
    "flood": "Partholón時代，所有子民因瘟疫死亡。Nemed時代又逢洪水淹沒了所有塔樓與要塞。傳說中愛爾蘭西部曾有陸地連接亞特蘭提斯，後被大洪水隔離。",
-   "pantheon": "Dagda(善神)、Lugh(光之神)、Morrigan(戰爭女神)、Brigid(詩歌/醫療)、Cernunnos(角神)、Epona(馬神)、Macha(戰爭/主權/馬女神)、Crom Cruach(豐饒/人祭偶像)、Donn(死亡之神/亡者之家之主)",
+   "pantheon": "Dagda(善神)、Lugh(光之神)、Morrigan(戰爭女神)、Brigid(詩歌/醫療)、Cernunnos(角神)、Epona(馬神)、Macha(戰爭/主權/馬女神)、Crom Cruach(豐饒/人祭偶像)、Donn(死亡之神/亡者之家之主)、Fionn(芬恩——預言者與戰士詩人)",
    "stories": [
     "Tuatha Dé Danann登陸",
     "Cú Chulainn少年傳奇",
@@ -1263,7 +1265,8 @@
     "達達爾加客棧之毀滅",
     "阿爾斯特人的虛弱：Macha的賽馬詛咒",
     "聖派翠克與克羅姆克魯阿赫(偶像毀滅)",
-    "唐恩之家(Donn沉船與亡者歸宿)"
+    "唐恩之家(Donn沉船與亡者歸宿)",
+    "恩格斯的夢：Caer Ibormeith 與天鵝之約"
    ],
    "order": 14,
    "timeline": {
@@ -1294,13 +1297,14 @@
      "basque"
     ]
    },
-   "_stories": 10,
+   "_stories": 11,
    "gods": [
     "Rhiannon",
     "Sulis",
     "Áine",
     "Macha",
-    "Donn"
+    "Donn",
+    "Fionn mac Cumhaill"
    ],
    "comparisons": [
     "不可能的任務跨文化比較",
@@ -1308,7 +1312,8 @@
     "神聖靈感與詩人之液跨文化比較",
     "三重戰爭—命運女神跨文化比較",
     "人祭偶像神跨文化比較",
-    "死亡之神的位格：唐恩與全球冥府之主跨文化比較"
+    "死亡之神的位格：唐恩與全球冥府之主跨文化比較",
+    "三相女神 Triformis 跨文化比較"
    ]
   },
   {

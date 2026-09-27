@@ -128,7 +128,7 @@ mythos-atlas/
 | [非洲諸神話](cultures/african/) | 撒哈拉以南非洲 | 25 | 22 | 20 |
 | [美洲原住民神話](cultures/indigenous-americas/) | 北美洲 | 25 | 23 | 19 |
 | [印加神話](cultures/incan/) | 南美洲—安地斯山脈 | 23 | 21 | 21 |
-| [凱爾特神話](cultures/celtic/) | 西歐—愛爾蘭/不列顛/高盧 | 25 | 21 | 19 |
+| [凱爾特神話](cultures/celtic/) | 西歐—愛爾蘭/不列顛/高盧 | 26 | 22 | 20 |
 | [斯拉夫神話](cultures/slavic/) | 東歐—巴爾幹 | 26 | 20 | 20 |
 | [波斯神話](cultures/persian/) | 伊朗高原 | 60 | 57 | 63 |
 | [韓國神話](cultures/korean/) | 東亞—朝鮮半島 | 24 | 22 | 21 |
