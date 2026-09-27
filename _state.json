@@ -163,7 +163,8 @@
   "maori",
   "inuit",
   "tibetan",
-  "celtic"
+  "celtic",
+  "scythian"
  ],
  "analysis_log": [
   "sacrificial-creation",
@@ -244,5 +245,5 @@
   "widow-remarriage-levirate-comparative",
   "straw-man-substitute-bodies-comparative"
  ],
- "runs": 216
+ "runs": 217
 }

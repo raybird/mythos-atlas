@@ -4,8 +4,11 @@
 |------|------|
 | [Anacharsis的悲劇](Anacharsis的悲劇.md) | Anacharsis的悲劇 |
 | [Ares聖劍的祭祀儀式](Ares聖劍的祭祀儀式.md) | Ares聖劍的祭祀儀式 |
+| [Ariantas 與箭鏃人口普查](ariantas-and-the-arrowhead-census.md) | Ariantas 與箭鏃人口普查 |
+| [Scyles 與酒神入教](scyles-and-the-bacchic-initiation.md) | Scyles 與酒神入教 |
 | [Scyles王的悲劇](Scyles王的悲劇.md) | Scyles王的悲劇 |
 | [Tabiti的永恆聖火](Tabiti的永恆聖火.md) | Tabiti的永恆聖火 |
+| [Tauri 與「少女」](tauroi-and-iphigenia.md) | Tauri 與「少女」 |
 | [scythian-amazons-sauromatae](scythian-amazons-sauromatae.md) | scythian-amazons-sauromatae |
 | [tomyris-cyrus](tomyris-cyrus.md) | tomyris-cyrus |
 | [大流士入侵斯基泰](大流士入侵斯基泰.md) | 大流士入侵斯基泰 |
@@ -21,4 +24,4 @@
 | [飲血誓盟](飲血誓盟.md) | 飲血誓盟 |
 
 ---
-*Auto-generated on 2026-08-15 16:10 UTC*
+*Auto-generated on 2026-09-27 00:00 UTC*
