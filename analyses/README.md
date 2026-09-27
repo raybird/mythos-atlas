@@ -442,6 +442,7 @@
 - [Southern Cross Constellation Myths Comparative](southern-cross-constellation-myths-comparative.md)
 - [Sowing Dragon Teeth Warriors Comparative](sowing-dragon-teeth-warriors-comparative.md)
 - [Sparagmos Dismemberment Comparative](sparagmos-dismemberment-comparative.md)
+- [Speaking Relics Object Testimony Comparative](speaking-relics-object-testimony-comparative.md)
 - [Sphinx Cross Cultural Comparative](sphinx-cross-cultural-comparative.md)
 - [Spice Origin Myths Trade Route Comparative](spice-origin-myths-trade-route-comparative.md)
 - [Spider Weaving Myths](spider-weaving-myths.md)
