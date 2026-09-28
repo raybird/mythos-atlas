@@ -23,5 +23,6 @@
 | [snow-and-ice-deities-global](snow-and-ice-deities-global.md) | snow-and-ice-deities-global |
 
 | [sky-climbing-heroes-ascension-comparative](sky-climbing-heroes-ascension-comparative.md) | 攀天之徑：登天求法史詩的跨文化比較 |
+| [蚯蚓、鳥蛋與黏土：波利尼西亞與全球的原初物質比較](蚯蚓、鳥蛋與黏土：波利尼西亞與全球的原初物質比較.md) | 蚯蚓、鳥蛋與黏土：波利尼西亞與全球的原初物質比較 |
 ---
 *Auto-generated on 2026-08-15 16:10 UTC*

@@ -805,13 +805,21 @@
     "口傳傳統",
     "毛利神話",
     "夏威夷神話",
-    "復活節島傳說"
+    "復活節島傳說",
+    "Gifford《Tongan Myths and Tales》(BPB Bulletin 8, 1924)",
+    "Barthel《The Eighth Land: The Polynesian Settlement of Easter Island》(1978)",
+    "Métraux《Ethnology of Easter Island》(1940/1971)",
+    "Cramer《Dictionary of Polynesian Mythology》(1989)",
+    "Budge《Legends of the Gods》(1913)"
    ],
    "motifs": [
     "天父地母分離(Māui)",
     "Māui英雄神話",
     "祖先航海",
-    "世界從海底釣起"
+    "世界從海底釣起",
+    "天界王權與神聖後裔(Tuʻi Tonga)",
+    "拉帕努伊鳥人祭(tangata manu)",
+    "原初物質：蚯蚓與鳥蛋"
    ],
    "parallels": [
     [
@@ -825,7 +833,7 @@
    ],
    "creation": "Ranginui(天父)與Papatūānuku(地母)緊密擁抱，黑暗中生諸神。諸神決定分離父母，Tāne(森林神)以雙腳頂開天地。",
    "flood": "波利尼西亞洪水神話多與海平面變化有關——Māui以魚鉤釣起島嶼後，曾試圖使人類不朽但失敗。部分傳說提到上古大浪淹沒祖先家園，呼應南島語族遷徙過程中的海嘯記憶。",
-   "pantheon": "Tāne(森林)、Tangaroa(海洋)、Tū(戰神)、Rongo(和平)、Māui(文化英雄)、卡馬普阿(Kamapuaʻa,豬神/變形半神)、懷提里(Whaitiri,雷母/食人女神)",
+   "pantheon": "Tāne(森林)、Tangaroa(海洋)、Tū(戰神)、Rongo(和平)、Māui(文化英雄)、卡馬普阿(Kamapuaʻa,豬神/變形半神)、懷提里(Whaitiri,雷母/食人女神)、Tangaloa(東加天界主神)、Makemake(拉帕努伊創世／鳥人主神)",
    "stories": [
     "Māui釣魚",
     "Māui取火",
@@ -834,7 +842,8 @@
     "圖馬圖恩加的復仇",
     "希伊阿卡與洛希奧",
     "卡馬普阿與佩雷之戰",
-    "塔瓦基的登天之路"
+    "塔瓦基的登天之路",
+    "霍圖・馬圖阿的遷徙與建國"
    ],
    "order": 9,
    "timeline": {
@@ -863,18 +872,21 @@
      "maori"
     ]
    },
-   "_stories": 8,
+   "_stories": 9,
    "gods": [
     "圖馬圖恩加",
     "希伊阿卡",
     "卡馬普阿 (Kamapuaʻa)",
-    "懷提里 (Whaitiri)"
+    "懷提里 (Whaitiri)",
+    "湯加洛阿 (Tangaloa)",
+    "馬克馬克 (Makemake)"
    ],
    "comparisons": [
     "海神與海洋王國跨文化比較",
     "月神跨文化比較",
     "豬形神與變形神跨文化比較",
-    "登天求法史詩跨文化比較"
+    "登天求法史詩跨文化比較",
+    "蚯蚓、鳥蛋與黏土：波利尼西亞與全球的原初物質比較"
    ]
   },
   {

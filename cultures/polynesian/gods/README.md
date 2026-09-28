@@ -28,5 +28,7 @@
 
 | [Whaitiri](Whaitiri.md) | 懷提里（Whaitiri）— 雷母與食人女神 |
 | [Poliahu](Poliahu.md) | Poliahu |
+| [Tangaloa（湯加洛阿）](Tangaloa（湯加洛阿）.md) | Tangaloa（湯加洛阿）— 東加天界之主、七位同名神與天授王權 |
+| [Makemake（馬克馬克）](Makemake（馬克馬克）.md) | Makemake（馬克馬克）— 拉帕努伊創世／生育神、鳥人教派主神 |
 ---
 *Auto-generated on 2026-08-15 16:10 UTC*

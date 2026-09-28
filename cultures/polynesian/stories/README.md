@@ -24,5 +24,6 @@
 
 | [tawhaki-heaven-ascension](tawhaki-heaven-ascension.md) | 塔瓦基的登天之路（Tāwhaki） |
 | [pele-and-poliahu](pele-and-poliahu.md) | pele-and-poliahu |
+| [霍圖・馬圖阿的遷徙與建國](霍圖・馬圖阿的遷徙與建國.md) | 霍圖・馬圖阿的遷徙與建國（Hōtū Matuʻa）— 哈烏・馬卡的發現之夢、七人探島、雙舨競速與拉帕努伊建國 |
 ---
 *Auto-generated on 2026-08-15 16:10 UTC*

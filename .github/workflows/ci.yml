@@ -32,6 +32,7 @@ jobs:
           python scripts/test_celtic_enrichment.py
           python scripts/test_scythian_enrichment.py
           python scripts/test_african_enrichment.py
+          python scripts/test_polynesian_enrichment.py
 
   stats:
     if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
