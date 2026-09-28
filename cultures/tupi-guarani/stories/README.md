@@ -9,6 +9,8 @@
 | [ipupiara-encounter](ipupiara-encounter.md) | ipupiara-encounter |
 | [jurupari-sacred-flutes](jurupari-sacred-flutes.md) | jurupari-sacred-flutes |
 | [kaa-yerba-mate](kaa-yerba-mate.md) | kaa-yerba-mate |
+| [卡拉伊與 1540 年的遠征](卡拉伊與 1540 年的遠征.md) | 卡拉伊與 1540 年的遠征（The Karaí and the March of 1540） |
+| [金屬之主 Kandire 的誤會](金屬之主 Kandire 的誤會.md) | 金屬之主 Kandire 的誤會（The Kandire Misunderstanding） |
 | [mair-steals-fire](mair-steals-fire.md) | mair-steals-fire |
 | [manioc-origin](manioc-origin.md) | manioc-origin |
 | [nhanderuvucu-creates-world](nhanderuvucu-creates-world.md) | nhanderuvucu-creates-world |
