@@ -18,6 +18,7 @@
 | [Mair](Mair.md) | Mair |
 | [Monan](Monan.md) | Monan |
 | [Nhanderuvucu](Nhanderuvucu.md) | Nhanderuvucu |
+| [Ñamandú Ru Ete 與 Nhanderyei](Ñamandú Ru Ete 與 Nhanderyei.md) | Ñamandú Ru Ete 與 Nhanderyei（真實的父親與我們的母親） |
 | [Pajé](Pajé.md) | Pajé |
 | [Ruda](Ruda.md) | Ruda |
 | [Sumé](Sumé.md) | Sumé |
