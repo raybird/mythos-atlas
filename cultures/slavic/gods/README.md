@@ -29,5 +29,7 @@
 
 | [莫拉娜（Morana）](Morana.md) | 莫拉娜（Morana） |
 | [Alkonost 與 Sirin — 斯拉夫神鳥](Alkonost-Sirin.md) | Alkonost 與 Sirin — 斯拉夫神鳥 |
+| [萊爾與波萊爾](萊爾與波萊爾.md) | 萊爾與波萊爾 (Lel and Polel) — 重建與偽造的爭議 |
+| [魯格耶維特、波列維特與波列努特](魯格耶維特、波列維特與波列努特.md) | 魯格耶維特、波列維特與波列努特 — 查倫察的三首戰神群像 |
 ---
 *Auto-generated on 2026-08-15 16:10 UTC*
