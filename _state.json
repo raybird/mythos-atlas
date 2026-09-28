@@ -167,7 +167,8 @@
   "scythian",
   "armenian",
   "finno-ugric",
-  "egyptian"
+  "egyptian",
+  "sumerian"
  ],
  "analysis_log": [
   "sacrificial-creation",
@@ -250,5 +251,5 @@
   "division-of-the-world-divine-sons-comparative",
   "chastity-ordeal-sexual-restraint-comparative"
  ],
- "runs": 227
+ "runs": 228
 }

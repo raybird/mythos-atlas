@@ -79,5 +79,6 @@
 | [mourning-mothers-dying-gods](mourning-mothers-dying-gods.md) | 哀慟之母：喪子母親女神跨文化比較 |
 | [two-faced-deities-comparison](two-faced-deities-comparison.md) | 多面神祇跨文化比較 |
 | [serpent-justice-boundary-deities](serpent-justice-boundary-deities.md) | 蛇神作為正義與邊界守護者跨文化比較 |
+| [灌溉與水利工程之神跨文化比較](irrigation-waterwork-deities.md) | 灌溉與水利工程之神跨文化比較 |
 ---
-*Auto-generated on 2026-08-15 16:10 UTC*
+*Auto-generated on 2026-09-28 18:30 UTC*
