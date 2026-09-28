@@ -22,6 +22,7 @@
 | [pasiphae-bull](pasiphae-bull.md) | pasiphae-bull |
 | [rhadamanthys-judge](rhadamanthys-judge.md) | rhadamanthys-judge |
 | [talos-medea-argonauts](talos-medea-argonauts.md) | talos-medea-argonauts |
+| [the-priestess-of-the-winds](the-priestess-of-the-winds.md) | 風之女祭司 (The Priestess of the Winds) — 克諾索斯最後一批泥板上的信仰難題 |
 | [theseus-minotaur](theseus-minotaur.md) | theseus-minotaur |
 
 ---

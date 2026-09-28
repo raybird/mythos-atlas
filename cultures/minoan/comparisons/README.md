@@ -18,6 +18,7 @@
 | [palace-temple-economy-comparison](palace-temple-economy-comparison.md) | palace-temple-economy-comparison |
 | [parricide-prophecy-comparative](parricide-prophecy-comparative.md) | parricide-prophecy-comparative |
 | [riddle-thread-puzzle-comparative](riddle-thread-puzzle-comparative.md) | riddle-thread-puzzle-comparative |
+| [sacred-cauldron-and-ding-cross-cultural-comparative](sacred-cauldron-and-ding-cross-cultural-comparative.md) | 神聖之鍋：從米諾斯三足鼎到中國九鼎 (The Sacred Cauldron: From Minoan Tripod to Chinese Nine Ding) |
 | [serpent-divine-birth-comparative](serpent-divine-birth-comparative.md) | 蛇形受孕與蛇護神子：查格柔斯與全球神蛇誕生母題的跨文化比較 |
 | [snake-goddess-global-comparative](snake-goddess-global-comparative.md) | snake-goddess-global-comparative |
 | [thalassocracy-sea-myths](thalassocracy-sea-myths.md) | thalassocracy-sea-myths |

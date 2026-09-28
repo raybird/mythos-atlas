@@ -2,6 +2,7 @@
 
 | 檔案 | 名稱 |
 |------|------|
+| [Aphaia](Aphaia.md) | Aphaia（阿法埃亞）— 埃伊納島的青銅時代女神與克諾索斯神系的延伸 |
 | [Ariadne](Ariadne.md) | Ariadne |
 | [Asterion](Asterion.md) | Asterion |
 | [Cres](Cres.md) | Cres |
