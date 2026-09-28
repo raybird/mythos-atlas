@@ -206,6 +206,7 @@
 - [Horn Myths Comparative](horn-myths-comparative.md)
 - [Horse Myths](horse-myths.md)
 - [Hospitality Xenia Theoxenia](hospitality-xenia-theoxenia.md)
+- [Human Classes Origin Myths Comparative](human-classes-origin-myths-comparative.md)
 - [Human Sacrifice Comparative](human-sacrifice-comparative.md)
 - [Hummingbird Mythology Comparative](hummingbird-mythology-comparative.md)
 - [Hydromancy Water Divination Comparative](hydromancy-water-divination-comparative.md)
