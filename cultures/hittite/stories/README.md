@@ -23,6 +23,7 @@
 | [telipinu-disappearance](telipinu-disappearance.md) | telipinu-disappearance |
 | [ullikummi-song](ullikummi-song.md) | ullikummi-song |
 | [太陽神與牛和漁夫](太陽神與牛和漁夫.md) | 太陽神與牛和漁夫 |
+| [song-of-lamma](song-of-lamma.md) | 〈拉瑪之歌〉：被神群遺忘的篡位者（祭祀斷絕與天界王權的短暫合法化） |
 
 ---
 *Auto-generated on 2026-08-15 16:10 UTC*

@@ -27,6 +27,7 @@
 | [Tarhunna](Tarhunna.md) | Tarhunna |
 | [Telipinu](Telipinu.md) | Telipinu |
 | [Teshub](Teshub.md) | Teshub |
+| [Kušuḫ（庫舒赫）](Kušuḫ.md) | Kušuḫ（庫舒赫）— 胡里安月神、誓約守護神與占卜裁決之王 |
 
 ---
 *Auto-generated on 2026-08-15 16:10 UTC*
