@@ -22,6 +22,7 @@
 | [thunder-gods-comparative](thunder-gods-comparative.md) | thunder-gods-comparative |
 | [totemism-cross-cultural](totemism-cross-cultural.md) | totemism-cross-cultural |
 | [trickster-figures](trickster-figures.md) | trickster-figures |
+| [sleeping-giants-imprisoned-divinities](sleeping-giants-imprisoned-divinities.md) | 沉睡巨神與受禁之神跨文化比較 |
 
 ---
-*Auto-generated on 2026-08-15 16:10 UTC*
+*Auto-generated on 2026-09-28 19:10 UTC*

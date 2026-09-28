@@ -17,7 +17,7 @@
 
 ## 神系
 
-彩虹蛇(創世/創造水資源)、Baiame(天父)、Darumulum(雷神)、Yhi(太陽女神)、Bamapana(麻煩精)
+彩虹蛇(創世/創造水資源)、Baiame(天父)、Darumulum(雷神)、Yhi(太陽女神)、Bamapana(麻煩精)、Bula(Jawoyn創世巨神/沉眠於 Buladjang)
 
 ## 核心母題
 
@@ -25,11 +25,13 @@
 - 彩虹蛇
 - 祖先行走路徑Songlines
 - 創世先祖形態轉換
+- 沉睡巨神與受禁之地
 
 ## 跨文化平行
 
 - **彩虹蛇Rainbow Serpent** ↔ 龍/蛇精靈/羽蛇神
 - **Songlines** ↔ 星圖/神話地理
+- **沉睡巨神Bula** ↔ 恩凱克洛斯/地震鯰/洛基之縛
 
 ## 重要故事
 
@@ -38,6 +40,7 @@
 - 七星姊妹
 - Songlines追蹤祖先足跡
 - 卡塔曲塔的蜥蜴人兄弟（Wati Kuṯarra）
+- 拿比里爾與蟬之歌（Nitmiluk峽谷起源）
 
 ---
 *Generated on 2026-06-20 from _catalog.json*

@@ -26,6 +26,7 @@
 | [Wandjina](Wandjina.md) | Wandjina |
 | [Wuradilagu](Wuradilagu.md) | 武拉迪拉古 — 孤獨行走大地的女祖靈 |
 | [Yhi-Sun-Goddess](Yhi-Sun-Goddess.md) | Yhi-Sun-Goddess |
+| [Bula](Bula.md) | Bula（布拉） |
 
 ---
-*Auto-generated on 2026-08-15 16:10 UTC*
+*Auto-generated on 2026-09-28 19:10 UTC*
