@@ -6,6 +6,7 @@
 | [Anhanga](Anhanga.md) | Anhanga |
 | [Boitata](Boitata.md) | Boitata |
 | [Caipora](Caipora.md) | Caipora |
+| [Charía](Charía 與天界美洲豹.md) | Charía（天界美洲豹） |
 | [Ceuci](Ceuci.md) | Ceuci |
 | [Curupira-Saci](Curupira-Saci.md) | Curupira-Saci |
 | [Jaci-Guaraci](Jaci-Guaraci.md) | Jaci-Guaraci |
