@@ -28,5 +28,7 @@
 | [瑪巫麗莎](瑪巫麗莎.md) | 瑪巫麗莎 |
 
 | [Mami Wata（瑪米瓦塔）](Mami Wata（瑪米瓦塔）.md) | Mami Wata（瑪米瓦塔） |
+
+| [Nommo（諾莫）](Nommo（諾莫）.md) | Nommo（諾莫）— 多貢原初水祖 |
 ---
 *Auto-generated on 2026-09-09 UTC*
