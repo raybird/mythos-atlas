@@ -213,6 +213,7 @@
 - [Ice Snow Myths Comparative](ice-snow-myths-comparative.md)
 - [Immortal Bird Phoenix](immortal-bird-phoenix.md)
 - [Incense Sacred Smoke Comparative](incense-sacred-smoke-comparative.md)
+- [Incorrupt Corpse Undying Body Comparative](incorrupt-corpse-undying-body-comparative.md)
 - [Indo European Myth Connections](indo-european-myth-connections.md)
 - [Initiation Rites Of Passage](initiation-rites-of-passage.md)
 - [Insects Myths Comparative](insects-myths-comparative.md)
