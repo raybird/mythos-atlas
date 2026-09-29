@@ -21,7 +21,7 @@
 
 ## 神系
 
-Great Spirit(大神)、蜘蛛祖母(智慧)、雷鳥(力量)、Coyote(騙子/文化英雄)、White Buffalo Calf Woman(神聖女人)
+Great Spirit(大神)、蜘蛛祖母(智慧)、雷鳥(力量)、Coyote(騙子/文化英雄)、White Buffalo Calf Woman(神聖女人)、米希佩舒(水下美洲豹/銅與風浪守護者)
 
 ## 核心母題
 
@@ -31,11 +31,15 @@ Great Spirit(大神)、蜘蛛祖母(智慧)、雷鳥(力量)、Coyote(騙子/文
 - 第四世界降生
 - 藥輪Medicine Wheel
 - 雷鳥
+- 水下美洲豹Mishipeshu
+- 鮭魚契約Salmon Contract
 
 ## 跨文化平行
 
 - **大地潛水者(潛入原水取泥土造地)** ↔ 創世原水模因
 - **大洪水世界重建** ↔ 諾亞/杜卡利翁/禹
+- **米希佩舒(水下美洲豹)** ↔ 納姆提/阿普蘇(深淵之主)
+- **鮭魚契約(鮭魚男孩)** ↔ 海豹女/龍宮(人與水族契約)
 
 ## 重要故事
 
@@ -43,6 +47,7 @@ Great Spirit(大神)、蜘蛛祖母(智慧)、雷鳥(力量)、Coyote(騙子/文
 - Coyote與眾神
 - 白水牛女送七儀式
 - 雙子英雄
+- 鮭魚男孩的旅程
 
 ---
 *Generated on 2026-06-20 from _catalog.json*

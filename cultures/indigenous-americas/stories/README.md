@@ -24,6 +24,7 @@
 | [蜘蛛祖母創世](蜘蛛祖母創世.md) | 蜘蛛祖母創世 |
 | [雙子英雄](雙子英雄.md) | 雙子英雄 |
 | [heyoka-reverse-wisdom](heyoka-reverse-wisdom.md) | 雷夢之人：嘿約卡的反向智慧 |
+| [鮭魚男孩的旅程](鮭魚男孩的旅程.md) | 鮭魚男孩的旅程（Aak'wtaatseen / Salmon Boy）— 與獵物家庭的契約 |
 
 ---
 *Auto-generated on 2026-08-15 16:10 UTC*
