@@ -132,7 +132,6 @@ cultures/greek/gods/荷米斯.md
 cultures/greek/gods/赫拉.md
 cultures/greek/gods/赫菲斯托斯.md
 cultures/greek/gods/阿波羅.md
-cultures/greek/gods/阿瑞斯.md
 cultures/greek/gods/阿緹蜜絲.md
 cultures/greek/gods/阿芙蘿黛蒂.md
 cultures/greek/gods/雅典娜.md
