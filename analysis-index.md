@@ -1,4 +1,4 @@
-# 已分析母題索引（555 篇）
+# 已分析母題索引（556 篇）
 
 
 
@@ -159,407 +159,408 @@
 | 149 | external-soul-life-token-comparative.md | 外部靈魂：跨文化「生命寄存物」神話比較分析 |
 | 150 | eye-symbolism-comparative.md | 眼睛的神話象徵：全視之眼、第三隻眼與邪眼的跨文化比較 |
 | 151 | fallen-bound-gods.md | 墮落與束縛——被放逐的神靈跨文化比較 |
-| 152 | fate-goddesses-destiny.md | 命運女神與宿命觀：跨文化命運神話比較研究 |
-| 153 | father-son-conflict-mythology-comparative.md | 弒父與殺子：跨文化神話中的父子衝突母題比較 |
-| 154 | feathers-wings-flight-symbolism-comparative.md | 羽毛與翅膀：跨文化神話中的飛行象徵 |
-| 155 | feline-myths-comparative.md | 貓科神話比較分析：從巴斯特到貓又的跨文化象徵 |
-| 156 | female-deities.md | 女神崇拜比較研究 |
-| 157 | ferryman-myths-cross-cultural.md | 渡死者之舟——跨文化冥河渡者母題比較分析 |
-| 158 | fertility-deities-comparative.md | 豐饒之神的跨文化比較：從大地之母到穀物之神 |
-| 159 | festivals-of-the-dead-comparative.md | 亡者的年度歸訪：跨文化亡靈節慶比較分析 |
-| 160 | fire-myths.md | 火的神話起源：偷火者與火神崇拜的跨文化比較 |
-| 161 | fire-theft-promethean-motif.md | 火之竊取與文化英雄的神罰：普羅米修斯母題的跨文化比較 |
-| 162 | firefly-glowworm-myths-comparative.md | 螢之光：跨文化神話中的火蟲與魂燈比較 |
-| 163 | first-funeral-burial-rites-myths-comparative.md | 第一場喪禮：喪葬儀式起源的跨文化神話比較 |
-| 164 | first-murder-fratricide.md | 最初的殺戮：跨文化神話中的弒兄原型 |
-| 165 | first-woman-creation-comparative.md | 初女：跨文化神話中的第一位女性 |
-| 166 | firstborn-sacrifice-and-primogeniture-paradox.md | 首生祭與長子權的悖論：跨文化神話中的首生者命運 |
-| 167 | fish-myths-comparative.md | 深淵之民：魚類神話的跨文化比較分析 |
-| 168 | fishing-angling-hooks-comparative.md | 鉤與線：跨文化神話中的釣魚母題——從毛伊釣島到索爾釣蛇 |
-| 169 | flood-myths-geological-origins.md | 大洪水神話的地質起源：跨學科考察 |
-| 170 | flower-myths-comparative.md | 花神話跨文化比較：變形、死亡與重生 (Flower Myths: Metamorphosis, Death, and Rebirth Across Cultures) |
-| 171 | fly-averter-and-lord-of-flies-comparative.md | 逐蠅之神與蒼蠅之王：蒼蠅作為驅疫、神罰與榮耀的跨文化神話比較 |
-| 172 | food-taboos-dietary-prohibitions-comparative.md | 飲食禁忌的宇宙觀：跨文化神話中的食物禁令比較 |
-| 173 | forbidden-container-curiosity-taboo-comparative.md | 禁忌容器與好奇心的懲罰：跨文化比較神話學分析 |
-| 174 | forbidden-knowledge-cross-cultural.md | 禁忌知識：跨文化神話中的「智慧代價」母題 |
-| 175 | forbidden-lovers-comparative.md | 星橋與血桑：跨文化悲劇戀人比較 |
-| 176 | fortune-wealth-deities-comparative.md | 福運與財富之神：跨文化「求財」神祇比較研究 |
-| 177 | fossils-myth-geomythology-comparative.md | 化石與神話：古代巨獸遺骸如何塑造跨文化神話想像 (Fossils and Myth: Geomythology Across Cultures) |
-| 178 | foundation-sacrifice-immurement.md | 奠基之血：建築犧牲與活人奠基神話的跨文化比較 |
-| 179 | founding-child-exposed-hero-comparative.md | 遺棄之子：跨文化神話中的棄嬰英雄原型比較分析 |
-| 180 | fox-spirits-comparative.md | 狐神話跨文化比較分析：變形、媚惑與靈性中介 |
-| 181 | frog-toad-myths-comparative.md | 蛙與蟾蜍的跨文化神話象徵：從創世到變形的兩棲神靈 |
-| 182 | gender-transformation-myths-comparative.md | 性別變換神話跨文化比較分析 |
-| 183 | ghost-marriage-posthumous-unions-comparative.md | 冥婚：亡者婚姻的跨文化比較 (Ghost Marriage: Cross-Cultural Perspectives on Posthumous Unions) |
-| 184 | ghosts-restless-dead-comparative.md | 不安的亡魂：跨文化幽靈神話比較分析 |
-| 185 | giant-myths-comparative.md | 巨人神話：從創世到末世的跨文化比較 |
-| 186 | glass-liuli-transparency-sacred-comparative.md | 玻璃與琉璃：跨文化神話中的透明、純淨與永恆保存 |
-| 187 | goat-ram-myths-comparative.md | 山羊與公羊：跨文化神話中羊類象徵的比較研究 |
-| 188 | golden-age-paradise-myths.md | 黃金時代與原始樂園神話的跨文化比較：人類對完美過往的共同記憶 |
-| 189 | goose-myths-comparative.md | 飛越眾神與人間：鵝與大雁神話跨文化比較 |
-| 190 | gourd-calabash-cosmic-womb-comparative.md | 葫蘆孕天：葫蘆與瓠瓜神話的跨文化比較 |
-| 191 | grateful-animals-comparative.md | 恩義動物：跨文化神話中的動物報恩母題 |
-| 192 | griffin-gryphon-cross-cultural.md | 獅鷲格里芬：從黃金守護者到神性象徵的跨文化旅程 |
-| 193 | hair-symbolism-mythology-comparative.md | 青絲如縷——頭髮的跨文化神話象徵 |
-| 194 | harvest-corn-spirit-first-fruits-comparative.md | 穀靈與首果祭：跨文化收割神話比較分析 |
-| 195 | head-skull-myths-comparative.md | 神聖之首——頭顱與首級的神話學比較 |
-| 196 | healing-medicine-myths.md | 療癒力量：跨文化醫療神話比較研究 |
-| 197 | heart-symbolism-mythology-comparative.md | 心臟的跨文化神話比較：靈魂之座、道德天平與犧牲之火 |
-| 198 | hearth-fire-domestic-myths-comparative.md | 家火不滅——爐灶與家火的跨文化神話比較 |
-| 199 | hero-wound-vulnerability-motif.md | 英雄之傷：跨文化神話中的致命弱點母題 |
-| 200 | heros-journey-monomyth.md | 英雄之旅：單一神話的跨文化比較 |
-| 201 | hoopoe-myths-comparative.md | 戴勝：所羅門的信使、蘇非的嚮導與變形之鳥——跨文化比較分析 |
-| 202 | horn-myths-comparative.md | 角的神話：跨文化比較分析 |
-| 203 | horse-myths.md | 跨文化馬神話比較分析：從天馬到冥界引渡者 |
-| 204 | hospitality-xenia-theoxenia.md | 款待力量：跨文化好客與接待神話比較研究 |
-| 205 | human-sacrifice-comparative.md | 以人為祭：跨文化神話中的宇宙債務、替代邏輯與廢止敘事 |
-| 206 | hummingbird-mythology-comparative.md | 蜂鳥神話：跨文化比較分析 |
-| 207 | hydromancy-water-divination-comparative.md | 水占術：跨文化的水面占卜神話與實踐 |
-| 208 | ice-snow-myths-comparative.md | 冰封之域——跨文化神話中的冰雪霜神比較分析 |
-| 209 | immortal-bird-phoenix.md | 不死鳥與神鳥：跨文化神話中的神聖鳥類原型 |
-| 210 | incense-sacred-smoke-comparative.md | 香料與神聖煙霧：跨文化比較神話學分析 |
-| 211 | indo-european-myth-connections.md | 印歐神話的共同根源 |
-| 212 | initiation-rites-of-passage.md | 通過儀禮：跨文化神話中的成年禮與轉化儀式 |
-| 213 | insects-myths-comparative.md | 跨文化比較：昆蟲神話——六足之靈 |
-| 214 | invisibility-myths-comparative.md | 跨文化比較：隱形神話——不可見的力量 |
-| 215 | iron-mythology-comparative.md | 鐵的神話學：天降金屬的跨文化象徵 (The Mythology of Iron: A Cross-Cultural Analysis) |
-| 216 | jade-myths-comparative.md | 凝結的生命之息：玉神話跨文化比較 (Jade in Cross-Cultural Mythology) |
-| 217 | justice-law-comparative.md | 神話中的正義與律法：跨文化比較分析 |
-| 218 | kingfisher-halcyon-myths-comparative.md | 風平浪靜與笑聲破曉：翠鳥（Kingfisher／Halcyon）跨文化神話比較 |
-| 219 | labyrinth-spiral-myths.md | 迷宮與螺旋：跨文化神話中的道路與轉化 |
-| 220 | language-confusion-myths.md | 語言混亂神話的跨文化比較：從巴別塔到世界的語言多樣性 |
-| 221 | laurel-moon-cassia-honor-tree-comparative.md | 桂冠與折桂：月桂／桂樹作為榮譽與功名之樹的跨文化神話比較 |
-| 222 | left-right-handedness-symbolism.md | 左右之辨——手性象徵的跨文化神話學 |
-| 223 | legendary-named-swords-comparative.md | 傳奇名劍：王權、犧牲與命運的跨文化比較神話學 |
-| 224 | light-myths-primordial-light-enlightenment-comparative.md | 光之神話：創世光明與啟蒙象徵的跨文化比較 |
-| 225 | lion-myths-comparative.md | 獅子神話：跨文化比較分析 |
-| 226 | living-dead-revenant-zombie-comparative.md | 活死人：跨文化屍變與復活死者神話比較分析 |
-| 227 | lizard-gecko-myths-comparative.md | 蜥蜴與壁虎：生死信使、日光聖物與斷尾之謎的跨文化神話比較 |
-| 228 | locust-plagues-myths-comparative.md | 驅蝗之神與蝗蟲天軍：蝗災在跨文化神話中的神格化與象徵比較 |
-| 229 | looking-back-taboo-comparative.md | 禁止回望：回頭禁忌與跨文化神話比較 |
-| 230 | lost-continents-comparative.md | 沉沒大陸神話的跨文化比較：從亞特蘭提斯到庫馬里坎達姆 |
-| 231 | lotus-cross-cultural-myth-comparison.md | 神聖蓮花：跨文化神話中的蓮花象徵比較分析 |
-| 232 | love-deities-comparative.md | 愛神比較：跨文化的愛慾與美之神祇 |
-| 233 | lunar-calendars-in-myth.md | 太陰曆的神話基礎 |
-| 234 | lycanthropy-werewolf-comparative.md | 化狼神話與戰士祕儀：跨文化比較研究 |
-| 235 | magic-flight-obstacle-pursuit-comparative.md | 魔法飛行：跨文化的障礙逃亡與追捕母題 |
-| 236 | magic-flying-conveyances-comparative.md | 御物而行：跨文化神話中的魔法飛行載具比較分析 |
-| 237 | magic-witchcraft-comparative.md | 巫術與魔法：跨文化神話中的巫覡、咒術與超凡力量比較分析 |
-| 238 | magical-helpers-cross-cultural.md | 神助者母題跨文化比較分析 |
-| 239 | magnetic-pole-shift-comparative.md | 天傾地陷：地磁極移的神話線索 |
-| 240 | magpie-myths-comparative.md | 黑白雙面的報喜之鳥：喜鵲神話跨文化比較 |
-| 241 | maize-myths-comparative.md | 玉米神話的跨文化比較：從美洲聖穀到舊世界的穀物女神 |
-| 242 | mana-supernatural-power-comparative.md | 神聖力量的跨文化比較：Mana 與其世界範圍內的平行概念 |
-| 243 | mandrake-screaming-root-comparative.md | 尖叫之根：曼德拉草與人形根神話的跨文化比較 |
-| 244 | mantis-praying-insect-myths-comparative.md | 祈禱的掠食者：螳螂的跨文化神話比較 |
-| 245 | master-of-animals-comparative.md | 萬獸之主——跨文化神話中的動物之主母題 |
-| 246 | megalithic-building-myths-comparative.md | 巨人的石頭——世界神話中的巨石建築解釋 |
-| 247 | memory-forgetfulness-underworld-comparative.md | 忘川與記憶之水：跨文化神話中的遺忘與回憶 |
-| 248 | menstrual-taboos-myths-comparative.md | 月經禁忌與月經起源神話跨文化比較分析 |
-| 249 | mentor-wise-teacher-comparative.md | 導師原型：英雄神話中的智慧教師跨文化比較分析 |
-| 250 | merchants-markets-trade-gods-comparative.md | 市集與商旅之神：跨文化神話中的貿易、交換與商業秩序 |
-| 251 | mermaid-aquatic-humanoids.md | 人魚與水妖神話：跨文化比較研究 |
-| 252 | metamorphosis-shapeshifting.md | 變形神話：跨文化視野下的形體轉換與象徵意涵 |
-| 253 | migration-sacred-journey-founding-comparative.md | 遷徙神話跨文化比較分析：神聖旅程與立國之旅 |
-| 254 | milky-way-origin-myths.md | 銀河起源神話比較：星空中的河流、道路與巨蛇 |
-| 255 | miraculous-birth-virgin-conception.md | 神異誕生：跨文化神話中的處女懷孕與奇蹟受胎母題 |
-| 256 | mirage-phantom-landscape-myths-comparative.md | 海市蜃樓的神話學：跨文化幻景敘事比較分析 |
-| 257 | mirror-divination-catoptromancy-comparative.md | 鏡卜與鏡占：跨文化鏡面占卜的比較神話學分析 |
-| 258 | mirror-reflection-myths.md | 鏡像與倒影神話的跨文化比較分析：從 Narcissus 到 Tezcatlipoca |
-| 259 | mistletoe-golden-bough-comparative.md | 榭寄生與金枝：跨文化神話中的神聖寄生植物 |
-| 260 | monkey-ape-comparative.md | 猿猴神話比較研究：跨文化視野下的靈長類象徵 |
-| 261 | moon-myths.md | 月亮神話與太陰崇拜：死而復生的宇宙節奏 |
-| 262 | moon-rabbit-jade-hare-comparative.md | 月兔與玉兔：跨文化神話中的月球兔形象比較研究 |
-| 263 | multi-layered-heavens-comparative.md | 多層天堂：分層宇宙論的跨文化神話比較 |
-| 264 | mushroom-fungus-mythology-comparative.md | 蘑菇的跨文化神話比較：神靈之肉、不朽之藥與精靈的使者 |
-| 265 | music-origin-myths.md | 神聖之聲：樂器起源神話的跨文化比較分析 |
-| 266 | mythical-ships-boats-comparative.md | 神船——神話中的船與方舟跨文化比較 |
-| 267 | mythological-catastrophe-timeline.md | 災變年代學：神話背後的時間層 |
-| 268 | new-year-cosmic-renewal-myths-comparative.md | 新年與宇宙更新神話跨文化比較分析 |
-| 269 | night-darkness-deities-comparative.md | 夜與暗：黑夜女神與黑暗神話跨文化比較 |
-| 270 | nightingale-myths-comparative.md | 啼聲中的哀歌與戀曲：夜鶯神話的跨文化比較 |
-| 271 | nightmare-incubus-succubus-cross-cultural.md | 夜魔與魅魔：夢中交合與睡眠癱瘓的跨文化神話比較分析 |
-| 272 | number-forty-sacred-cycle-comparative.md | 四十日與四十年：數字四十的試煉、淨化與重生週期——跨文化神話比較研究 |
-| 273 | oak-tree-myths-comparative.md | 雷霆之樹：橡樹／聖櫟神話跨文化比較 |
-| 274 | oaths-curses-myths.md | 誓言與詛咒神話的跨文化比較分析：從 Horkos 到血盟 |
-| 275 | obsidian-myths-comparative.md | 黑暗之光：黑曜石神話跨文化比較 (Obsidian in Cross-Cultural Mythology) |
-| 276 | octopus-cephalopod-myths-comparative.md | 八腕之謎：跨文化章魚神話比較分析 |
-| 277 | olive-tree-myths-comparative.md | 文明之樹：橄欖樹神話跨文化比較 |
-| 278 | omphalos-navel-stone-myths-comparative.md | 世界之臍：翁法洛斯聖石與臍石崇拜的跨文化比較研究 |
-| 279 | one-eyed-beings-comparative.md | 獨眼之眼：單眼與獨眼生物的跨文化神話比較 |
-| 280 | oracle-prophecy-divination-myths.md | 神諭、預言與占卜：跨文化比較分析 |
-| 281 | origin-of-death.md | 死亡的起源：神話中的解釋 |
-| 282 | origin-of-writing-myths.md | 文字的起源：神聖符碼的跨文化神話 |
-| 283 | orion-constellation-myths-comparative.md | 天際的獵人與宇宙之灶：獵戶座（Orion）跨文化神話比較 |
-| 284 | orphan-exposed-hero-comparative.md | 棄嬰英雄母題跨文化比較：從薩爾貢到后稷的神話原型 |
-| 285 | otter-myths-comparative.md | 水獺的變形戲法：跨文化神話中的頑皮精靈與失信使者比較 |
-| 286 | ouroboros-eternal-return.md | 銜尾蛇與永恆循環：跨文化神話中的 Ouroboros 與迴歸時間觀 |
-| 287 | owl-myths-comparative.md | 貓頭鷹的雙面凝視：跨文化神話中的夜之使者比較研究 |
-| 288 | parrot-macaw-myths-comparative.md | 會說話的使者與虛假之光：鸚鵡／金剛鸚鵡神話跨文化比較分析 |
-| 289 | peach-fruit-tree-myths-comparative.md | 蟠桃與桃木：長生之果與驅邪之木的跨文化神話比較 |
-| 290 | peacock-myths-comparative.md | 孔雀神話跨文化比較分析：不朽之鳥與天堂使者 |
-| 291 | pearls-gems-sacred-jewels.md | 珍珠、寶石與靈玉：跨文化神聖珍寶神話比較分析 |
-| 292 | personifications-of-death-comparative.md | 死亡的化身：死神與收割者的跨文化神話比較 |
-| 293 | petrification-myths-comparative.md | 石化神話：跨文化中的「化為石頭」母題比較研究 |
-| 294 | phantom-lights-ghost-fires-comparative.md | 愚者之火與亡魂之光：鬼火／幽靈火球的跨文化神話比較 |
-| 295 | pine-tree-cone-myths-comparative.md | 常青之永恆：松樹與松果神話跨文化比較 |
-| 296 | plague-deities-disease-myths-comparative.md | 瘟疫神與疾病神話：跨文化比較分析 (Plague Deities and Disease Myths: A Cross-Cultural Comparative Analysis) |
-| 297 | planetary-cycles-and-deities.md | 行星週期與神祇對應 |
-| 298 | plants-born-of-death-grave-vegetation-comparative.md | 墳墓中生長的花與樹——死亡之地萌生的生命（Plants Born of Death） |
-| 299 | pleiades-seven-sisters-cross-cultural.md | 昴宿星團跨文化神話比較分析：七姐妹的全球記憶 |
-| 300 | poison-venom-mythology-comparative.md | 毒與神話：希臘、印度、中國、非洲與北歐的跨文化比較 |
-| 301 | pole-star-cosmic-axis-myths.md | 北極星與宇宙軸——世界神話中的不動之星 |
-| 302 | pomegranate-myths-comparative.md | 石榴神話跨文化比較分析：生死中介的聖果 |
-| 303 | primordial-mound-first-land.md | 原初之丘——跨文化神話中的第一塊土地 |
-| 304 | primordial-sound-comparative.md | 原初之聲：跨文化宇宙震動母題比較分析 |
-| 305 | primordial-transgression-comparative.md | 原初的逾越——跨文化神話中的第一過犯比較分析 |
-| 306 | primordial-void-abyss-myths-comparative.md | 原初虛空與深淵：跨文化創世神話中的「無」之母題 |
-| 307 | psychopomp-comparative.md | 靈魂引導者（Psychopomp）的跨文化比較：死亡旅途中的嚮導 |
-| 308 | psychostasia-judgment-of-the-dead.md | 靈魂審判：死後世界的天平與裁決 |
-| 309 | purification-rites-comparative.md | 神聖淨化：跨文化淨化儀式神話比較分析 |
-| 310 | quest-for-immortality-comparative.md | 不死之追尋：跨文化神話中的永生_quest 比較研究 |
-| 311 | quest-for-lost-wife-comparative.md | 尋妻神話：為愛入冥的跨文化比較 |
-| 312 | rabbit-hare-myths-comparative.md | 兔與野兔神話：跨文化視角下的兔形目動物象徵 |
-| 313 | rain-gods-rainmaking-comparative.md | 祈雨與雨神：跨文化雨神話比較分析 |
-| 314 | rainbow-myths-comparative.md | 虹橋與虹蛇：彩虹作為天地通道的跨文化神話比較 |
-| 315 | rainbow-myths.md | 彩虹神話與象徵 |
-| 316 | rainbow-serpent-myths-comparative.md | 彩虹蛇（Rainbow Serpent）跨文化比較神話學分析 |
-| 317 | rat-mouse-myths-comparative.md | 小小的扭轉者：鼠類神話跨文化比較 |
-| 318 | ravens-crows-mythology.md | 烏鴉與渡鴉神話：創世者、欺騙者與靈界使者 |
-| 319 | reincarnation-metempsychosis.md | 輪迴轉世神話：靈魂遷移的跨文化比較分析 |
-| 320 | resurrection-comparative.md | 死而復生：跨文化神話中的復活類型學 |
-| 321 | rice-myths-comparative.md | 稻米神話的跨文化比較：從亞洲聖穀到世界餐桌 |
-| 322 | riddle-duels-wisdom-contests-comparative.md | 以智取勝：謎語對決與智慧競賽的跨文化神話學比較 |
-| 323 | ritual-combat-sacred-warfare-comparative.md | 神聖格鬥——儀式性戰鬥的跨文化比較神話學分析 |
-| 324 | rooster-myths-comparative.md | 雄雞神話跨文化比較 (Rooster Myths in Cross-Cultural Perspective) |
-| 325 | root-crops-tuber-sacred-staple-comparative.md | 土裡長出的祖先：塊根作物作為神聖主食與肉身轉化的跨文化神話比較 |
-| 326 | rose-myths-comparative.md | 血與刺中的永恆：玫瑰神話跨文化比較 (Blood, Thorns, and Eternity: The Rose in Cross-Cultural Mythology) |
-| 327 | sacred-animal-companions-myths-comparative.md | 動物靈伴：跨文化比較分析 |
-| 328 | sacred-animals-divine-messengers-comparative.md | 神聖動物與神使：跨文化比較分析 |
-| 329 | sacred-anointing-oil-myths-comparative.md | 神聖膏油：跨文化的塗油儀式、王權神授與神聖治療 |
-| 330 | sacred-architecture-temple-myths.md | 神聖建築與神殿起源神話的跨文化比較分析 |
-| 331 | sacred-asceticism-fasting-comparative.md | 苦行與神聖饑餓：跨文化神話中的禁食與修行 |
-| 332 | sacred-ash-holy-dust-comparative.md | 聖灰與神聖塵埃：跨文化神話比較分析 |
-| 333 | sacred-axe-labrys-cross-cultural.md | 神聖之斧：雙刃斧、戰斧與宇宙開闢之器的跨文化比較 |
-| 334 | sacred-bells-comparative.md | 聖鈴與天界之音——跨文化神話中的鈴鐺與鐘 |
-| 335 | sacred-blood-mythology.md | 神血與血祭：跨文化神話中的血液象徵系統 |
-| 336 | sacred-canopy-umbrella-comparative.md | 神聖傘蓋：華蓋、寶傘與天蓋的跨文化神話比較 |
-| 337 | sacred-cat-myths-comparative.md | 神聖之貓：跨文化貓神話比較分析 |
-| 338 | sacred-cauldron-vessel-myths.md | 聖釜與豐饒之器：跨文化神話中的神聖容器 |
-| 339 | sacred-clowns-ritual-inversion-comparative.md | 倒反即神聖：跨文化神話中的神聖小丑與儀式逆反 |
-| 340 | sacred-cord-thread-myths-comparative.md | 神聖繩索與命運之線——跨文化繩線神話比較分析 |
-| 341 | sacred-crystal-myths-comparative.md | 神聖結晶神話跨文化比較分析 |
-| 342 | sacred-dance-mythology.md | 神舞：跨文化神話中的神聖舞蹈 |
-| 343 | sacred-drums-comparative.md | 神鼓之聲——跨文化神話比較分析 |
-| 344 | sacred-elephant-myths-comparative.md | 神聖巨象：大象神話象徵的跨文化比較 |
-| 345 | sacred-exile-return-myths.md | 神聖流放與回歸：跨文化神話母題比較分析 |
-| 346 | sacred-feast-banquet-comparative.md | 神聖饗宴：跨文化神話中的共食儀式比較 |
-| 347 | sacred-fig-bodhi-tree-myths-comparative.md | 根在上方的樹：無花果／菩提樹神話跨文化比較 |
-| 348 | sacred-fire-eternal-flame.md | 聖火長明：跨文化神話中的永恆之火與聖火崇拜 |
-| 349 | sacred-flutes-wind-instruments-comparative.md | 神聖之笛：跨文化神話中的管樂禁忌、誘惑與吹禪 |
-| 350 | sacred-food-divine-sustenance-comparative.md | 神聖食物與神明食糧：跨文化比較分析 |
-| 351 | sacred-footprints-comparative.md | 神聖足跡跨文化比較分析：聖人足印、神足與朝聖地圖 |
-| 352 | sacred-footwear-cross-cultural.md | 神聖鞋履：跨文化神話中的飛行涼鞋與魔法靴子 |
-| 353 | sacred-frenzy-divine-madness-comparative.md | 神聖瘋狂與迷狂：跨文化比較研究 |
-| 354 | sacred-friendship-heroic-companion-comparative.md | 神聖友誼：跨文化神話與史詩中的英雄同儕母題 |
-| 355 | sacred-games-athletic-contests-comparative.md | 神聖競技：跨文化神話中的競賽、球戲與宇宙對抗 |
-| 356 | sacred-gardens-comparative.md | 神聖花園：跨文化神話中的樂園花園比較分析 |
-| 357 | sacred-garment-clothing-myths-comparative.md | 神聖衣飾與服裝神話跨文化比較分析 |
-| 358 | sacred-gates-portals-thresholds-comparative.md | 神聖門戶：跨文化的門、閘與通道神話比較分析 |
-| 359 | sacred-geography-cross-cultural-comparative.md | 神聖地理學：跨文化神話景觀比較分析 |
-| 360 | sacred-geometry-cross-cultural-comparative.md | 神聖幾何學跨文化比較分析 |
-| 361 | sacred-girdle-belt-myths-comparative.md | 神聖腰帶：跨文化神話中的力量、誘惑與王權之帶 |
-| 362 | sacred-grain-bread-myths-comparative.md | 穀物與麵包——跨文化神話中小麥、大麥與烘培的神聖起源 |
-| 363 | sacred-hand-cross-cultural.md | 神聖之手：跨文化神話中的手部符號、護身手勢與神聖手印 |
-| 364 | sacred-hunt-comparative.md | 神聖的狩獵：跨文化神話中的狩獵之神與狩獵儀式 |
-| 365 | sacred-implements-divine-tools-myths-comparative.md | 神聖之器：跨文化神話中的錘、杵與敲擊工具比較分析 |
-| 366 | sacred-inscribed-objects-destiny-comparative.md | 神聖銘刻物與命運記載：跨文化比較分析 |
-| 367 | sacred-intoxication-wine-beer-myths.md | 神聖酩酊——酒與發酵飲料的神話學比較 |
-| 368 | sacred-islands-blessed-isles-comparative.md | 聖島與仙界：跨文化視野下的神聖島嶼比較研究 |
-| 369 | sacred-key-mythology-comparative.md | 神聖之鑰：跨文化神話中的鑰匙象徵與權力 |
-| 370 | sacred-kingship-comparative.md | 神聖王權：跨文化比較 |
-| 371 | sacred-knots-binding-comparative.md | 神聖繩結：跨文化神話中的束縛與解縛母題比較研究 |
-| 372 | sacred-lakes-world-mythology.md | 神聖湖泊：跨文化比較神話學分析 |
-| 373 | sacred-marriage-across-cultures.md | 聖婚（Hieros Gamos）：神聖婚姻的跨文化比較 |
-| 374 | sacred-masks-mythology.md | 面具神話：跨文化的偽裝、變形與神聖顯現 |
-| 375 | sacred-mead-divine-nectar-comparative.md | 神聖蜜酒：跨文化比較神話學分析 (Sacred Mead & Divine Nectar) |
-| 376 | sacred-metals-comparative.md | 神聖金屬——跨文化神話中的金銀銅鐵象徵系統 |
-| 377 | sacred-milk-myths-comparative.md | 神聖乳汁神話比較分析 |
-| 378 | sacred-mirror-myths-comparative.md | 神聖之鏡：觀照、審判與靈魂界面的跨文化神話學比較 |
-| 379 | sacred-mountains.md | 聖山：天地之間的橋樑 |
-| 380 | sacred-nakedness-ritual-nudity-comparative.md | 神聖裸體：跨文化神話中的裸身象徵與儀式性裸露 |
-| 381 | sacred-name-power-naming.md | 神聖之名：跨文化神話中的真名與命名力量 |
-| 382 | sacred-numbers-cosmic-order.md | 神聖數字：跨文化宇宙秩序的神話編碼 |
-| 383 | sacred-orientation-four-directions-comparative.md | 方位的神聖秩序：跨文化四方宇宙觀比較分析 |
-| 384 | sacred-plants-entheogens.md | 神聖植物：跨文化致幻與宗教啟蒙比較研究 |
-| 385 | sacred-prostitution-cross-cultural.md | 神聖娼妓：跨文化比較中的寺廟性行為、豐饒儀式與神聖經濟學 |
-| 386 | sacred-reed-cross-cultural-comparative.md | 神聖蘆葦：跨文化神話中的蘆葦、書寫與音樂比較分析 |
-| 387 | sacred-ring-myths-comparative.md | 神聖戒指：跨文化神話中的權力、詛咒與永恆之環 |
-| 388 | sacred-rivers-myths.md | 神聖河流與河神信仰的跨文化比較分析 |
-| 389 | sacred-sand-cross-cultural.md | 神聖沙粒：跨文化神話中的沙之儀式與宇宙象徵 |
-| 390 | sacred-scripture-revelation-comparative.md | 天啟聖典：跨文化神話中的聖書降臨與神聖話語 |
-| 391 | sacred-seed-mythology-comparative.md | 神聖種子：跨文化神話中的播種、犧牲與再生母題 |
-| 392 | sacred-sexuality-divine-eroticism-comparative.md | 神聖性愛：跨文化神話中的神聖性實踐與宇宙創造 |
-| 393 | sacred-silence-muteness-myths-comparative.md | 神聖的沉默：禁語與無聲的跨文化神話分析 |
-| 394 | sacred-spirals-mythology-comparative.md | 聖螺旋——跨文化螺旋神話與宇宙生成象徵比較 |
-| 395 | sacred-spittle-divine-saliva-comparative.md | 神聖唾液：世界神話中的唾沫、生命力與療癒轉化 |
-| 396 | sacred-stones-meteorites-mythology.md | 聖石與隕石：跨文化神話中的石頭崇拜 |
-| 397 | sacred-strings-harps-lyres-comparative.md | 神聖之弦：里拉琴、豎琴與古琴的跨文化神話比較 |
-| 398 | sacred-sweat-steam-bath-myths-comparative.md | 神聖汗水與蒸汽浴場：跨文化神話比較 |
-| 399 | sacred-tattooing-mythology.md | 神聖紋身跨文化比較神話學分析 |
-| 400 | sacred-torch-lamp-mythology-comparative.md | 火炬與聖燈：跨文化神話中的引光象徵比較 |
-| 401 | sacred-wasteland-barren-land-comparative.md | 荒蕪之地：跨文化神話中的土地荒蕪與復甦母題比較分析 |
-| 402 | sacred-waters-springs.md | 聖泉與聖水：神話中的療癒與淨化之水 |
-| 403 | sacred-weaving-fate-textiles-comparative.md | 跨文化比較：神聖紡織——編織命運的絲線 |
-| 404 | sacred-wells-springs-comparative.md | 聖泉與神井：跨文化神話中的活水崇拜比較研究 |
-| 405 | sacred-wounds-cosmic-injury-comparative.md | 神聖之傷：世界神話中的宇宙創傷與轉化性苦難 |
-| 406 | sacrificial-creation.md | 犧牲創世：巨人化生萬物 |
-| 407 | salmon-myths-comparative.md | 鮭魚神話跨文化比較：洄游之魚、知識之肉與歸還的契約 |
-| 408 | salt-symbolism-comparative.md | 鹽的象徵：跨文化神話中的神聖之鹽 |
-| 409 | scapegoat-pharmakos-comparative.md | 替罪羊：跨文化贖罪與轉移儀式的比較神話學分析 |
-| 410 | scarab-dung-beetle-myths-comparative.md | 推著太陽的蟲：糞金龜與聖甲蟲神話跨文化比較 |
-| 411 | scorpion-myths-comparative.md | 蠍子神話跨文化比較 |
-| 412 | sea-deities-ocean-myths.md | 海神神話：跨文化海洋信仰的比較研究 |
-| 413 | searching-mother-goddess-comparative.md | 追尋的母親女神：哀悼、尋覓與宇宙失衡的跨文化母題 |
-| 414 | seasonal-deities-comparative.md | 四季流轉——跨文化神話中的季節神祇比較分析 |
-| 415 | self-fulfilling-prophecy-fate-avoidance-comparative.md | 預言的自證：逃避命運的悖論——跨文化神話中的自我實現預言比較 |
-| 416 | separation-of-heaven-and-earth-comparative.md | 天地分離：創世之裂的跨文化比較神話學分析 |
-| 417 | serpent-venom-divine-medicine-comparative.md | 毒蛇與神聖藥物：毒液即解藥的跨文化神話母題 |
-| 418 | shadow-soul-second-self-comparative.md | 影子靈魂與第二自我：跨文化影子母題比較分析 |
-| 419 | shamanism-in-myth.md | 神話中的薩滿：跨文化比較研究 |
-| 420 | shark-myths-comparative.md | 鯊魚神話跨文化比較：從大洋洲守護神到海洋倫理的仲裁者 |
-| 421 | shepherd-mythology-comparative.md | 牧羊人神話跨文化比較分析 |
-| 422 | sibling-rivalry-fraternal-conflict-comparative.md | 兄弟相爭：跨文化神話中的手足衝突母題 |
-| 423 | silk-sericulture-myths-comparative.md | 絲綢神話跨文化比較：蠶絲起源的七種敘事 |
-| 424 | silver-lunar-metal-mythology-comparative.md | 月之白骨：銀在跨文化神話中的聖性、淨化與鎮邪 |
-| 425 | siren-enchantress-femme-fatale-comparative.md | 妖女與塞壬：跨文化神話中的致命女性母題 |
-| 426 | sirius-dog-star-cross-cultural.md | 天狼星跨文化神話比較分析：夜空最亮星的多元象徵 |
-| 427 | sky-father-archetype-comparative.md | 天父原型：跨文化天空之神的比較研究 |
-| 428 | sky-ladder-heaven-ladder-comparative.md | 天梯：垂直昇天的跨文化神話母題 |
-| 429 | sleep-dreams-mythology.md | 睡眠與夢：跨文化神話中的夜間意識 |
-| 430 | sleeping-king-mountain.md | 沉睡君王——山中英雄歸來母題跨文化比較 |
-| 431 | smith-forge-gods-comparative.md | 鍛造之神：跨文化神話中的鐵匠與冶煉傳說 |
-| 432 | sneezing-breath-soul-omens-comparative.md | 噴嚏神話：呼吸、靈魂與吉凶預兆的跨文化比較 |
-| 433 | solar-years-and-kingly-reigns.md | 太陽年與王權週期 |
-| 434 | solstice-equinox-rituals.md | 二分二至的神話儀式編碼 |
-| 435 | sortilege-sacred-lots-cleromancy-comparative.md | 神籤定命：跨文化神話與儀式中的抽籤、擲骰與神意之兆 |
-| 436 | soul-concepts-comparative.md | 魂與靈：跨文化靈魂概念比較分析 |
-| 437 | soul-ferry-boat-of-dead-comparative.md | 亡者之舟：渡魂船的跨文化比較分析 |
-| 438 | southern-cross-constellation-myths-comparative.md | 南天極的指針：南十字座（Crux）跨文化神話比較 |
-| 439 | sowing-dragon-teeth-warriors-comparative.md | 從龍骨播種戰士：龍牙母題的跨文化比較 |
-| 440 | sparagmos-dismemberment-comparative.md | 撕裂祭神 — 神聖肢解神話跨文化比較 |
-| 441 | sphinx-cross-cultural-comparative.md | 人面獅身獸（Sphinx）跨文化神話比較分析 |
-| 442 | spice-origin-myths-trade-route-comparative.md | 守護者與天堂花園：香料起源神話與「香料之路」的跨文化想像 |
-| 443 | spider-weaving-myths.md | 蜘蛛與織造：命運、創造與幻象的跨文化比較 |
-| 444 | spontaneous-generation-bugonia-myths-comparative.md | 死物化生：自然發生論神話的跨文化比較（以牛屍生蜂為核心） |
-| 445 | star-ancestor-myths-comparative.md | 星辰後裔：人類源出於星的跨文化神話比較 |
-| 446 | steppe-grassland-mythology-comparative.md | 大草原神話學——蒼穹之下：草原景觀的跨文化神聖性 |
-| 447 | suitor-trials-tests-comparative.md | 求婚考驗：跨文化神話中的難題求婚與婚姻試煉 |
-| 448 | sun-moon-conflict-comparative.md | 日月之爭：太陽與月亮衝突的跨文化比較研究 |
-| 449 | sun-myths.md | 太陽神話與太陽崇拜 |
-| 450 | sun-snaring-myths-comparative.md | 太陽捕捉神話：太陽被隱藏、被偷竊與被束縛的跨文化比較 |
-| 451 | swallow-myths-comparative.md | 家燕與玄鳥：跨文化燕子神話比較分析 |
-| 452 | swan-maiden-celestial-bride.md | 天鵝處女與天女羽衣：跨文化「天婚」母題的比較神話學 |
-| 453 | swine-boar-myths-comparative.md | 豬與野豬神話：跨文化比較分析 |
-| 454 | taboo-breaking-myths-comparative.md | 禁忌打破神話跨文化比較 — 潘朵拉、夏娃、奧菲斯與「不可看、不可開、不可回」 |
-| 455 | taboo-speech-and-silence-mandates.md | 禁忌語音：跨文化神話中的命名禁忌與沉默律令 |
-| 456 | taboo-transgression-comparative.md | 禁忌與踰越：跨文化神話中的禁令與違抗母題比較分析 |
-| 457 | tea-coffee-origin-myths-comparative.md | 茶與咖啡起源神話的跨文化比較 |
-| 458 | tears-weeping-myths-comparative.md | 眼淚與哭泣：跨文化的神聖哀悼母題比較分析 |
-| 459 | teeth-myths-comparative.md | 牙齒神話跨文化比較分析 |
-| 460 | theophany-divine-manifestation-comparative.md | 神顯：跨文化神話中的神靈降臨形態與顯現母題 |
-| 461 | theriomorphic-nurse-beastnursed-hero-comparative.md | 獸乳哺育的建國英雄：熱型乳母（Theriomorphic Nurse）跨文化比較 |
-| 462 | third-son-middle-child-hero-comparative.md | 第三子／中間孩子英雄：跨文化比較分析 |
-| 463 | thirteen-number-boundary-myths-comparative.md | 十三：完整之外的那一位——跨文化「數十三」神話與象徵比較研究 |
-| 464 | three-tiered-cosmos-comparative.md | 三界宇宙：天堂、人間、冥界的跨文化結構比較 |
-| 465 | three-wishes-divine-boons-comparative.md | 有價的願望——跨文化神話與民間故事中的有限祈願母題 |
-| 466 | threshold-crossroads-gods.md | 門檻與交匯處：跨文化閾限神靈比較研究 |
-| 467 | thunder-gods.md | 雷神與雷電神話：劈開天穹的宇宙之錘 |
-| 468 | thunderbird-lightning-bird-comparative.md | 雷鳥與閃電鳥：跨文化風暴巨鳥神話比較分析 |
-| 469 | thunderstone-ceraunia-cross-cultural.md | 雷石跨文化神話比較分析 |
-| 470 | tidal-wave-myths-comparative.md | 潮汐與波濤：海之呼吸的跨文化神話比較分析 |
-| 471 | tides-tidal-bore-myths-comparative.md | 海之呼吸：潮汐與怒潮的跨文化神話比較 |
-| 472 | tiger-myths-comparative.md | 虎神崇拜與象徵：跨文化比較神話學分析 |
-| 473 | time-distortion-otherworld-comparative.md | 跨文化比較：時間扭曲與異界時間流速——神話中的相對論 |
-| 474 | tobacco-myths-sacred-smoke-comparative.md | 神聖煙草：獻祭之霧與幻視之門——跨文化神話中的煙草 |
-| 475 | tornado-whirlwind-myths-comparative.md | 旋風與龍捲風：跨文化神話母題比較分析 |
-| 476 | totemism-clan-animal-ancestry-comparative.md | 圖騰制度：氏族動物祖先與分類邏輯的跨文化比較 |
-| 477 | tower-cosmic-axis-imprisonment-suppression-comparative.md | 塔的宇宙論：通天、囚禁與鎮壓的跨文化神話比較 |
-| 478 | tree-forest-spirits-comparative.md | 樹靈與森林精靈：荒野之心的人格化跨文化比較分析 |
-| 479 | trial-by-ordeal-divine-judgement-comparative.md | 神明裁判：以火、水與毒驗證真理的跨文化神判神話 |
-| 480 | trickster-across-cultures.md | 騙子原型：神話中的界線跨越者 |
-| 481 | trickster-archetype-comparative.md | 騙子原型：越界者、混沌製造者與文化英雄 |
-| 482 | triune-deities-comparative.md | 三一神／三元神祇的跨文化比較分析 |
-| 483 | turquoise-myths-comparative.md | 石頭裡的天穹：綠松石神話跨文化比較 (Turquoise in Cross-Cultural Mythology) |
-| 484 | turtle-myths-comparative.md | 神龜：跨文化神話中的宇宙載體與智慧象徵 |
-| 485 | twilight-dusk-deities-comparative.md | 暮光與黃昏——跨文化神話中的過渡時間神祇比較 |
-| 486 | twin-myths.md | 神話中的雙生子 |
-| 487 | umbilical-cord-cosmic-connection-comparative.md | 臍帶神話：跨文化的宇宙連接與生命紐帶 |
-| 488 | underwater-kingdoms-undersea-worlds-comparative.md | 海面之下的另一重天空：海底王國與水下世界神話跨文化比較 (Underwater Kingdoms in Cross-Cultural Mythology) |
-| 489 | underworld-descent-katabasis-comparative.md | 降入冥界：跨文化神話中的死亡之旅與重生原型 |
-| 490 | underworld-journey.md | 冥界之旅：死亡與重生 |
-| 491 | underworld-rivers-comparative.md | 冥河與黃泉：跨文化地下河流神話比較 |
-| 492 | unicorn-qilin-comparative.md | 獨角獸與麒麟：東西方單角神獸的跨文化比較神話學 |
-| 493 | vampiric-entities-comparative.md | 吸血神話：跨文化吸血鬼類精怪比較研究 |
-| 494 | veil-sacred-covering-comparative.md | 神聖之紗：跨文化神話中的遮蓋與啟示母題 |
-| 495 | vengeance-retribution-myths-comparative.md | 復仇與報應：跨文化復仇女神與復仇母題比較分析 |
-| 496 | venus-morning-evening-star-comparative.md | 晨昏之星——金星（Venus）跨文化神話比較分析 |
-| 497 | virgin-goddess-parthenos-comparative.md | 童貞女神：處女作為跨文化神聖類型的比較研究 |
-| 498 | volcano-fire-mountain-myths.md | 火山與火山的跨文化神話比較 |
-| 499 | vulture-myths-comparative.md | 禿鷲母題：聖潔與不潔之間的食腐之鳥 |
-| 500 | war-gods-comparative.md | 戰神神話：跨文化戰爭信仰的比較研究 |
-| 501 | warrior-women-amazons-comparative.md | 女戰士與亞馬遜：跨文化比較神話分析 |
-| 502 | water-hoarding-motif-comparative.md | 囤水之魔：吞水、堵水與竊水母題的跨文化神話學比較 |
-| 503 | water-of-life-myths-comparative.md | 生命之水：跨文化神聖水域不朽母題比較研究 |
-| 504 | waterfall-myths-comparative.md | 瀑布神話：跨文化神話中的神聖瀑布與宇宙門檻 |
-| 505 | waterside-encounters-betrothal-comparative.md | 井畔之約：水源邊相遇與婚約的跨文化神話 |
-| 506 | whale-leviathan-great-fish-comparative.md | 深淵之民：鯨魚與巨魚神話的跨文化比較分析 |
-| 507 | wheel-mythology-comparative.md | 輪的神話學：車輪、轉輪與輪迴的跨文化象徵比較 |
-| 508 | whirlpool-vortex-myths.md | 漩渦與漩流：深淵之口的跨文化神話比較分析 |
-| 509 | white-sacred-animals-comparative.md | 白色聖獸：跨文化神話中的白獸母題與祥瑞邏輯 |
-| 510 | wild-hunt-spectral-procession.md | 狂獵與百鬼夜行：幽冥行軍神話的跨文化比較 |
-| 511 | wild-man-myths-comparative.md | 野人母題：山林之民與文明他者的跨文化比較分析 |
-| 512 | willow-mythology-comparative.md | 依依垂枝，仙凡之木：柳樹神話跨文化比較 |
-| 513 | wind-deities-comparative.md | 風神神話：跨文化大氣神靈的比較研究 |
-| 514 | wisdom-gods-comparative.md | 智慧之神的跨文化比較分析 |
-| 515 | woodpecker-myths-comparative.md | 雷鳴之鳥與樹木之言：啄木鳥神話跨文化比較 |
-| 516 | world-ages-cosmic-cycles-comparative.md | 金屬的記憶——世界時代神話的跨文化比較 |
-| 517 | world-mountain-axis-mundi-comparative.md | 世界山與宇宙軸心：跨文化 Axis Mundi 比較研究 |
-| 518 | world-parents-separation.md | 天地分離神話：世界父母型創世的跨文化比較 |
-| 519 | world-serpent-cosmic-encircler-comparative.md | 世界蛇：環繞世界的宇宙大蛇跨文化比較分析 |
-| 520 | world-tree-comparative.md | 世界樹與宇宙軸：跨文化神話中的宇宙樹母題比較分析 |
-| 521 | wounded-healer-comparative.md | 受傷的治療者：跨文化神話中的創傷與療癒原型 |
-| 522 | wounded-sovereign-fisher-king-comparative.md | 受傷的君主：王者之軀與大地命運的跨文化比較 |
-| 523 | youngest-child-hero-comparative.md | 末子之選：么子英雄與幼子繼承的跨文化神話比較 |
-| 524 | zodiac-astrology-myths-comparative.md | 天穹之獸：跨文化神話中的黃道與星宿體系 |
-| 525 | 聖林跨文化神聖樹林崇拜比較分析.md | 聖林：跨文化神聖樹林崇拜比較分析 |
-| 526 | aurora-northern-lights-myths-comparative.md | 天火之籤：北極光神話的跨文化比較分析 |
-| 527 | gold-and-golden-touch-comparative.md | 點石成金：黃金觸與黃金神聖性的跨文化比較神話學 |
-| 528 | qixi-tanabata-star-crossed-lovers-comparative.md | 織女與牽牛：星河之橋與七夕節慶的跨文化比較神話學 |
-| 529 | guest-star-supernovae-historical-records-comparative.md | 客星：歷史超新星的跨文化觀測與神話詮釋 |
-| 530 | pottery-clay-fire-origin-myths-comparative.md | 摶土為器：黏土、陶輪與火的文明起源——跨文化製陶神話比較分析 |
-| 531 | toponymic-myths-place-name-origins-comparative.md | 以名銘地：地名起源神話的跨文化比較分析——愛爾蘭地名之學、日本風土記、歌之線、希臘名祖、中國望夫石 |
-| 532 | libation-pouring-sacred-offerings-comparative.md | 傾注之禮：奠酒——液體供獻的跨文化比較神話學（\*gʰeu-/šipant-/spondē/祼灌/libation/challa） |
-| 533 | earth-mother-archetype-comparative.md | 地母原型：跨文化神話中的大地母神比較研究（\*Dʰéǵʰōm/Gaia/Pachamama/后土/Ninhursag） |
-| 534 | sacred-banners-battle-standards-comparative.md | 旗上寄魂：跨文化神話中的神聖旗幟與軍旗母題比較研究（aquila/Sulde/錦御旗/oriflamme/渡鴉旗/釁旗） |
-| 535 | salamander-fireproof-creature-comparative.md | 火中之物：蠑螈與「不焚之體」的跨文化比較——石棉、火判與神性耐火（salamander/axolotl/火浣布/Xolotl） |
-| 536 | garlic-onion-apotropaic-comparative.md | 餐桌上的驅魔者：大蒜、洋蔥與「辛臭—神聖」的跨文化比較——嗅覺神學與辟邪護符（allium/garlic/nazar/五辛） |
-| 537 | mountain-deities-comparative.md | 山神：人格化的聖山——跨文化山神信仰比較研究（五嶽/山鬼/大山祇/檀君/念青唐古拉/Apu/Oreads） |
-| 538 | jinn-parallel-humanity-comparative.md | 無形的他者：鎮尼（Jinn）與「平行凡人性」神話的跨文化比較（jinn/ginnaye/daimon/Tuatha Dé/div/妖怪/狐魅） |
-| 539 | king-of-birds-bird-elections-comparative.md | 鳥中之王：跨文化神話中的鳥類王權選拔與象徵——從鷦鷯競飛、迦樓羅、希默夫到百鳥朝鳳 |
-| 540 | hedgehog-myths-comparative.md | 圓刺之謎：刺蝟跨文化神話比較——太陽圓球、瑣羅亞斯德教義獸（Vanghapara）到「狐狸與刺蝟」知識論（Egypt/Hedgehog/白仙/ATU 1074） |
-| 541 | man-in-the-moon-comparative.md | 月中人影：月面人像與「月宮駐人」母題的跨文化比較——負柴的安息日犯禁者／洛娜與希娜／嫦娥吳剛／翠玉／海達男孩／因紐特月兄弟／月中露臀女子（Hjúki&Máni/Rona/Hina/Wu Gang/Chú Cuội/Latvia） |
-| 542 | reindeer-caribou-circumpolar-myths.md | 白馴鹿與馴鹿之民：環北極圈馴鹿（Rangifer tarandus）神話的跨文化比較——白鹿創世/鹿皮穹頂/卡利布母親/獵物主人/鹿婚與半馴化（Sámi/Inuit/Innu/Evenki/Nenets/Tsaatan） |
-| 543 | divine-wrestling-myths-comparative.md | 與神摔跤：跨文化神話中「凡人與不可勝者角力」母題的比較分析（雅各 vs 神／佩琉斯 vs 忒提斯／赫拉克勒斯 vs 阿刻洛俄斯與塔那托斯／婆薮 vs 婆薩那／佛陀 vs 魔羅／索爾 vs 老年／武甕槌神 vs 天宇受賣／毛伊 vs 太陽） |
-| 544 | widow-remarriage-levirate-comparative.md | 寡嫂繼承：兄亡之後的寡婦、再婚制度與貞節——跨文化「利未拉」的比較分析（yib'am 與脫鞋吐唾／al-ʿaliyya 禁令與姊妹婚交換／魯國「一生一及」與季隗拒絕／高句麗寡后／草原 emengerlik／Nuer 幽靈婚對照／埃及守護繼承人／羅馬不改嫁法定貞節／北歐晨賦與《尼雅爾斯薩迦》婚約清血債） |
-| 545 | straw-man-substitute-bodies-comparative.md | 稻草人與替身：以假亂真的跨文化神話母題比較（贖代災厄：Ovid草皮人形／東斯拉夫科斯特羅瑪稻草偶／西里西亞稻草之死／姜子牙草人替武吉／閩南十五替／埃及shabti／填補缺席：奇隆造像與代達羅斯木牛／帕特羅克洛斯代甲／悉多金像／假冒身分：雅各山羊皮與遭難／六耳獼猴照妖鏡與命名權／伊西斯變形誘騙與Bṛhaspati化Šukra／合法化身：科林斯松木酒神像與面具舞儀） |
-| 546 | divine-castration-self-mutilation-comparative.md | 神聖閹割與自我損毀：生殖受創的神、替代犧牲與器官再生——阿加斯蒂斯被閹割生樹／Attis 自割生杏仁樹／歐西里斯生殖器沉入尼羅河與陽具祭／迦摩灰身再生與眾神分割身體／杜穆茲—蓋什提南娜半年替代／第五太陽帶傷躍入火中／柳本尊十煉與禪宗斷臂求法／迦那帕獻眼與割禮「第八日」／淨身人與 Galli 祭司的制度化／保羅「心之割禮」的象徵化反轉） |
-| 547 | filial-piety-cosmic-leverage-comparative.md | 孝道的宇宙槓桿：以親情撼動天地、王權與命運的跨文化比較——哭竹生筍與卧冰雙鯉／涌泉躍鯉與董永織女／Śravaṇa之死與盲父之詛／Śāma本生／安提戈涅未成文法／荷魯斯「為父復仇者」（孟宗/王祥/姜詩/董永/Daśaratha/Rāma/Śravaṇa/Śāma/Sophocles/Horus/魯迅） |
-| 548 | speaking-relics-object-testimony-comparative.md | 會說話的遺骸：骨、石與琴弦——「物件作證」母題的跨文化比較（佩羅普斯肩胛與達瑪爾墨諾斯的守護權／格林 KHM 28 會唱歌的骨頭 ATU 780／《The Twa Sisters》骨製豎琴自唱／小夜之中山夜泣石與刃こぼれ比對／商代甲骨灼裂存證與《沉香寶卷》記認信物／《創世記》4:10 土地呼求與 goʾel ha-dam／納斯卡皮肩胛卜 mitunsaawaakan 的誠實之骨與免責；四機制：發聲、裂紋、痕跡比對、保管與追索） |
-| 549 | headless-ones-decapitation-second-life-comparative.md | 無頭者：斬首後的第二生命——頭身分離與「無首之魂」的跨文化比較（刑天以乳目臍口舞干戚／羅摩斬迦般陀臂而焚之復其原形／愛爾蘭杜拉罕捧首駕死亡馬車／Sleepy Hollow 鬼騎屯黑森兵／巴西無頭騾 Mula sem Cabeça／高文斬綠騎士而約不改） |
-| 550 | division-of-the-world-divine-sons-comparative.md | 世界的分割：神之子嗣的宇宙份額——「瓜分造物」母題的跨文化比較（恩基為大諸神分籤賦名／宙斯天海冥之籤與大地共有、赫卡忒保留原份／底比斯五播種者與五色戰旗／維吉爾「未定之籤」與行省抽籤隱喻／荷魯斯四子分守奧西里斯的肝肺胃腸／挪亞三子、七十二民族與 T-O 地圖／羅斯編年史「拋籤分土」與基伊三子受城／法爾度願三子與 Iraj 之死／原人四肢與婆羅門氏族千支／禹劃九州、九鼎與周公封建／三貴子的國讓與禊洗／奧杜杜瓦諸子與薯芋之爭／第五個太陽的負荷與拋盤占卜／印加四方四路與庫斯科為臍；四不變式：份額即合法性、中心必須留空、分割必然生爭議、邊界必須被儀式化） |
-| 551 | chastity-ordeal-sexual-restraint-comparative.md | 貞潔的技術：禁慾、考驗與貞操——「驗貞」母題的跨文化比較（圖姆圖的機織／伊南娜「杜穆茲太年輕」／恩基「墨胡圖」化為蛞蝓／塞特涅二世拒公主塔布布→普塔遣有翼怪物／佩涅洛普織與拆、圖西婭的篩、布里希爾德的火牆與置劍身側、丘林三次躍火窖、畢什摩終身梵行換自擇死期、悉多烈火試煉與幻悉多、維斯塔貞女歸主權、柳下惠「坐懷不亂」、孟光「舉案齊眉」／中美洲特拉索爾特奧爾「吃污穢者」的反向典範；七命題貞潔公式 C 與四不變式：貞潔必須被制度化才有效力、破裂必由神處置、成立必須先有真實慾望、證明必須有可見載體；代價鏈：生殖潛能 ↔ 預言能力 ↔ 時間支配權 ↔ 政治存續） |
-| 552 | lost-wisdom-knowledge-loss-comparative.md | 失落的智慧：藏、焚、忘與重讀——「知識滅失」母題的跨文化比較（恩基與世界秩序 me 書被奪／吉爾伽美什第五、第十一泥板的Tablet與香柏木板命名／Berossos 的 Oannes 與 apkallu 傳承／Setne I、II 的匣中匣與書屍同葬／Clement of Alexandria 赫爾墨斯四十二卷與祭司職位對應表／希臘化小亞細亞圖書館的神廟藏書與書吏的階級性／中國河圖洛書與祕笈之失／印度婆羅門吠陀口傳失傳與《奧義書》文本化／諾斯替派與阿拉伯傳說中的隱藏智慧／羊皮紙、莎草紙與中世紀歐洲修道院藏書室；核心命題：知識失落的可補性取決於是否存在一個能重建它的制度） |
-| 553 | spirit-in-bottle-myths-comparative.md | 瓶中精靈：被封器皿的超自然存在——「精靈在瓶中」母題的跨文化比較（ATU 331：阿拉伯漁夫的鉛封銅瓶／《銅城》所羅門之器／波斯 jinn 棲居地學與反召喚禁忌／格林 KHM 99 墨丘利與橡樹根下的玻璃瓶／北歐 Andvari、贖金水獺皮與羅恩之網／史蒂文生《The Bottle Imp》的靈魂抵押與轉售規則／《西遊記》紫金紅葫蘆與羊脂玉淨瓶「呼名即吸、貼符即封、化成膿水」／果阿 devchar 從鎖眼自投瓶中／猶太卡巴拉高崙以泥身為容器；縛結公式 V：器＋名＋印＋見證；四不變式：容器必須是日常器皿、縛結必然可被破壞、尺度不匹配是引擎、囚禁生產怨恨而容器終將被打開） |
-| 554 | human-classes-origin-myths-comparative.md | 天生的階級：宇宙解剖與人類分等——「分等母題」的跨文化比較（《梨俱吠陀》10.90 普魯沙的口／臂／股／足與旃陀羅之「加重又減輕」、同卷 10.90.13 因陀羅阿耆尼亦自口而生／《里格之歌》三夜留宿與黧黑 svartr、紅潤 rudd、白皙 bleikr 三色刻度、Konr ungr 之名與「王」之源／《達魯克薩拉迦》33 臂下所生與「以足對足」的六頭子、《Gylfaginning》汗生奴與肉中蛆生侏儒／奧維德巨人血所生之人與金銀銅鐵四世、Deucalion 投石族「能負重勞苦」、維吉爾金時代歸返／《第康達》VII.20 人王 Yim「接受」祭司戰士農耕工藝四類、《Mēnōg-i Xrad》第31、32、59章／盤古死後十干（澄觀 T1736 所引最完整本）與「身之諸蟲，化為黎甿」、人皇九子分九州、五龍氏五姓分五方／北齊書與新唐書刖足孤兒與牝狼「十子各有姓」、左五咄陸右五弩失畢「姓授一箭，大首領稱大箭頭」、跳樹競選／Codex Aubin 八族被命「回去」與 Huitzilopochtli 命名 Mexica、Codex Azcatitlan 弓矢鑽與籃、calpulli 與守護神／芳族 Mawu-Lisa 七子分域與 Sakpata 忘雨致旱；分等公式 K：母體＋軸＋分配事件＋越界者；四不變式：必須以身體或血為媒介、最低階必在下緣或體表、每級必配職業儀式或象徵物、必收束於一次性的分配事件；第五項：分等母題是政治文件而非考古報告） |
-| 555 | incorrupt-corpse-undying-body-comparative.md | 屍身不朽：防腐術、聖髑與虹色之軀——「屍身不朽母題」的跨文化比較（薩伊・瑪萊克《死者之書卷》BD 154「使屍體不腐敗」逐項指名的腐敗敵人與 BD 21–23 開啟之口「我的口被賜予我，使我能在偉大神面前以它說話」／BD 89–92 讓 ba 在屍上安息、出入／希臘的反例：荷馬整體安葬與 Hesiod《工作與時日》126–138 肉體三分化為長夢、喋鳥、長步，奧德修斯《奧德賽》XI 亡魂因缺 bheretron 祭祀而不得返回／佛陀色身與法輪同命運、舍利為「自屍體取下的碎片」、康提佛牙為「被保護的地址」／中國四線：金縷玉衣的外殼阻隔、《史記》始皇陵水銀為河與人魚膏為燭的國家工程極限、漢傳「肉身不壞」的官方諦視與頂生蓮花安置、道教尸解與殭屍的反轉／藏傳虹身 *'ja' lus* 於 49 天 tukdam 期被觀測度量、縮至一肘長度，與東正教 *a-saphthia* 的「恩典 vs. 技術成就」系統對立，並回應 Holland 2002 的基督教影響說／日本即身佛的木喰節食、Urushi 樹汁、排水管與呼鈴繩，及 1877 年明治禁制、2003 年萊頓 CT 發現體腔內為經卷／安第斯 Tello 於 Cerro Colorado 與 Wari Kayan 的 429 具包裹屍，織物即社會身分記錄／東正教 Sergius of Radonezh 1422 年「有水卻不腐」、Alexander Svirsky 1641 年聖髑，證明強度與環境惡劣程度成正比／天主教 Palermo Capuchin 地下墓室的學術普查確認 8,000 具中約 1,252 具木乃伊化或骨架化，顯示制度性介入優於單次技術／北歐 Tollund Man 與泥炭酸性環境作為「不挑選對象的免費保存」，證明物理保存不等於神聖性／馬達加斯加 famadihana 以 *faty olona* 重纏絲綢、保存的是關係而非屍體，其敵人是忘記與失約；不朽公式 U＝屍身＋被具名的腐敗敵人＋抑制手段＋可重演的驗證程序＋失竊者，四不變式：驗證程序必須是儀式、屍體必須被啟動一次、身體必須能被命名與繼承、位置即是宇宙論，第五項「制度性斷裂」；邊界：不朽為靜態終結而復活為動態返回，↔ 殭屍與沼澤屍是兩者間的過渡地帶） |
+| 152 | false-prophets-false-messiahs-comparative.md | 偽先知、假彌賽與冒名神靈：跨文化「冒名神聖權威」比較分析 |
+| 153 | fate-goddesses-destiny.md | 命運女神與宿命觀：跨文化命運神話比較研究 |
+| 154 | father-son-conflict-mythology-comparative.md | 弒父與殺子：跨文化神話中的父子衝突母題比較 |
+| 155 | feathers-wings-flight-symbolism-comparative.md | 羽毛與翅膀：跨文化神話中的飛行象徵 |
+| 156 | feline-myths-comparative.md | 貓科神話比較分析：從巴斯特到貓又的跨文化象徵 |
+| 157 | female-deities.md | 女神崇拜比較研究 |
+| 158 | ferryman-myths-cross-cultural.md | 渡死者之舟——跨文化冥河渡者母題比較分析 |
+| 159 | fertility-deities-comparative.md | 豐饒之神的跨文化比較：從大地之母到穀物之神 |
+| 160 | festivals-of-the-dead-comparative.md | 亡者的年度歸訪：跨文化亡靈節慶比較分析 |
+| 161 | fire-myths.md | 火的神話起源：偷火者與火神崇拜的跨文化比較 |
+| 162 | fire-theft-promethean-motif.md | 火之竊取與文化英雄的神罰：普羅米修斯母題的跨文化比較 |
+| 163 | firefly-glowworm-myths-comparative.md | 螢之光：跨文化神話中的火蟲與魂燈比較 |
+| 164 | first-funeral-burial-rites-myths-comparative.md | 第一場喪禮：喪葬儀式起源的跨文化神話比較 |
+| 165 | first-murder-fratricide.md | 最初的殺戮：跨文化神話中的弒兄原型 |
+| 166 | first-woman-creation-comparative.md | 初女：跨文化神話中的第一位女性 |
+| 167 | firstborn-sacrifice-and-primogeniture-paradox.md | 首生祭與長子權的悖論：跨文化神話中的首生者命運 |
+| 168 | fish-myths-comparative.md | 深淵之民：魚類神話的跨文化比較分析 |
+| 169 | fishing-angling-hooks-comparative.md | 鉤與線：跨文化神話中的釣魚母題——從毛伊釣島到索爾釣蛇 |
+| 170 | flood-myths-geological-origins.md | 大洪水神話的地質起源：跨學科考察 |
+| 171 | flower-myths-comparative.md | 花神話跨文化比較：變形、死亡與重生 (Flower Myths: Metamorphosis, Death, and Rebirth Across Cultures) |
+| 172 | fly-averter-and-lord-of-flies-comparative.md | 逐蠅之神與蒼蠅之王：蒼蠅作為驅疫、神罰與榮耀的跨文化神話比較 |
+| 173 | food-taboos-dietary-prohibitions-comparative.md | 飲食禁忌的宇宙觀：跨文化神話中的食物禁令比較 |
+| 174 | forbidden-container-curiosity-taboo-comparative.md | 禁忌容器與好奇心的懲罰：跨文化比較神話學分析 |
+| 175 | forbidden-knowledge-cross-cultural.md | 禁忌知識：跨文化神話中的「智慧代價」母題 |
+| 176 | forbidden-lovers-comparative.md | 星橋與血桑：跨文化悲劇戀人比較 |
+| 177 | fortune-wealth-deities-comparative.md | 福運與財富之神：跨文化「求財」神祇比較研究 |
+| 178 | fossils-myth-geomythology-comparative.md | 化石與神話：古代巨獸遺骸如何塑造跨文化神話想像 (Fossils and Myth: Geomythology Across Cultures) |
+| 179 | foundation-sacrifice-immurement.md | 奠基之血：建築犧牲與活人奠基神話的跨文化比較 |
+| 180 | founding-child-exposed-hero-comparative.md | 遺棄之子：跨文化神話中的棄嬰英雄原型比較分析 |
+| 181 | fox-spirits-comparative.md | 狐神話跨文化比較分析：變形、媚惑與靈性中介 |
+| 182 | frog-toad-myths-comparative.md | 蛙與蟾蜍的跨文化神話象徵：從創世到變形的兩棲神靈 |
+| 183 | gender-transformation-myths-comparative.md | 性別變換神話跨文化比較分析 |
+| 184 | ghost-marriage-posthumous-unions-comparative.md | 冥婚：亡者婚姻的跨文化比較 (Ghost Marriage: Cross-Cultural Perspectives on Posthumous Unions) |
+| 185 | ghosts-restless-dead-comparative.md | 不安的亡魂：跨文化幽靈神話比較分析 |
+| 186 | giant-myths-comparative.md | 巨人神話：從創世到末世的跨文化比較 |
+| 187 | glass-liuli-transparency-sacred-comparative.md | 玻璃與琉璃：跨文化神話中的透明、純淨與永恆保存 |
+| 188 | goat-ram-myths-comparative.md | 山羊與公羊：跨文化神話中羊類象徵的比較研究 |
+| 189 | golden-age-paradise-myths.md | 黃金時代與原始樂園神話的跨文化比較：人類對完美過往的共同記憶 |
+| 190 | goose-myths-comparative.md | 飛越眾神與人間：鵝與大雁神話跨文化比較 |
+| 191 | gourd-calabash-cosmic-womb-comparative.md | 葫蘆孕天：葫蘆與瓠瓜神話的跨文化比較 |
+| 192 | grateful-animals-comparative.md | 恩義動物：跨文化神話中的動物報恩母題 |
+| 193 | griffin-gryphon-cross-cultural.md | 獅鷲格里芬：從黃金守護者到神性象徵的跨文化旅程 |
+| 194 | hair-symbolism-mythology-comparative.md | 青絲如縷——頭髮的跨文化神話象徵 |
+| 195 | harvest-corn-spirit-first-fruits-comparative.md | 穀靈與首果祭：跨文化收割神話比較分析 |
+| 196 | head-skull-myths-comparative.md | 神聖之首——頭顱與首級的神話學比較 |
+| 197 | healing-medicine-myths.md | 療癒力量：跨文化醫療神話比較研究 |
+| 198 | heart-symbolism-mythology-comparative.md | 心臟的跨文化神話比較：靈魂之座、道德天平與犧牲之火 |
+| 199 | hearth-fire-domestic-myths-comparative.md | 家火不滅——爐灶與家火的跨文化神話比較 |
+| 200 | hero-wound-vulnerability-motif.md | 英雄之傷：跨文化神話中的致命弱點母題 |
+| 201 | heros-journey-monomyth.md | 英雄之旅：單一神話的跨文化比較 |
+| 202 | hoopoe-myths-comparative.md | 戴勝：所羅門的信使、蘇非的嚮導與變形之鳥——跨文化比較分析 |
+| 203 | horn-myths-comparative.md | 角的神話：跨文化比較分析 |
+| 204 | horse-myths.md | 跨文化馬神話比較分析：從天馬到冥界引渡者 |
+| 205 | hospitality-xenia-theoxenia.md | 款待力量：跨文化好客與接待神話比較研究 |
+| 206 | human-sacrifice-comparative.md | 以人為祭：跨文化神話中的宇宙債務、替代邏輯與廢止敘事 |
+| 207 | hummingbird-mythology-comparative.md | 蜂鳥神話：跨文化比較分析 |
+| 208 | hydromancy-water-divination-comparative.md | 水占術：跨文化的水面占卜神話與實踐 |
+| 209 | ice-snow-myths-comparative.md | 冰封之域——跨文化神話中的冰雪霜神比較分析 |
+| 210 | immortal-bird-phoenix.md | 不死鳥與神鳥：跨文化神話中的神聖鳥類原型 |
+| 211 | incense-sacred-smoke-comparative.md | 香料與神聖煙霧：跨文化比較神話學分析 |
+| 212 | indo-european-myth-connections.md | 印歐神話的共同根源 |
+| 213 | initiation-rites-of-passage.md | 通過儀禮：跨文化神話中的成年禮與轉化儀式 |
+| 214 | insects-myths-comparative.md | 跨文化比較：昆蟲神話——六足之靈 |
+| 215 | invisibility-myths-comparative.md | 跨文化比較：隱形神話——不可見的力量 |
+| 216 | iron-mythology-comparative.md | 鐵的神話學：天降金屬的跨文化象徵 (The Mythology of Iron: A Cross-Cultural Analysis) |
+| 217 | jade-myths-comparative.md | 凝結的生命之息：玉神話跨文化比較 (Jade in Cross-Cultural Mythology) |
+| 218 | justice-law-comparative.md | 神話中的正義與律法：跨文化比較分析 |
+| 219 | kingfisher-halcyon-myths-comparative.md | 風平浪靜與笑聲破曉：翠鳥（Kingfisher／Halcyon）跨文化神話比較 |
+| 220 | labyrinth-spiral-myths.md | 迷宮與螺旋：跨文化神話中的道路與轉化 |
+| 221 | language-confusion-myths.md | 語言混亂神話的跨文化比較：從巴別塔到世界的語言多樣性 |
+| 222 | laurel-moon-cassia-honor-tree-comparative.md | 桂冠與折桂：月桂／桂樹作為榮譽與功名之樹的跨文化神話比較 |
+| 223 | left-right-handedness-symbolism.md | 左右之辨——手性象徵的跨文化神話學 |
+| 224 | legendary-named-swords-comparative.md | 傳奇名劍：王權、犧牲與命運的跨文化比較神話學 |
+| 225 | light-myths-primordial-light-enlightenment-comparative.md | 光之神話：創世光明與啟蒙象徵的跨文化比較 |
+| 226 | lion-myths-comparative.md | 獅子神話：跨文化比較分析 |
+| 227 | living-dead-revenant-zombie-comparative.md | 活死人：跨文化屍變與復活死者神話比較分析 |
+| 228 | lizard-gecko-myths-comparative.md | 蜥蜴與壁虎：生死信使、日光聖物與斷尾之謎的跨文化神話比較 |
+| 229 | locust-plagues-myths-comparative.md | 驅蝗之神與蝗蟲天軍：蝗災在跨文化神話中的神格化與象徵比較 |
+| 230 | looking-back-taboo-comparative.md | 禁止回望：回頭禁忌與跨文化神話比較 |
+| 231 | lost-continents-comparative.md | 沉沒大陸神話的跨文化比較：從亞特蘭提斯到庫馬里坎達姆 |
+| 232 | lotus-cross-cultural-myth-comparison.md | 神聖蓮花：跨文化神話中的蓮花象徵比較分析 |
+| 233 | love-deities-comparative.md | 愛神比較：跨文化的愛慾與美之神祇 |
+| 234 | lunar-calendars-in-myth.md | 太陰曆的神話基礎 |
+| 235 | lycanthropy-werewolf-comparative.md | 化狼神話與戰士祕儀：跨文化比較研究 |
+| 236 | magic-flight-obstacle-pursuit-comparative.md | 魔法飛行：跨文化的障礙逃亡與追捕母題 |
+| 237 | magic-flying-conveyances-comparative.md | 御物而行：跨文化神話中的魔法飛行載具比較分析 |
+| 238 | magic-witchcraft-comparative.md | 巫術與魔法：跨文化神話中的巫覡、咒術與超凡力量比較分析 |
+| 239 | magical-helpers-cross-cultural.md | 神助者母題跨文化比較分析 |
+| 240 | magnetic-pole-shift-comparative.md | 天傾地陷：地磁極移的神話線索 |
+| 241 | magpie-myths-comparative.md | 黑白雙面的報喜之鳥：喜鵲神話跨文化比較 |
+| 242 | maize-myths-comparative.md | 玉米神話的跨文化比較：從美洲聖穀到舊世界的穀物女神 |
+| 243 | mana-supernatural-power-comparative.md | 神聖力量的跨文化比較：Mana 與其世界範圍內的平行概念 |
+| 244 | mandrake-screaming-root-comparative.md | 尖叫之根：曼德拉草與人形根神話的跨文化比較 |
+| 245 | mantis-praying-insect-myths-comparative.md | 祈禱的掠食者：螳螂的跨文化神話比較 |
+| 246 | master-of-animals-comparative.md | 萬獸之主——跨文化神話中的動物之主母題 |
+| 247 | megalithic-building-myths-comparative.md | 巨人的石頭——世界神話中的巨石建築解釋 |
+| 248 | memory-forgetfulness-underworld-comparative.md | 忘川與記憶之水：跨文化神話中的遺忘與回憶 |
+| 249 | menstrual-taboos-myths-comparative.md | 月經禁忌與月經起源神話跨文化比較分析 |
+| 250 | mentor-wise-teacher-comparative.md | 導師原型：英雄神話中的智慧教師跨文化比較分析 |
+| 251 | merchants-markets-trade-gods-comparative.md | 市集與商旅之神：跨文化神話中的貿易、交換與商業秩序 |
+| 252 | mermaid-aquatic-humanoids.md | 人魚與水妖神話：跨文化比較研究 |
+| 253 | metamorphosis-shapeshifting.md | 變形神話：跨文化視野下的形體轉換與象徵意涵 |
+| 254 | migration-sacred-journey-founding-comparative.md | 遷徙神話跨文化比較分析：神聖旅程與立國之旅 |
+| 255 | milky-way-origin-myths.md | 銀河起源神話比較：星空中的河流、道路與巨蛇 |
+| 256 | miraculous-birth-virgin-conception.md | 神異誕生：跨文化神話中的處女懷孕與奇蹟受胎母題 |
+| 257 | mirage-phantom-landscape-myths-comparative.md | 海市蜃樓的神話學：跨文化幻景敘事比較分析 |
+| 258 | mirror-divination-catoptromancy-comparative.md | 鏡卜與鏡占：跨文化鏡面占卜的比較神話學分析 |
+| 259 | mirror-reflection-myths.md | 鏡像與倒影神話的跨文化比較分析：從 Narcissus 到 Tezcatlipoca |
+| 260 | mistletoe-golden-bough-comparative.md | 榭寄生與金枝：跨文化神話中的神聖寄生植物 |
+| 261 | monkey-ape-comparative.md | 猿猴神話比較研究：跨文化視野下的靈長類象徵 |
+| 262 | moon-myths.md | 月亮神話與太陰崇拜：死而復生的宇宙節奏 |
+| 263 | moon-rabbit-jade-hare-comparative.md | 月兔與玉兔：跨文化神話中的月球兔形象比較研究 |
+| 264 | multi-layered-heavens-comparative.md | 多層天堂：分層宇宙論的跨文化神話比較 |
+| 265 | mushroom-fungus-mythology-comparative.md | 蘑菇的跨文化神話比較：神靈之肉、不朽之藥與精靈的使者 |
+| 266 | music-origin-myths.md | 神聖之聲：樂器起源神話的跨文化比較分析 |
+| 267 | mythical-ships-boats-comparative.md | 神船——神話中的船與方舟跨文化比較 |
+| 268 | mythological-catastrophe-timeline.md | 災變年代學：神話背後的時間層 |
+| 269 | new-year-cosmic-renewal-myths-comparative.md | 新年與宇宙更新神話跨文化比較分析 |
+| 270 | night-darkness-deities-comparative.md | 夜與暗：黑夜女神與黑暗神話跨文化比較 |
+| 271 | nightingale-myths-comparative.md | 啼聲中的哀歌與戀曲：夜鶯神話的跨文化比較 |
+| 272 | nightmare-incubus-succubus-cross-cultural.md | 夜魔與魅魔：夢中交合與睡眠癱瘓的跨文化神話比較分析 |
+| 273 | number-forty-sacred-cycle-comparative.md | 四十日與四十年：數字四十的試煉、淨化與重生週期——跨文化神話比較研究 |
+| 274 | oak-tree-myths-comparative.md | 雷霆之樹：橡樹／聖櫟神話跨文化比較 |
+| 275 | oaths-curses-myths.md | 誓言與詛咒神話的跨文化比較分析：從 Horkos 到血盟 |
+| 276 | obsidian-myths-comparative.md | 黑暗之光：黑曜石神話跨文化比較 (Obsidian in Cross-Cultural Mythology) |
+| 277 | octopus-cephalopod-myths-comparative.md | 八腕之謎：跨文化章魚神話比較分析 |
+| 278 | olive-tree-myths-comparative.md | 文明之樹：橄欖樹神話跨文化比較 |
+| 279 | omphalos-navel-stone-myths-comparative.md | 世界之臍：翁法洛斯聖石與臍石崇拜的跨文化比較研究 |
+| 280 | one-eyed-beings-comparative.md | 獨眼之眼：單眼與獨眼生物的跨文化神話比較 |
+| 281 | oracle-prophecy-divination-myths.md | 神諭、預言與占卜：跨文化比較分析 |
+| 282 | origin-of-death.md | 死亡的起源：神話中的解釋 |
+| 283 | origin-of-writing-myths.md | 文字的起源：神聖符碼的跨文化神話 |
+| 284 | orion-constellation-myths-comparative.md | 天際的獵人與宇宙之灶：獵戶座（Orion）跨文化神話比較 |
+| 285 | orphan-exposed-hero-comparative.md | 棄嬰英雄母題跨文化比較：從薩爾貢到后稷的神話原型 |
+| 286 | otter-myths-comparative.md | 水獺的變形戲法：跨文化神話中的頑皮精靈與失信使者比較 |
+| 287 | ouroboros-eternal-return.md | 銜尾蛇與永恆循環：跨文化神話中的 Ouroboros 與迴歸時間觀 |
+| 288 | owl-myths-comparative.md | 貓頭鷹的雙面凝視：跨文化神話中的夜之使者比較研究 |
+| 289 | parrot-macaw-myths-comparative.md | 會說話的使者與虛假之光：鸚鵡／金剛鸚鵡神話跨文化比較分析 |
+| 290 | peach-fruit-tree-myths-comparative.md | 蟠桃與桃木：長生之果與驅邪之木的跨文化神話比較 |
+| 291 | peacock-myths-comparative.md | 孔雀神話跨文化比較分析：不朽之鳥與天堂使者 |
+| 292 | pearls-gems-sacred-jewels.md | 珍珠、寶石與靈玉：跨文化神聖珍寶神話比較分析 |
+| 293 | personifications-of-death-comparative.md | 死亡的化身：死神與收割者的跨文化神話比較 |
+| 294 | petrification-myths-comparative.md | 石化神話：跨文化中的「化為石頭」母題比較研究 |
+| 295 | phantom-lights-ghost-fires-comparative.md | 愚者之火與亡魂之光：鬼火／幽靈火球的跨文化神話比較 |
+| 296 | pine-tree-cone-myths-comparative.md | 常青之永恆：松樹與松果神話跨文化比較 |
+| 297 | plague-deities-disease-myths-comparative.md | 瘟疫神與疾病神話：跨文化比較分析 (Plague Deities and Disease Myths: A Cross-Cultural Comparative Analysis) |
+| 298 | planetary-cycles-and-deities.md | 行星週期與神祇對應 |
+| 299 | plants-born-of-death-grave-vegetation-comparative.md | 墳墓中生長的花與樹——死亡之地萌生的生命（Plants Born of Death） |
+| 300 | pleiades-seven-sisters-cross-cultural.md | 昴宿星團跨文化神話比較分析：七姐妹的全球記憶 |
+| 301 | poison-venom-mythology-comparative.md | 毒與神話：希臘、印度、中國、非洲與北歐的跨文化比較 |
+| 302 | pole-star-cosmic-axis-myths.md | 北極星與宇宙軸——世界神話中的不動之星 |
+| 303 | pomegranate-myths-comparative.md | 石榴神話跨文化比較分析：生死中介的聖果 |
+| 304 | primordial-mound-first-land.md | 原初之丘——跨文化神話中的第一塊土地 |
+| 305 | primordial-sound-comparative.md | 原初之聲：跨文化宇宙震動母題比較分析 |
+| 306 | primordial-transgression-comparative.md | 原初的逾越——跨文化神話中的第一過犯比較分析 |
+| 307 | primordial-void-abyss-myths-comparative.md | 原初虛空與深淵：跨文化創世神話中的「無」之母題 |
+| 308 | psychopomp-comparative.md | 靈魂引導者（Psychopomp）的跨文化比較：死亡旅途中的嚮導 |
+| 309 | psychostasia-judgment-of-the-dead.md | 靈魂審判：死後世界的天平與裁決 |
+| 310 | purification-rites-comparative.md | 神聖淨化：跨文化淨化儀式神話比較分析 |
+| 311 | quest-for-immortality-comparative.md | 不死之追尋：跨文化神話中的永生_quest 比較研究 |
+| 312 | quest-for-lost-wife-comparative.md | 尋妻神話：為愛入冥的跨文化比較 |
+| 313 | rabbit-hare-myths-comparative.md | 兔與野兔神話：跨文化視角下的兔形目動物象徵 |
+| 314 | rain-gods-rainmaking-comparative.md | 祈雨與雨神：跨文化雨神話比較分析 |
+| 315 | rainbow-myths-comparative.md | 虹橋與虹蛇：彩虹作為天地通道的跨文化神話比較 |
+| 316 | rainbow-myths.md | 彩虹神話與象徵 |
+| 317 | rainbow-serpent-myths-comparative.md | 彩虹蛇（Rainbow Serpent）跨文化比較神話學分析 |
+| 318 | rat-mouse-myths-comparative.md | 小小的扭轉者：鼠類神話跨文化比較 |
+| 319 | ravens-crows-mythology.md | 烏鴉與渡鴉神話：創世者、欺騙者與靈界使者 |
+| 320 | reincarnation-metempsychosis.md | 輪迴轉世神話：靈魂遷移的跨文化比較分析 |
+| 321 | resurrection-comparative.md | 死而復生：跨文化神話中的復活類型學 |
+| 322 | rice-myths-comparative.md | 稻米神話的跨文化比較：從亞洲聖穀到世界餐桌 |
+| 323 | riddle-duels-wisdom-contests-comparative.md | 以智取勝：謎語對決與智慧競賽的跨文化神話學比較 |
+| 324 | ritual-combat-sacred-warfare-comparative.md | 神聖格鬥——儀式性戰鬥的跨文化比較神話學分析 |
+| 325 | rooster-myths-comparative.md | 雄雞神話跨文化比較 (Rooster Myths in Cross-Cultural Perspective) |
+| 326 | root-crops-tuber-sacred-staple-comparative.md | 土裡長出的祖先：塊根作物作為神聖主食與肉身轉化的跨文化神話比較 |
+| 327 | rose-myths-comparative.md | 血與刺中的永恆：玫瑰神話跨文化比較 (Blood, Thorns, and Eternity: The Rose in Cross-Cultural Mythology) |
+| 328 | sacred-animal-companions-myths-comparative.md | 動物靈伴：跨文化比較分析 |
+| 329 | sacred-animals-divine-messengers-comparative.md | 神聖動物與神使：跨文化比較分析 |
+| 330 | sacred-anointing-oil-myths-comparative.md | 神聖膏油：跨文化的塗油儀式、王權神授與神聖治療 |
+| 331 | sacred-architecture-temple-myths.md | 神聖建築與神殿起源神話的跨文化比較分析 |
+| 332 | sacred-asceticism-fasting-comparative.md | 苦行與神聖饑餓：跨文化神話中的禁食與修行 |
+| 333 | sacred-ash-holy-dust-comparative.md | 聖灰與神聖塵埃：跨文化神話比較分析 |
+| 334 | sacred-axe-labrys-cross-cultural.md | 神聖之斧：雙刃斧、戰斧與宇宙開闢之器的跨文化比較 |
+| 335 | sacred-bells-comparative.md | 聖鈴與天界之音——跨文化神話中的鈴鐺與鐘 |
+| 336 | sacred-blood-mythology.md | 神血與血祭：跨文化神話中的血液象徵系統 |
+| 337 | sacred-canopy-umbrella-comparative.md | 神聖傘蓋：華蓋、寶傘與天蓋的跨文化神話比較 |
+| 338 | sacred-cat-myths-comparative.md | 神聖之貓：跨文化貓神話比較分析 |
+| 339 | sacred-cauldron-vessel-myths.md | 聖釜與豐饒之器：跨文化神話中的神聖容器 |
+| 340 | sacred-clowns-ritual-inversion-comparative.md | 倒反即神聖：跨文化神話中的神聖小丑與儀式逆反 |
+| 341 | sacred-cord-thread-myths-comparative.md | 神聖繩索與命運之線——跨文化繩線神話比較分析 |
+| 342 | sacred-crystal-myths-comparative.md | 神聖結晶神話跨文化比較分析 |
+| 343 | sacred-dance-mythology.md | 神舞：跨文化神話中的神聖舞蹈 |
+| 344 | sacred-drums-comparative.md | 神鼓之聲——跨文化神話比較分析 |
+| 345 | sacred-elephant-myths-comparative.md | 神聖巨象：大象神話象徵的跨文化比較 |
+| 346 | sacred-exile-return-myths.md | 神聖流放與回歸：跨文化神話母題比較分析 |
+| 347 | sacred-feast-banquet-comparative.md | 神聖饗宴：跨文化神話中的共食儀式比較 |
+| 348 | sacred-fig-bodhi-tree-myths-comparative.md | 根在上方的樹：無花果／菩提樹神話跨文化比較 |
+| 349 | sacred-fire-eternal-flame.md | 聖火長明：跨文化神話中的永恆之火與聖火崇拜 |
+| 350 | sacred-flutes-wind-instruments-comparative.md | 神聖之笛：跨文化神話中的管樂禁忌、誘惑與吹禪 |
+| 351 | sacred-food-divine-sustenance-comparative.md | 神聖食物與神明食糧：跨文化比較分析 |
+| 352 | sacred-footprints-comparative.md | 神聖足跡跨文化比較分析：聖人足印、神足與朝聖地圖 |
+| 353 | sacred-footwear-cross-cultural.md | 神聖鞋履：跨文化神話中的飛行涼鞋與魔法靴子 |
+| 354 | sacred-frenzy-divine-madness-comparative.md | 神聖瘋狂與迷狂：跨文化比較研究 |
+| 355 | sacred-friendship-heroic-companion-comparative.md | 神聖友誼：跨文化神話與史詩中的英雄同儕母題 |
+| 356 | sacred-games-athletic-contests-comparative.md | 神聖競技：跨文化神話中的競賽、球戲與宇宙對抗 |
+| 357 | sacred-gardens-comparative.md | 神聖花園：跨文化神話中的樂園花園比較分析 |
+| 358 | sacred-garment-clothing-myths-comparative.md | 神聖衣飾與服裝神話跨文化比較分析 |
+| 359 | sacred-gates-portals-thresholds-comparative.md | 神聖門戶：跨文化的門、閘與通道神話比較分析 |
+| 360 | sacred-geography-cross-cultural-comparative.md | 神聖地理學：跨文化神話景觀比較分析 |
+| 361 | sacred-geometry-cross-cultural-comparative.md | 神聖幾何學跨文化比較分析 |
+| 362 | sacred-girdle-belt-myths-comparative.md | 神聖腰帶：跨文化神話中的力量、誘惑與王權之帶 |
+| 363 | sacred-grain-bread-myths-comparative.md | 穀物與麵包——跨文化神話中小麥、大麥與烘培的神聖起源 |
+| 364 | sacred-hand-cross-cultural.md | 神聖之手：跨文化神話中的手部符號、護身手勢與神聖手印 |
+| 365 | sacred-hunt-comparative.md | 神聖的狩獵：跨文化神話中的狩獵之神與狩獵儀式 |
+| 366 | sacred-implements-divine-tools-myths-comparative.md | 神聖之器：跨文化神話中的錘、杵與敲擊工具比較分析 |
+| 367 | sacred-inscribed-objects-destiny-comparative.md | 神聖銘刻物與命運記載：跨文化比較分析 |
+| 368 | sacred-intoxication-wine-beer-myths.md | 神聖酩酊——酒與發酵飲料的神話學比較 |
+| 369 | sacred-islands-blessed-isles-comparative.md | 聖島與仙界：跨文化視野下的神聖島嶼比較研究 |
+| 370 | sacred-key-mythology-comparative.md | 神聖之鑰：跨文化神話中的鑰匙象徵與權力 |
+| 371 | sacred-kingship-comparative.md | 神聖王權：跨文化比較 |
+| 372 | sacred-knots-binding-comparative.md | 神聖繩結：跨文化神話中的束縛與解縛母題比較研究 |
+| 373 | sacred-lakes-world-mythology.md | 神聖湖泊：跨文化比較神話學分析 |
+| 374 | sacred-marriage-across-cultures.md | 聖婚（Hieros Gamos）：神聖婚姻的跨文化比較 |
+| 375 | sacred-masks-mythology.md | 面具神話：跨文化的偽裝、變形與神聖顯現 |
+| 376 | sacred-mead-divine-nectar-comparative.md | 神聖蜜酒：跨文化比較神話學分析 (Sacred Mead & Divine Nectar) |
+| 377 | sacred-metals-comparative.md | 神聖金屬——跨文化神話中的金銀銅鐵象徵系統 |
+| 378 | sacred-milk-myths-comparative.md | 神聖乳汁神話比較分析 |
+| 379 | sacred-mirror-myths-comparative.md | 神聖之鏡：觀照、審判與靈魂界面的跨文化神話學比較 |
+| 380 | sacred-mountains.md | 聖山：天地之間的橋樑 |
+| 381 | sacred-nakedness-ritual-nudity-comparative.md | 神聖裸體：跨文化神話中的裸身象徵與儀式性裸露 |
+| 382 | sacred-name-power-naming.md | 神聖之名：跨文化神話中的真名與命名力量 |
+| 383 | sacred-numbers-cosmic-order.md | 神聖數字：跨文化宇宙秩序的神話編碼 |
+| 384 | sacred-orientation-four-directions-comparative.md | 方位的神聖秩序：跨文化四方宇宙觀比較分析 |
+| 385 | sacred-plants-entheogens.md | 神聖植物：跨文化致幻與宗教啟蒙比較研究 |
+| 386 | sacred-prostitution-cross-cultural.md | 神聖娼妓：跨文化比較中的寺廟性行為、豐饒儀式與神聖經濟學 |
+| 387 | sacred-reed-cross-cultural-comparative.md | 神聖蘆葦：跨文化神話中的蘆葦、書寫與音樂比較分析 |
+| 388 | sacred-ring-myths-comparative.md | 神聖戒指：跨文化神話中的權力、詛咒與永恆之環 |
+| 389 | sacred-rivers-myths.md | 神聖河流與河神信仰的跨文化比較分析 |
+| 390 | sacred-sand-cross-cultural.md | 神聖沙粒：跨文化神話中的沙之儀式與宇宙象徵 |
+| 391 | sacred-scripture-revelation-comparative.md | 天啟聖典：跨文化神話中的聖書降臨與神聖話語 |
+| 392 | sacred-seed-mythology-comparative.md | 神聖種子：跨文化神話中的播種、犧牲與再生母題 |
+| 393 | sacred-sexuality-divine-eroticism-comparative.md | 神聖性愛：跨文化神話中的神聖性實踐與宇宙創造 |
+| 394 | sacred-silence-muteness-myths-comparative.md | 神聖的沉默：禁語與無聲的跨文化神話分析 |
+| 395 | sacred-spirals-mythology-comparative.md | 聖螺旋——跨文化螺旋神話與宇宙生成象徵比較 |
+| 396 | sacred-spittle-divine-saliva-comparative.md | 神聖唾液：世界神話中的唾沫、生命力與療癒轉化 |
+| 397 | sacred-stones-meteorites-mythology.md | 聖石與隕石：跨文化神話中的石頭崇拜 |
+| 398 | sacred-strings-harps-lyres-comparative.md | 神聖之弦：里拉琴、豎琴與古琴的跨文化神話比較 |
+| 399 | sacred-sweat-steam-bath-myths-comparative.md | 神聖汗水與蒸汽浴場：跨文化神話比較 |
+| 400 | sacred-tattooing-mythology.md | 神聖紋身跨文化比較神話學分析 |
+| 401 | sacred-torch-lamp-mythology-comparative.md | 火炬與聖燈：跨文化神話中的引光象徵比較 |
+| 402 | sacred-wasteland-barren-land-comparative.md | 荒蕪之地：跨文化神話中的土地荒蕪與復甦母題比較分析 |
+| 403 | sacred-waters-springs.md | 聖泉與聖水：神話中的療癒與淨化之水 |
+| 404 | sacred-weaving-fate-textiles-comparative.md | 跨文化比較：神聖紡織——編織命運的絲線 |
+| 405 | sacred-wells-springs-comparative.md | 聖泉與神井：跨文化神話中的活水崇拜比較研究 |
+| 406 | sacred-wounds-cosmic-injury-comparative.md | 神聖之傷：世界神話中的宇宙創傷與轉化性苦難 |
+| 407 | sacrificial-creation.md | 犧牲創世：巨人化生萬物 |
+| 408 | salmon-myths-comparative.md | 鮭魚神話跨文化比較：洄游之魚、知識之肉與歸還的契約 |
+| 409 | salt-symbolism-comparative.md | 鹽的象徵：跨文化神話中的神聖之鹽 |
+| 410 | scapegoat-pharmakos-comparative.md | 替罪羊：跨文化贖罪與轉移儀式的比較神話學分析 |
+| 411 | scarab-dung-beetle-myths-comparative.md | 推著太陽的蟲：糞金龜與聖甲蟲神話跨文化比較 |
+| 412 | scorpion-myths-comparative.md | 蠍子神話跨文化比較 |
+| 413 | sea-deities-ocean-myths.md | 海神神話：跨文化海洋信仰的比較研究 |
+| 414 | searching-mother-goddess-comparative.md | 追尋的母親女神：哀悼、尋覓與宇宙失衡的跨文化母題 |
+| 415 | seasonal-deities-comparative.md | 四季流轉——跨文化神話中的季節神祇比較分析 |
+| 416 | self-fulfilling-prophecy-fate-avoidance-comparative.md | 預言的自證：逃避命運的悖論——跨文化神話中的自我實現預言比較 |
+| 417 | separation-of-heaven-and-earth-comparative.md | 天地分離：創世之裂的跨文化比較神話學分析 |
+| 418 | serpent-venom-divine-medicine-comparative.md | 毒蛇與神聖藥物：毒液即解藥的跨文化神話母題 |
+| 419 | shadow-soul-second-self-comparative.md | 影子靈魂與第二自我：跨文化影子母題比較分析 |
+| 420 | shamanism-in-myth.md | 神話中的薩滿：跨文化比較研究 |
+| 421 | shark-myths-comparative.md | 鯊魚神話跨文化比較：從大洋洲守護神到海洋倫理的仲裁者 |
+| 422 | shepherd-mythology-comparative.md | 牧羊人神話跨文化比較分析 |
+| 423 | sibling-rivalry-fraternal-conflict-comparative.md | 兄弟相爭：跨文化神話中的手足衝突母題 |
+| 424 | silk-sericulture-myths-comparative.md | 絲綢神話跨文化比較：蠶絲起源的七種敘事 |
+| 425 | silver-lunar-metal-mythology-comparative.md | 月之白骨：銀在跨文化神話中的聖性、淨化與鎮邪 |
+| 426 | siren-enchantress-femme-fatale-comparative.md | 妖女與塞壬：跨文化神話中的致命女性母題 |
+| 427 | sirius-dog-star-cross-cultural.md | 天狼星跨文化神話比較分析：夜空最亮星的多元象徵 |
+| 428 | sky-father-archetype-comparative.md | 天父原型：跨文化天空之神的比較研究 |
+| 429 | sky-ladder-heaven-ladder-comparative.md | 天梯：垂直昇天的跨文化神話母題 |
+| 430 | sleep-dreams-mythology.md | 睡眠與夢：跨文化神話中的夜間意識 |
+| 431 | sleeping-king-mountain.md | 沉睡君王——山中英雄歸來母題跨文化比較 |
+| 432 | smith-forge-gods-comparative.md | 鍛造之神：跨文化神話中的鐵匠與冶煉傳說 |
+| 433 | sneezing-breath-soul-omens-comparative.md | 噴嚏神話：呼吸、靈魂與吉凶預兆的跨文化比較 |
+| 434 | solar-years-and-kingly-reigns.md | 太陽年與王權週期 |
+| 435 | solstice-equinox-rituals.md | 二分二至的神話儀式編碼 |
+| 436 | sortilege-sacred-lots-cleromancy-comparative.md | 神籤定命：跨文化神話與儀式中的抽籤、擲骰與神意之兆 |
+| 437 | soul-concepts-comparative.md | 魂與靈：跨文化靈魂概念比較分析 |
+| 438 | soul-ferry-boat-of-dead-comparative.md | 亡者之舟：渡魂船的跨文化比較分析 |
+| 439 | southern-cross-constellation-myths-comparative.md | 南天極的指針：南十字座（Crux）跨文化神話比較 |
+| 440 | sowing-dragon-teeth-warriors-comparative.md | 從龍骨播種戰士：龍牙母題的跨文化比較 |
+| 441 | sparagmos-dismemberment-comparative.md | 撕裂祭神 — 神聖肢解神話跨文化比較 |
+| 442 | sphinx-cross-cultural-comparative.md | 人面獅身獸（Sphinx）跨文化神話比較分析 |
+| 443 | spice-origin-myths-trade-route-comparative.md | 守護者與天堂花園：香料起源神話與「香料之路」的跨文化想像 |
+| 444 | spider-weaving-myths.md | 蜘蛛與織造：命運、創造與幻象的跨文化比較 |
+| 445 | spontaneous-generation-bugonia-myths-comparative.md | 死物化生：自然發生論神話的跨文化比較（以牛屍生蜂為核心） |
+| 446 | star-ancestor-myths-comparative.md | 星辰後裔：人類源出於星的跨文化神話比較 |
+| 447 | steppe-grassland-mythology-comparative.md | 大草原神話學——蒼穹之下：草原景觀的跨文化神聖性 |
+| 448 | suitor-trials-tests-comparative.md | 求婚考驗：跨文化神話中的難題求婚與婚姻試煉 |
+| 449 | sun-moon-conflict-comparative.md | 日月之爭：太陽與月亮衝突的跨文化比較研究 |
+| 450 | sun-myths.md | 太陽神話與太陽崇拜 |
+| 451 | sun-snaring-myths-comparative.md | 太陽捕捉神話：太陽被隱藏、被偷竊與被束縛的跨文化比較 |
+| 452 | swallow-myths-comparative.md | 家燕與玄鳥：跨文化燕子神話比較分析 |
+| 453 | swan-maiden-celestial-bride.md | 天鵝處女與天女羽衣：跨文化「天婚」母題的比較神話學 |
+| 454 | swine-boar-myths-comparative.md | 豬與野豬神話：跨文化比較分析 |
+| 455 | taboo-breaking-myths-comparative.md | 禁忌打破神話跨文化比較 — 潘朵拉、夏娃、奧菲斯與「不可看、不可開、不可回」 |
+| 456 | taboo-speech-and-silence-mandates.md | 禁忌語音：跨文化神話中的命名禁忌與沉默律令 |
+| 457 | taboo-transgression-comparative.md | 禁忌與踰越：跨文化神話中的禁令與違抗母題比較分析 |
+| 458 | tea-coffee-origin-myths-comparative.md | 茶與咖啡起源神話的跨文化比較 |
+| 459 | tears-weeping-myths-comparative.md | 眼淚與哭泣：跨文化的神聖哀悼母題比較分析 |
+| 460 | teeth-myths-comparative.md | 牙齒神話跨文化比較分析 |
+| 461 | theophany-divine-manifestation-comparative.md | 神顯：跨文化神話中的神靈降臨形態與顯現母題 |
+| 462 | theriomorphic-nurse-beastnursed-hero-comparative.md | 獸乳哺育的建國英雄：熱型乳母（Theriomorphic Nurse）跨文化比較 |
+| 463 | third-son-middle-child-hero-comparative.md | 第三子／中間孩子英雄：跨文化比較分析 |
+| 464 | thirteen-number-boundary-myths-comparative.md | 十三：完整之外的那一位——跨文化「數十三」神話與象徵比較研究 |
+| 465 | three-tiered-cosmos-comparative.md | 三界宇宙：天堂、人間、冥界的跨文化結構比較 |
+| 466 | three-wishes-divine-boons-comparative.md | 有價的願望——跨文化神話與民間故事中的有限祈願母題 |
+| 467 | threshold-crossroads-gods.md | 門檻與交匯處：跨文化閾限神靈比較研究 |
+| 468 | thunder-gods.md | 雷神與雷電神話：劈開天穹的宇宙之錘 |
+| 469 | thunderbird-lightning-bird-comparative.md | 雷鳥與閃電鳥：跨文化風暴巨鳥神話比較分析 |
+| 470 | thunderstone-ceraunia-cross-cultural.md | 雷石跨文化神話比較分析 |
+| 471 | tidal-wave-myths-comparative.md | 潮汐與波濤：海之呼吸的跨文化神話比較分析 |
+| 472 | tides-tidal-bore-myths-comparative.md | 海之呼吸：潮汐與怒潮的跨文化神話比較 |
+| 473 | tiger-myths-comparative.md | 虎神崇拜與象徵：跨文化比較神話學分析 |
+| 474 | time-distortion-otherworld-comparative.md | 跨文化比較：時間扭曲與異界時間流速——神話中的相對論 |
+| 475 | tobacco-myths-sacred-smoke-comparative.md | 神聖煙草：獻祭之霧與幻視之門——跨文化神話中的煙草 |
+| 476 | tornado-whirlwind-myths-comparative.md | 旋風與龍捲風：跨文化神話母題比較分析 |
+| 477 | totemism-clan-animal-ancestry-comparative.md | 圖騰制度：氏族動物祖先與分類邏輯的跨文化比較 |
+| 478 | tower-cosmic-axis-imprisonment-suppression-comparative.md | 塔的宇宙論：通天、囚禁與鎮壓的跨文化神話比較 |
+| 479 | tree-forest-spirits-comparative.md | 樹靈與森林精靈：荒野之心的人格化跨文化比較分析 |
+| 480 | trial-by-ordeal-divine-judgement-comparative.md | 神明裁判：以火、水與毒驗證真理的跨文化神判神話 |
+| 481 | trickster-across-cultures.md | 騙子原型：神話中的界線跨越者 |
+| 482 | trickster-archetype-comparative.md | 騙子原型：越界者、混沌製造者與文化英雄 |
+| 483 | triune-deities-comparative.md | 三一神／三元神祇的跨文化比較分析 |
+| 484 | turquoise-myths-comparative.md | 石頭裡的天穹：綠松石神話跨文化比較 (Turquoise in Cross-Cultural Mythology) |
+| 485 | turtle-myths-comparative.md | 神龜：跨文化神話中的宇宙載體與智慧象徵 |
+| 486 | twilight-dusk-deities-comparative.md | 暮光與黃昏——跨文化神話中的過渡時間神祇比較 |
+| 487 | twin-myths.md | 神話中的雙生子 |
+| 488 | umbilical-cord-cosmic-connection-comparative.md | 臍帶神話：跨文化的宇宙連接與生命紐帶 |
+| 489 | underwater-kingdoms-undersea-worlds-comparative.md | 海面之下的另一重天空：海底王國與水下世界神話跨文化比較 (Underwater Kingdoms in Cross-Cultural Mythology) |
+| 490 | underworld-descent-katabasis-comparative.md | 降入冥界：跨文化神話中的死亡之旅與重生原型 |
+| 491 | underworld-journey.md | 冥界之旅：死亡與重生 |
+| 492 | underworld-rivers-comparative.md | 冥河與黃泉：跨文化地下河流神話比較 |
+| 493 | unicorn-qilin-comparative.md | 獨角獸與麒麟：東西方單角神獸的跨文化比較神話學 |
+| 494 | vampiric-entities-comparative.md | 吸血神話：跨文化吸血鬼類精怪比較研究 |
+| 495 | veil-sacred-covering-comparative.md | 神聖之紗：跨文化神話中的遮蓋與啟示母題 |
+| 496 | vengeance-retribution-myths-comparative.md | 復仇與報應：跨文化復仇女神與復仇母題比較分析 |
+| 497 | venus-morning-evening-star-comparative.md | 晨昏之星——金星（Venus）跨文化神話比較分析 |
+| 498 | virgin-goddess-parthenos-comparative.md | 童貞女神：處女作為跨文化神聖類型的比較研究 |
+| 499 | volcano-fire-mountain-myths.md | 火山與火山的跨文化神話比較 |
+| 500 | vulture-myths-comparative.md | 禿鷲母題：聖潔與不潔之間的食腐之鳥 |
+| 501 | war-gods-comparative.md | 戰神神話：跨文化戰爭信仰的比較研究 |
+| 502 | warrior-women-amazons-comparative.md | 女戰士與亞馬遜：跨文化比較神話分析 |
+| 503 | water-hoarding-motif-comparative.md | 囤水之魔：吞水、堵水與竊水母題的跨文化神話學比較 |
+| 504 | water-of-life-myths-comparative.md | 生命之水：跨文化神聖水域不朽母題比較研究 |
+| 505 | waterfall-myths-comparative.md | 瀑布神話：跨文化神話中的神聖瀑布與宇宙門檻 |
+| 506 | waterside-encounters-betrothal-comparative.md | 井畔之約：水源邊相遇與婚約的跨文化神話 |
+| 507 | whale-leviathan-great-fish-comparative.md | 深淵之民：鯨魚與巨魚神話的跨文化比較分析 |
+| 508 | wheel-mythology-comparative.md | 輪的神話學：車輪、轉輪與輪迴的跨文化象徵比較 |
+| 509 | whirlpool-vortex-myths.md | 漩渦與漩流：深淵之口的跨文化神話比較分析 |
+| 510 | white-sacred-animals-comparative.md | 白色聖獸：跨文化神話中的白獸母題與祥瑞邏輯 |
+| 511 | wild-hunt-spectral-procession.md | 狂獵與百鬼夜行：幽冥行軍神話的跨文化比較 |
+| 512 | wild-man-myths-comparative.md | 野人母題：山林之民與文明他者的跨文化比較分析 |
+| 513 | willow-mythology-comparative.md | 依依垂枝，仙凡之木：柳樹神話跨文化比較 |
+| 514 | wind-deities-comparative.md | 風神神話：跨文化大氣神靈的比較研究 |
+| 515 | wisdom-gods-comparative.md | 智慧之神的跨文化比較分析 |
+| 516 | woodpecker-myths-comparative.md | 雷鳴之鳥與樹木之言：啄木鳥神話跨文化比較 |
+| 517 | world-ages-cosmic-cycles-comparative.md | 金屬的記憶——世界時代神話的跨文化比較 |
+| 518 | world-mountain-axis-mundi-comparative.md | 世界山與宇宙軸心：跨文化 Axis Mundi 比較研究 |
+| 519 | world-parents-separation.md | 天地分離神話：世界父母型創世的跨文化比較 |
+| 520 | world-serpent-cosmic-encircler-comparative.md | 世界蛇：環繞世界的宇宙大蛇跨文化比較分析 |
+| 521 | world-tree-comparative.md | 世界樹與宇宙軸：跨文化神話中的宇宙樹母題比較分析 |
+| 522 | wounded-healer-comparative.md | 受傷的治療者：跨文化神話中的創傷與療癒原型 |
+| 523 | wounded-sovereign-fisher-king-comparative.md | 受傷的君主：王者之軀與大地命運的跨文化比較 |
+| 524 | youngest-child-hero-comparative.md | 末子之選：么子英雄與幼子繼承的跨文化神話比較 |
+| 525 | zodiac-astrology-myths-comparative.md | 天穹之獸：跨文化神話中的黃道與星宿體系 |
+| 526 | 聖林跨文化神聖樹林崇拜比較分析.md | 聖林：跨文化神聖樹林崇拜比較分析 |
+| 527 | aurora-northern-lights-myths-comparative.md | 天火之籤：北極光神話的跨文化比較分析 |
+| 528 | gold-and-golden-touch-comparative.md | 點石成金：黃金觸與黃金神聖性的跨文化比較神話學 |
+| 529 | qixi-tanabata-star-crossed-lovers-comparative.md | 織女與牽牛：星河之橋與七夕節慶的跨文化比較神話學 |
+| 530 | guest-star-supernovae-historical-records-comparative.md | 客星：歷史超新星的跨文化觀測與神話詮釋 |
+| 531 | pottery-clay-fire-origin-myths-comparative.md | 摶土為器：黏土、陶輪與火的文明起源——跨文化製陶神話比較分析 |
+| 532 | toponymic-myths-place-name-origins-comparative.md | 以名銘地：地名起源神話的跨文化比較分析——愛爾蘭地名之學、日本風土記、歌之線、希臘名祖、中國望夫石 |
+| 533 | libation-pouring-sacred-offerings-comparative.md | 傾注之禮：奠酒——液體供獻的跨文化比較神話學（\*gʰeu-/šipant-/spondē/祼灌/libation/challa） |
+| 534 | earth-mother-archetype-comparative.md | 地母原型：跨文化神話中的大地母神比較研究（\*Dʰéǵʰōm/Gaia/Pachamama/后土/Ninhursag） |
+| 535 | sacred-banners-battle-standards-comparative.md | 旗上寄魂：跨文化神話中的神聖旗幟與軍旗母題比較研究（aquila/Sulde/錦御旗/oriflamme/渡鴉旗/釁旗） |
+| 536 | salamander-fireproof-creature-comparative.md | 火中之物：蠑螈與「不焚之體」的跨文化比較——石棉、火判與神性耐火（salamander/axolotl/火浣布/Xolotl） |
+| 537 | garlic-onion-apotropaic-comparative.md | 餐桌上的驅魔者：大蒜、洋蔥與「辛臭—神聖」的跨文化比較——嗅覺神學與辟邪護符（allium/garlic/nazar/五辛） |
+| 538 | mountain-deities-comparative.md | 山神：人格化的聖山——跨文化山神信仰比較研究（五嶽/山鬼/大山祇/檀君/念青唐古拉/Apu/Oreads） |
+| 539 | jinn-parallel-humanity-comparative.md | 無形的他者：鎮尼（Jinn）與「平行凡人性」神話的跨文化比較（jinn/ginnaye/daimon/Tuatha Dé/div/妖怪/狐魅） |
+| 540 | king-of-birds-bird-elections-comparative.md | 鳥中之王：跨文化神話中的鳥類王權選拔與象徵——從鷦鷯競飛、迦樓羅、希默夫到百鳥朝鳳 |
+| 541 | hedgehog-myths-comparative.md | 圓刺之謎：刺蝟跨文化神話比較——太陽圓球、瑣羅亞斯德教義獸（Vanghapara）到「狐狸與刺蝟」知識論（Egypt/Hedgehog/白仙/ATU 1074） |
+| 542 | man-in-the-moon-comparative.md | 月中人影：月面人像與「月宮駐人」母題的跨文化比較——負柴的安息日犯禁者／洛娜與希娜／嫦娥吳剛／翠玉／海達男孩／因紐特月兄弟／月中露臀女子（Hjúki&Máni/Rona/Hina/Wu Gang/Chú Cuội/Latvia） |
+| 543 | reindeer-caribou-circumpolar-myths.md | 白馴鹿與馴鹿之民：環北極圈馴鹿（Rangifer tarandus）神話的跨文化比較——白鹿創世/鹿皮穹頂/卡利布母親/獵物主人/鹿婚與半馴化（Sámi/Inuit/Innu/Evenki/Nenets/Tsaatan） |
+| 544 | divine-wrestling-myths-comparative.md | 與神摔跤：跨文化神話中「凡人與不可勝者角力」母題的比較分析（雅各 vs 神／佩琉斯 vs 忒提斯／赫拉克勒斯 vs 阿刻洛俄斯與塔那托斯／婆薮 vs 婆薩那／佛陀 vs 魔羅／索爾 vs 老年／武甕槌神 vs 天宇受賣／毛伊 vs 太陽） |
+| 545 | widow-remarriage-levirate-comparative.md | 寡嫂繼承：兄亡之後的寡婦、再婚制度與貞節——跨文化「利未拉」的比較分析（yib'am 與脫鞋吐唾／al-ʿaliyya 禁令與姊妹婚交換／魯國「一生一及」與季隗拒絕／高句麗寡后／草原 emengerlik／Nuer 幽靈婚對照／埃及守護繼承人／羅馬不改嫁法定貞節／北歐晨賦與《尼雅爾斯薩迦》婚約清血債） |
+| 546 | straw-man-substitute-bodies-comparative.md | 稻草人與替身：以假亂真的跨文化神話母題比較（贖代災厄：Ovid草皮人形／東斯拉夫科斯特羅瑪稻草偶／西里西亞稻草之死／姜子牙草人替武吉／閩南十五替／埃及shabti／填補缺席：奇隆造像與代達羅斯木牛／帕特羅克洛斯代甲／悉多金像／假冒身分：雅各山羊皮與遭難／六耳獼猴照妖鏡與命名權／伊西斯變形誘騙與Bṛhaspati化Šukra／合法化身：科林斯松木酒神像與面具舞儀） |
+| 547 | divine-castration-self-mutilation-comparative.md | 神聖閹割與自我損毀：生殖受創的神、替代犧牲與器官再生——阿加斯蒂斯被閹割生樹／Attis 自割生杏仁樹／歐西里斯生殖器沉入尼羅河與陽具祭／迦摩灰身再生與眾神分割身體／杜穆茲—蓋什提南娜半年替代／第五太陽帶傷躍入火中／柳本尊十煉與禪宗斷臂求法／迦那帕獻眼與割禮「第八日」／淨身人與 Galli 祭司的制度化／保羅「心之割禮」的象徵化反轉） |
+| 548 | filial-piety-cosmic-leverage-comparative.md | 孝道的宇宙槓桿：以親情撼動天地、王權與命運的跨文化比較——哭竹生筍與卧冰雙鯉／涌泉躍鯉與董永織女／Śravaṇa之死與盲父之詛／Śāma本生／安提戈涅未成文法／荷魯斯「為父復仇者」（孟宗/王祥/姜詩/董永/Daśaratha/Rāma/Śravaṇa/Śāma/Sophocles/Horus/魯迅） |
+| 549 | speaking-relics-object-testimony-comparative.md | 會說話的遺骸：骨、石與琴弦——「物件作證」母題的跨文化比較（佩羅普斯肩胛與達瑪爾墨諾斯的守護權／格林 KHM 28 會唱歌的骨頭 ATU 780／《The Twa Sisters》骨製豎琴自唱／小夜之中山夜泣石與刃こぼれ比對／商代甲骨灼裂存證與《沉香寶卷》記認信物／《創世記》4:10 土地呼求與 goʾel ha-dam／納斯卡皮肩胛卜 mitunsaawaakan 的誠實之骨與免責；四機制：發聲、裂紋、痕跡比對、保管與追索） |
+| 550 | headless-ones-decapitation-second-life-comparative.md | 無頭者：斬首後的第二生命——頭身分離與「無首之魂」的跨文化比較（刑天以乳目臍口舞干戚／羅摩斬迦般陀臂而焚之復其原形／愛爾蘭杜拉罕捧首駕死亡馬車／Sleepy Hollow 鬼騎屯黑森兵／巴西無頭騾 Mula sem Cabeça／高文斬綠騎士而約不改） |
+| 551 | division-of-the-world-divine-sons-comparative.md | 世界的分割：神之子嗣的宇宙份額——「瓜分造物」母題的跨文化比較（恩基為大諸神分籤賦名／宙斯天海冥之籤與大地共有、赫卡忒保留原份／底比斯五播種者與五色戰旗／維吉爾「未定之籤」與行省抽籤隱喻／荷魯斯四子分守奧西里斯的肝肺胃腸／挪亞三子、七十二民族與 T-O 地圖／羅斯編年史「拋籤分土」與基伊三子受城／法爾度願三子與 Iraj 之死／原人四肢與婆羅門氏族千支／禹劃九州、九鼎與周公封建／三貴子的國讓與禊洗／奧杜杜瓦諸子與薯芋之爭／第五個太陽的負荷與拋盤占卜／印加四方四路與庫斯科為臍；四不變式：份額即合法性、中心必須留空、分割必然生爭議、邊界必須被儀式化） |
+| 552 | chastity-ordeal-sexual-restraint-comparative.md | 貞潔的技術：禁慾、考驗與貞操——「驗貞」母題的跨文化比較（圖姆圖的機織／伊南娜「杜穆茲太年輕」／恩基「墨胡圖」化為蛞蝓／塞特涅二世拒公主塔布布→普塔遣有翼怪物／佩涅洛普織與拆、圖西婭的篩、布里希爾德的火牆與置劍身側、丘林三次躍火窖、畢什摩終身梵行換自擇死期、悉多烈火試煉與幻悉多、維斯塔貞女歸主權、柳下惠「坐懷不亂」、孟光「舉案齊眉」／中美洲特拉索爾特奧爾「吃污穢者」的反向典範；七命題貞潔公式 C 與四不變式：貞潔必須被制度化才有效力、破裂必由神處置、成立必須先有真實慾望、證明必須有可見載體；代價鏈：生殖潛能 ↔ 預言能力 ↔ 時間支配權 ↔ 政治存續） |
+| 553 | lost-wisdom-knowledge-loss-comparative.md | 失落的智慧：藏、焚、忘與重讀——「知識滅失」母題的跨文化比較（恩基與世界秩序 me 書被奪／吉爾伽美什第五、第十一泥板的Tablet與香柏木板命名／Berossos 的 Oannes 與 apkallu 傳承／Setne I、II 的匣中匣與書屍同葬／Clement of Alexandria 赫爾墨斯四十二卷與祭司職位對應表／希臘化小亞細亞圖書館的神廟藏書與書吏的階級性／中國河圖洛書與祕笈之失／印度婆羅門吠陀口傳失傳與《奧義書》文本化／諾斯替派與阿拉伯傳說中的隱藏智慧／羊皮紙、莎草紙與中世紀歐洲修道院藏書室；核心命題：知識失落的可補性取決於是否存在一個能重建它的制度） |
+| 554 | spirit-in-bottle-myths-comparative.md | 瓶中精靈：被封器皿的超自然存在——「精靈在瓶中」母題的跨文化比較（ATU 331：阿拉伯漁夫的鉛封銅瓶／《銅城》所羅門之器／波斯 jinn 棲居地學與反召喚禁忌／格林 KHM 99 墨丘利與橡樹根下的玻璃瓶／北歐 Andvari、贖金水獺皮與羅恩之網／史蒂文生《The Bottle Imp》的靈魂抵押與轉售規則／《西遊記》紫金紅葫蘆與羊脂玉淨瓶「呼名即吸、貼符即封、化成膿水」／果阿 devchar 從鎖眼自投瓶中／猶太卡巴拉高崙以泥身為容器；縛結公式 V：器＋名＋印＋見證；四不變式：容器必須是日常器皿、縛結必然可被破壞、尺度不匹配是引擎、囚禁生產怨恨而容器終將被打開） |
+| 555 | human-classes-origin-myths-comparative.md | 天生的階級：宇宙解剖與人類分等——「分等母題」的跨文化比較（《梨俱吠陀》10.90 普魯沙的口／臂／股／足與旃陀羅之「加重又減輕」、同卷 10.90.13 因陀羅阿耆尼亦自口而生／《里格之歌》三夜留宿與黧黑 svartr、紅潤 rudd、白皙 bleikr 三色刻度、Konr ungr 之名與「王」之源／《達魯克薩拉迦》33 臂下所生與「以足對足」的六頭子、《Gylfaginning》汗生奴與肉中蛆生侏儒／奧維德巨人血所生之人與金銀銅鐵四世、Deucalion 投石族「能負重勞苦」、維吉爾金時代歸返／《第康達》VII.20 人王 Yim「接受」祭司戰士農耕工藝四類、《Mēnōg-i Xrad》第31、32、59章／盤古死後十干（澄觀 T1736 所引最完整本）與「身之諸蟲，化為黎甿」、人皇九子分九州、五龍氏五姓分五方／北齊書與新唐書刖足孤兒與牝狼「十子各有姓」、左五咄陸右五弩失畢「姓授一箭，大首領稱大箭頭」、跳樹競選／Codex Aubin 八族被命「回去」與 Huitzilopochtli 命名 Mexica、Codex Azcatitlan 弓矢鑽與籃、calpulli 與守護神／芳族 Mawu-Lisa 七子分域與 Sakpata 忘雨致旱；分等公式 K：母體＋軸＋分配事件＋越界者；四不變式：必須以身體或血為媒介、最低階必在下緣或體表、每級必配職業儀式或象徵物、必收束於一次性的分配事件；第五項：分等母題是政治文件而非考古報告） |
+| 556 | incorrupt-corpse-undying-body-comparative.md | 屍身不朽：防腐術、聖髑與虹色之軀——「屍身不朽母題」的跨文化比較（薩伊・瑪萊克《死者之書卷》BD 154「使屍體不腐敗」逐項指名的腐敗敵人與 BD 21–23 開啟之口「我的口被賜予我，使我能在偉大神面前以它說話」／BD 89–92 讓 ba 在屍上安息、出入／希臘的反例：荷馬整體安葬與 Hesiod《工作與時日》126–138 肉體三分化為長夢、喋鳥、長步，奧德修斯《奧德賽》XI 亡魂因缺 bheretron 祭祀而不得返回／佛陀色身與法輪同命運、舍利為「自屍體取下的碎片」、康提佛牙為「被保護的地址」／中國四線：金縷玉衣的外殼阻隔、《史記》始皇陵水銀為河與人魚膏為燭的國家工程極限、漢傳「肉身不壞」的官方諦視與頂生蓮花安置、道教尸解與殭屍的反轉／藏傳虹身 *'ja' lus* 於 49 天 tukdam 期被觀測度量、縮至一肘長度，與東正教 *a-saphthia* 的「恩典 vs. 技術成就」系統對立，並回應 Holland 2002 的基督教影響說／日本即身佛的木喰節食、Urushi 樹汁、排水管與呼鈴繩，及 1877 年明治禁制、2003 年萊頓 CT 發現體腔內為經卷／安第斯 Tello 於 Cerro Colorado 與 Wari Kayan 的 429 具包裹屍，織物即社會身分記錄／東正教 Sergius of Radonezh 1422 年「有水卻不腐」、Alexander Svirsky 1641 年聖髑，證明強度與環境惡劣程度成正比／天主教 Palermo Capuchin 地下墓室的學術普查確認 8,000 具中約 1,252 具木乃伊化或骨架化，顯示制度性介入優於單次技術／北歐 Tollund Man 與泥炭酸性環境作為「不挑選對象的免費保存」，證明物理保存不等於神聖性／馬達加斯加 famadihana 以 *faty olona* 重纏絲綢、保存的是關係而非屍體，其敵人是忘記與失約；不朽公式 U＝屍身＋被具名的腐敗敵人＋抑制手段＋可重演的驗證程序＋失竊者，四不變式：驗證程序必須是儀式、屍體必須被啟動一次、身體必須能被命名與繼承、位置即是宇宙論，第五項「制度性斷裂」；邊界：不朽為靜態終結而復活為動態返回，↔ 殭屍與沼澤屍是兩者間的過渡地帶） |
