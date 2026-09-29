@@ -72,7 +72,7 @@ E. A. Wallis Budge 在評註中引用的薩伊・瑪萊克的話語，是母題�
 
 希臘構成本母題最重要的**負面對照**。與埃及相反，希臘從不保存屍體。
 
-荷馬時代的安葬是**整體安葬**（whole-body burial），而這不是技術落後，而是一套宇宙論選擇。**Hesiod,《工作與時日》126–138** 說明，肉體被分給冥界的三個部分分別化為「長夢」（腹腔）、「喋喋的鳥」（頭部）與「長步」（足部）——即**身體的解剖結構正是世界被分解的層次**。在這個模型裡，肉體的分離不是意外，而是宇宙秩序本身，因此沒有任何技術可以逆轉它。
+荷馬時代的安葬是**整體安葬**（whole-body burial），而這不是技術落後，而是一套宇宙論選擇。**Hesiod,《工作與時日》106–169** 的種族神話顯示，死去的世代各有去處：黃金種族死後化為「潔淨的守護精靈」*daimones*（122–126），白銀種族則成為「冥府之靈」；**沒有一個世代把「留下肉體」當作秩序的安排**——肉體的分離不是意外，而是宇宙秩序本身，因此沒有任何技術可以逆轉它。
 
 其後果是可見的。奧德修斯在《奧德賽》 Book XI 請求亡魂給他一次祭祀性的 *bheretron*（血與井水混合的澆奠），但阿伽門農回答：那些英雄「不是死人，而是**沒有得到儀式**的亡者」——他們因缺乏祭祀而無法返回。**在希臘，屍體不是不腐，而是沒有地址。** 希臘的「不朽」被系統性地移出肉體，轉移到記憶（kleos）、祭壇、酒宴與城邦。最終的希臘方案不是保住屍身，而是**徹底放棄屍身**。
 
@@ -82,7 +82,7 @@ E. A. Wallis Budge 在評註中引用的薩伊・瑪萊克的話語，是母題�
 
 佛教的處理方式是本母題最徹底的顛倒。**《大般涅槃經》**（Dīgha Nikāya 16）記載，阿闍世王在佛陀入般涅槃後分取佛陀遺骨（*dhātū*）建塔，佛陀本人並未留下屍體作為聖物對象。
 
-更關鍵的是教義層面的重述：《法句經》172–175 說明佛陀的肉身與「法輪」共享命運——**「其色身壞，其心長存」**。這意味著佛教的「不朽」主詞根本不是屍身，而是法義；而 **舍利**之所以成為對象，是因為它是**從屍身上取下的最小單位**，是身體的「文字殘餘」。
+更關鍵的是教義層面的重述：據《相應部》（Saṃyutta Nikāya）22.87 Vakkali 經，佛陀言「**見法者即見我**」（yo dhammaṁ passati so maṁ passati）——色身與法身異命。「不朽」的主詞自然落在法義而非色身；而 **舍利**之所以成為對象，是因為它是**從屍身上取下的最小單位**，是身體的「文字殘餘」。
 
 由此產生了三個後果，都與埃及方向相反：
 
@@ -130,11 +130,11 @@ E. A. Wallis Budge 在評註中引用的薩伊・瑪萊克的話語，是母題�
 
 即身佛（*sokushinbutsu*，滅び仏）是把公式 U 推到**工程極限**的案例。
 
-記錄在案者共 18 例，現存 8 例，皆集中於山形縣。最著名者是遊佐勝海舟（1759–1829）及其弟子徹宗快（Tetsumonkai），封閉於長岡寺（Chūrenji）的木乃伊洞。程序包括：以松針、樹皮種子等「木喰」（mokujiki）嚴格限制飲食；大量飲用 Urushi 樹汁與「木喰茶」；從坐姿入定起，在暗室中保持不動約三年三個月（兩個千日）；地下墓室設**排水管**排除雨水，並設**呼鈴管與繩索**——修行者在生命末期以鐘聲與拉繩確認自己尚存，隨後抽繩封閉。
+記錄在案者共 18 例，現存 8 例，皆集中於山形縣。最著名者是注連寺（Chūrenji）的鉄門海（Tetsumonkai，1759–1829）及其弟子鉄龍海（Tetsuryūkai，圓寂於 1881），即身仏今仍安置於本寺堂內。程序包括：以松針、樹皮種子等「木喰」（mokujiki）嚴格限制飲食（Tetsumonkai 曾於仙人沢進行二千日木喰修行）；大量飲用 Urushi 樹汁與「木喰茶」；從坐姿入定起，在暗室中保持不動約三年三個月；地下墓室設**排水管**排除雨水，並設**呼鈴管與繩索**——修行者在生命末期以鐘聲與拉繩確認自己尚存，隨後抽繩封閉。
 
-Ichiro Hori 於 1962 年在 *History of Religions* 發表的〈Self-Mummified Buddhas in Japan: An Aspect of Shūgendō Sect History〉，以及 Richard Seiji Jeremiah 的專著，把即身佛定位為修驗道與真言宗空海入定的制度化產物，而非民間怪談。
+Ichiro Hori 於 1962 年在 *History of Religions* 發表的〈Self-Mummified Buddhas in Japan: An Aspect of Shūgendō Sect History〉，以及 Ken Jeremiah 的專著，把即身佛定位為修驗道與真言宗空海入定的制度化產物，而非民間怪談。
 
-即身佛對公式 U 有三項關鍵修正。第一，**抑制手段是主動的身體改造**（節食、脫水、排便物焚燒），而非被動的環境利用。第二，**失竊者在此變成了國家**：1877 年明治政府禁止自刻即身佛，理由涉及顯示性、肖像權與風俗，導致多數僧侗放棄自刻；最後一位有記錄的即身佛「佛海」（Bukai Shōnin）於 1903 年圓寂。第三，**現代的驗證是破壞性的**：2003 年荷蘭萊頓大學的 CT 掃描檢視了一尊自福建村廟流失的「和尚木乃伊」雕像，發現體腔內並無內臟，而是**藏有經卷**——即內臟被取出、經卷被放入。木乃伊在這裡成為了一個**容器**，而不是一個人。
+即身佛對公式 U 有三項關鍵修正。第一，**抑制手段是主動的身體改造**（節食、脫水、排便物焚燒），而非被動的環境利用。第二，**失竊者在此變成了國家**：1877 年明治政府禁止自刻即身佛，理由涉及顯示性、肖像權與風俗，導致多數僧侗放棄自刻；最後一位有記錄的即身佛「佛海」（Bukai Shōnin）於 1903 年圓寂。第三，**現代的驗證是破壞性的**：2013–2014 年，這尊自福建村廟流失、後由私人收藏家送往荷蘭 Drents 博物館修復的和尚木乃伊佛像，先後於德國曼海姆大學醫院與荷蘭 Amersfoort 的 Meander 醫療中心接受 CT 掃描與內視鏡採樣，發現體腔內並無內臟，而是**藏有經卷**——即內臟被取出、經卷被放入。木乃伊在這裡成為了一個**容器**，而不是一個人。
 
 ### 3.7 安第斯：被織物包裹的社會
 
@@ -158,7 +158,7 @@ Julio César Tello 的遺作發掘報告記載了秘魯 Paracas 文化 Necropoli
 
 注意 Sergius 記載中的一個關鍵細節：**水**。沼澤的水同時是保存的敵人（希臘—北歐傳統中，水是腐敗的載體）與不腐的證明（因為「有水卻不腐」）。這顯示母題的邏輯：**證明強度與環境惡劣程度成正比。**
 
-**天主教** 的 Palermo Capuchin 地下墓室提供了科學與神學的正面對撞。該地下墓室的保存習俗始於 16 世紀末（S Silvestre da Gubbio 於 1599 年下葬），並延續至 20 世紀初。2000 年 Roger Gregory 的報導記錄了約 45 具保存良好的屍體；EURAC 於 2011 年進行的普查則確認約 8,000 具屍體中，約 1,252 具呈木乃伊化或骨架化。這裡有一個本母題最重要的量化教訓：**長期、定期的制度性介入（每年屍體被抬出、更換衣物、檢視）所產生的保存率，遠高於任何單次技術介入。** 而同一批材料中的 Rosalia Lombardo（1920 年逝世，2 歲）被判定為人工防腐處理（formalin 注入）——**母題的技術邊界可以在同一座建築內被確認。**
+**天主教** 的 Palermo Capuchin 地下墓室提供了科學與神學的正面對撞。該地下墓室的保存習俗始於 16 世紀末（S Silvestre da Gubbio 於 1599 年下葬），並延續至 20 世紀初。EURAC-Institute for Mummies and the Iceman 於 2011 年的普查確認約 8,000 具屍體中，約 1,252 具呈木乃伊化或骨架化（Piombino-Mascali 等人，2013）。這裡有一個本母題最重要的量化教訓：**長期、定期的制度性介入（每年屍體被抬出、更換衣物、檢視）所產生的保存率，遠高於任何單次技術介入。** 而同一批材料中的 Rosalia Lombardo（1920 年逝世，2 歲）被判定為人工防腐處理（formalin 注入）——**母題的技術邊界可以在同一座建築內被確認。**
 
 Palermo 這批研究之所以重要，是因為它讓「不腐」這個概念**在控制條件下變得可量化**：濕度、通風、屍體朝向、骨骼指徵。當研究發現多數遺體其實是骨架化，母題的宣稱就必須退守到少數案例，而這個退守的過程本身就是宗教實踐的歷史。
 
@@ -166,23 +166,23 @@ Palermo 這批研究之所以重要，是因為它讓「不腐」這個概念**�
 
 鐵器時代的歐洲沼澤屍，是本母題唯一的**反範式**：屍體被極好地保存，卻**沒有任何神聖宣稱**。
 
-Tollund Man（約西元前 405–380 年，1950 年發現）是最佳個案：死者的皮繩、羊毛內衣、羊毛帽與皮帶均完整；頭部周圍的繩索結與喉部的皮帶被記錄為絞刑裝置，其胃內容物分析顯示腸道無食物殘留、無迷幻物質，營養狀態良好——研究結論傾向於**獻祭**，非處刑或意外死亡。Glob 在 1979–1985 年的沼澤研究與 1891 年出土的 **Gundestrup 銀鍋**（13 塊銀片板，描繞儀式隊列、車輪祭品、涉水者）共同支持了一種「沼澤為神聖場所」的詮釋。
+Tollund Man（約西元前 405–380 年，1950 年發現）是最佳個案：死者的皮繩、羊毛內衣、羊毛帽與皮帶均完整；頭部周圍的繩索結與喉部的皮帶被記錄為絞刑裝置，其胃內容物分析顯示腸道無食物殘留、無迷幻物質，營養狀態良好——研究結論傾向於**獻祭**，非處刑或意外死亡。Glob 的沼澤研究（1965／1969 英譯）與 1891 年出土的 **Gundestrup 銀鍋**（13 塊銀片板，描繞儀式隊列、車輪祭品、涉水者）共同支持了一種「沼澤為神聖場所」的詮釋。
 
 但沼澤屍的關鍵教訓是**方法論的**：酸性泥炭、無氧、寒冷微生物活性，使**任何落入沼澤的人**都被保存——包括 1950 年代的無名現代死者。**環境提供的保存完全不挑選對象，因此不構成任何證據。** 這是「物理保存」與「神聖性保存」分離的最清楚證據，也提醒我們：考古學中「保存良好」的屍體，在母題分析裡**不能自動轉譯為「被神聖化」**。
 
 ### 3.10 馬達加斯加：保存的不是屍體，是包裹
 
-Madagascar 的 Sakalava 葬俗 famadihana 是公式 U 中**最徹底的「去屍身化」**實踐。
+Madagascar 高地（Merina）的 famadihana 葬俗是公式 U 中**最徹底的「去屍身化」**實踐。
 
-Bronwyn Douglas 對西北馬達加斯加的祖靈崇拜（*Sorcerers, Witch Kings and the "Zebra" Cult*, 1978）系統研究顯示：famadihana 是一種週期性重葬儀式，核心操作是將祖先的骨骼**從舊的絲綢（lamba）中取出、以新的絲綢（*faty olona*）重新包裹**。儀式被要求在特定週期（數年一次）舉行，並需殺牲以重新建立與祖先的關係。
+Maurice Bloch 對馬達加斯加祖靈崇拜的經典民族誌（*Placing the Dead*, 1971）顯示：famadihana 是一種週期性重葬儀式，核心操作是將祖先的骨骼**從舊的絲綢（lamba）中取出、以新的絲綢（*faty olona*）重新包裹**。儀式被要求在特定週期（數年一次）舉行，並需殺牲以重新建立與祖先的關係。
 
 這一實踐對母題提出了三個顛覆性的問題：
 
 1. **保存的對象不是屍體，而是絲綢與關係。** 骨骼是中介物，包裹物才是遺產。任何一個家庭成員的參與都比屍體本身更能維持這條關係。
 2. **「不腐」被替換為「更新」。** 不朽不是讓屍體停滯在某一時間點，而是讓它**反覆被重做**。↔ 埃及的開棺是儀式，馬達加斯加的拆包是儀式；兩者都必須破壞既有狀態才能完成。
-3. **有一種「失竊者」是社會性的。** Douglas 的研究特別記錄了**未能定期舉行 famadihana 的後果**：不履行儀式的家族會面臨疾病、不育與社會邊緣化。這裡的敵人不是盜墓者，而是**時間與忘記**。
+3. **有一種「失竊者」是社會性的。** Bloch 的研究特別記錄了**未能定期舉行 famadihana 的後果**：不履行儀式的家族會面臨疾病、不育與社會邊緣化。這裡的敵人不是盜墓者，而是**時間與忘記**。
 
-Douglas 的著作還記錄了該地的驅邪（*fady*）禁忌體系，說明馬達加斯加的「不腐」從未被表述為超自然奇蹟，而被表述為**社會義務的物理執行**。這是本母題在全球比較中最偏離「宗教」的一個實例，也最能證明本母題的本質是**制度而非信念**。
+Bloch 的著作還記錄了該地的 *fady* 禁忌體系，說明馬達加斯加的「不腐」從未被表述為超自然奇蹟，而被表述為**社會義務的物理執行**。這是本母題在全球比較中最偏離「宗教」的一個實例，也最能證明本母題的本質是**制度而非信念**。
 
 ---
 
@@ -269,7 +269,7 @@ Douglas 的著作還記錄了該地的驅邪（*fady*）禁忌體系，說明馬
 
 「屍身不朽」母題的跨文化比較，最終導向一個不被神學所期望的結論。
 
-如果我們問「這些人相信什麼」，答案會是各種互不相容的說法：埃及人相信咒語、舍利者相信法、藏傳行者相信成就、日本僧侶相信修驗、東正教相信神的憐憫、Madagascar 的 Sakalava 人相信社會義務的執行。這些因果論彼此不可通約。
+如果我們問「這些人相信什麼」，答案會是各種互不相容的說法：埃及人相信咒語、舍利者相信法、藏傳行者相信成就、日本僧侶相信修驗、東正教相信神的憐憫、Madagascar 高地（Merina）的人相信社會義務的執行。這些因果論彼此不可通約。
 
 但如果我們問「這些人做了什麼」，答案會驚人地一致：**他們都建立了制度，以確保一個腐敗的過程被反覆暫停；都設計了可以重演的程序來證明暫停仍然有效；都為這個制度配備了名稱、位置與繼承者；都預設了一個會破壞它的敵人；而每一次制度的高峰，都伴隨著一次外來的斷裂。**
 
@@ -280,34 +280,35 @@ Douglas 的著作還記錄了該地的驅邪（*fady*）禁忌體系，說明馬
 ## 參考文獻
 
 1. Budge, E. A. Wallis. *The Book of the Dead: The Papyrus of Ani in the British Museum*. London: Kegan Paul, Trench, Trubner & Co., 1895.（BD 21–23 開啟之口、BD 89/91/92 靈魂出入、BD 154「使屍體不腐敗」；引 Saite Sa-Imentes 語句）
-2. Renouf, Karl (trans. & comm.). *Ancient Egyptian Beliefs and Customs*. 4 vols. Cairo: American Press, 1961.
-3. Taylor, John H. *Journey through the Afterlife: Ancient Egyptian Book of the Dead*. Chichester: Watts, 2010.
-4. Hesiod. *Theogony / Works and Days*. *Works and Days* 126–138（肉體三分化為長夢、喋鳥、長步）。
+2. Renouf, P. Le Page. *The Religion of Ancient Egypt*. London: Williams & Norgate, 1880.（開卷演講「Egyptian religion」；涵蓋《死者之書》與埃及喪葬信仰的早期英國埃及學代表作）
+3. Taylor, John H. *Journey through the Afterlife: Ancient Egyptian Book of the Dead*. London: British Museum Press, 2010.
+4. Hesiod. *Works and Days*. 106–169（黃金種族死後成為「潔淨的守護精靈」（*daimones*，122–126）；白銀種族死後淪為「冥府之靈」——肉身皆解離，無人保存）。
 5. Homer. *Odyssey* Book XI（亡魂缺乏 *bheretron* 祭祀而不得返回）。
-6. Strong, J. *The Buddhist Handbook*. 3rd ed. London: Routledge, 2004.
-7. *Dīgha Nikāya* 16（阿闍世王分佛遺骨建塔）；*Dhammapada* 172–175（色身壞、心常存）。
-8. Thāba, Constantine K. *The Indian Buddhist Reliquaries*. Wiesbaden: Harrassowitz, 1981.
-9. Nathan, M. (trans.). *Tibetan Book of the Dead*. New York: Penguin, 1974.
+6. Snelling, John. *The Buddhist Handbook: A Complete Guide to Buddhist Schools, Teaching, Practice, and History*. London: Century, 1987.
+7. *Dīgha Nikāya* 16（阿闍世王分佛遺骨建塔）；*Saṃyutta Nikāya* 22.87（Vakkali 經：「見法者即見我」——色身朽壞而法身長存）。
+8. Strong, John S. *Relics of the Buddha*. Princeton: Princeton University Press, 2004.
+9. Evans-Wentz, W. Y. (ed.). *The Tibetan Book of the Dead: Or, The After-Death Experiences on the Bardo Plane*. London: Oxford University Press, 1927.
 10. Kapstein, Matthew D. "The Strange Death of Pema the Demon-Tamer." In *The Presence of Light: Divine Radiance and Religious Experience*, ed. Matthew D. Kapstein. Chicago: University of Chicago Press, 2004.
 11. Holland, Gail. "Christian Buddhist Explorations: The Rainbow Body." *Institute of Noetic Sciences Review* 59 (March–May 2002).
 12. Norbu, Chögyal Namkhai. *Rainbow Body: The Life and Realization of Togden Urgyen Tenzin*. Arcidosso: Shang Shung Publications, 2010.
-13. Hori, Ichiro. "Self-Mummified Buddhas in Japan: An Aspect of Shūgendō Sect History." *History of Religions* 1, no. 2 (1962): 222–242.
-14. Jeremiah, Richard Seiji. *Living Buddhas: The Self-Mummified Monks of Yamagata, Japan*. Honolulu: University of Hawai'i Press, 2010.
-15. Yamasawa, Yuho. "Invention of Self-Mummified Buddhas in Japan and Its Historical Significance." *Proceedings of IAFOR 41st Annual International Conference*, 2021.
+13. Hori, Ichiro. "Self-Mummified Buddhas in Japan: An Aspect of the Shugen-dō (Mountain Asceticism) Sect." *History of Religions* 1, no. 2 (1962): 222–242.
+14. Jeremiah, Ken. *Living Buddhas: The Self-Mummified Monks of Yamagata, Japan*. Jefferson, NC: McFarland, 2010.
+15. Yamasawa, Manabu. "Invention of 'Self-Mummified Buddhas' in Japan and Its Historical Significance." *Asian Conference on Asian Studies (ACAS2020) Official Conference Proceedings*, 2020.
 16. 馬王堆一號漢墓考古報告與辛追屍體解剖數據；Mawangdui 一號墓 1972–1974 年發掘報告（棺槨層數、T 形帛畫、白膏木炭層）。
 17. 《史記・秦始皇本紀》（水銀為江河、人魚膏為燭）。
 18. 《禮記・內則》（玉掩之制）；王莽始建國元年詔與金縷玉衣制度。
-19. Douglas, Bronwyn. *Sorcerers, Witch Kings and the "Zebra" Cult: The Oratory, the Fan, and the Ancestor Cult in North-West Madagascar*. PhD thesis, University of Michigan, 1978.
-20. Tello, Julio César. *Paracas: Apuntes arqueológicos y otros escritos*. Lima, 1955（Cerro Colorado、Wari Kayan 遺址包裹屍報告）。
-21. Alva, Walter. *Los sarcázigos de Huaca Rajada*. Lima: Editorial Los Pinos, 1990.
-22. John of Damascus (John Damascene). *Exposition of the Orthodox Faith* 1st Book, Ch. 27（聖體為上帝的寶庫、香氣與流油）。
+19. Bloch, Maurice. *Placing the Dead: Tombs, Ancestral Villages and Kinship Organization in Madagascar*. London: Seminar Press, 1971.（famadihana 定期重葬與祖靈義務的經典民族誌）
+20. Tello, Julio César. *Paracas: Primera Parte*. Lima: Empresa Gráfica T. Scheuch, 1959（Cerro Colorado、Wari Kayan 遺址包裹屍發掘報告）。
+21. Alva, Walter, and Christopher B. Donnan. *Royal Tombs of Sipán*. Los Angeles: Fowler Museum of Cultural History, University of California, 1993.
+22. John of Damascus (John Damascene). *Exact Exposition of the Orthodox Faith* IV.15（論聖徒及其遺體：聖身是「上帝的寶庫」、香氣與流油）。
 23. Sergius of Radonezh 的聖髑發掘記（1422）及 Alexander Svirsky 聖髑發掘記（1641、1918）。
-24. Gregory, Roger. "Requiem for the Capuchin Mummies." *Discover Magazine* 35, no. 3 (2003)；EURAC Research 2011 年 Palermo Capuchin Catacombs 普查報告。
-25. Perry, Chris, et al. "The Capuchin Catacombs and the Preservation of the Dead in Early Modern Palermo." *Journal of Cultural Heritage* / 專刊研究（PMC11422078）。
-26. Glob, P. V. *The Mysterious Bog People of the North*. Copenhagen: Danish National Museum, 1979 / 1985.
-27. Aldhouse-Green, Richard. *Bog Bodies Uncovered: New Histories of Ireland and the British Isles*. Oxford: Oxbow Books, 2018.
+24. Piombino-Mascali, Dario, et al. "The Palermo Capuchin Catacombs Project: A Multidisciplinary Approach to the Study of a Modern Mummy Collection (ca. 1600–1900)." *Proceedings of the Palermo Catacombs Project* (2008)：EURAC-Institute for Mummies and the Iceman 於 2011 年普查確認約 8,000 具遺體中約 1,252 具呈木乃伊化。
+25. Piñar, Guadalupe, Dario Piombino-Mascali, Frank Maixner, Albert Zink, and Katja Sterflinger. "Microbial Survey of the Mummies from the Capuchin Catacombs of Palermo, Italy: Biodeterioration Risk and Contamination of the Indoor Air." *FEMS Microbiology Ecology* 86, no. 2 (2013): 341–356（PMC3916889）。
+26. Glob, P. V. *The Bog People: Iron-Age Man Preserved*. Translated by Rupert Bruce-Mitford. London: Faber and Faber, 1969.（丹麥文原版 *Mosefolket* 於 1965 年出版）
+27. Aldhouse-Green, Miranda. *Bog Bodies Uncovered: Solving Europe's Ancient Mystery*. London: Thames & Hudson, 2015.
 28. Northern Europe Tollund Man 研究：Natl. Museum of Denmark, "Tollund Man: The Body in the Bog"。
 29. 《高僧傳》、《續高僧傳》與《卍續藏經》有關僧人示寂後「肉身不壞」、頂生蓮花、遺體數日不散的記載，及唐代起由官方「諦視」、沐浴、更衣的驗證程序。
 30. 《太上洞玄靈寶無量度人上品妙經》相關「尸解」語彙（道教文獻中的形神分離觀）。
 31. Gyaltsen, Shardza Tashi. *Heart Drops of Dharmakaya: A Kunzang Nyingtik Dzogchen Meditation Manual*. Commentary by Lopon Tenzin Namdak. 2002.（門人於命終時身體縮小並見彩虹的第一手記載）
 32. *The Tantra of Shining Relics*（gsung ba'i rtsa ba'i mdo），轉輪點竅道法中關於燒煉時五種骨捨利與彩虹的記錄；Achö 於 1998 年、Orgyen Chemchok 於 2003 年身體縮至一肘／完全消失的記錄。
+33. "Mummified Monk Found Inside 1,000-Year-Old Buddha Statue." CBS News, 2015-02-23（Meander Medical Center CT 掃描與內視鏡採樣；內臟為紙張經卷所取代）。
