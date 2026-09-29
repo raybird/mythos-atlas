@@ -26,6 +26,7 @@
 | [達基亞人的泥土起源](達基亞人的泥土起源.md) | 達基亞人的泥土起源 |
 | [酒神降臨達契亞](酒神降臨達契亞.md) | 酒神降臨達契亞 |
 | [勇士Prâslea與金蘋果](勇士Prâslea與金蘋果.md) | 勇士Prâslea與金蘋果 |
+| [熊舞的死亡與復生](熊舞的死亡與復生.md) | 熊舞的死亡與復生 (The Bear Dance: Death and Resurrection of the Bear) |
 
 ---
 *Auto-generated on 2026-08-15 16:10 UTC*

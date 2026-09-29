@@ -21,6 +21,7 @@
 | [達基亞雷神Gebeleizis與印歐雷神比較](達基亞雷神Gebeleizis與印歐雷神比較.md) | 達基亞雷神Gebeleizis與印歐雷神比較 |
 | [達基亞靈魂旅程跨文化比較](達基亞靈魂旅程跨文化比較.md) | 達基亞靈魂旅程跨文化比較 |
 | [金蘋果與不死果實跨文化比較](金蘋果與不死果實跨文化比較.md) | 金蘋果與不死果實跨文化比較 |
+| [熊祭與跨文化動物靈喪葬儀式比較](熊祭與跨文化動物靈喪葬儀式比較.md) | 熊祭與跨文化動物靈喪葬儀式比較 (Bear Cults and Cross-Cultural Animal-Soul Funerals) |
 
 ---
 *Auto-generated on 2026-08-15 16:10 UTC*
