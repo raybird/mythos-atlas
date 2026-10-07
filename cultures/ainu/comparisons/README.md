@@ -21,7 +21,7 @@
 | [vegetation-grain-gods-global](vegetation-grain-gods-global.md) | vegetation-grain-gods-global |
 | [sun-moon-global](sun-moon-global.md) | sun-moon-global |
 | [water-deity-global](water-deity-global.md) | water-deity-global |
-| [地震與世界負載者跨文化比較](地震與世界負載者跨文化比較.md) | 地震與世界負載者跨文化比較 |
+| [地震與世界負載者跨文化比較](地震與世界負載者跨文化比較.md) | 地震與世界負載者跨文化比較 || [child-stealing-hag-global](child-stealing-hag-global.md) | 奪嬰魔女——掠奪孩童的沼澤與森林老嫗跨文化比較 |
 
 | [口傳史詩跨文化比較：Yukar 與全球史詩傳統](口傳史詩跨文化比較-Yukar-與全球史詩傳統.md) | 口傳史詩跨文化比較：Yukar 與全球史詩傳統 |
 ---

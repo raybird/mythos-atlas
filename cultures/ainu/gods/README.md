@@ -25,7 +25,7 @@
 | [Turu-kamuy](Turu-kamuy.md) | Turu-kamuy |
 | [Waka-ush-Kamuy](Waka-ush-Kamuy.md) | Waka-ush-Kamuy |
 | [Yushkep-kamuy](Yushkep-kamuy.md) | Yushkep-kamuy |
-| [Shiramba-Kamuy](Shiramba-Kamuy.md) | Shiramba-Kamuy |
+| [Shiramba-Kamuy](Shiramba-Kamuy.md) | Shiramba-Kamuy || [Kenas-unarpe](Kenas-unarpe.md) | Kenas-unarpe（沼澤姨母） |
 
 | [Kosam（庫薩姆）](Kosam（庫薩姆）.md) | Kosam（庫薩姆） |
 ---

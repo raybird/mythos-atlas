@@ -169,7 +169,8 @@
   "finno-ugric",
   "egyptian",
   "sumerian",
-  "aboriginal"
+  "aboriginal",
+  "ainu"
  ],
  "analysis_log": [
   "sacrificial-creation",
@@ -252,5 +253,5 @@
   "division-of-the-world-divine-sons-comparative",
   "chastity-ordeal-sexual-restraint-comparative"
  ],
- "runs": 234
+ "runs": 235
 }
