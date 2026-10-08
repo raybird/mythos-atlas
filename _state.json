@@ -171,7 +171,8 @@
   "sumerian",
   "aboriginal",
   "ainu",
-  "japanese"
+  "japanese",
+  "mapuche"
  ],
  "analysis_log": [
   "sacrificial-creation",
@@ -254,5 +255,5 @@
   "division-of-the-world-divine-sons-comparative",
   "chastity-ordeal-sexual-restraint-comparative"
  ],
- "runs": 236
+ "runs": 237
 }
