@@ -45,6 +45,7 @@
 - [Celestial Theft Stealing Sun Moon Comparative](celestial-theft-stealing-sun-moon-comparative.md)
 - [Celestial War Comparative](celestial-war-comparative.md)
 - [Chameleon Myths Comparative](chameleon-myths-comparative.md)
+- [Changeling Substituted Infant Comparative](changeling-substituted-infant-comparative.md)
 - [Chaoskampf Order Vs Chaos](chaoskampf-order-vs-chaos.md)
 - [Childbirth Midwifery Deities Comparative](childbirth-midwifery-deities-comparative.md)
 - [Cicada Myths Comparative](cicada-myths-comparative.md)

@@ -27,6 +27,7 @@
 | [須佐之男命](須佐之男命.md) | 須佐之男命 |
 | [Kanayamahiko](Kanayamahiko.md) | Kanayamahiko |
 | [大物主神](大物主神.md) | 大物主神 |
+| [牛頭天王](牛頭天王.md) | 牛頭天王 — 祇園信仰的瘟疫之神 |
 
 ---
 *Auto-generated on 2026-08-15 16:10 UTC*
