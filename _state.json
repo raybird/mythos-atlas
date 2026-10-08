@@ -173,7 +173,8 @@
   "ainu",
   "japanese",
   "mapuche",
-  "baltic"
+  "baltic",
+  "maori"
  ],
  "analysis_log": [
   "sacrificial-creation",
@@ -256,5 +257,5 @@
   "division-of-the-world-divine-sons-comparative",
   "chastity-ordeal-sexual-restraint-comparative"
  ],
- "runs": 238
+ "runs": 239
 }
