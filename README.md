@@ -122,7 +122,7 @@ mythos-atlas/
 | [北歐神話](cultures/norse/) | 北歐—日耳曼 | 26 | 22 | 19 |
 | [印度神話](cultures/hindu/) | 南亞—印度河流域 | 24 | 21 | 22 |
 | [馬雅神話](cultures/mayan/) | 中美洲 | 70 | 64 | 62 |
-| [日本神話](cultures/japanese/) | 東亞—日本列島 | 25 | 22 | 20 |
+| [日本神話](cultures/japanese/) | 東亞—日本列島 | 26 | 23 | 21 |
 | [波利尼西亞神話](cultures/polynesian/) | 太平洋島嶼 | 27 | 22 | 21 |
 | [澳洲原住民神話](cultures/aboriginal/) | 大洋洲—澳洲 | 25 | 23 | 21 |
 | [非洲諸神話](cultures/african/) | 撒哈拉以南非洲 | 25 | 22 | 20 |
