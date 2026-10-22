@@ -23,6 +23,7 @@
 | [volcano-gods-southeast-asia-comparative](volcano-gods-southeast-asia-comparative.md) | volcano-gods-southeast-asia-comparative |
 | [sky-sea-primordial-couple-comparative](sky-sea-primordial-couple-comparative.md) | sky-sea-primordial-couple-comparative |
 | [forest-misleaders-tikbalang-leshy](forest-misleaders-tikbalang-leshy.md) | forest-misleaders-tikbalang-leshy |
+| [巴萊特樹與全球世界樹跨文化比較](巴萊特樹與全球世界樹跨文化比較.md) | 巴萊特樹與全球世界樹跨文化比較 |
 
 ---
 *Auto-generated on 2026-09-10 UTC*

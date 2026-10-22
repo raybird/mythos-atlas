@@ -175,7 +175,8 @@
   "mapuche",
   "baltic",
   "maori",
-  "norse"
+  "norse",
+  "philippine"
  ],
  "analysis_log": [
   "sacrificial-creation",
@@ -258,5 +259,5 @@
   "division-of-the-world-divine-sons-comparative",
   "chastity-ordeal-sexual-restraint-comparative"
  ],
- "runs": 240
+ "runs": 241
 }
