@@ -541,4 +541,4 @@
 - [Nightingale Myths Comparative](nightingale-myths-comparative.md)
 - [Sacred Food Divine Sustenance Comparative](sacred-food-divine-sustenance-comparative.md)
 ---
-*Auto-generated on 2026-09-08 00:00 UTC*
+*Auto-generated on 2026-09-08 00:00 UTC*- [Kiss Breath Boundary Comparative](kiss-breath-boundary-comparative.md)
