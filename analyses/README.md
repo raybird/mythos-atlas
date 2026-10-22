@@ -24,6 +24,7 @@
 - [Bat Myths Comparative](bat-myths-comparative.md)
 - [Bean Legume Myths Comparative](bean-legume-myths-comparative.md)
 - [Bear Myths Comparative](bear-myths-comparative.md)
+- [Beard Facial Hair Sacred Power Comparative](beard-facial-hair-sacred-power-comparative.md)
 - [Bee Honey Sacred Myths](bee-honey-sacred-myths.md)
 - [Big Dipper Constellation Myths Comparative](big-dipper-constellation-myths-comparative.md)
 - [Blindness Inner Vision Comparative](blindness-inner-vision-comparative.md)
