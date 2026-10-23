@@ -145,6 +145,7 @@
 - [Dwarf Elf Spirit Beings](dwarf-elf-spirit-beings.md)
 - [Dying And Rising Gods](dying-and-rising-gods.md)
 - [Eagle Birds Of Prey Myths](eagle-birds-of-prey-myths.md)
+- [Ear Hearing Witness Comparative](ear-hearing-witness-comparative.md)
 - [Earth Diver Global Myth Complex](earth-diver-global-myth-complex.md)
 - [Earthquake Myths Comparative](earthquake-myths-comparative.md)
 - [Echo Myths Comparative](echo-myths-comparative.md)
