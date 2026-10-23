@@ -13,6 +13,7 @@
 | [jentilak-disappearance.md](jentilak-disappearance.md) | jentilak-disappearance |
 | [lamia-shepherd-ring.md](lamia-shepherd-ring.md) | lamia-shepherd-ring |
 | [lamiak-golden-comb.md](lamiak-golden-comb.md) | lamiak-golden-comb |
+| [lamiak-night-bridge.md](lamiak-night-bridge.md) | lamiak-night-bridge |
 | [mairuak-megaliths.md](mairuak-megaliths.md) | mairuak-megaliths |
 | [mari-cave.md](mari-cave.md) | mari-cave |
 | [mari-weaves-storm.md](mari-weaves-storm.md) | mari-weaves-storm |
