@@ -23,5 +23,6 @@
 | [royal-omen-refusal-comparative](royal-omen-refusal-comparative.md) | 被選為王者與避位者：預兆指認王權的跨文化比較 |
 
 | [花神與春之女神跨文化比較](flower-spring-goddesses-cross-cultural.md) | 花神與春之女神跨文化比較 |
+| [羅馬獻身咒devotio與代贖犧牲跨文化比較](羅馬獻身咒devotio與代贖犧牲跨文化比較.md) | 羅馬獻身咒（devotio）與代贖犧牲跨文化比較 |
 ---
 *Auto-generated on 2026-08-15 16:10 UTC*
