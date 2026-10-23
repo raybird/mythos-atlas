@@ -484,6 +484,7 @@
 - [Tiger Myths Comparative](tiger-myths-comparative.md)
 - [Time Distortion Otherworld Comparative](time-distortion-otherworld-comparative.md)
 - [Tobacco Myths Sacred Smoke Comparative](tobacco-myths-sacred-smoke-comparative.md)
+- [Tongue Taste Speech Comparative](tongue-taste-speech-comparative.md)
 - [Tornado Whirlwind Myths Comparative](tornado-whirlwind-myths-comparative.md)
 - [Totemism Clan Animal Ancestry Comparative](totemism-clan-animal-ancestry-comparative.md)
 - [Tower Cosmic Axis Imprisonment Suppression Comparative](tower-cosmic-axis-imprisonment-suppression-comparative.md)
