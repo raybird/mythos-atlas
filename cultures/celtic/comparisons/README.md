@@ -23,5 +23,6 @@
 
 | [死亡之神的位格：唐恩與全球冥府之主跨文化比較](death-lords-donn-cross-cultural.md) | death-lords-donn-cross-cultural |
 | [三相女神跨文化比較：Brígit–Boann–Morrígan 與全球 Triformis](triple-goddess-triformis-cross-cultural.md) | triple-goddess-triformis-cross-cultural |
+| [geis 禁忌與全球神聖禁令跨文化比較](geis禁忌與全球神聖禁令跨文化比較.md) | geis 禁忌與全球神聖禁令跨文化比較 |
 ---
 *Auto-generated on 2026-08-15 16:10 UTC*
