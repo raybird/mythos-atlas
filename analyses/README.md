@@ -548,3 +548,5 @@
 - [Nails Claws Boundary Comparative](nails-claws-boundary-comparative.md)
 
 - [Nose Odor Breath Discernment Comparative](nose-odor-breath-discernment-comparative.md)
+
+- [Skin Touch Boundary Comparative](skin-touch-boundary-comparative.md)
