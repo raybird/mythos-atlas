@@ -185,7 +185,8 @@
   "caucasian",
   "baltic",
   "basque",
-  "incan"
+  "incan",
+  "inuit"
  ],
  "analysis_log": [
   "sacrificial-creation",
@@ -268,5 +269,5 @@
   "division-of-the-world-divine-sons-comparative",
   "chastity-ordeal-sexual-restraint-comparative"
  ],
- "runs": 252
+ "runs": 253
 }

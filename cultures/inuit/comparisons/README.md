@@ -23,6 +23,7 @@
 | [winter-blizzard-deities-comparative](winter-blizzard-deities-comparative.md) | winter-blizzard-deities-comparative |
 | [分享義務與獨食之罰跨文化比較](分享義務與獨食之罰跨文化比較.md) | 分享義務與獨食之罰跨文化比較 |
 | [極地薩滿跨文化比較](極地薩滿跨文化比較.md) | 極地薩滿跨文化比較 |
+| [因紐特靈魂觀與全球靈魂多重性比較](因紐特靈魂觀與全球靈魂多重性比較.md) | 因紐特靈魂觀與全球靈魂多重性比較 |
 
 ---
 *Auto-generated on 2026-09-26 10:51 UTC*
