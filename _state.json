@@ -182,7 +182,8 @@
   "mapuche",
   "celtic",
   "siberian",
-  "caucasian"
+  "caucasian",
+  "baltic"
  ],
  "analysis_log": [
   "sacrificial-creation",
@@ -265,5 +266,5 @@
   "division-of-the-world-divine-sons-comparative",
   "chastity-ordeal-sexual-restraint-comparative"
  ],
- "runs": 249
+ "runs": 250
 }

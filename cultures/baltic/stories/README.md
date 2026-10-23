@@ -4,6 +4,7 @@
 |------|------|
 | [Ašvieniai拉太陽車](Ašvieniai拉太陽車.md) | Ašvieniai拉太陽車 |
 | [Ašvieniai神馬雙子傳說](Ašvieniai神馬雙子傳說.md) | Ašvieniai神馬雙子傳說 |
+| [Birutė與Perkūnas的女祭司](Birutė與Perkūnas的女祭司.md) | Birutė與Perkūnas的女祭司 |
 | [Egle蛇王后](Egle蛇王后.md) | Egle蛇王后 |
 | [Jūratė與Kastytis琥珀傳說](Jūratė與Kastytis琥珀傳說.md) | Jūratė與Kastytis琥珀傳說 |
 | [Laima決定嬰兒命運](Laima決定嬰兒命運.md) | Laima決定嬰兒命運 |
