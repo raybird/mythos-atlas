@@ -18,6 +18,7 @@
 | [inti-mamaquilla-separation](inti-mamaquilla-separation.md) | inti-mamaquilla-separation |
 | [kon-vs-pachacamac](kon-vs-pachacamac.md) | kon-vs-pachacamac |
 | [mama-coca-origin](mama-coca-origin.md) | mama-coca-origin |
+| [ollantay-cusi-coyllur](ollantay-cusi-coyllur.md) | ollantay-cusi-coyllur |
 | [origin-of-quinoa](origin-of-quinoa.md) | origin-of-quinoa |
 | [pachamama-coropuna](pachamama-coropuna.md) | pachamama-coropuna |
 | [quipu-origin](quipu-origin.md) | quipu-origin |
