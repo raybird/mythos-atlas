@@ -542,3 +542,5 @@
 - [Sacred Food Divine Sustenance Comparative](sacred-food-divine-sustenance-comparative.md)
 ---
 *Auto-generated on 2026-09-08 00:00 UTC*- [Kiss Breath Boundary Comparative](kiss-breath-boundary-comparative.md)
+
+- [Nails Claws Boundary Comparative](nails-claws-boundary-comparative.md)
