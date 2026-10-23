@@ -550,3 +550,5 @@
 - [Nose Odor Breath Discernment Comparative](nose-odor-breath-discernment-comparative.md)
 
 - [Skin Touch Boundary Comparative](skin-touch-boundary-comparative.md)
+
+- [Limping Lameness Sacred Gait Comparative](limping-lameness-sacred-gait-comparative.md)
