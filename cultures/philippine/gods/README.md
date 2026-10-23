@@ -22,10 +22,11 @@
 | [Mayari](Mayari.md) | Mayari |
 | [Sidapa](Sidapa.md) | Sidapa |
 | [Tala](Tala.md) | Tala |
-| [haliya](haliya.md) | haliya
+| [haliya](haliya.md) | haliya |
 | [Bulan](Bulan.md) | Bulan |
 | [Lidagat](Lidagat.md) | Lidagat |
 | [Lumawig](Lumawig.md) | Lumawig |
+| [Sitan](Sitan.md) | Sitan |
 
 ---
 *Auto-generated on 2026-09-10 UTC*
