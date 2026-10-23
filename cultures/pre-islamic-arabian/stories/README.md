@@ -22,6 +22,7 @@
 | [示巴女王與所羅門](示巴女王與所羅門.md) | 示巴女王與所羅門 |
 | [阿拉特與金角羚羊](阿拉特與金角羚羊.md) | 阿拉特與金角羚羊 |
 | [iram-dhat-al-imad](iram-dhat-al-imad.md) | iram-dhat-al-imad |
+| [費賈爾戰爭](費賈爾戰爭.md) | 費賈爾戰爭 |
 
 ---
 *Auto-generated on 2026-08-15 16:10 UTC*
