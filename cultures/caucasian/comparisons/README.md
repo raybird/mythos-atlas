@@ -43,5 +43,7 @@
 | [聖火爐神跨文化比較](hearth-fire-deity-cross-cultural.md) | 聖火爐神跨文化比較 |
 
 | [縛鏈巨神跨文化比較](bound-titans-cross-cultural.md) | 縛鏈巨神跨文化比較：從阿米拉尼到普羅米修斯 |
+| [誓火與背誓之罰：Safa 與全球誓言神跨文化比較](oath-perjury-cross-cultural.md) | 誓火與背誓之罰：Safa 與全球誓言神跨文化比較 |
+
 ---
 *Auto-generated on 2026-08-15 16:10 UTC*
