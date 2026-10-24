@@ -552,3 +552,4 @@
 - [Skin Touch Boundary Comparative](skin-touch-boundary-comparative.md)
 
 - [Limping Lameness Sacred Gait Comparative](limping-lameness-sacred-gait-comparative.md)
+- [Yawn Gap Contagion Comparative](yawn-gap-contagion-comparative.md)
