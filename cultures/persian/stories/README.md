@@ -62,3 +62,4 @@
 | [rustam-and-rakhsh](rustam-and-rakhsh.md) | 羅斯塔姆與拉赫什 — 以伊朗為價碼的神駒契約 |
 ---
 *Auto-generated on 2026-08-15 16:10 UTC*
+- [亞歷山大焚書傳奇](%E4%BA%9E%E6%AD%B7%E5%B1%B1%E5%A4%A7%E7%84%9A%E6%9B%B8%E5%82%B3%E5%A5%87.md)
