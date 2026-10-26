@@ -4,6 +4,7 @@
 |------|------|
 | [Aeshma](Aeshma.md) | Aeshma |
 | [Ahura Mazda](Ahura Mazda.md) | Ahura Mazda |
+| [Ahurani](Ahurani.md) | 阿胡拉尼（Ahurānī）— 水之女神、淨化與醫治 |
 | [Aka-Manah](Aka-Manah.md) | Aka-Manah |
 | [Akoman](Akoman.md) | Akoman |
 | [Ameretat](Ameretat.md) | Ameretat |
