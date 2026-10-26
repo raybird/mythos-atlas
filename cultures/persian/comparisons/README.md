@@ -68,3 +68,7 @@
 | [sacred-steeds-cross-cultural](sacred-steeds-cross-cultural.md) | 神駿跨文化比較 |
 ---
 *Auto-generated on 2026-08-15 16:10 UTC*
+| [波斯火祭與全球聖火崇拜比較](波斯火祭與全球聖火崇拜比較.md) | 波斯火祭與全球聖火崇拜比較 |
+
+---
+*Auto-generated on 2026-08-15 16:10 UTC*
