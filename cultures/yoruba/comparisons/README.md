@@ -64,5 +64,6 @@
 | [yoruba-west-african-comparison](yoruba-west-african-comparison.md) | yoruba-west-african-comparison |
 
 | [工匠神跨文化比較：Obalufon、赫菲斯托斯與全球工藝之神](工匠神跨文化比較-Obalufon-赫菲斯托斯-與-全球工藝之神.md) | 工匠神跨文化比較：Obalufon、赫菲斯托斯與全球工藝之神 |
+| [夜鳥與母親之力：Àjẹ́ 女巫信仰的跨文化比較](aje-night-birds-mothers-power.md) | 夜鳥與母親之力：Àjẹ́ 女巫信仰的跨文化比較 |
 ---
 *Auto-generated on 2026-08-15 16:10 UTC*
