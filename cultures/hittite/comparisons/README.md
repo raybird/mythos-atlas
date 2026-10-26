@@ -25,6 +25,7 @@
 | [primeval-deities-underworld-purification-comparative](primeval-deities-underworld-purification-comparative.md) | 被囚於「黑暗大地」的上古神：冥界淨化、禽鳥祭品與坑中祭祀跨文化比較 |
 
 | [王權更替與風暴神神譜跨文化比較](王權更替與風暴神神譜跨文化比較.md) | 王權更替與風暴神神譜跨文化比較 |
+| [神像擄掠與神意遷移-跨文化比較](神像擄掠與神意遷移-跨文化比較.md) | 神像擄掠與神意遷移：神聖臨在的移動、流亡與歸還 |
 
 ---
 *Auto-generated on 2026-08-15 16:10 UTC*
