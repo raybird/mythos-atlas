@@ -1575,6 +1575,10 @@
         {
           "title": "費里敦與佐哈克的傳說",
           "file": "stories/費里敦與佐哈克的傳說.md"
+        },
+        {
+          "title": "羅斯坦之死——沙加德的背叛",
+          "file": "stories/rostam-shaghad-betrayal.md"
         }
       ],
       "order": 16,
@@ -1606,7 +1610,7 @@
           "pre-islamic-arabian"
         ]
       },
-      "_stories": 8,
+      "_stories": 10,
       "comparisons": [
         "波斯火祭與全球聖火崇拜比較"
       ]

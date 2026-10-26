@@ -38,6 +38,7 @@
 | [rostam-akvan-demon](rostam-akvan-demon.md) | rostam-akvan-demon |
 | [rostam-esfandiyar](rostam-esfandiyar.md) | rostam-esfandiyar |
 | [rostam-seven-labors](rostam-seven-labors.md) | rostam-seven-labors |
+| [rostam-shaghad-betrayal](rostam-shaghad-betrayal.md) | rostam-shaghad-betrayal |
 | [rostam-sohrab-tragedy](rostam-sohrab-tragedy.md) | rostam-sohrab-tragedy |
 | [rostam-sohrab](rostam-sohrab.md) | rostam-sohrab |
 | [rostam-white-demon](rostam-white-demon.md) | rostam-white-demon |
