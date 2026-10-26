@@ -9,6 +9,7 @@
 | [death-origin-comparison](death-origin-comparison.md) | death-origin-comparison |
 | [dreamtime-cosmology-comparative](dreamtime-cosmology-comparative.md) | dreamtime-cosmology-comparative |
 | [dreamtime-mesoamerican-cyclical-time](dreamtime-mesoamerican-cyclical-time.md) | dreamtime-mesoamerican-cyclical-time |
+| [fire-origin-comparative](fire-origin-comparative.md) | 火的竊取與火的秩序：澳洲原住民竊火神話的跨文化比較 |
 | [flood-myths-comparison](flood-myths-comparison.md) | flood-myths-comparison |
 | [law-in-landscape](law-in-landscape.md) | 地景中的律法：澳洲 Songlines 與全球記憶法制比較 |
 | [island-of-the-dead-comparative](island-of-the-dead-comparative.md) | island-of-the-dead-comparative |
