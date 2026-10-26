@@ -57,6 +57,7 @@
 | [fravashi](fravashi.md) | fravashi |
 | [gopat-shah](gopat-shah.md) | gopat-shah |
 | [jamshid](jamshid.md) | jamshid |
+| [manthra-spenta](manthra-spenta.md) | 聖言曼怛羅（Manthra Spenta）— 神聖言語、誦念與啟示之力 |
 | [nasu-demoness](nasu-demoness.md) | nasu-demoness |
 | [saoshyant](saoshyant.md) | saoshyant |
 | [xvarenah](xvarenah.md) | xvarenah |
