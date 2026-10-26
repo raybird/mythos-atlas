@@ -24,5 +24,7 @@
 | [印歐雷神比較](印歐雷神比較.md) | 印歐雷神比較 |
 | [primeval-deities-underworld-purification-comparative](primeval-deities-underworld-purification-comparative.md) | 被囚於「黑暗大地」的上古神：冥界淨化、禽鳥祭品與坑中祭祀跨文化比較 |
 
+| [王權更替與風暴神神譜跨文化比較](王權更替與風暴神神譜跨文化比較.md) | 王權更替與風暴神神譜跨文化比較 |
+
 ---
 *Auto-generated on 2026-08-15 16:10 UTC*
