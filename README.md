@@ -96,7 +96,7 @@ mythos-atlas/
 
 ## 📊 當前狀態
 
-> 自動更新於 2026-10-26 19:01 UTC
+> 自動更新於 2026-10-26 19:06 UTC
 
 | 類別 | 進度 |
 |------|------|
@@ -166,7 +166,7 @@ mythos-atlas/
 
 ## 📝 分析文章
 
-> 跨文化比較神話學分析文章。共 572 篇。
+> 跨文化比較神話學分析文章。共 576 篇。
 
 - [黏土造人：跨文化創世造人神話比較分析](analyses/creation-from-clay-comparative.md)
 - [禁忌語音與沉默律令：跨文化語言禁忌比較分析](analyses/taboo-speech-and-silence-mandates.md)
