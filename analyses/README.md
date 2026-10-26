@@ -561,3 +561,4 @@
 - [Hiccup Belch Eructation Interruption Comparative](hiccup-belch-eructation-interruption-comparative.md)
 - [Sleepwalking Night Terror Somnambulism Comparative](sleepwalking-night-terror-somnambulism-comparative.md)
 - [Vomiting Rumination Emesis Regurgitation Comparative](vomiting-rumination-emesis-regurgitation-comparative.md)
+- [Tickling Provoked Laughter Vulnerable Body Comparative](tickling-provoked-laughter-vulnerable-body-comparative.md)
