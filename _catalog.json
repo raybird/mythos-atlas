@@ -1570,6 +1570,10 @@
         {
           "title": "亞歷山大焚書傳奇",
           "file": "stories/亞歷山大焚書傳奇.md"
+        },
+        {
+          "title": "費里敦與佐哈克的傳說",
+          "file": "stories/費里敦與佐哈克的傳說.md"
         }
       ],
       "order": 16,
@@ -1601,7 +1605,7 @@
           "pre-islamic-arabian"
         ]
       },
-      "_stories": 7,
+      "_stories": 8,
       "comparisons": [
         "波斯火祭與全球聖火崇拜比較"
       ]
