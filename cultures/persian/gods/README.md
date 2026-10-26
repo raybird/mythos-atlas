@@ -60,6 +60,7 @@
 | [saoshyant](saoshyant.md) | saoshyant |
 | [xvarenah](xvarenah.md) | xvarenah |
 | [zarir](zarir.md) | zarir |
+| [Arshtat](Arshtat.md) | 阿爾什塔特（Arshtat）— 真理、正義與誓言女神 |
 
 | [Haosravah](Haosravah.md) | Haosravah |
 | [Parendi](Parendi.md) | 帕倫迪（Parendi）— 財富與寶藏女神 |
