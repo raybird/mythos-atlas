@@ -62,5 +62,7 @@
 | [yewa](yewa.md) | yewa |
 
 | [Obalufon（歐巴魯馮）](Obalufon（歐巴魯馮）.md) | Obalufon（歐巴魯馮） |
+| [osupa-moon](osupa-moon.md) | Òṣùpá（月神） |
+
 ---
 *Auto-generated on 2026-08-15 16:10 UTC*
