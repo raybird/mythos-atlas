@@ -555,3 +555,4 @@
 - [Yawn Gap Contagion Comparative](yawn-gap-contagion-comparative.md)
 - [Stutter Stammer Divided Speech Comparative](stutter-stammer-divided-speech-comparative.md)
 - [Urine Urination Purification Regeneration Comparative](urine-urination-purification-regeneration-comparative.md)
+- [Prostration Kneeling Bowing Posture Comparative](prostration-kneeling-bowing-posture-comparative.md)
