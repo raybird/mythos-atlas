@@ -4,6 +4,7 @@
 |------|------|
 | [Agemo](Agemo.md) | Agemo |
 | [Oshumare](Oshumare.md) | Oshumare |
+| [orisa-ona](orisa-ona.md) | 奧里沙・奧納 (Ọ̀rìṣà Ọ̀nà) |
 | [abiku](abiku.md) | abiku |
 | [aganju](aganju.md) | aganju |
 | [agba](agba.md) | agba |
