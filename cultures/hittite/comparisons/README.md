@@ -22,6 +22,7 @@
 | [substitution-ritual-comparative](substitution-ritual-comparative.md) | substitution-ritual-comparative |
 | [underworld-goddess-comparative](underworld-goddess-comparative.md) | underworld-goddess-comparative |
 | [印歐雷神比較](印歐雷神比較.md) | 印歐雷神比較 |
+| [河水神判與神聖裁判跨文化比較](河水神判與神聖裁判跨文化比較.md) | 河水神判與神聖裁判：從赫梯的河流審判到全球神判儀式 |
 | [primeval-deities-underworld-purification-comparative](primeval-deities-underworld-purification-comparative.md) | 被囚於「黑暗大地」的上古神：冥界淨化、禽鳥祭品與坑中祭祀跨文化比較 |
 
 | [王權更替與風暴神神譜跨文化比較](王權更替與風暴神神譜跨文化比較.md) | 王權更替與風暴神神譜跨文化比較 |
