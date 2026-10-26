@@ -553,3 +553,4 @@
 
 - [Limping Lameness Sacred Gait Comparative](limping-lameness-sacred-gait-comparative.md)
 - [Yawn Gap Contagion Comparative](yawn-gap-contagion-comparative.md)
+- [Stutter Stammer Divided Speech Comparative](stutter-stammer-divided-speech-comparative.md)
