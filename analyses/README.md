@@ -557,3 +557,4 @@
 - [Trembling Tremor Numinous Body Comparative](trembling-tremor-numinous-body-comparative.md)
 - [Urine Urination Purification Regeneration Comparative](urine-urination-purification-regeneration-comparative.md)
 - [Prostration Kneeling Bowing Posture Comparative](prostration-kneeling-bowing-posture-comparative.md)
+- [Insomnia Sleepless Vigil Night Watch Comparative](insomnia-sleepless-vigil-night-watch-comparative.md)
