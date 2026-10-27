@@ -96,13 +96,13 @@ mythos-atlas/
 
 ## 📊 當前狀態
 
-> 自動更新於 2026-10-27 02:33 UTC
+> 自動更新於 2026-10-27 06:42 UTC
 
 | 類別 | 進度 |
 |------|------|
 | 文化體系 | 44/44 |
 | 跨文化主題 | 27/27 |
-| 分析文章 | 578 |
+| 分析文章 | 579 |
 | 已充實文化 | 44/44 |
 | 總頁面數 | 3596 |
 | 總執行次數 | 277 |
@@ -166,7 +166,9 @@ mythos-atlas/
 
 ## 📝 分析文章
 
-> 跨文化比較神話學分析文章。共 578 篇。
+> 跨文化比較神話學分析文章。共 579 篇。
+
+- [體液與宇宙：血、膽、黏液與風的跨文化神話學](analyses/humors-bodily-fluids-cosmology-comparative.md)
 
 - [黏土造人：跨文化創世造人神話比較分析](analyses/creation-from-clay-comparative.md)
 - [禁忌語音與沉默律令：跨文化語言禁忌比較分析](analyses/taboo-speech-and-silence-mandates.md)

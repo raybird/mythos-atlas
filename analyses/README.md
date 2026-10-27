@@ -213,6 +213,7 @@
 - [Human Classes Origin Myths Comparative](human-classes-origin-myths-comparative.md)
 - [Human Sacrifice Comparative](human-sacrifice-comparative.md)
 - [Hummingbird Mythology Comparative](hummingbird-mythology-comparative.md)
+- [Humors Bodily Fluids Cosmology Comparative](humors-bodily-fluids-cosmology-comparative.md)
 - [Hydromancy Water Divination Comparative](hydromancy-water-divination-comparative.md)
 - [Ice Snow Myths Comparative](ice-snow-myths-comparative.md)
 - [Immortal Bird Phoenix](immortal-bird-phoenix.md)
