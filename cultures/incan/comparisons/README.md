@@ -12,6 +12,7 @@
 | [inca-mountain-deities-global](inca-mountain-deities-global.md) | inca-mountain-deities-global |
 | [inca-worldview-comparative](inca-worldview-comparative.md) | inca-worldview-comparative |
 | [inti-sun-gods-comparative](inti-sun-gods-comparative.md) | inti-sun-gods-comparative |
+| [mallqui-ancestor-mummies-comparative](mallqui-ancestor-mummies-comparative.md) | 馬爾基（Mallqui）：印加祖先木乃伊崇拜跨文化比較 |
 | [mountain-deities-comparative](mountain-deities-comparative.md) | mountain-deities-comparative |
 | [pachamama-earth-mothers](pachamama-earth-mothers.md) | pachamama-earth-mothers |
 | [quipu-mnemonic-global](quipu-mnemonic-global.md) | quipu-mnemonic-global |
