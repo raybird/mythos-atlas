@@ -96,13 +96,13 @@ mythos-atlas/
 
 ## 📊 當前狀態
 
-> 自動更新於 2026-10-27 18:40 UTC
+> 自動更新於 2026-10-27 18:56 UTC
 
 | 類別 | 進度 |
 |------|------|
 | 文化體系 | 44/44 |
 | 跨文化主題 | 27/27 |
-| 分析文章 | 583 |
+| 分析文章 | 584 |
 | 已充實文化 | 44/44 |
 | 總頁面數 | 3606 |
 | 總執行次數 | 287 |
@@ -166,7 +166,9 @@ mythos-atlas/
 
 ## 📝 分析文章
 
-> 跨文化比較神話學分析文章。共 583 篇。
+> 跨文化比較神話學分析文章。共 584 篇。
+- [盤繞之河：腸、內臟與斷裂之情的跨文化神話學](analyses/intestines-entrails-bowels-comparative.md)
+
 - [腹中之器：胃、食慾與吞噬的跨文化神話學](analyses/stomach-belly-vessel-appetite-comparative.md)
 
 - [脊中之柱，髓中之源：脊柱與骨髓的跨文化神話學](analyses/spine-marrow-axis-within-comparative.md)

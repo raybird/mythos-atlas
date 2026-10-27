@@ -590,3 +590,4 @@
 - [Theriomorphic Nurse Beastnursed Hero Comparative](theriomorphic-nurse-beastnursed-hero-comparative.md)
 - [Toponymic Myths Place Name Origins Comparative](toponymic-myths-place-name-origins-comparative.md)
 - [Voice Human Divine Utterance Comparative](voice-human-divine-utterance-comparative.md)
+- [Intestines Entrails Bowels Comparative](intestines-entrails-bowels-comparative.md)
