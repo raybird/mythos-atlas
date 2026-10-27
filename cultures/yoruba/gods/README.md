@@ -14,6 +14,7 @@
 | [ajogun](ajogun.md) | ajogun |
 | [araunaye](araunaye.md) | araunaye |
 | [aroni](aroni.md) | aroni |
+| [ase](ase.md) | Àṣẹ（阿謝，存在之力） |
 | [ayan](ayan.md) | ayan |
 | [ayelala](ayelala.md) | ayelala |
 | [babalu-aye](babalu-aye.md) | babalu-aye |
