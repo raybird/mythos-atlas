@@ -1586,6 +1586,10 @@
         {
           "title": "法爾哈德與希琳：鑿山者的絕唱",
           "file": "stories/farhad-shirin-mountain-carver.md"
+        },
+        {
+          "title": "哈夫瓦德與蘋果蟲：國運之蟲的興亡",
+          "file": "stories/haftvad-apple-worm.md"
         }
       ],
       "order": 16,
@@ -1617,7 +1621,7 @@
           "pre-islamic-arabian"
         ]
       },
-      "_stories": 11,
+      "_stories": 12,
       "comparisons": [
         "波斯火祭與全球聖火崇拜比較",
         "法爾瓦爾丁節與亡靈歸來的年節比較"
