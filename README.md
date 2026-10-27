@@ -130,7 +130,7 @@ mythos-atlas/
 | [印加神話](cultures/incan/) | 南美洲—安地斯山脈 | 24 | 22 | 23 |
 | [凱爾特神話](cultures/celtic/) | 西歐—愛爾蘭/不列顛/高盧 | 26 | 22 | 21 |
 | [斯拉夫神話](cultures/slavic/) | 東歐—巴爾幹 | 26 | 20 | 20 |
-| [波斯神話](cultures/persian/) | 伊朗高原 | 62 | 60 | 65 |
+| [波斯神話](cultures/persian/) | 伊朗高原 | 62 | 61 | 65 |
 | [韓國神話](cultures/korean/) | 東亞—朝鮮半島 | 24 | 22 | 21 |
 | [芬蘭-烏戈爾神話](cultures/finno-ugric/) | 北歐—烏拉爾地區 | 25 | 22 | 22 |
 | [西藏神話](cultures/tibetan/) | 青藏高原 | 24 | 22 | 22 |
