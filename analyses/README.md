@@ -442,6 +442,7 @@
 - [Sky Ladder Heaven Ladder Comparative](sky-ladder-heaven-ladder-comparative.md)
 - [Sleep Dreams Mythology](sleep-dreams-mythology.md)
 - [Sleeping King Mountain](sleeping-king-mountain.md)
+- [Spine Marrow Axis Within Comparative](spine-marrow-axis-within-comparative.md)
 - [Smith Forge Gods Comparative](smith-forge-gods-comparative.md)
 - [Sneezing Breath Soul Omens Comparative](sneezing-breath-soul-omens-comparative.md)
 - [Solar Years And Kingly Reigns](solar-years-and-kingly-reigns.md)
