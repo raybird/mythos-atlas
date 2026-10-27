@@ -237,6 +237,7 @@
 - [Legendary Named Swords Comparative](legendary-named-swords-comparative.md)
 - [Light Myths Primordial Light Enlightenment Comparative](light-myths-primordial-light-enlightenment-comparative.md)
 - [Lion Myths Comparative](lion-myths-comparative.md)
+- [Liver Hepatomancy Seat Of Life Comparative](liver-hepatomancy-seat-of-life-comparative.md)
 - [Living Dead Revenant Zombie Comparative](living-dead-revenant-zombie-comparative.md)
 - [Lizard Gecko Myths Comparative](lizard-gecko-myths-comparative.md)
 - [Looking Back Taboo Comparative](looking-back-taboo-comparative.md)
