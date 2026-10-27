@@ -1581,6 +1581,10 @@
         {
           "title": "羅斯坦之死——沙加德的背叛",
           "file": "stories/rostam-shaghad-betrayal.md"
+        },
+        {
+          "title": "法爾哈德與希琳：鑿山者的絕唱",
+          "file": "stories/farhad-shirin-mountain-carver.md"
         }
       ],
       "order": 16,
@@ -1612,7 +1616,7 @@
           "pre-islamic-arabian"
         ]
       },
-      "_stories": 10,
+      "_stories": 11,
       "comparisons": [
         "波斯火祭與全球聖火崇拜比較",
         "法爾瓦爾丁節與亡靈歸來的年節比較"
@@ -2301,7 +2305,7 @@
           "nubian"
         ]
       },
-       "_stories": 10,
+      "_stories": 10,
       "gods": [
         "埃拉",
         "奧里沙・奧納",
