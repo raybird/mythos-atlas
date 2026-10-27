@@ -174,6 +174,7 @@
 - [First Murder Fratricide](first-murder-fratricide.md)
 - [First Woman Creation Comparative](first-woman-creation-comparative.md)
 - [Fish Myths Comparative](fish-myths-comparative.md)
+- [Flatulence Inner Wind Sacred Comedy Comparative](flatulence-inner-wind-sacred-comedy-comparative.md)
 - [Flood Myths Geological Origins](flood-myths-geological-origins.md)
 - [Flower Myths Comparative](flower-myths-comparative.md)
 - [Fly Averter And Lord Of Flies Comparative](fly-averter-and-lord-of-flies-comparative.md)
