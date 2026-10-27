@@ -14,6 +14,7 @@
 | [law-in-landscape](law-in-landscape.md) | 地景中的律法：澳洲 Songlines 與全球記憶法制比較 |
 | [island-of-the-dead-comparative](island-of-the-dead-comparative.md) | island-of-the-dead-comparative |
 | [miraculous-birth-comparative](miraculous-birth-comparative.md) | miraculous-birth-comparative |
+| [moon-death-rebirth-comparative](moon-death-rebirth-comparative.md) | 月之死與再生：澳洲月亮神話的跨文化比較 |
 | [sacred-lawgivers-comparative](sacred-lawgivers-comparative.md) | sacred-lawgivers-comparative |
 | [serpent-deities](serpent-deities.md) | serpent-deities |
 | [sky-father-comparison](sky-father-comparison.md) | sky-father-comparison |

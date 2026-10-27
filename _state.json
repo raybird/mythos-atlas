@@ -198,7 +198,8 @@
   "yoruba",
   "persian",
   "hittite",
-  "persian"
+  "persian",
+  "aboriginal"
  ],
  "analysis_log": [
   "sacrificial-creation",
@@ -281,5 +282,5 @@
   "division-of-the-world-divine-sons-comparative",
   "chastity-ordeal-sexual-restraint-comparative"
  ],
- "runs": 275
+ "runs": 276
 }
