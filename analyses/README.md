@@ -448,6 +448,7 @@
 - [Solar Years And Kingly Reigns](solar-years-and-kingly-reigns.md)
 - [Solstice Equinox Rituals](solstice-equinox-rituals.md)
 - [Sortilege Sacred Lots Cleromancy Comparative](sortilege-sacred-lots-cleromancy-comparative.md)
+- [Stomach Belly Vessel Appetite Comparative](stomach-belly-vessel-appetite-comparative.md)
 - [Soul Concepts Comparative](soul-concepts-comparative.md)
 - [Soul Ferry Boat Of Dead Comparative](soul-ferry-boat-of-dead-comparative.md)
 - [Southern Cross Constellation Myths Comparative](southern-cross-constellation-myths-comparative.md)
