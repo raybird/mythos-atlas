@@ -63,6 +63,7 @@
 | [rustam-and-rakhsh](rustam-and-rakhsh.md) | 羅斯塔姆與拉赫什 — 以伊朗為價碼的神駒契約 |
 | [farhad-shirin-mountain-carver](farhad-shirin-mountain-carver.md) | 法爾哈德與希琳：鑿山者的絕唱 — 謠言殺死鑿山人，山成戀人之墓 |
 | [haftvad-apple-worm](haftvad-apple-worm.md) | 哈夫瓦德與蘋果蟲：國運之蟲的興亡 — 飼蟲得絲者國，殺蟲者亡 |
+| [bahram-gur-haft-paykar](bahram-gur-haft-paykar.md) | 巴赫蘭五世與七宮（Haft Paykar）：七色穹頂下的敘事之夜 — 七曜七色七宮、以聽故事學治國 |
 ---
 *Auto-generated on 2026-08-15 16:10 UTC*
 - [亞歷山大焚書傳奇](%E4%BA%9E%E6%AD%B7%E5%B1%B1%E5%A4%A7%E7%84%9A%E6%9B%B8%E5%82%B3%E5%A5%87.md)

@@ -1593,6 +1593,10 @@
         {
           "title": "哈夫瓦德與蘋果蟲：國運之蟲的興亡",
           "file": "stories/haftvad-apple-worm.md"
+        },
+        {
+          "title": "巴赫蘭五世與七宮（Haft Paykar）：七色穹頂下的敘事之夜",
+          "file": "stories/bahram-gur-haft-paykar.md"
         }
       ],
       "order": 16,
@@ -1624,7 +1628,7 @@
           "pre-islamic-arabian"
         ]
       },
-      "_stories": 12,
+      "_stories": 13,
       "comparisons": [
         "波斯火祭與全球聖火崇拜比較",
         "法爾瓦爾丁節與亡靈歸來的年節比較"
