@@ -26,5 +26,7 @@
 | [trickster-figures](trickster-figures.md) | trickster-figures |
 | [sleeping-giants-imprisoned-divinities](sleeping-giants-imprisoned-divinities.md) | 沉睡巨神與受禁之神跨文化比較 |
 
+| [骨針與詛咒：指骨巫術與跨文化詛咒魔法比較](bone-pointing-sorcery-comparative.md) | 骨針與詛咒：指骨巫術與跨文化詛咒魔法 |
+
 ---
 *Auto-generated on 2026-09-28 19:10 UTC*
