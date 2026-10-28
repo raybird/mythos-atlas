@@ -300,6 +300,7 @@
 - [Otter Myths Comparative](otter-myths-comparative.md)
 - [Ouroboros Eternal Return](ouroboros-eternal-return.md)
 - [Owl Myths Comparative](owl-myths-comparative.md)
+- [Pancreas Hidden Organ Nameless Grease Comparative](pancreas-hidden-organ-nameless-grease-comparative.md)
 - [Parrot Macaw Myths Comparative](parrot-macaw-myths-comparative.md)
 - [Peach Fruit Tree Myths Comparative](peach-fruit-tree-myths-comparative.md)
 - [Peacock Myths Comparative](peacock-myths-comparative.md)
