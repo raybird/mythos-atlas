@@ -594,3 +594,4 @@
 - [Kidney Essence Water Secret Conscience Comparative](kidney-essence-water-secret-conscience-comparative.md)
 - [Gallbladder Bitter Juice Decision Comparative](gallbladder-bitter-juice-decision-comparative.md)
 - [Lung Breath Gifted Life Comparative](lung-breath-gifted-life-comparative.md)
+- [Spleen Black Bile Central Earth Comparative](spleen-black-bile-central-earth-comparative.md)

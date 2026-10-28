@@ -96,13 +96,13 @@ mythos-atlas/
 
 ## 📊 當前狀態
 
-> 自動更新於 2026-10-28 06:45 UTC
+> 自動更新於 2026-10-28 07:01 UTC
 
 | 類別 | 進度 |
 |------|------|
 | 文化體系 | 44/44 |
 | 跨文化主題 | 27/27 |
-| 分析文章 | 587 |
+| 分析文章 | 588 |
 | 已充實文化 | 44/44 |
 | 總頁面數 | 3612 |
 | 總執行次數 | 293 |
@@ -166,7 +166,8 @@ mythos-atlas/
 
 ## 📝 分析文章
 
-> 跨文化比較神話學分析文章。共 587 篇。
+> 跨文化比較神話學分析文章。共 588 篇。
+- [脾之暗房：脾臟、黑膽汁與中央之土的跨文化神話學](analyses/spleen-black-bile-central-earth-comparative.md)
 - [肺之風箱：肺臟、氣息與授予之生的跨文化神話學](analyses/lung-breath-gifted-life-comparative.md)
 
 - [膽中一味：膽囊、苦汁與決斷的跨文化神話學](analyses/gallbladder-bitter-juice-decision-comparative.md)
