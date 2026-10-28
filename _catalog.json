@@ -1600,6 +1600,10 @@
         {
           "title": "巴赫蘭五世與七宮（Haft Paykar）：七色穹頂下的敘事之夜",
           "file": "stories/bahram-gur-haft-paykar.md"
+        },
+        {
+          "title": "被拒絕的史詩：費爾多西、馬赫穆德與《王書》的誕生",
+          "file": "stories/ferdowsi-mahmud-shahnameh-birth.md"
         }
       ],
       "order": 16,
@@ -1631,7 +1635,7 @@
           "pre-islamic-arabian"
         ]
       },
-      "_stories": 13,
+      "_stories": 14,
       "comparisons": [
         "波斯火祭與全球聖火崇拜比較",
         "法爾瓦爾丁節與亡靈歸來的年節比較"
