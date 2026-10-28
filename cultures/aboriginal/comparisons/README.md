@@ -4,6 +4,7 @@
 |------|------|
 | [aboriginal-afterlife-soul-comparative](aboriginal-afterlife-soul-comparative.md) | aboriginal-afterlife-soul-comparative |
 | [aboriginal-astronomy-cross-cultural](aboriginal-astronomy-cross-cultural.md) | aboriginal-astronomy-cross-cultural |
+| [bullroarer-voice-of-god-comparative](bullroarer-voice-of-god-comparative.md) | 牛吼器與神聖之聲：澳洲 bullroarer 與跨文化神聖音響比較 |
 | [creation-myths-global](creation-myths-global.md) | creation-myths-global |
 | [creator-spirits-landscape-myths](creator-spirits-landscape-myths.md) | creator-spirits-landscape-myths |
 | [death-origin-comparison](death-origin-comparison.md) | death-origin-comparison |
