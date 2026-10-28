@@ -3,6 +3,7 @@
 | 檔案 | 名稱 |
 |------|------|
 | [hanuman-lanka](hanuman-lanka.md) | hanuman-lanka |
+| [nala-damayanti-dice-and-return](nala-damayanti-dice-and-return.md) | nala-damayanti-dice-and-return |
 | [narasimha-man-lion](narasimha-man-lion.md) | narasimha-man-lion |
 | [savitri-satyavan](savitri-satyavan.md) | savitri-satyavan |
 | [因陀羅斬弗栗多](因陀羅斬弗栗多.md) | 因陀羅斬弗栗多 |
