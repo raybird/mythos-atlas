@@ -6,6 +6,7 @@
 | [elkunirsa-ashertu](elkunirsa-ashertu.md) | elkunirsa-ashertu |
 | [golden-egg-hupasiyas](golden-egg-hupasiyas.md) | golden-egg-hupasiyas |
 | [hedammu-song](hedammu-song.md) | hedammu-song |
+| [kantuzili-prayer](kantuzili-prayer.md) | 康圖茲里的祈禱：當個人神沉默 |
 | [kasku-moon-god-falls](kasku-moon-god-falls.md) | kasku-moon-god-falls |
 | [kessi-hunter](kessi-hunter.md) | kessi-hunter |
 | [kingship-in-heaven](kingship-in-heaven.md) | kingship-in-heaven |
