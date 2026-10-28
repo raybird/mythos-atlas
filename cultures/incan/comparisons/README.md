@@ -5,6 +5,7 @@
 | [Viracocha-Quetzalcoatl](Viracocha-Quetzalcoatl.md) | Viracocha-Quetzalcoatl |
 | [apus-mountain-deities-comparative](apus-mountain-deities-comparative.md) | apus-mountain-deities-comparative |
 | [capacocha-sacrifice-cross-cultural](capacocha-sacrifice-cross-cultural.md) | capacocha-sacrifice-cross-cultural |
+| [chasqui-relay-messengers-comparative](chasqui-relay-messengers-comparative.md) | 查斯基（Chasqui）：印加接力跑者與帝國訊息速度跨文化比較 |
 | [inca-ayni-global-reciprocity](inca-ayni-global-reciprocity.md) | inca-ayni-global-reciprocity |
 | [inca-chinese-creation-comparative](inca-chinese-creation-comparative.md) | inca-chinese-creation-comparative |
 | [inca-creation-flood-comparative](inca-creation-flood-comparative.md) | inca-creation-flood-comparative |
