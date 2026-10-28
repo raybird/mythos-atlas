@@ -13,6 +13,7 @@
 | [plague-deities-cross-cultural](plague-deities-cross-cultural.md) | plague-deities-cross-cultural |
 | [polar-sun-myths](polar-sun-myths.md) | polar-sun-myths |
 | [reindeer-myths-eurasia](reindeer-myths-eurasia.md) | reindeer-myths-eurasia |
+| [saiva-sacred-mountain-mirror-world-comparative](saiva-sacred-mountain-mirror-world-comparative.md) | saiva-sacred-mountain-mirror-world-comparative |
 | [sami-eight-seasons-calendar-arctic](sami-eight-seasons-calendar-arctic.md) | sami-eight-seasons-calendar-arctic |
 | [sami-inuit-creation](sami-inuit-creation.md) | sami-inuit-creation |
 | [sami-norse-shamanism](sami-norse-shamanism.md) | sami-norse-shamanism |
