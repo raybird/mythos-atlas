@@ -31,6 +31,7 @@
 - [Blood Covenant Myths Comparative](blood-covenant-myths-comparative.md)
 - [Board Games Fate Myths Comparative](board-games-fate-myths-comparative.md)
 - [Bog Swamp Marsh Mythology Comparative](bog-swamp-marsh-mythology-comparative.md)
+- [Brain Mind Sea Of Marrow Comparative](brain-mind-sea-of-marrow-comparative.md)
 - [Bones Mythology Comparative](bones-mythology-comparative.md)
 - [Bound Gods Divine Imprisonment Comparative](bound-gods-divine-imprisonment-comparative.md)
 - [Broom Myths Sacred Sweeping Comparative](broom-myths-sacred-sweeping-comparative.md)

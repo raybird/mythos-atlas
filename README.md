@@ -96,13 +96,13 @@ mythos-atlas/
 
 ## 📊 當前狀態
 
-> 自動更新於 2026-10-28 17:07 UTC
+> 自動更新於 2026-10-28 18:55 UTC
 
 | 類別 | 進度 |
 |------|------|
 | 文化體系 | 44/44 |
 | 跨文化主題 | 27/27 |
-| 分析文章 | 591 |
+| 分析文章 | 592 |
 | 已充實文化 | 44/44 |
 | 總頁面數 | 3620 |
 | 總執行次數 | 301 |
@@ -166,7 +166,8 @@ mythos-atlas/
 
 ## 📝 分析文章
 
-> 跨文化比較神話學分析文章。共 591 篇。
+> 跨文化比較神話學分析文章。共 592 篇。
+- [無職之海：腦、髓海與心智治外法權的跨文化神話學](analyses/brain-mind-sea-of-marrow-comparative.md)
 - [深湖與溝渠：奇經八脈與「正冊之外」的跨文化神話學](analyses/eight-extraordinary-vessels-comparative.md)
 - [無形之官：三焦、心包與「有名而無形」的跨文化神話學](analyses/triple-burner-pericardium-formless-organs-comparative.md)
 - [脾之暗房：脾臟、黑膽汁與中央之土的跨文化神話學](analyses/spleen-black-bile-central-earth-comparative.md)
