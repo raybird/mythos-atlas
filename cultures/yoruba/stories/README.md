@@ -35,6 +35,7 @@
 | [ogun-shango-conflict](ogun-shango-conflict.md) | ogun-shango-conflict |
 | [olokun-anger-flood](olokun-anger-flood.md) | olokun-anger-flood |
 | [olokun-flood](olokun-flood.md) | olokun-flood |
+| [oranmiyan-bribed-oracle-opa](oranmiyan-bribed-oracle-opa.md) | oranmiyan-bribed-oracle-opa |
 | [oranmiyan-departure](oranmiyan-departure.md) | oranmiyan-departure |
 | [origin-of-death](origin-of-death.md) | origin-of-death |
 | [orisha-oko-farming](orisha-oko-farming.md) | orisha-oko-farming |
