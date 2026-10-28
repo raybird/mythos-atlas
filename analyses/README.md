@@ -595,3 +595,4 @@
 - [Gallbladder Bitter Juice Decision Comparative](gallbladder-bitter-juice-decision-comparative.md)
 - [Lung Breath Gifted Life Comparative](lung-breath-gifted-life-comparative.md)
 - [Spleen Black Bile Central Earth Comparative](spleen-black-bile-central-earth-comparative.md)
+- [Triple Burner Pericardium Formless Organs Comparative](triple-burner-pericardium-formless-organs-comparative.md)
