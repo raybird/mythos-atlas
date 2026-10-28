@@ -151,6 +151,7 @@
 - [Echo Myths Comparative](echo-myths-comparative.md)
 - [Eclipse Myths](eclipse-myths.md)
 - [Eel Myths Comparative](eel-myths-comparative.md)
+- [Eight Extraordinary Vessels Comparative](eight-extraordinary-vessels-comparative.md)
 - [Eschatology Apocalyptic Myths](eschatology-apocalyptic-myths.md)
 - [Eternal Punishment Comparative](eternal-punishment-comparative.md)
 - [Evil Eye Comparative](evil-eye-comparative.md)
