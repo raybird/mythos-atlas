@@ -20,6 +20,7 @@
 | [sami-sacred-animals-arctic](sami-sacred-animals-arctic.md) | sami-sacred-animals-arctic |
 | [shamanism-global](shamanism-global.md) | shamanism-global |
 | [sieidi-stones-global](sieidi-stones-global.md) | sieidi-stones-global |
+| [stallo-iron-smith-saint-george-comparative](stallo-iron-smith-saint-george-comparative.md) | stallo-iron-smith-saint-george-comparative |
 | [北極光神話跨文化比較](北極光神話跨文化比較.md) | 北極光神話跨文化比較 |
 | [薩米三女神與諾倫三女神比較](薩米三女神與諾倫三女神比較.md) | 薩米三女神與諾倫三女神比較 |
 | [薩米與芬蘭烏戈爾創世神話比較](薩米與芬蘭烏戈爾創世神話比較.md) | 薩米與芬蘭烏戈爾創世神話比較 |
