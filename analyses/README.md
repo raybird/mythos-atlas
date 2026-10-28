@@ -592,3 +592,4 @@
 - [Voice Human Divine Utterance Comparative](voice-human-divine-utterance-comparative.md)
 - [Intestines Entrails Bowels Comparative](intestines-entrails-bowels-comparative.md)
 - [Kidney Essence Water Secret Conscience Comparative](kidney-essence-water-secret-conscience-comparative.md)
+- [Gallbladder Bitter Juice Decision Comparative](gallbladder-bitter-juice-decision-comparative.md)

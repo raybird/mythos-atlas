@@ -96,13 +96,13 @@ mythos-atlas/
 
 ## 📊 當前狀態
 
-> 自動更新於 2026-10-28 00:44 UTC
+> 自動更新於 2026-10-28 00:58 UTC
 
 | 類別 | 進度 |
 |------|------|
 | 文化體系 | 44/44 |
 | 跨文化主題 | 27/27 |
-| 分析文章 | 585 |
+| 分析文章 | 586 |
 | 已充實文化 | 44/44 |
 | 總頁面數 | 3609 |
 | 總執行次數 | 290 |
@@ -166,7 +166,11 @@ mythos-atlas/
 
 ## 📝 分析文章
 
-> 跨文化比較神話學分析文章。共 584 篇。
+> 跨文化比較神話學分析文章。共 586 篇。
+- [膽中一味：膽囊、苦汁與決斷的跨文化神話學](analyses/gallbladder-bitter-juice-decision-comparative.md)
+
+- [腎中之秘：腎臟、精水與夜間良知的跨文化神話學](analyses/kidney-essence-water-secret-conscience-comparative.md)
+
 - [盤繞之河：腸、內臟與斷裂之情的跨文化神話學](analyses/intestines-entrails-bowels-comparative.md)
 
 - [腹中之器：胃、食慾與吞噬的跨文化神話學](analyses/stomach-belly-vessel-appetite-comparative.md)
