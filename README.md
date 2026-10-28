@@ -96,13 +96,13 @@ mythos-atlas/
 
 ## 📊 當前狀態
 
-> 自動更新於 2026-10-28 02:34 UTC
+> 自動更新於 2026-10-28 06:45 UTC
 
 | 類別 | 進度 |
 |------|------|
 | 文化體系 | 44/44 |
 | 跨文化主題 | 27/27 |
-| 分析文章 | 586 |
+| 分析文章 | 587 |
 | 已充實文化 | 44/44 |
 | 總頁面數 | 3612 |
 | 總執行次數 | 293 |
@@ -166,7 +166,9 @@ mythos-atlas/
 
 ## 📝 分析文章
 
-> 跨文化比較神話學分析文章。共 586 篇。
+> 跨文化比較神話學分析文章。共 587 篇。
+- [肺之風箱：肺臟、氣息與授予之生的跨文化神話學](analyses/lung-breath-gifted-life-comparative.md)
+
 - [膽中一味：膽囊、苦汁與決斷的跨文化神話學](analyses/gallbladder-bitter-juice-decision-comparative.md)
 
 - [腎中之秘：腎臟、精水與夜間良知的跨文化神話學](analyses/kidney-essence-water-secret-conscience-comparative.md)
