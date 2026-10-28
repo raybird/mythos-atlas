@@ -5,6 +5,7 @@
 | [Ifá占卜系統比較](Ifá占卜系統比較.md) | Ifá占卜系統比較 |
 | [african-moon-origin-of-death](african-moon-origin-of-death.md) | african-moon-origin-of-death |
 | [african-trickster-figures](african-trickster-figures.md) | african-trickster-figures |
+| [griot-praise-singer-oral-archive-comparative](griot-praise-singer-oral-archive-comparative.md) | 格里奧與口承檔案：讚頌者、譜系與沒有文字的圖書館 |
 | [plant-born-humanity-comparative](plant-born-humanity-comparative.md) | plant-born-humanity-comparative |
 | [remote-supreme-deity-pattern](remote-supreme-deity-pattern.md) | remote-supreme-deity-pattern |
 | [west-african-creation-four-traditions](west-african-creation-four-traditions.md) | west-african-creation-four-traditions |
