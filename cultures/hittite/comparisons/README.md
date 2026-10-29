@@ -18,6 +18,7 @@
 | [hurro-hittite-greek-theogony](hurro-hittite-greek-theogony.md) | hurro-hittite-greek-theogony |
 | [missing-god-global](missing-god-global.md) | missing-god-global |
 | [plague-divine-punishment-comparative](plague-divine-punishment-comparative.md) | plague-divine-punishment-comparative |
+| [purulli-festival-myth-reenactment-comparative](purulli-festival-myth-reenactment-comparative.md) | 一年一度的世界重啟：普魯里節與神話年度重演的跨文化比較 |
 | [sacred-bulls-cross-cultural](sacred-bulls-cross-cultural.md) | sacred-bulls-cross-cultural |
 | [substitution-ritual-comparative](substitution-ritual-comparative.md) | substitution-ritual-comparative |
 | [underworld-goddess-comparative](underworld-goddess-comparative.md) | underworld-goddess-comparative |
