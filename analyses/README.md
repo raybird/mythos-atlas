@@ -172,6 +172,7 @@
 - [Festivals Of The Dead Comparative](festivals-of-the-dead-comparative.md)
 - [Filial Piety Cosmic Leverage Comparative](filial-piety-cosmic-leverage-comparative.md)
 - [Fire Myths](fire-myths.md)
+- [Fever Heat War Cooling Comparative](fever-heat-war-cooling-comparative.md)
 - [Fire Theft Promethean Motif](fire-theft-promethean-motif.md)
 - [Firefly Glowworm Myths Comparative](firefly-glowworm-myths-comparative.md)
 - [First Funeral Burial Rites Myths Comparative](first-funeral-burial-rites-myths-comparative.md)
