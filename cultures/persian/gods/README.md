@@ -15,6 +15,7 @@
 | [Apam-Napat](Apam-Napat.md) | Apam-Napat |
 | [Asha-Vahishta](Asha-Vahishta.md) | Asha-Vahishta |
 | [Ashi](Ashi.md) | Ashi |
+| [Astwihad](Astwihad.md) | 阿斯托維達特（Astwihad）— 死亡之魔、切斷生命線的解骨者 |
 | [Atar](Atar.md) | Atar |
 | [Az](Az.md) | Az |
 | [Bushyasta](Bushyasta.md) | Bushyasta |
