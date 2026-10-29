@@ -27,6 +27,7 @@
 - [Beard Facial Hair Sacred Power Comparative](beard-facial-hair-sacred-power-comparative.md)
 - [Bee Honey Sacred Myths](bee-honey-sacred-myths.md)
 - [Big Dipper Constellation Myths Comparative](big-dipper-constellation-myths-comparative.md)
+- [Bladder State Capital Fluid Reservoir Comparative](bladder-state-capital-fluid-reservoir-comparative.md)
 - [Blindness Inner Vision Comparative](blindness-inner-vision-comparative.md)
 - [Blood Covenant Myths Comparative](blood-covenant-myths-comparative.md)
 - [Board Games Fate Myths Comparative](board-games-fate-myths-comparative.md)
