@@ -154,6 +154,7 @@
 - [Eclipse Myths](eclipse-myths.md)
 - [Eel Myths Comparative](eel-myths-comparative.md)
 - [Eight Extraordinary Vessels Comparative](eight-extraordinary-vessels-comparative.md)
+- [Epilepsy Sacred Disease Possession Comparative](epilepsy-sacred-disease-possession-comparative.md)
 - [Eschatology Apocalyptic Myths](eschatology-apocalyptic-myths.md)
 - [Eternal Punishment Comparative](eternal-punishment-comparative.md)
 - [Evil Eye Comparative](evil-eye-comparative.md)
