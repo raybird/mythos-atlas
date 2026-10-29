@@ -41,6 +41,7 @@
 | [odu](odu.md) | odu |
 | [oduduwa](oduduwa.md) | oduduwa |
 | [ogun](ogun.md) | ogun |
+| [okanran](okanran.md) | Ọkànràn（奧坎蘭，直言之神） |
 | [oke](oke.md) | oke |
 | [olodumare](olodumare.md) | olodumare |
 | [olokun](olokun.md) | olokun |
