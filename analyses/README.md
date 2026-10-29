@@ -602,3 +602,4 @@
 - [Spleen Black Bile Central Earth Comparative](spleen-black-bile-central-earth-comparative.md)
 - [Triple Burner Pericardium Formless Organs Comparative](triple-burner-pericardium-formless-organs-comparative.md)
 - [Tinnitus Ear Ringing Omen Comparative](tinnitus-ear-ringing-omen-comparative.md)
+- [Cough Reflex Omen Etiquette Comparative](cough-reflex-omen-etiquette-comparative.md)

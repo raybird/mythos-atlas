@@ -96,13 +96,13 @@ mythos-atlas/
 
 ## 📊 當前狀態
 
-> 自動更新於 2026-10-29 16:35 UTC
+> 自動更新於 2026-10-29 18:44 UTC
 
 | 類別 | 進度 |
 |------|------|
 | 文化體系 | 44/44 |
 | 跨文化主題 | 27/27 |
-| 分析文章 | 595 |
+| 分析文章 | 596 |
 | 已充實文化 | 44/44 |
 | 總頁面數 | 3628 |
 | 總執行次數 | 309 |
@@ -166,7 +166,8 @@ mythos-atlas/
 
 ## 📝 分析文章
 
-> 跨文化比較神話學分析文章。共 595 篇。
+> 跨文化比較神話學分析文章。共 596 篇。
+- [咳之律：咳嗽、預兆缺席與禮法靜音的跨文化神話學](analyses/cough-reflex-omen-etiquette-comparative.md)
 - [耳中之語：耳鳴占、無源之聲與左右吉凶的跨文化神話學](analyses/tinnitus-ear-ringing-omen-comparative.md)
 - [倒落之疾：癲癇、神聖病與附身的跨文化神話學](analyses/epilepsy-sacred-disease-possession-comparative.md)
 - [無職之海：腦、髓海與心智治外法權的跨文化神話學](analyses/brain-mind-sea-of-marrow-comparative.md)
