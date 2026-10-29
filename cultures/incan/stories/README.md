@@ -26,5 +26,7 @@
 | [yaravi-cradle-song](yaravi-cradle-song.md) | yaravi-cradle-song |
 | [會說話的羊駝與洪水](會說話的羊駝與洪水.md) | 會說話的羊駝與洪水 |
 
+| [神鷹與牧羊女：安地斯天鷹擄妻傳說](condor-and-shepherdess.md) | 神鷹與牧羊女：安地斯天鷹擄妻傳說 |
+
 ---
 *Auto-generated on 2026-09-27 10:08 UTC*
