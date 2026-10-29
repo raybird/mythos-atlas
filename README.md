@@ -96,13 +96,13 @@ mythos-atlas/
 
 ## 📊 當前狀態
 
-> 自動更新於 2026-10-29 12:37 UTC
+> 自動更新於 2026-10-29 12:58 UTC
 
 | 類別 | 進度 |
 |------|------|
 | 文化體系 | 44/44 |
 | 跨文化主題 | 27/27 |
-| 分析文章 | 594 |
+| 分析文章 | 595 |
 | 已充實文化 | 44/44 |
 | 總頁面數 | 3627 |
 | 總執行次數 | 308 |
@@ -166,7 +166,8 @@ mythos-atlas/
 
 ## 📝 分析文章
 
-> 跨文化比較神話學分析文章。共 594 篇。
+> 跨文化比較神話學分析文章。共 595 篇。
+- [耳中之語：耳鳴占、無源之聲與左右吉凶的跨文化神話學](analyses/tinnitus-ear-ringing-omen-comparative.md)
 - [倒落之疾：癲癇、神聖病與附身的跨文化神話學](analyses/epilepsy-sacred-disease-possession-comparative.md)
 - [無職之海：腦、髓海與心智治外法權的跨文化神話學](analyses/brain-mind-sea-of-marrow-comparative.md)
 - [深湖與溝渠：奇經八脈與「正冊之外」的跨文化神話學](analyses/eight-extraordinary-vessels-comparative.md)
