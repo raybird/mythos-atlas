@@ -13,6 +13,7 @@
 | [Djanggawul](Djanggawul.md) | Djanggawul |
 | [Dreamtime-Creation](Dreamtime-Creation.md) | Dreamtime-Creation |
 | [Eingana](Eingana.md) | Eingana |
+| [Gidja](Gidja-moon-god.md) | Gidja（吉賈）— 月之男神：死而復生的夜燈 |
 | [Gnowee](Gnowee.md) | Gnowee |
 | [Gurangatch-Rainbow-Fish](Gurangatch-Rainbow-Fish.md) | Gurangatch-Rainbow-Fish |
 | [Julunggul](Julunggul.md) | Julunggul |
@@ -29,4 +30,4 @@
 | [Bula](Bula.md) | Bula（布拉） |
 
 ---
-*Auto-generated on 2026-09-28 19:10 UTC*
+*Auto-generated on 2026-10-30 18:30 UTC*
