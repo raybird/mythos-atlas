@@ -8,6 +8,7 @@
 | [Anguta](Anguta.md) | Anguta |
 | [Aningan-Malina](Aningan-Malina.md) | Aningan-Malina |
 | [Ataksak](Ataksak.md) | Ataksak |
+| [Eeyeekalduk](Eeyeekalduk.md) | Eeyeekalduk |
 | [Inuit-Spirit-Pantheon](Inuit-Spirit-Pantheon.md) | Inuit-Spirit-Pantheon |
 | [Irdlirvirisissong](Irdlirvirisissong.md) | Irdlirvirisissong |
 | [Issitoq](Issitoq.md) | Issitoq |
