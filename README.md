@@ -96,13 +96,13 @@ mythos-atlas/
 
 ## 📊 當前狀態
 
-> 自動更新於 2026-10-30 12:33 UTC
+> 自動更新於 2026-10-30 12:50 UTC
 
 | 類別 | 進度 |
 |------|------|
 | 文化體系 | 44/44 |
 | 跨文化主題 | 27/27 |
-| 分析文章 | 600 |
+| 分析文章 | 601 |
 | 已充實文化 | 44/44 |
 | 總頁面數 | 3634 |
 | 總執行次數 | 315 |
@@ -166,7 +166,7 @@ mythos-atlas/
 
 ## 📝 分析文章
 
-> 跨文化比較神話學分析文章。共 600 篇。
+> 跨文化比較神話學分析文章。共 601 篇。
 - [痛之訊：疼痛、苦難與身體訊使的跨文化神話學](analyses/pain-suffering-body-messenger-comparative.md)
 - [眩之轉：眩暈、天旋地轉與世界之軸的跨文化神話學](analyses/vertigo-dizziness-world-axis-comparative.md)
 - [熱之度：發燒、體內戰爭與清涼他者的跨文化神話學](analyses/fever-heat-war-cooling-comparative.md)
