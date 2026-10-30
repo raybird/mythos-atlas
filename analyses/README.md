@@ -608,3 +608,4 @@
 - [Calendar Repair Intercalation New Fire Comparative](calendar-repair-intercalation-new-fire-comparative.md)
 - [Vertigo Dizziness World Axis Comparative](vertigo-dizziness-world-axis-comparative.md)
 - [Pulse Heartbeat Life Count Comparative](pulse-heartbeat-life-count-comparative.md)
+- [Thirst Drought Living Water Comparative](thirst-drought-living-water-comparative.md)
