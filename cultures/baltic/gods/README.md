@@ -17,6 +17,7 @@
 | [Mēness](Mēness.md) | Mēness |
 | [Perkūnas](Perkūnas.md) | Perkūnas |
 | [Saulė](Saulė.md) | Saulė |
+| [Teliavelis](Teliavelis.md) | Teliavelis |
 | [Teperūbas](Teperūbas.md) | Teperūbas |
 | [Vakarinė](Vakarinė.md) | Vakarinė |
 | [Velnias](Velnias.md) | Velnias |
