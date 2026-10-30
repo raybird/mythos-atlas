@@ -27,6 +27,7 @@
 | [霍德](霍德.md) | 霍德 |
 | [ran](ran.md) | ran |
 | [涅爾圖絲](Nerthus.md) | 涅爾圖絲 |
+| [Hœnir（海尼爾）](Hœnir.md) | Hœnir（海尼爾）— 沉默的神：人類心神（óðr）贈予者、阿薩—華納人質、末日後擇籤者 |
 
 ---
 *Auto-generated on 2026-08-15 16:10 UTC*
