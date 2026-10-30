@@ -604,3 +604,4 @@
 - [Triple Burner Pericardium Formless Organs Comparative](triple-burner-pericardium-formless-organs-comparative.md)
 - [Tinnitus Ear Ringing Omen Comparative](tinnitus-ear-ringing-omen-comparative.md)
 - [Cough Reflex Omen Etiquette Comparative](cough-reflex-omen-etiquette-comparative.md)
+- [Calendar Repair Intercalation New Fire Comparative](calendar-repair-intercalation-new-fire-comparative.md)
