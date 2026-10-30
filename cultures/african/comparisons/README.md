@@ -7,6 +7,7 @@
 | [african-trickster-figures](african-trickster-figures.md) | african-trickster-figures |
 | [griot-praise-singer-oral-archive-comparative](griot-praise-singer-oral-archive-comparative.md) | 格里奧與口承檔案：讚頌者、譜系與沒有文字的圖書館 |
 | [plant-born-humanity-comparative](plant-born-humanity-comparative.md) | plant-born-humanity-comparative |
+| [possession-vodun-zar-mount-comparative](possession-vodun-zar-mount-comparative.md) | 神騎其馬：附身儀式與被神佔用的身體 |
 | [remote-supreme-deity-pattern](remote-supreme-deity-pattern.md) | remote-supreme-deity-pattern |
 | [west-african-creation-four-traditions](west-african-creation-four-traditions.md) | west-african-creation-four-traditions |
 | [大地母神與道德秩序跨文化比較](大地母神與道德秩序跨文化比較.md) | 大地母神與道德秩序跨文化比較 |
