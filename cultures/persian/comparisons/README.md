@@ -70,6 +70,7 @@
 *Auto-generated on 2026-08-15 16:10 UTC*
 | [波斯火祭與全球聖火崇拜比較](波斯火祭與全球聖火崇拜比較.md) | 波斯火祭與全球聖火崇拜比較 |
 | [farvardigan-festival-of-the-dead](farvardigan-festival-of-the-dead.md) | 法爾瓦爾丁節與亡靈歸來的年節比較 |
+| [karshvar-seven-regions-comparative](karshvar-seven-regions-comparative.md) | 大地七區：祆教 Karshvar 分區宇宙論與不可達邊緣的跨文化比較 |
 
 ---
 *Auto-generated on 2026-08-15 16:10 UTC*
