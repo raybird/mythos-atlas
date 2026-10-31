@@ -23,6 +23,7 @@
 | [stallu-and-reindeer](stallu-and-reindeer.md) | stallu-and-reindeer |
 | [stalo-giant](stalo-giant.md) | stalo-giant |
 | [water-lords-bounty](water-lords-bounty.md) | water-lords-bounty |
+| [world-pillar-nail-of-heaven](world-pillar-nail-of-heaven.md) | 天釘與寰柱：薩米北極星、世界支柱與帳篷形天空的樞軸 |
 | [薩米冬至祭儀與太陽回歸](薩米冬至祭儀與太陽回歸.md) | 薩米冬至祭儀與太陽回歸 |
 
 | [Meandash（梅安達什）— 神聖馴鹿的生命循環與文化英雄](meandash-reindeer.md) | Meandash（梅安達什）— 神聖馴鹿的生命循環與文化英雄 |
