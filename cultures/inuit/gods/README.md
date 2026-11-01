@@ -20,6 +20,7 @@
 | [Pinga](Pinga.md) | Pinga |
 | [Pukkeenegak](Pukkeenegak.md) | Pukkeenegak |
 | [Qailertetang](Qailertetang.md) | Qailertetang |
+| [Qiqirn](Qiqirn.md) | Qiqirn |
 | [Sedna](Sedna.md) | Sedna |
 | [Sila-Silap-Inua](Sila-Silap-Inua.md) | Sila-Silap-Inua |
 | [Sila](Sila.md) | Sila |
