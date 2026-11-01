@@ -67,5 +67,7 @@
 | [夜鳥與母親之力：Àjẹ́ 女巫信仰的跨文化比較](aje-night-birds-mothers-power.md) | 夜鳥與母親之力：Àjẹ́ 女巫信仰的跨文化比較 |
 | [瘟疫之王與醫者：約魯巴 Ọ̀balúayé／Ṣànpònná 的跨文化比較](obaluaye-sanponna-plague-healer.md) | 瘟疫之王與醫者：約魯巴 Ọ̀balúayé／Ṣànpònná 的跨文化比較 |
 | [世界即市集：約魯巴 Ọ̀jà 神聖市場與活人亡者交界跨文化比較](aiye-oja-sacred-market-comparative.md) | 世界即市集：約魯巴 Ọ̀jà 神聖市場與活人亡者交界跨文化比較 |
+| [奧里基：以讚美召喚在場的詩跨文化比較](oriki-praise-poetry-cross-cultural.md) | 奧里基（Oríkì）：以讚美召喚在場的詩跨文化比較 |
+
 ---
 *Auto-generated on 2026-08-15 16:10 UTC*
