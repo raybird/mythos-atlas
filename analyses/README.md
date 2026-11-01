@@ -612,3 +612,4 @@
 - [Piloerection Goosebumps Sacred Shudder Comparative](piloerection-goosebumps-sacred-shudder-comparative.md)
 - [Blushing Shame Involuntary Truth Comparative](blushing-shame-involuntary-truth-comparative.md)
 - [Nausea Disgust Pollution Purity Boundary Comparative](nausea-disgust-pollution-purity-boundary-comparative.md)
+- [Paralysis Numbness Struck Body Comparative](paralysis-numbness-struck-body-comparative.md)
