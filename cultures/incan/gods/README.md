@@ -23,6 +23,7 @@
 | [Supay](Supay.md) | Supay |
 | [Tunupa](Tunupa.md) | Tunupa |
 | [Urcaguary](Urcaguary.md) | Urcaguary |
+| [Urcuchillay](Urcuchillay.md) | Urcuchillay |
 | [Vichama](Vichama.md) | Vichama |
 | [Viracocha](Viracocha.md) | Viracocha |
 | [阿馬魯](阿馬魯.md) | 阿馬魯 |
