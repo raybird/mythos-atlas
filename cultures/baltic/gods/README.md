@@ -16,6 +16,7 @@
 | [Māra](Māra.md) | Māra |
 | [Mēness](Mēness.md) | Mēness |
 | [Perkūnas](Perkūnas.md) | Perkūnas |
+| [Puškaitis](Puškaitis.md) | Puškaitis |
 | [Ragana](Ragana.md) | Ragana |
 | [Saulė](Saulė.md) | Saulė |
 | [Teliavelis](Teliavelis.md) | Teliavelis |
