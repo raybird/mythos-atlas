@@ -6,6 +6,7 @@
 | [Altjira](Altjira.md) | Altjira |
 | [Ancestral-Journeys](Ancestral-Journeys.md) | Ancestral-Journeys |
 | [Baiame-All-Father](Baiame-All-Father.md) | Baiame-All-Father |
+| [Bagadjimbiri](Bagadjimbiri.md) | Bagadjimbiri（巴加吉姆比里）— 野狗雙生創世兄弟 |
 | [Bamapana-Trickster](Bamapana-Trickster.md) | Bamapana-Trickster |
 | [Barama-Yirritja-Lawgiver](Barama-Yirritja-Lawgiver.md) | Barama-Yirritja-Lawgiver |
 | [Bunjil](Bunjil.md) | Bunjil |
