@@ -96,13 +96,13 @@ mythos-atlas/
 
 ## 📊 當前狀態
 
-> 自動更新於 2026-11-01 23:00 UTC
+> 自動更新於 2026-11-01 23:15 UTC
 
 | 類別 | 進度 |
 |------|------|
 | 文化體系 | 44/44 |
 | 跨文化主題 | 27/27 |
-| 分析文章 | 606 |
+| 分析文章 | 607 |
 | 已充實文化 | 44/44 |
 | 總頁面數 | 3655 |
 | 總執行次數 | 336 |
@@ -166,7 +166,8 @@ mythos-atlas/
 
 ## 📝 分析文章
 
-> 跨文化比較神話學分析文章。共 606 篇。
+> 跨文化比較神話學分析文章。共 607 篇。
+- [疤之證：傷疤、刺痕與皮膚檔案的跨文化神話學](analyses/scar-recognition-skin-archive-comparative.md)
 - [僵之側：麻木、癱瘓與被擊中之身的跨文化神話學](analyses/paralysis-numbness-struck-body-comparative.md)
 - [痛之訊：疼痛、苦難與身體訊使的跨文化神話學](analyses/pain-suffering-body-messenger-comparative.md)
 - [眩之轉：眩暈、天旋地轉與世界之軸的跨文化神話學](analyses/vertigo-dizziness-world-axis-comparative.md)
