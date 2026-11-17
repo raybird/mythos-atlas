@@ -617,3 +617,4 @@
 - [Nausea Disgust Pollution Purity Boundary Comparative](nausea-disgust-pollution-purity-boundary-comparative.md)
 - [Paralysis Numbness Struck Body Comparative](paralysis-numbness-struck-body-comparative.md)
 - [Scar Recognition Skin Archive Comparative](scar-recognition-skin-archive-comparative.md)
+- [Hope Elpis Spes Last Evil Comparative](hope-elpis-spes-last-evil-comparative.md)
