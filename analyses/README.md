@@ -530,6 +530,7 @@
 - [Waterside Encounters Betrothal Comparative](waterside-encounters-betrothal-comparative.md)
 - [Whale Leviathan Great Fish Comparative](whale-leviathan-great-fish-comparative.md)
 - [Wheel Mythology Comparative](wheel-mythology-comparative.md)
+- [Whistling Summons Night Taboo Comparative](whistling-summons-night-taboo-comparative.md)
 - [Whirlpool Vortex Myths](whirlpool-vortex-myths.md)
 - [White Sacred Animals Comparative](white-sacred-animals-comparative.md)
 - [Widow Remarriage Levirate Comparative](widow-remarriage-levirate-comparative.md)
