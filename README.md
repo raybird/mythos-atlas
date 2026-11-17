@@ -96,13 +96,13 @@ mythos-atlas/
 
 ## 📊 當前狀態
 
-> 自動更新於 2026-11-17 01:05 UTC
+> 自動更新於 2026-11-17 01:23 UTC
 
 | 類別 | 進度 |
 |------|------|
 | 文化體系 | 44/44 |
 | 跨文化主題 | 27/27 |
-| 分析文章 | 608 |
+| 分析文章 | 609 |
 | 已充實文化 | 44/44 |
 | 總頁面數 | 3657 |
 | 總執行次數 | 338 |
@@ -166,7 +166,8 @@ mythos-atlas/
 
 ## 📝 分析文章
 
-> 跨文化比較神話學分析文章。共 608 篇。
+> 跨文化比較神話學分析文章。共 609 篇。
+- [皺之文：皺紋、老年紋與時間書寫的跨文化神話學](analyses/wrinkles-time-inscription-comparative.md)
 - [哨之召：口哨、夜哨禁忌與呼喚權的跨文化神話學](analyses/whistling-summons-night-taboo-comparative.md)
 - [疤之證：傷疤、刺痕與皮膚檔案的跨文化神話學](analyses/scar-recognition-skin-archive-comparative.md)
 - [僵之側：麻木、癱瘓與被擊中之身的跨文化神話學](analyses/paralysis-numbness-struck-body-comparative.md)
