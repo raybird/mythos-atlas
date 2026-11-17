@@ -7,6 +7,7 @@
 | [Aita-與-Phersipnai-冥界婚宴](Aita-與-Phersipnai-冥界婚宴.md) | Aita-與-Phersipnai-冥界婚宴 |
 | [Epiur-少年神與Hercle-Menrva的撫養](Epiur-少年神與Hercle-Menrva的撫養.md) | Epiur-少年神與Hercle-Menrva的撫養 |
 | [Hercle伊特魯里亞冒險](Hercle伊特魯里亞冒險.md) | Hercle伊特魯里亞冒險 |
+| [Mares-三死三生](Mares-三死三生.md) | Mares-三死三生 |
 | [Tages犁溝神啟](Tages犁溝神啟.md) | Tages犁溝神啟 |
 | [Turan-與-Atunis-愛情悲劇](Turan-與-Atunis-愛情悲劇.md) | Turan-與-Atunis-愛情悲劇 |
 | [Vibenna兄弟傳奇](Vibenna兄弟傳奇.md) | Vibenna兄弟傳奇 |
