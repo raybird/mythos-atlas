@@ -102,7 +102,7 @@ mythos-atlas/
 |------|------|
 | 文化體系 | 44/44 |
 | 跨文化主題 | 27/27 |
-| 分析文章 | 611 |
+| 分析文章 | 612 |
 | 已充實文化 | 44/44 |
 | 總頁面數 | 3657 |
 | 總執行次數 | 338 |
@@ -166,8 +166,9 @@ mythos-atlas/
 
 ## 📝 分析文章
 
-> 跨文化比較神話學分析文章。共 611 篇。
+> 跨文化比較神話學分析文章。共 612 篇。
 - [罐底之翼：希望、艾爾庇斯與末日之物的跨文化神話學](analyses/hope-elpis-spes-last-evil-comparative.md)
+- [網之眼：因陀羅網、天網與捕縛之網的跨文化神話學](analyses/sacred-net-indra-web-heavenly-net-comparative.md)
 - [罌粟之眠：罌粟、睡眠與遺忘的跨文化神話學](analyses/poppy-sleep-oblivion-comparative.md)
 - [皺之文：皺紋、老年紋與時間書寫的跨文化神話學](analyses/wrinkles-time-inscription-comparative.md)
 - [哨之召：口哨、夜哨禁忌與呼喚權的跨文化神話學](analyses/whistling-summons-night-taboo-comparative.md)

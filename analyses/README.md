@@ -618,3 +618,4 @@
 - [Paralysis Numbness Struck Body Comparative](paralysis-numbness-struck-body-comparative.md)
 - [Scar Recognition Skin Archive Comparative](scar-recognition-skin-archive-comparative.md)
 - [Hope Elpis Spes Last Evil Comparative](hope-elpis-spes-last-evil-comparative.md)
+- [Sacred Net Indra Web Heavenly Net Comparative](sacred-net-indra-web-heavenly-net-comparative.md)
