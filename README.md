@@ -102,7 +102,7 @@ mythos-atlas/
 |------|------|
 | 文化體系 | 44/44 |
 | 跨文化主題 | 27/27 |
-| 分析文章 | 613 |
+| 分析文章 | 614 |
 | 已充實文化 | 44/44 |
 | 總頁面數 | 3657 |
 | 總執行次數 | 338 |
@@ -166,7 +166,8 @@ mythos-atlas/
 
 ## 📝 分析文章
 
-> 跨文化比較神話學分析文章。共 613 篇。
+> 跨文化比較神話學分析文章。共 614 篇。
+- [嚏之應：噴嚏、神意與被迫的第二聲——跨文化神話學](analyses/sneeze-divine-omen-blessing-second-voice-comparative.md)
 - [罐底之翼：希望、艾爾庇斯與末日之物的跨文化神話學](analyses/hope-elpis-spes-last-evil-comparative.md)
 - [殼中之國：蝸牛、螺殼與攜帶宇宙的跨文化神話學](analyses/snail-shell-portable-cosmos-comparative.md)
 - [網之眼：因陀羅網、天網與捕縛之網的跨文化神話學](analyses/sacred-net-indra-web-heavenly-net-comparative.md)
