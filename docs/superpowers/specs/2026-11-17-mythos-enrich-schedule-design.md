@@ -9,7 +9,7 @@
 
 - 現有排程：`MYTHOS 分析 — 單篇/收尾（每日 2 次）`，ID `b8051618-cdd0-486e-9cf0-b685ba00d08c`，cron `0 1,13 * * *`（UTC 01:00/13:00 = 台北 09:00/21:00），`enabled=true`，scope `user:tg-915354960`，寫 `analyses/*.md`。
 - 上傳設定（`Mythos_Atlas_深化_9914af6f.txt`）：ID `9914af6f-f636-47f1-8094-c724db3acb3b`，cron `0 2,8,14,20 * * *`，`enabled=False`，寫 `cultures/**`（gods/stories/comparisons）。與分析排程**工作類型不同、互補**。
-- repo 實體：`/workspace/mythos-atlas`；上傳設定中的 `/workspace/projects/mythos-atlas` 不存在。
+- repo 實體：`/workspace/projects/mythos-atlas`；此為 2026-11-17 搬遷後的 canonical path（先前實體在 `/workspace/mythos-atlas`）。
 - git 狀態：工作樹乾淨；`HEAD=f720a125`、`origin/master=e1fcfc1e`，本地領先 1 commit。
 - 環境實測：**無任何 GitHub 寫入憑證**（credential.helper / ~/.git-credentials / ~/.netrc / gh auth / GITHUB* env / ssh 執行檔皆無）；`git push` 回 `could not read Username`，exit 128。此為既有分析排程空轉的根因。
 - 進度檔：分析排程用 `/workspace/.wukong/progress/mythos-analysis.md`；深化排程應另用 `mythos-enrich.md`（目前不存在）。
@@ -39,7 +39,7 @@ model 預設（省略 --model）
 
 ### 3.2 prompt 修正（以上傳設定為底，最小改动）
 
-1. 工作目錄與所有 `cd` 路徑：`/workspace/projects/mythos-atlas` → `/workspace/mythos-atlas`。
+1. 工作目錄與所有 `cd` 路徑：統一為 `/workspace/projects/mythos-atlas`（2026-11-17 已搬遷）。
 2. 第 2 步「殘留」明確定義：`git status --short` **有輸出（未提交修改）才算殘留；已 commit 的頁面不算**。避免重蹈分析排程「檔案存在就只收尾」的誤判而零產出。
 3. 第 4 步補 push 失敗處理：push 失敗時記錄於進度檔並在後續輪次重試，**不因此判定為殘留或空轉**（憑證到位後自然成功）。
 4. 第 5 步進度檔路徑：`/workspace/.wukong/progress/mythos-enrich.md`（不變）。

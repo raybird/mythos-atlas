@@ -10,7 +10,7 @@
 
 ## Global Constraints
 
-- 工作專案實體路徑：`/workspace/mythos-atlas`；`/workspace/projects/mythos-atlas` 不存在，不得使用。
+- 工作專案實體路徑：`/workspace/projects/mythos-atlas`（2026-11-17 搬遷後）；`/workspace/mythos-atlas` 已不存在。
 - 新排程 cron：`0 3,15 * * *`（UTC 03:00/15:00 = 台北 11:00/23:00）。
 - scope：`user:tg-915354960`；model：省略 `--model`（用預設）。
 - Token 不得寫入排程 prompt、進度檔、任何 commit 或 artifacts；不得以明文出現在 log。
