@@ -10,6 +10,7 @@
 | [etruscan-afterlife-global](etruscan-afterlife-global.md) | etruscan-afterlife-global |
 | [etruscan-death-demons-cross-cultural](etruscan-death-demons-cross-cultural.md) | etruscan-death-demons-cross-cultural |
 | [etruscan-divination-cross-cultural](etruscan-divination-cross-cultural.md) | etruscan-divination-cross-cultural |
+| [etruscan-nethuns-sea-deities-comparative](etruscan-nethuns-sea-deities-comparative.md) | etruscan-nethuns-sea-deities-comparative |
 | [etruscan-divination-worldview](etruscan-divination-worldview.md) | etruscan-divination-worldview |
 | [etruscan-divination](etruscan-divination.md) | etruscan-divination |
 | [etruscan-fate-deities-comparative](etruscan-fate-deities-comparative.md) | etruscan-fate-deities-comparative |
