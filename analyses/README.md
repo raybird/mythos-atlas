@@ -41,6 +41,7 @@
 - [Butterfly Soul Symbolism Comparative](butterfly-soul-symbolism-comparative.md)
 - [Cacao Myths Comparative](cacao-myths-comparative.md)
 - [Camel Myths Comparative](camel-myths-comparative.md)
+- [Candle Self Consuming Wax Mortal Light Comparative](candle-self-consuming-wax-mortal-light-comparative.md)
 - [Cannibalism Myths Comparative](cannibalism-myths-comparative.md)
 - [Cattle Raiding Myths Comparative](cattle-raiding-myths-comparative.md)
 - [Cave Myths Comparative](cave-myths-comparative.md)
