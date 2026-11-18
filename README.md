@@ -102,7 +102,7 @@ mythos-atlas/
 |------|------|
 | 文化體系 | 44/44 |
 | 跨文化主題 | 27/27 |
-| 分析文章 | 619 |
+| 分析文章 | 620 |
 | 已充實文化 | 44/44 |
 | 總頁面數 | 3657 |
 | 總執行次數 | 338 |
@@ -166,7 +166,8 @@ mythos-atlas/
 
 ## 📝 分析文章
 
-> 跨文化比較神話學分析文章。共 619 篇。
+> 跨文化比較神話學分析文章。共 620 篇。
+- [漏之頸：沙漏、可翻轉時間與被計量的死——跨文化神話學](analyses/hourglass-neck-reversible-time-measured-death-comparative.md)
 - [篩之目：孔徑、過濾與被規定的通過——跨文化神話學](analyses/sieve-aperture-filter-governed-passage-comparative.md)
 - [燭之命：自燃之身、不可添的光與被計量的奉獻——跨文化神話學](analyses/candle-self-consuming-wax-mortal-light-comparative.md)
 - [斷之權：剪刀、生命線與被發明的分離——跨文化神話學](analyses/scissors-power-to-sever-invented-separation-comparative.md)

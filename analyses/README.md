@@ -215,6 +215,7 @@
 - [Heros Journey Monomyth](heros-journey-monomyth.md)
 - [Hoopoe Myths Comparative](hoopoe-myths-comparative.md)
 - [Horn Myths Comparative](horn-myths-comparative.md)
+- [Hourglass Neck Reversible Time Measured Death Comparative](hourglass-neck-reversible-time-measured-death-comparative.md)
 - [Horse Myths](horse-myths.md)
 - [Hospitality Xenia Theoxenia](hospitality-xenia-theoxenia.md)
 - [Human Classes Origin Myths Comparative](human-classes-origin-myths-comparative.md)
