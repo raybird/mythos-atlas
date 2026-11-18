@@ -24,5 +24,6 @@
 | [冬季死亡女神跨文化比較](winter-death-rebirth-goddesses-comparative.md) | 冬季死亡女神跨文化比較 |
 | [斯拉夫夏至（庫帕拉節）母題跨文化比較](slavic-summer-solstice-motifs.md) | 斯拉夫夏至（庫帕拉節）母題跨文化比較 |
 | [多面之神與複數的神](多面之神與複數的神.md) | 多面之神與複數的神 — 從魯根七面神到全球複數神譜 |
+| [斯拉夫天火與神聖鍛造跨文化比較](slavic-divine-smith-fire-comparative.md) | 斯拉夫天火與神聖鍛造跨文化比較 |
 ---
 *Auto-generated on 2026-08-15 16:10 UTC*
