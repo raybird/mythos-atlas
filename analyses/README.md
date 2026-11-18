@@ -443,6 +443,7 @@
 - [Shark Myths Comparative](shark-myths-comparative.md)
 - [Shepherd Mythology Comparative](shepherd-mythology-comparative.md)
 - [Sibling Rivalry Fraternal Conflict Comparative](sibling-rivalry-fraternal-conflict-comparative.md)
+- [Sieve Aperture Filter Governed Passage Comparative](sieve-aperture-filter-governed-passage-comparative.md)
 - [Silk Sericulture Myths Comparative](silk-sericulture-myths-comparative.md)
 - [Silver Lunar Metal Mythology Comparative](silver-lunar-metal-mythology-comparative.md)
 - [Siren Enchantress Femme Fatale Comparative](siren-enchantress-femme-fatale-comparative.md)
