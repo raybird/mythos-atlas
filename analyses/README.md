@@ -429,6 +429,7 @@
 - [Salt Symbolism Comparative](salt-symbolism-comparative.md)
 - [Scapegoat Pharmakos Comparative](scapegoat-pharmakos-comparative.md)
 - [Scarab Dung Beetle Myths Comparative](scarab-dung-beetle-myths-comparative.md)
+- [Scissors Power To Sever Invented Separation Comparative](scissors-power-to-sever-invented-separation-comparative.md)
 - [Scorpion Myths Comparative](scorpion-myths-comparative.md)
 - [Sea Deities Ocean Myths](sea-deities-ocean-myths.md)
 - [Searching Mother Goddess Comparative](searching-mother-goddess-comparative.md)
