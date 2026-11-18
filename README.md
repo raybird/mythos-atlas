@@ -102,7 +102,7 @@ mythos-atlas/
 |------|------|
 | 文化體系 | 44/44 |
 | 跨文化主題 | 27/27 |
-| 分析文章 | 615 |
+| 分析文章 | 616 |
 | 已充實文化 | 44/44 |
 | 總頁面數 | 3657 |
 | 總執行次數 | 338 |
@@ -166,7 +166,8 @@ mythos-atlas/
 
 ## 📝 分析文章
 
-> 跨文化比較神話學分析文章。共 615 篇。
+> 跨文化比較神話學分析文章。共 616 篇。
+- [犁之刃：翻土、邊界與武器的反轉——跨文化神話學](analyses/plow-sacred-furrow-boundary-weapon-reversal-comparative.md)
 - [雹之彈：冰雹、天罰之石與「壞掉的雨」的跨文化神話學](analyses/hail-divine-artillery-ambivalent-rain-comparative.md)
 - [嚏之應：噴嚏、神意與被迫的第二聲——跨文化神話學](analyses/sneeze-divine-omen-blessing-second-voice-comparative.md)
 - [罐底之翼：希望、艾爾庇斯與末日之物的跨文化神話學](analyses/hope-elpis-spes-last-evil-comparative.md)

@@ -622,3 +622,4 @@
 - [Snail Shell Portable Cosmos Comparative](snail-shell-portable-cosmos-comparative.md)
 - [Sneeze Divine Omen Blessing Second Voice Comparative](sneeze-divine-omen-blessing-second-voice-comparative.md)
 - [Hail Divine Artillery Ambivalent Rain Comparative](hail-divine-artillery-ambivalent-rain-comparative.md)
+- [Plow Sacred Furrow Boundary Weapon Reversal Comparative](plow-sacred-furrow-boundary-weapon-reversal-comparative.md)
