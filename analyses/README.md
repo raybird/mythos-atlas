@@ -621,3 +621,4 @@
 - [Sacred Net Indra Web Heavenly Net Comparative](sacred-net-indra-web-heavenly-net-comparative.md)
 - [Snail Shell Portable Cosmos Comparative](snail-shell-portable-cosmos-comparative.md)
 - [Sneeze Divine Omen Blessing Second Voice Comparative](sneeze-divine-omen-blessing-second-voice-comparative.md)
+- [Hail Divine Artillery Ambivalent Rain Comparative](hail-divine-artillery-ambivalent-rain-comparative.md)
