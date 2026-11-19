@@ -201,6 +201,7 @@
 - [Golden Age Paradise Myths](golden-age-paradise-myths.md)
 - [Goose Myths Comparative](goose-myths-comparative.md)
 - [Gourd Calabash Cosmic Womb Comparative](gourd-calabash-cosmic-womb-comparative.md)
+- [Grape Crushed Cluster Blood Collective Comparative](grape-crushed-cluster-blood-collective-comparative.md)
 - [Grateful Animals Comparative](grateful-animals-comparative.md)
 - [Griffin Gryphon Cross Cultural](griffin-gryphon-cross-cultural.md)
 - [Hair Symbolism Mythology Comparative](hair-symbolism-mythology-comparative.md)
