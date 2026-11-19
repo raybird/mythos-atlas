@@ -289,6 +289,7 @@
 - [Music Origin Myths](music-origin-myths.md)
 - [Mythical Ships Boats Comparative](mythical-ships-boats-comparative.md)
 - [Mythological Catastrophe Timeline](mythological-catastrophe-timeline.md)
+- [Needle Eye Threading Impossible Passage Comparative](needle-eye-threading-impossible-passage-comparative.md)
 - [New Year Cosmic Renewal Myths Comparative](new-year-cosmic-renewal-myths-comparative.md)
 - [Night Darkness Deities Comparative](night-darkness-deities-comparative.md)
 - [Nightmare Incubus Succubus Cross Cultural](nightmare-incubus-succubus-cross-cultural.md)

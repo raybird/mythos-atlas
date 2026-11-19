@@ -102,7 +102,7 @@ mythos-atlas/
 |------|------|
 | 文化體系 | 44/44 |
 | 跨文化主題 | 27/27 |
-| 分析文章 | 623 |
+| 分析文章 | 624 |
 | 已充實文化 | 44/44 |
 | 總頁面數 | 3657 |
 | 總執行次數 | 338 |
@@ -166,7 +166,8 @@ mythos-atlas/
 
 ## 📝 分析文章
 
-> 跨文化比較神話學分析文章。共 623 篇。
+> 跨文化比較神話學分析文章。共 624 篇。
+- [針之眼：穿針、不可能之通過與被縫合的世界——跨文化神話學](analyses/needle-eye-threading-impossible-passage-comparative.md)
 - [轉之立：陀螺、鞭之促與不穩定的秩序——跨文化神話學](analyses/spinning-top-axis-of-unstable-order-comparative.md)
 - [紫之串：葡萄、被壓碎的聖果與集體的血——跨文化神話學](analyses/grape-crushed-cluster-blood-collective-comparative.md)
 - [牽之翼：風箏、被牽引的飛行與可切斷的上升——跨文化神話學](analyses/kite-tethered-flight-severable-ascent-comparative.md)
