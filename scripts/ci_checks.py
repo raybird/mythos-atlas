@@ -9,6 +9,7 @@ Checks:
   2. Orphan check — files not referenced from indexes
   3. Citation check — each entry has ≥1 source reference
   4. Optional statistical diff — run generate_stats.py and compare to committed
+  5. Regeneration safety — generated files cannot silently delete manual content
 """
 
 import json, os, re, sys, subprocess, glob
@@ -372,6 +373,19 @@ def is_excluded(path):
     return bool(parts) and parts[0] in EXCLUDED_TOP_DIRS
 
 
+def check_regen_safety():
+    result = subprocess.run(
+        [sys.executable, str(ROOT / 'regenerate_all.py'), '--check'],
+        cwd=str(ROOT), capture_output=True, text=True
+    )
+    if result.stdout.strip():
+        print(result.stdout.rstrip())
+    if result.returncode != 0:
+        err('regenerate_all.py --check 失敗：重生會刪除未登錄的手寫內容')
+        if result.stderr.strip():
+            print(result.stderr.rstrip())
+
+
 def load_citation_baseline():
     """Known pages still missing citations.
 
@@ -405,21 +419,21 @@ def main():
     all_md = {f for f in ROOT.rglob('*.md') if not is_excluded(f)}
 
     # ── Section 1: Format Validation ──
-    print('\n[1/4] Format Validation')
+    print('\n[1/5] Format Validation')
     print('─' * 40)
     for f in sorted(all_md):
         check_heading_hierarchy(f)
         check_broken_links(f, all_md)
 
     # ── Section 2: Orphan Check ──
-    print('\n[2/4] Orphan Check')
+    print('\n[2/5] Orphan Check')
     print('─' * 40)
     check_orphan_themes()
     check_orphan_analyses()
     check_orphan_culture_comparisons()
 
     # ── Section 3: Citation Check ──
-    print('\n[3/4] Citation Check')
+    print('\n[3/5] Citation Check')
     print('─' * 40)
     run_citation_checks()
     if CITATION_BASELINED:
@@ -433,12 +447,17 @@ def main():
                 print(f'        ...另有 {len(stale) - 20} 筆')
 
     # ── Section 4: Optional Statistical Comparison ──
-    print('\n[4/4] Statistical Comparison')
+    print('\n[4/5] Statistical Comparison')
     print('─' * 40)
     if with_stats:
         run_stats_comparison()
     else:
         print('  [*] Skipped (use --with-stats for local stats regeneration)')
+
+    # ── Section 5: Regeneration Safety ──
+    print('\n[5/5] Regeneration Safety')
+    print('─' * 40)
+    check_regen_safety()
 
     # ── Summary ──
     print('\n' + '═' * 60)
