@@ -237,6 +237,7 @@
 - [Justice Law Comparative](justice-law-comparative.md)
 - [King Of Birds Bird Elections Comparative](king-of-birds-bird-elections-comparative.md)
 - [Kingfisher Halcyon Myths Comparative](kingfisher-halcyon-myths-comparative.md)
+- [Kite Tethered Flight Severable Ascent Comparative](kite-tethered-flight-severable-ascent-comparative.md)
 - [Labyrinth Spiral Myths](labyrinth-spiral-myths.md)
 - [Language Confusion Myths](language-confusion-myths.md)
 - [Laurel Moon Cassia Honor Tree Comparative](laurel-moon-cassia-honor-tree-comparative.md)
