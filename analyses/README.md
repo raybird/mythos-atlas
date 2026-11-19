@@ -471,6 +471,7 @@
 - [Sphinx Cross Cultural Comparative](sphinx-cross-cultural-comparative.md)
 - [Spice Origin Myths Trade Route Comparative](spice-origin-myths-trade-route-comparative.md)
 - [Spider Weaving Myths](spider-weaving-myths.md)
+- [Spinning Top Axis Of Unstable Order Comparative](spinning-top-axis-of-unstable-order-comparative.md)
 - [Spontaneous Generation Bugonia Myths Comparative](spontaneous-generation-bugonia-myths-comparative.md)
 - [Star Ancestor Myths Comparative](star-ancestor-myths-comparative.md)
 - [Steppe Grassland Mythology Comparative](steppe-grassland-mythology-comparative.md)
