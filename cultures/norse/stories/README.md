@@ -24,6 +24,7 @@
 | [ran-net-drowned](ran-net-drowned.md) | ran-net-drowned |
 | [涅爾圖絲的聖車巡行與湖中清洗](nerthus-sacred-cart-and-lake-washing.md) | 涅爾圖絲的聖車巡行與湖中清洗 |
 | [夜夜復活的軍隊：希亞丁尼永恆戰場](hjadningavig-eternal-battle.md) | 夜夜復活的軍隊：希亞丁尼永恆戰場 |
+| [吉爾菲的幻覺](吉爾菲的幻覺.md) | 吉爾菲的幻覺：阿斯嘉特宮殿中的宇宙問答 |
 
 ---
 *Auto-generated on 2026-08-15 16:10 UTC*
