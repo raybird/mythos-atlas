@@ -161,6 +161,7 @@
 - [Evil Eye Comparative](evil-eye-comparative.md)
 - [External Soul Life Token Comparative](external-soul-life-token-comparative.md)
 - [Eye Symbolism Comparative](eye-symbolism-comparative.md)
+- [Eyelid Twitching Omen Comparative](eyelid-twitching-omen-comparative.md)
 - [False Prophets False Messiahs Impersonated Deities Comparative](false-prophets-false-messiahs-comparative.md)
 - [Fallen Bound Gods](fallen-bound-gods.md)
 - [Fate Goddesses Destiny](fate-goddesses-destiny.md)
