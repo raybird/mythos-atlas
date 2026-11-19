@@ -102,7 +102,7 @@ mythos-atlas/
 |------|------|
 | 文化體系 | 44/44 |
 | 跨文化主題 | 27/27 |
-| 分析文章 | 625 |
+| 分析文章 | 626 |
 | 已充實文化 | 44/44 |
 | 總頁面數 | 3657 |
 | 總執行次數 | 338 |
@@ -166,7 +166,8 @@ mythos-atlas/
 
 ## 📝 分析文章
 
-> 跨文化比較神話學分析文章。共 625 篇。
+> 跨文化比較神話學分析文章。共 626 篇。
+- [枕上之魂：石枕、翻枕與夢境的往返——跨文化神話學](analyses/pillow-dream-soul-threshold-headrest-comparative.md)
 - [眼瞼之兆：眼皮跳動、左右吉凶與不自主徵候的跨文化神話學](analyses/eyelid-twitching-omen-comparative.md)
 - [針之眼：穿針、不可能之通過與被縫合的世界——跨文化神話學](analyses/needle-eye-threading-impossible-passage-comparative.md)
 - [轉之立：陀螺、鞭之促與不穩定的秩序——跨文化神話學](analyses/spinning-top-axis-of-unstable-order-comparative.md)

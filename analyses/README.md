@@ -632,3 +632,4 @@
 - [Sneeze Divine Omen Blessing Second Voice Comparative](sneeze-divine-omen-blessing-second-voice-comparative.md)
 - [Hail Divine Artillery Ambivalent Rain Comparative](hail-divine-artillery-ambivalent-rain-comparative.md)
 - [Plow Sacred Furrow Boundary Weapon Reversal Comparative](plow-sacred-furrow-boundary-weapon-reversal-comparative.md)
+- [Pillow Dream Soul Threshold Headrest Comparative](pillow-dream-soul-threshold-headrest-comparative.md)
