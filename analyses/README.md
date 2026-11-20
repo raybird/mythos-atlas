@@ -28,6 +28,7 @@
 - [Bee Honey Sacred Myths](bee-honey-sacred-myths.md)
 - [Big Dipper Constellation Myths Comparative](big-dipper-constellation-myths-comparative.md)
 - [Bladder State Capital Fluid Reservoir Comparative](bladder-state-capital-fluid-reservoir-comparative.md)
+- [Blink Wink Shortest Event Comparative](blink-wink-shortest-event-comparative.md)
 - [Blindness Inner Vision Comparative](blindness-inner-vision-comparative.md)
 - [Blood Covenant Myths Comparative](blood-covenant-myths-comparative.md)
 - [Board Games Fate Myths Comparative](board-games-fate-myths-comparative.md)
