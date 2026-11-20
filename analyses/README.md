@@ -484,6 +484,7 @@
 - [Sun Moon Conflict Comparative](sun-moon-conflict-comparative.md)
 - [Sun Myths](sun-myths.md)
 - [Sun Snaring Myths Comparative](sun-snaring-myths-comparative.md)
+- [Sundial Shadow Retrograde Carved Sun Comparative](sundial-shadow-retrograde-carved-sun-comparative.md)
 - [Swallow Myths Comparative](swallow-myths-comparative.md)
 - [Swan Maiden Celestial Bride](swan-maiden-celestial-bride.md)
 - [Swine Boar Myths Comparative](swine-boar-myths-comparative.md)

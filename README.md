@@ -102,9 +102,9 @@ mythos-atlas/
 |------|------|
 | 文化體系 | 44/44 |
 | 跨文化主題 | 27/27 |
-| 分析文章 | 628 |
+| 分析文章 | 629 |
 | 已充實文化 | 44/44 |
-| 總頁面數 | 3657 |
+| 總頁面數 | 3658 |
 | 總執行次數 | 338 |
 
 <!-- STATS_END -->
@@ -166,7 +166,8 @@ mythos-atlas/
 
 ## 📝 分析文章
 
-> 跨文化比較神話學分析文章。共 628 篇。
+> 跨文化比較神話學分析文章。共 629 篇。
+- [影之針：日晷、倒退的影子與被刻在地面上的太陽——跨文化神話學](analyses/sundial-shadow-retrograde-carved-sun-comparative.md)
 - [指南之針：司南、羅盤與被馴服的方向——跨文化神話學](analyses/compass-south-pointing-needle-tamed-direction-comparative.md)
 - [眨之隙：眨眼、瞬目與最短事件的跨文化神話學](analyses/blink-wink-shortest-event-comparative.md)
 - [枕上之魂：石枕、翻枕與夢境的往返——跨文化神話學](analyses/pillow-dream-soul-threshold-headrest-comparative.md)
