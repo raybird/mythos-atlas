@@ -17,6 +17,7 @@
 | [hiisi-elk-chase](hiisi-elk-chase.md) | hiisi-elk-chase |
 | [hiisi-ox](hiisi-ox.md) | Hiisi 的巨牛：卡勒瓦拉第二十歌的慶典祭牲 |
 | [kantele-pike-origin](kantele-pike-origin.md) | kantele-pike-origin |
+| [vainamoinen-tuonela-journey](vainamoinen-tuonela-journey.md) | 維納莫寧的圖奧內拉之行：三句咒語、冥河羅網與蛇形逃脫 |
 | [vainamoinen-vs-youkahainen](vainamoinen-vs-youkahainen.md) | vainamoinen-vs-youkahainen |
 | [太陽與月亮被竊](太陽與月亮被竊.md) | 太陽與月亮被竊 |
 | [巨橡傳說](巨橡傳說.md) | 巨橡傳說 |
