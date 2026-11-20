@@ -62,6 +62,7 @@
 - [Coins Funerary Myths Comparative](coins-funerary-myths-comparative.md)
 - [Color Symbolism Trichrome](color-symbolism-trichrome.md)
 - [Comets Meteors Mythology](comets-meteors-mythology.md)
+- [Compass South Pointing Needle Tamed Direction Comparative](compass-south-pointing-needle-tamed-direction-comparative.md)
 - [Composite Monsters Hybrid Beings](composite-monsters-hybrid-beings.md)
 - [Conch Cowrie Shell Myths Comparative](conch-cowrie-shell-myths-comparative.md)
 - [Coral Myths Comparative](coral-myths-comparative.md)
