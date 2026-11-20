@@ -102,9 +102,9 @@ mythos-atlas/
 |------|------|
 | 文化體系 | 44/44 |
 | 跨文化主題 | 27/27 |
-| 分析文章 | 630 |
+| 分析文章 | 631 |
 | 已充實文化 | 44/44 |
-| 總頁面數 | 3659 |
+| 總頁面數 | 3660 |
 | 總執行次數 | 338 |
 
 <!-- STATS_END -->
@@ -166,7 +166,8 @@ mythos-atlas/
 
 ## 📝 分析文章
 
-> 跨文化比較神話學分析文章。共 630 篇。
+> 跨文化比較神話學分析文章。共 631 篇。
+- [被盜的吉祥：卍、萬字符與符號意義的挪用——跨文化神話學](analyses/stolen-auspice-swastika-appropriation-comparative.md)
 - [鼾之聲：沉睡者不自知的發聲、睡巨人與被聽見的深淵——跨文化神話學](analyses/snoring-unowned-voice-sleeping-giant-comparative.md)
 - [影之針：日晷、倒退的影子與被刻在地面上的太陽——跨文化神話學](analyses/sundial-shadow-retrograde-carved-sun-comparative.md)
 - [指南之針：司南、羅盤與被馴服的方向——跨文化神話學](analyses/compass-south-pointing-needle-tamed-direction-comparative.md)
