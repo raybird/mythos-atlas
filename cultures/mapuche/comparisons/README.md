@@ -24,6 +24,7 @@
 | [Pincoya與世界水中美少女跨文化比較](Pincoya與世界水中美少女跨文化比較.md) | Pincoya與世界水中美少女跨文化比較 |
 
 | [馬普切夢兆與全球夢占比較](馬普切夢兆與全球夢占比較.md) | 馬普切夢兆與全球夢占比較：pewma 作為跨界通訊 |
+| [kutral-sacred-fire-cross-cultural.md](kutral-sacred-fire-cross-cultural.md) | 家屋火塘與聖火——馬普切 Kütral 與全球火崇拜跨文化比較 |
 
 ---
 *Auto-generated on 2026-08-16 16:06 UTC*
