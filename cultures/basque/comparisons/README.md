@@ -24,6 +24,7 @@
 | [tartalo-cyclops.md](tartalo-cyclops.md) | tartalo-cyclops |
 | [wild-man-forest-guardian-comparison.md](wild-man-forest-guardian-comparison.md) | wild-man-forest-guardian-comparison |
 | [witch-figures-european.md](witch-figures-european.md) | witch-figures-european |
+| [lauburu-solar-spiral-cross-cultural.md](lauburu-solar-spiral-cross-cultural.md) | 生命的四重螺旋——巴斯克 Lauburu 與全球太陽螺旋符號跨文化比較 |
 
 ---
 *Auto-generated on 2026-09-26 00:00 UTC UTC*
