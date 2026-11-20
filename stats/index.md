@@ -11,11 +11,11 @@
 | 文化體系 / Cultures | 44 |
 | 已充實 / Enriched | 44 (100.0%) |
 | 待充實 / To Enrich | 0 |
-| 分析文章 / Analyses | 629 |
+| 分析文章 / Analyses | 630 |
 | 神祇頁面 / God Pages | 1314 |
 | 故事頁面 / Story Pages | 1179 |
 | 比較頁面 / Comparison Pages | 1164 |
-| 總頁面 / Total Pages | 3660 |
+| 總頁面 / Total Pages | 3661 |
 | 平均每文化頁面 / Avg Pages/Culture | 83.1 |
 | 內容總深度 / Total Lines | 200,952 |
 | 執行次數 / Runs | 338 |

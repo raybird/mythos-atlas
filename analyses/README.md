@@ -636,3 +636,4 @@
 - [Hail Divine Artillery Ambivalent Rain Comparative](hail-divine-artillery-ambivalent-rain-comparative.md)
 - [Plow Sacred Furrow Boundary Weapon Reversal Comparative](plow-sacred-furrow-boundary-weapon-reversal-comparative.md)
 - [Pillow Dream Soul Threshold Headrest Comparative](pillow-dream-soul-threshold-headrest-comparative.md)
+- [Snoring Unowned Voice Sleeping Giant Comparative](snoring-unowned-voice-sleeping-giant-comparative.md)
