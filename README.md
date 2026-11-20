@@ -96,15 +96,15 @@ mythos-atlas/
 
 ## 📊 當前狀態
 
-> 自動更新於 2026-11-17 08:04 UTC
+> 自動更新於 2026-11-20 13:22 UTC
 
 | 類別 | 進度 |
 |------|------|
 | 文化體系 | 44/44 |
 | 跨文化主題 | 27/27 |
-| 分析文章 | 631 |
+| 分析文章 | 632 |
 | 已充實文化 | 44/44 |
-| 總頁面數 | 3660 |
+| 總頁面數 | 3675 |
 | 總執行次數 | 338 |
 
 <!-- STATS_END -->
@@ -166,7 +166,8 @@ mythos-atlas/
 
 ## 📝 分析文章
 
-> 跨文化比較神話學分析文章。共 631 篇。
+> 跨文化比較神話學分析文章。共 632 篇。
+- [眉之界：眉毛、可讀的表情與眉心之眼——跨文化神話學](analyses/eyebrow-brow-readable-face-comparative.md)
 - [被盜的吉祥：卍、萬字符與符號意義的挪用——跨文化神話學](analyses/stolen-auspice-swastika-appropriation-comparative.md)
 - [鼾之聲：沉睡者不自知的發聲、睡巨人與被聽見的深淵——跨文化神話學](analyses/snoring-unowned-voice-sleeping-giant-comparative.md)
 - [影之針：日晷、倒退的影子與被刻在地面上的太陽——跨文化神話學](analyses/sundial-shadow-retrograde-carved-sun-comparative.md)
