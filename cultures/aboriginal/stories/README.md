@@ -27,6 +27,7 @@
 | [yhi-creates-life](yhi-creates-life.md) | yhi-creates-life |
 | [nabilil-and-the-cicada-song](nabilil-and-the-cicada-song.md) | 拿比里爾與蟬之歌：尼特米魯克峽谷的起源 |
 | [purukupali-first-death](purukupali-first-death.md) | 普魯庫帕利與第一次死亡：提維人的死亡立法 |
+| [yidaki-origin-of-sound](yidaki-origin-of-sound.md) | 尤達基的空洞：白蟻、祖先之聲與澳洲聖號角的起源 |
 
 ---
 *Auto-generated on 2026-09-28 19:10 UTC*
