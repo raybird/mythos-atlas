@@ -24,6 +24,7 @@
 | [talos-medea-argonauts](talos-medea-argonauts.md) | talos-medea-argonauts |
 | [the-priestess-of-the-winds](the-priestess-of-the-winds.md) | 風之女祭司 (The Priestess of the Winds) — 克諾索斯最後一批泥板上的信仰難題 |
 | [theseus-minotaur](theseus-minotaur.md) | theseus-minotaur |
+| [epimenides-sleep-cretan-lie.md](epimenides-sleep-cretan-lie.md) | 厄庇美尼德斯的長眠——克里特洞穴、說謊者悖論與時間的異鄉 |
 
 ---
 *Auto-generated on 2026-08-15 16:10 UTC*
