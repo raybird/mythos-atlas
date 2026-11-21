@@ -96,13 +96,13 @@ mythos-atlas/
 
 ## 📊 當前狀態
 
-> 自動更新於 2026-11-21 13:12 UTC
+> 自動更新於 2026-11-21 13:17 UTC
 
 | 類別 | 進度 |
 |------|------|
 | 文化體系 | 44/44 |
 | 跨文化主題 | 27/27 |
-| 分析文章 | 637 |
+| 分析文章 | 638 |
 | 已充實文化 | 44/44 |
 | 總頁面數 | 3681 |
 | 總執行次數 | 338 |
@@ -166,7 +166,8 @@ mythos-atlas/
 
 ## 📝 分析文章
 
-> 跨文化比較神話學分析文章。共 637 篇。
+> 跨文化比較神話學分析文章。共 638 篇。
+- [匙之容：湯匙、可攜的碗與被餵養的他者——跨文化神話學](analyses/spoon-portable-bowl-feeding-measure-comparative.md)
 - [土之腸：蚯蚓、地下之犁與被看不見的生——跨文化神話學](analyses/earthworm-intestine-invisible-plough-comparative.md)
 - [掌之文：手相、可讀的身體與被書寫的命運——跨文化神話學](analyses/palmistry-hand-as-readable-text-comparative.md)
 - [胞衣之藏：胎盤、埋藏的地契與出生前的第二身體——跨文化神話學](analyses/placenta-afterbirth-buried-second-body-comparative.md)
