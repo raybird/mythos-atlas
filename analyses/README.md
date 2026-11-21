@@ -499,6 +499,7 @@
 - [Theophany Divine Manifestation Comparative](theophany-divine-manifestation-comparative.md)
 - [Third Son Middle Child Hero Comparative](third-son-middle-child-hero-comparative.md)
 - [Thirteen Number Boundary Myths Comparative](thirteen-number-boundary-myths-comparative.md)
+- [Thorn Boundary Crown Wounding Comparative](thorn-boundary-crown-wounding-comparative.md)
 - [Three Tiered Cosmos Comparative](three-tiered-cosmos-comparative.md)
 - [Three Wishes Divine Boons Comparative](three-wishes-divine-boons-comparative.md)
 - [Threshold Crossroads Gods](threshold-crossroads-gods.md)
