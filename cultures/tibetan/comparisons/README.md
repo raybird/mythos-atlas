@@ -24,6 +24,7 @@
 | [觀世音與東亞觀音比較](觀世音與東亞觀音比較.md) | 觀世音與東亞觀音比較 |
 | [龍族水靈跨文化比較](龍族水靈跨文化比較.md) | 龍族水靈跨文化比較 |
 | [mandala-as-cosmic-map-comparative](mandala-as-cosmic-map-comparative.md) | 壇城作為宇宙地圖跨文化比較 |
+| [ashtamangala-endless-knot-cross-cultural](ashtamangala-endless-knot-cross-cultural.md) | 八吉祥與吉祥結——藏傳八寶與全球神聖符號跨文化比較 |
 
 ---
 *Auto-generated on 2026-08-15 16:10 UTC*
