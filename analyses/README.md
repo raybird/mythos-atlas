@@ -53,6 +53,7 @@
 - [Changeling Substituted Infant Comparative](changeling-substituted-infant-comparative.md)
 - [Chaoskampf Order Vs Chaos](chaoskampf-order-vs-chaos.md)
 - [Childbirth Midwifery Deities Comparative](childbirth-midwifery-deities-comparative.md)
+- [Chopsticks Paired Grasp Renamed Utensil Comparative](chopsticks-paired-grasp-renamed-utensil-comparative.md)
 - [Cicada Myths Comparative](cicada-myths-comparative.md)
 - [Cinderella Persecuted Heroine Comparative](cinderella-persecuted-heroine-comparative.md)
 - [City Foundation Myths Comparative](city-foundation-myths-comparative.md)
