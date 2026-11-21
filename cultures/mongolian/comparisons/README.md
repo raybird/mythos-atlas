@@ -23,6 +23,7 @@
 | [長生天與跨文化天神比較](長生天與跨文化天神比較.md) | 長生天與跨文化天神比較 |
 | [戰旗與軍旗守護靈跨文化比較](戰旗與軍旗守護靈跨文化比較.md) | 戰旗與軍旗守護靈跨文化比較 |
 | [神牛與王權神授跨文化比較](神牛與王權神授跨文化比較.md) | 神牛與王權神授跨文化比較 |
+| [ger-cosmic-dwelling-cross-cultural](ger-cosmic-dwelling-cross-cultural.md) | ger-cosmic-dwelling-cross-cultural |
 
 ---
 *Auto-generated on 2026-08-15 16:10 UTC*
