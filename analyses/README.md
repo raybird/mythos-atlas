@@ -324,6 +324,7 @@
 - [Petrification Myths Comparative](petrification-myths-comparative.md)
 - [Phantom Lights Ghost Fires Comparative](phantom-lights-ghost-fires-comparative.md)
 - [Pine Tree Cone Myths Comparative](pine-tree-cone-myths-comparative.md)
+- [Placenta Afterbirth Buried Second Body Comparative](placenta-afterbirth-buried-second-body-comparative.md)
 - [Plague Deities Disease Myths Comparative](plague-deities-disease-myths-comparative.md)
 - [Planetary Cycles And Deities](planetary-cycles-and-deities.md)
 - [Plants Born Of Death Grave Vegetation Comparative](plants-born-of-death-grave-vegetation-comparative.md)
