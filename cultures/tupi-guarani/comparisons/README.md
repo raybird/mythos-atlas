@@ -24,6 +24,7 @@
 | [跛足神與單足神跨文化比較](跛足神與單足神跨文化比較.md) | 跛足神與單足神跨文化比較 |
 | [食人宇宙論跨文化比較](食人宇宙論跨文化比較.md) | 食人宇宙論跨文化比較 |
 | [樂土在身後還是在前方](樂土在身後還是在前方.md) | 樂土在身後還是在前方（Where Paradise Lies: Behind or Ahead） |
+| [yaguarete-aba-therianthropy-cross-cultural](yaguarete-aba-therianthropy-cross-cultural.md) | 豹皮與人性之間——Yaguareté-Abá 與全球獸化傳說跨文化比較 |
 
 ---
 *Auto-generated on 2026-08-15 16:10 UTC*
