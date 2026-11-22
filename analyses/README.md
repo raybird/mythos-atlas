@@ -482,6 +482,7 @@
 - [Spider Weaving Myths](spider-weaving-myths.md)
 - [Spinning Top Axis Of Unstable Order Comparative](spinning-top-axis-of-unstable-order-comparative.md)
 - [Spontaneous Generation Bugonia Myths Comparative](spontaneous-generation-bugonia-myths-comparative.md)
+- [Nosebleed Unbidden Blood Portent Comparative](nosebleed-unbidden-blood-portent-comparative.md)
 - [Spoon Portable Bowl Feeding Measure Comparative](spoon-portable-bowl-feeding-measure-comparative.md)
 - [Star Ancestor Myths Comparative](star-ancestor-myths-comparative.md)
 - [Steppe Grassland Mythology Comparative](steppe-grassland-mythology-comparative.md)
