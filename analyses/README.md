@@ -288,6 +288,7 @@
 - [Mirror Divination Catoptromancy Comparative](mirror-divination-catoptromancy-comparative.md)
 - [Mirror Reflection Myths](mirror-reflection-myths.md)
 - [Mistletoe Golden Bough Comparative](mistletoe-golden-bough-comparative.md)
+- [Mole Blind Digger Subterranean Omen Comparative](mole-blind-digger-subterranean-omen-comparative.md)
 - [Monkey Ape Comparative](monkey-ape-comparative.md)
 - [Moon Myths](moon-myths.md)
 - [Moon Rabbit Jade Hare Comparative](moon-rabbit-jade-hare-comparative.md)

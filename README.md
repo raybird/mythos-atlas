@@ -96,13 +96,13 @@ mythos-atlas/
 
 ## 📊 當前狀態
 
-> 自動更新於 2026-11-22 01:12 UTC
+> 自動更新於 2026-11-22 01:19 UTC
 
 | 類別 | 進度 |
 |------|------|
 | 文化體系 | 44/44 |
 | 跨文化主題 | 27/27 |
-| 分析文章 | 640 |
+| 分析文章 | 641 |
 | 已充實文化 | 44/44 |
 | 總頁面數 | 3684 |
 | 總執行次數 | 338 |
@@ -166,7 +166,8 @@ mythos-atlas/
 
 ## 📝 分析文章
 
-> 跨文化比較神話學分析文章。共 640 篇。
+> 跨文化比較神話學分析文章。共 641 篇。
+- [土之翻：鼴鼠、被看見的土丘與盲目作為方法——跨文化神話學](analyses/mole-blind-digger-subterranean-omen-comparative.md)
 - [殼之餘：蛋殼、被擊碎的容器與可讀的殘片——跨文化神話學](analyses/eggshell-broken-vessel-divinatory-residue-comparative.md)
 - [血之溢：鼻衄、自出之血與不可自主的徵兆——跨文化神話學](analyses/nosebleed-unbidden-blood-portent-comparative.md)
 - [匙之容：湯匙、可攜的碗與被餵養的他者——跨文化神話學](analyses/spoon-portable-bowl-feeding-measure-comparative.md)
