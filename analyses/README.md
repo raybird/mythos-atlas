@@ -561,6 +561,7 @@
 - [Wild Man Myths Comparative](wild-man-myths-comparative.md)
 - [Willow Mythology Comparative](willow-mythology-comparative.md)
 - [Wind Deities Comparative](wind-deities-comparative.md)
+- [Window Wind Eye Forbidden Gaze Comparative](window-wind-eye-forbidden-gaze-comparative.md)
 - [Wisdom Gods Comparative](wisdom-gods-comparative.md)
 - [Woodpecker Myths Comparative](woodpecker-myths-comparative.md)
 - [World Ages Cosmic Cycles Comparative](world-ages-cosmic-cycles-comparative.md)
