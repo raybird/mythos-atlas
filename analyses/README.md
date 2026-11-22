@@ -293,6 +293,7 @@
 - [Monkey Ape Comparative](monkey-ape-comparative.md)
 - [Moon Myths](moon-myths.md)
 - [Moon Rabbit Jade Hare Comparative](moon-rabbit-jade-hare-comparative.md)
+- [Moss Lichen Quiet Time Surface Comparative](moss-lichen-quiet-time-surface-comparative.md)
 - [Mountain Deities Comparative](mountain-deities-comparative.md)
 - [Mushroom Fungus Mythology Comparative](mushroom-fungus-mythology-comparative.md)
 - [Music Origin Myths](music-origin-myths.md)
