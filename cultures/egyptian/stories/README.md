@@ -25,3 +25,4 @@
 | [阿匹斯聖牛的誕生](阿匹斯聖牛的誕生.md) | 阿匹斯聖牛的誕生 |
 ---
 *Auto-generated on 2026-09-28 09:00 UTC*| [賽特與阿波菲斯之戰](賽特與阿波菲斯之戰.md) | 賽特與阿波菲斯之戰 |
+| [sinuhe-exile-and-return](sinuhe-exile-and-return.md) | 辛努赫的故事——流亡、歸鄉與身分的邊界 |
