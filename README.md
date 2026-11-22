@@ -96,15 +96,15 @@ mythos-atlas/
 
 ## 📊 當前狀態
 
-> 自動更新於 2026-11-22 01:19 UTC
+> 自動更新於 2026-11-22 13:04 UTC
 
 | 類別 | 進度 |
 |------|------|
 | 文化體系 | 44/44 |
 | 跨文化主題 | 27/27 |
-| 分析文章 | 641 |
+| 分析文章 | 642 |
 | 已充實文化 | 44/44 |
-| 總頁面數 | 3684 |
+| 總頁面數 | 3686 |
 | 總執行次數 | 338 |
 
 <!-- STATS_END -->
@@ -165,8 +165,9 @@ mythos-atlas/
 <!-- ANALYSES_START -->
 
 ## 📝 分析文章
+> 跨文化比較神話學分析文章。共 642 篇。
 
-> 跨文化比較神話學分析文章。共 641 篇。
+- [水之私海：羊水、胎膜與出生前的水界——跨文化神話學](analyses/amniotic-water-caul-private-sea-comparative.md)
 - [土之翻：鼴鼠、被看見的土丘與盲目作為方法——跨文化神話學](analyses/mole-blind-digger-subterranean-omen-comparative.md)
 - [殼之餘：蛋殼、被擊碎的容器與可讀的殘片——跨文化神話學](analyses/eggshell-broken-vessel-divinatory-residue-comparative.md)
 - [血之溢：鼻衄、自出之血與不可自主的徵兆——跨文化神話學](analyses/nosebleed-unbidden-blood-portent-comparative.md)

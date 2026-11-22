@@ -8,6 +8,7 @@
 - [Alchemy Transmutation Comparative](alchemy-transmutation-comparative.md)
 - [Amber Mythology Comparative](amber-mythology-comparative.md)
 - [Amber Tears Of The Sun Comparative](amber-tears-of-the-sun-comparative.md)
+- [Amniotic Water Caul Private Sea Comparative](amniotic-water-caul-private-sea-comparative.md)
 - [Amulet Talisman Protective Objects Cross Cultural](amulet-talisman-protective-objects-cross-cultural.md)
 - [Ancestor Worship Comparative](ancestor-worship-comparative.md)
 - [Angels Divine Messengers Comparative](angels-divine-messengers-comparative.md)
