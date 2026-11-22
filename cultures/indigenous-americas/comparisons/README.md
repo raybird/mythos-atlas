@@ -23,5 +23,6 @@
 
 | [神聖小丑的節慶反轉：嘿約卡與全球儀式小丑跨文化比較](sacred-clowns-cross-cultural.md) | sacred-clowns-cross-cultural |
 | [動物之主的狩獵契約跨文化比較](動物之主的狩獵契約跨文化比較.md) | 動物之主的狩獵契約跨文化比較 |
+| [面具作為神的在場——霍皮 Katsina 與全球面具神顯現跨文化比較](katsina-mask-theophany-cross-cultural.md) | katsina-mask-theophany-cross-cultural |
 ---
 *Auto-generated on 2026-08-15 16:10 UTC*
