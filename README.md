@@ -96,15 +96,15 @@ mythos-atlas/
 
 ## 📊 當前狀態
 
-> 自動更新於 2026-11-22 13:28 UTC
+> 自動更新於 2026-11-23 01:08 UTC
 
 | 類別 | 進度 |
 |------|------|
 | 文化體系 | 44/44 |
 | 跨文化主題 | 27/27 |
-| 分析文章 | 644 |
+| 分析文章 | 645 |
 | 已充實文化 | 44/44 |
-| 總頁面數 | 3686 |
+| 總頁面數 | 3688 |
 | 總執行次數 | 338 |
 
 <!-- STATS_END -->
@@ -165,9 +165,10 @@ mythos-atlas/
 <!-- ANALYSES_START -->
 
 ## 📝 分析文章
-> 跨文化比較神話學分析文章。共 644 篇。
+> 跨文化比較神話學分析文章。共 645 篇。
 
 - [苔之緩：苔蘚、地衣與被時間覆寫的表面——跨文化神話學](analyses/moss-lichen-quiet-time-surface-comparative.md)
+- [櫛之序：梳篦、分理之齒與離合的跨文化神話學](analyses/comb-hair-order-parting-talisman-comparative.md)
 - [風之眼：窗、被禁止的凝視與被計數的光——跨文化神話學](analyses/window-wind-eye-forbidden-gaze-comparative.md)
 - [水之私海：羊水、胎膜與出生前的水界——跨文化神話學](analyses/amniotic-water-caul-private-sea-comparative.md)
 - [土之翻：鼴鼠、被看見的土丘與盲目作為方法——跨文化神話學](analyses/mole-blind-digger-subterranean-omen-comparative.md)
