@@ -26,6 +26,7 @@
 ---
 *Auto-generated on 2026-08-15 16:10 UTC*
 | [達基亞水神與跨文化水源崇拜比較](達基亞水神與跨文化水源崇拜比較.md) | 達基亞水神與跨文化水源崇拜比較 |
+| [zalmoxis-immortal-hidden-god-cross-cultural](zalmoxis-immortal-hidden-god-cross-cultural.md) | 未死者之屋——Zalmoxis 與跨文化「隱匿的不死神」比較 |
 
 ---
 *Auto-generated on 2026-08-15 16:10 UTC*
