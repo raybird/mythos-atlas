@@ -654,3 +654,4 @@
 - [Snoring Unowned Voice Sleeping Giant Comparative](snoring-unowned-voice-sleeping-giant-comparative.md)
 - [Stolen Auspice Swastika Appropriation Comparative](stolen-auspice-swastika-appropriation-comparative.md)
 - [Roof Ridge House Cosmos Comparative](roof-ridge-house-cosmos-comparative.md)
+- [Map Cartography Cosmic Order Comparative](map-cartography-cosmic-order-comparative.md)

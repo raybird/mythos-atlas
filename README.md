@@ -96,13 +96,13 @@ mythos-atlas/
 
 ## 📊 當前狀態
 
-> 自動更新於 2026-11-24 01:12 UTC
+> 自動更新於 2026-11-24 01:21 UTC
 
 | 類別 | 進度 |
 |------|------|
 | 文化體系 | 44/44 |
 | 跨文化主題 | 27/27 |
-| 分析文章 | 649 |
+| 分析文章 | 650 |
 | 已充實文化 | 44/44 |
 | 總頁面數 | 3690 |
 | 總執行次數 | 338 |
@@ -165,8 +165,9 @@ mythos-atlas/
 <!-- ANALYSES_START -->
 
 ## 📝 分析文章
-> 跨文化比較神話學分析文章。共 649 篇。
+> 跨文化比較神話學分析文章。共 650 篇。
 
+- [圖之界：地圖、世界圖與被畫出的宇宙——跨文化神話學](analyses/map-cartography-cosmic-order-comparative.md)
 - [苔之緩：苔蘚、地衣與被時間覆寫的表面——跨文化神話學](analyses/moss-lichen-quiet-time-surface-comparative.md)
 - [櫛之序：梳篦、分理之齒與離合的跨文化神話學](analyses/comb-hair-order-parting-talisman-comparative.md)
 - [風之形：扇、可折的空間與被製造的在場——跨文化神話學](analyses/fan-folding-presence-cooling-symbolic-space-comparative.md)
