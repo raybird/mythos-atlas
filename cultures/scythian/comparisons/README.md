@@ -4,6 +4,7 @@
 |------|------|
 | [Api大地母神跨文化比較](Api大地母神跨文化比較.md) | Api大地母神跨文化比較 |
 | [Tabiti與印歐火神比較](Tabiti與印歐火神比較.md) | Tabiti與印歐火神比較 |
+| [陰陽之身與神諭——Enarees 與跨文化性別越界祭司比較](enarees-gender-crossing-diviners-cross-cultural.md) | 陰陽之身與神諭——Enarees 與跨文化性別越界祭司比較 |
 | [scythian-royal-burial-comparative](scythian-royal-burial-comparative.md) | scythian-royal-burial-comparative |
 | [three-tier-pantheon-indo-iranian](three-tier-pantheon-indo-iranian.md) | three-tier-pantheon-indo-iranian |
 | [women-who-kill-kings-comparative](women-who-kill-kings-comparative.md) | women-who-kill-kings-comparative |
