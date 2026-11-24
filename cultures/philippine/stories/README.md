@@ -15,6 +15,7 @@
 | [mayari-apolaki-battle](mayari-apolaki-battle.md) | mayari-apolaki-battle |
 | [mayon-volcano-legend](mayon-volcano-legend.md) | mayon-volcano-legend |
 | [origin-of-fire-philippine](origin-of-fire-philippine.md) | origin-of-fire-philippine |
+| [origin-of-coconut-grave-and-eel](origin-of-coconut-grave-and-eel.md) | origin-of-coconut-grave-and-eel |
 | [origin-of-rice-ibaloi](origin-of-rice-ibaloi.md) | origin-of-rice-ibaloi |
 | [philippine-creation](philippine-creation.md) | philippine-creation |
 | [philippine-flood-bathala](philippine-flood-bathala.md) | philippine-flood-bathala |
