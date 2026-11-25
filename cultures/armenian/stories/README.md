@@ -21,8 +21,10 @@
 | [tork-angegh](tork-angegh.md) | tork-angegh |
 | [vahagn-dragon-slayer-birth](vahagn-dragon-slayer-birth.md) | vahagn-dragon-slayer-birth |
 | [vahagn-dragon](vahagn-dragon.md) | vahagn-dragon |
+| [vahagn-reed-birth](vahagn-reed-birth.md) | 蓮草重生：Vahagn 的蘆葦誕生 |
 | [vardavar-astghik](vardavar-astghik.md) | vardavar-astghik |
 | [sanasar-baghdasar](sanasar-baghdasar.md) | 薩納薩與巴格達薩：薩松孿生建國英雄 |
+| [star-bowl-tir-dreams-ascension-lots](star-bowl-tir-dreams-ascension-lots.md) | 星辰之碗——提爾的夢殿與亞美尼亞昇天節占運之夜 |
 
 ---
 *Auto-generated on 2026-09-27 00:00 UTC*
