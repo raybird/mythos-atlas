@@ -23,6 +23,8 @@
 | [阿拉特與金角羚羊](阿拉特與金角羚羊.md) | 阿拉特與金角羚羊 |
 | [iram-dhat-al-imad](iram-dhat-al-imad.md) | iram-dhat-al-imad |
 | [費賈爾戰爭](費賈爾戰爭.md) | 費賈爾戰爭 |
+| [詩人與詩靈Jinn](詩人與詩靈Jinn.md) | 詩人與詩靈Jinn |
+| [basus-war-she-camel-feud](basus-war-she-camel-feud.md) | 巴蘇斯之戰——一峰母駝、詩歌與四十年的血親復仇 |
 
 ---
 *Auto-generated on 2026-08-15 16:10 UTC*
