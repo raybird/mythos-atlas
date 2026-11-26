@@ -24,6 +24,7 @@
 | [tawhirimaea-aftermath](tawhirimaea-aftermath.md) | tawhirimaea-aftermath |
 | [te-kore-te-po-te-ao](te-kore-te-po-te-ao.md) | te-kore-te-po-te-ao |
 | [Rongo-mā-Tāne與甘藷的起源](Rongo與甘藷的起源.md) | Rongo-mā-Tāne與甘藷的起源 |
+| [庫佩與巨章魚——追獵、命名與長白雲之鄉的發現](kupe-giant-octopus-discovery.md) | 庫佩與巨章魚——追獵、命名與長白雲之鄉的發現 |
 
 ---
 *Auto-generated on 2026-08-15 16:10 UTC*
