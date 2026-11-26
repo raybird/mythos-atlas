@@ -655,3 +655,4 @@
 - [Stolen Auspice Swastika Appropriation Comparative](stolen-auspice-swastika-appropriation-comparative.md)
 - [Roof Ridge House Cosmos Comparative](roof-ridge-house-cosmos-comparative.md)
 - [Map Cartography Cosmic Order Comparative](map-cartography-cosmic-order-comparative.md)
+- [Sacred Shield Divine Cover Cosmic Surface Comparative](sacred-shield-divine-cover-cosmic-surface-comparative.md)
