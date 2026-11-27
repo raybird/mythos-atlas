@@ -656,4 +656,5 @@
 - [Roof Ridge House Cosmos Comparative](roof-ridge-house-cosmos-comparative.md)
 - [Map Cartography Cosmic Order Comparative](map-cartography-cosmic-order-comparative.md)
 - [Sacred Shield Divine Cover Cosmic Surface Comparative](sacred-shield-divine-cover-cosmic-surface-comparative.md)
+- [Birthmark Congenital Sign Past Life Comparative](birthmark-congenital-sign-past-life-comparative.md)
 - [Overtone Throat Singing Biphonic Voice Comparative](overtone-throat-singing-biphonic-voice-comparative.md)

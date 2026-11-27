@@ -96,13 +96,13 @@ mythos-atlas/
 
 ## 📊 當前狀態
 
-> 自動更新於 2026-11-27 01:06 UTC
+> 自動更新於 2026-11-27 01:12 UTC
 
 | 類別 | 進度 |
 |------|------|
 | 文化體系 | 44/44 |
 | 跨文化主題 | 27/27 |
-| 分析文章 | 654 |
+| 分析文章 | 655 |
 | 已充實文化 | 44/44 |
 | 總頁面數 | 3699 |
 | 總執行次數 | 338 |
@@ -165,8 +165,9 @@ mythos-atlas/
 <!-- ANALYSES_START -->
 
 ## 📝 分析文章
-> 跨文化比較神話學分析文章。共 654 篇。
+> 跨文化比較神話學分析文章。共 655 篇。
 
+- [胎之印：胎記、先天斑痕與被讀出的前身——跨文化神話學](analyses/birthmark-congenital-sign-past-life-comparative.md)
 - [聲之兩層：泛音、喉音與被聽見的自然——跨文化神話學](analyses/overtone-throat-singing-biphonic-voice-comparative.md)
 - [盾之面：神盾、護罩與被圖寫的界線——跨文化神話學](analyses/sacred-shield-divine-cover-cosmic-surface-comparative.md)
 - [圖之界：地圖、世界圖與被畫出的宇宙——跨文化神話學](analyses/map-cartography-cosmic-order-comparative.md)
