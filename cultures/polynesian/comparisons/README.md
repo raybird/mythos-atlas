@@ -25,5 +25,6 @@
 | [sky-climbing-heroes-ascension-comparative](sky-climbing-heroes-ascension-comparative.md) | 攀天之徑：登天求法史詩的跨文化比較 |
 | [蚯蚓、鳥蛋與黏土：波利尼西亞與全球的原初物質比較](蚯蚓、鳥蛋與黏土：波利尼西亞與全球的原初物質比較.md) | 蚯蚓、鳥蛋與黏土：波利尼西亞與全球的原初物質比較 |
 | [鳥人競賽與神選之賽：拉帕努伊 Tangata manu 制度與跨文化的神聖職位分配](tangata-manu-sacred-contest-comparative.md) | 鳥人競賽與神選之賽：拉帕努伊 Tangata manu 制度與跨文化的神聖職位分配 |
+| [tatau-tamoko-sacred-inscription-comparative](tatau-tamoko-sacred-inscription-comparative.md) | 刺青與神聖銘刻——波利尼西亞 tatau／tā moko 與全球的身體書寫 |
 ---
 *Auto-generated on 2026-08-15 16:10 UTC*
