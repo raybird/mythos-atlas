@@ -658,3 +658,4 @@
 - [Sacred Shield Divine Cover Cosmic Surface Comparative](sacred-shield-divine-cover-cosmic-surface-comparative.md)
 - [Birthmark Congenital Sign Past Life Comparative](birthmark-congenital-sign-past-life-comparative.md)
 - [Overtone Throat Singing Biphonic Voice Comparative](overtone-throat-singing-biphonic-voice-comparative.md)
+- [Cubit Plumb Line Measure Cosmic Order Comparative](cubit-plumb-line-measure-cosmic-order-comparative.md)
