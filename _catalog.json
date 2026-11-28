@@ -1638,6 +1638,10 @@
         {
           "title": "被拒絕的史詩：費爾多西、馬赫穆德與《王書》的誕生",
           "file": "stories/ferdowsi-mahmud-shahnameh-birth.md"
+        },
+        {
+          "title": "七歲的復仇——扎里爾之死、巴斯瓦爾與《扎里爾紀念》",
+          "file": "stories/zarir-bastwar-vengeance.md"
         }
       ],
       "order": 16,
@@ -1669,7 +1673,7 @@
           "pre-islamic-arabian"
         ]
       },
-      "_stories": 14,
+      "_stories": 15,
       "comparisons": [
         "波斯火祭與全球聖火崇拜比較",
         "法爾瓦爾丁節與亡靈歸來的年節比較",
