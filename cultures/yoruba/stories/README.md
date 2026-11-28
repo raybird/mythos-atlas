@@ -64,5 +64,6 @@
 | [osanyin-and-the-covenant-of-herbs](osanyin-and-the-covenant-of-herbs.md) | osanyin-and-the-covenant-of-herbs |
 | [ijapa-sky-feast](ijapa-sky-feast.md) | ijapa-sky-feast |
 | [egungun-masquerade-origin](egungun-masquerade-origin.md) | egungun-masquerade-origin |
+| [sun-jar-flint-moon-creation](sun-jar-flint-moon-creation.md) | 太陽的罈與月亮的燧石——約魯巴《太陽與月亮的創造》 |
 ---
 *Auto-generated on 2026-08-15 16:10 UTC*
