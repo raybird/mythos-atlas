@@ -96,15 +96,15 @@ mythos-atlas/
 
 ## 📊 當前狀態
 
-> 自動更新於 2026-11-27 01:24 UTC
+> 自動更新於 2026-11-28 01:13 UTC
 
 | 類別 | 進度 |
 |------|------|
 | 文化體系 | 44/44 |
 | 跨文化主題 | 27/27 |
-| 分析文章 | 656 |
+| 分析文章 | 657 |
 | 已充實文化 | 44/44 |
-| 總頁面數 | 3699 |
+| 總頁面數 | 3700 |
 | 總執行次數 | 338 |
 
 <!-- STATS_END -->
@@ -165,8 +165,9 @@ mythos-atlas/
 <!-- ANALYSES_START -->
 
 ## 📝 分析文章
-> 跨文化比較神話學分析文章。共 656 篇。
+> 跨文化比較神話學分析文章。共 657 篇。
 
+- [赤之質：赭石、朱砂與被塗抹的生命——跨文化神話學](analyses/red-ochre-cinnabar-body-of-earth-comparative.md)
 - [尺之衡：度量、準繩與被量出的宇宙——跨文化神話學](analyses/cubit-plumb-line-measure-cosmic-order-comparative.md)
 - [胎之印：胎記、先天斑痕與被讀出的前身——跨文化神話學](analyses/birthmark-congenital-sign-past-life-comparative.md)
 - [聲之兩層：泛音、喉音與被聽見的自然——跨文化神話學](analyses/overtone-throat-singing-biphonic-voice-comparative.md)
